@@ -1,1 +1,43 @@
-{"dir":"erskine-childers/the-riddle-of-the-sands","title":"The Riddle of the Sands","creator":"Erskine Childers","description":"Two English friends go on a sailing trip that quickly turns thrilling as they stumble upon a sinister German plot.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":53036,"uniqueWordsCount":7117,"ranks":{"highest":49265,"lowest":1},"levels":{"A1":{"count":466,"readability":49},"A2":{"count":468,"readability":61},"B1":{"count":854,"readability":72},"B2":{"count":1334,"readability":83},"C1":{"count":1686,"readability":92},"C2":{"count":1591,"readability":98}}}}
+{
+	"dir": "erskine-childers/the-riddle-of-the-sands",
+	"title": "The Riddle of the Sands",
+	"creator": "Erskine Childers",
+	"description": "Two English friends go on a sailing trip that quickly turns thrilling as they stumble upon a sinister German plot.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 52932,
+		"uniqueWordsCount": 7430,
+		"ranks": {
+			"highest": 51155,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 48
+			},
+			"A2": {
+				"count": 473,
+				"readability": 59
+			},
+			"B1": {
+				"count": 868,
+				"readability": 71
+			},
+			"B2": {
+				"count": 1346,
+				"readability": 82
+			},
+			"C1": {
+				"count": 1752,
+				"readability": 92
+			},
+			"C2": {
+				"count": 1670,
+				"readability": 98
+			}
+		}
+	}
+}
