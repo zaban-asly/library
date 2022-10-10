@@ -1,1 +1,43 @@
-{"dir":"charles-dickens/little-dorrit","title":"Little Dorrit","creator":"Charles Dickens","description":"'Little Dorrit' is a novel by the English writer Charles Dickens. Dickens was a master in the realism style. When you read his novels, you believe the characters, empathize with their fates, as if these are real stories of friends or relatives. 'Little Dorrit' is no exception. This story is about the difficult life of the Dorrit family. The father of the family goes to a debtors' prison forever. His youngest daughter is born there. It seems that such life will definitely embitter the girl and teach her to survive without a sense of shame and honor. But she is an example of kindness and humility. No matter how difficult her life is, she always tries to help her family and support those who are in need. And one day a person appears in her life. This person wants to help her and her whole family... ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":12013,"uniqueWordsCount":1394,"ranks":{"highest":36897,"lowest":1},"levels":{"A1":{"count":427,"readability":72},"A2":{"count":280,"readability":84},"B1":{"count":284,"readability":94},"B2":{"count":222,"readability":98},"C1":{"count":123,"readability":99},"C2":{"count":40,"readability":100}}}}
+{
+	"dir": "charles-dickens/little-dorrit",
+	"title": "Little Dorrit",
+	"creator": "Charles Dickens",
+	"description": "'Little Dorrit' is a novel by the English writer Charles Dickens. Dickens was a master in the realism style. When you read his novels, you believe the characters, empathize with their fates, as if these are real stories of friends or relatives. 'Little Dorrit' is no exception. This story is about the difficult life of the Dorrit family. The father of the family goes to a debtors' prison forever. His youngest daughter is born there. It seems that such life will definitely embitter the girl and teach her to survive without a sense of shame and honor. But she is an example of kindness and humility. No matter how difficult her life is, she always tries to help her family and support those who are in need. And one day a person appears in her life. This person wants to help her and her whole family... ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 12011,
+		"uniqueWordsCount": 1526,
+		"ranks": {
+			"highest": 38310,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 454,
+				"readability": 71
+			},
+			"A2": {
+				"count": 291,
+				"readability": 82
+			},
+			"B1": {
+				"count": 320,
+				"readability": 92
+			},
+			"B2": {
+				"count": 250,
+				"readability": 97
+			},
+			"C1": {
+				"count": 135,
+				"readability": 99
+			},
+			"C2": {
+				"count": 55,
+				"readability": 100
+			}
+		}
+	}
+}
