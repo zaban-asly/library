@@ -1,1 +1,43 @@
-{"dir":"peter-benchley/jaws","title":"Jaws","creator":"Peter Benchley","description":"The guy is looking at the dark water with horror. The shark is somewhere there. It is swimming out of sight, planning to attack. It is invisible and this scares even more. But the story began even earlier. Amity is a small and very quiet town in the vicinity of New York. Nothing ever happens here. One warm night, a young woman decides to swim in the sea. She does not return home. Soon, the police finds her dead. One of the local police officers decides that a shark appeared near the city. This is a great white shark, which is called the man-eater. Unfortunately, closing the beaches does not work.  Local people start rebelling, because the danger always seems distant. And swimming in the sea is too pleasant on a hot day. No one wants to think about any sharks. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3535,"uniqueWordsCount":393,"ranks":{"highest":18588,"lowest":11},"levels":{"A1":{"count":233,"readability":70},"A2":{"count":64,"readability":81},"B1":{"count":46,"readability":86},"B2":{"count":28,"readability":91},"C1":{"count":14,"readability":96},"C2":{"count":7,"readability":100}}}}
+{
+	"dir": "peter-benchley/jaws",
+	"title": "Jaws",
+	"creator": "Peter Benchley",
+	"description": "The guy is looking at the dark water with horror. The shark is somewhere there. It is swimming out of sight, planning to attack. It is invisible and this scares even more. But the story began even earlier. Amity is a small and very quiet town in the vicinity of New York. Nothing ever happens here. One warm night, a young woman decides to swim in the sea. She does not return home. Soon, the police finds her dead. One of the local police officers decides that a shark appeared near the city. This is a great white shark, which is called the man-eater. Unfortunately, closing the beaches does not work.  Local people start rebelling, because the danger always seems distant. And swimming in the sea is too pleasant on a hot day. No one wants to think about any sharks. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3535,
+		"uniqueWordsCount": 438,
+		"ranks": {
+			"highest": 19251,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 256,
+				"readability": 69
+			},
+			"A2": {
+				"count": 66,
+				"readability": 80
+			},
+			"B1": {
+				"count": 54,
+				"readability": 85
+			},
+			"B2": {
+				"count": 32,
+				"readability": 90
+			},
+			"C1": {
+				"count": 21,
+				"readability": 96
+			},
+			"C2": {
+				"count": 8,
+				"readability": 100
+			}
+		}
+	}
+}
