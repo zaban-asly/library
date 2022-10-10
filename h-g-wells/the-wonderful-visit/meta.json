@@ -1,1 +1,43 @@
-{"dir":"h-g-wells/the-wonderful-visit","title":"The Wonderful Visit","creator":"H. G. Wells","description":"An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":19492,"uniqueWordsCount":3747,"ranks":{"highest":49776,"lowest":1},"levels":{"A1":{"count":462,"readability":55},"A2":{"count":391,"readability":66},"B1":{"count":613,"readability":78},"B2":{"count":754,"readability":88},"C1":{"count":710,"readability":94},"C2":{"count":581,"readability":99}}}}
+{
+	"dir": "h-g-wells/the-wonderful-visit",
+	"title": "The Wonderful Visit",
+	"creator": "H. G. Wells",
+	"description": "An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 19465,
+		"uniqueWordsCount": 3907,
+		"ranks": {
+			"highest": 51690,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 489,
+				"readability": 54
+			},
+			"A2": {
+				"count": 394,
+				"readability": 65
+			},
+			"B1": {
+				"count": 625,
+				"readability": 77
+			},
+			"B2": {
+				"count": 773,
+				"readability": 87
+			},
+			"C1": {
+				"count": 750,
+				"readability": 94
+			},
+			"C2": {
+				"count": 609,
+				"readability": 99
+			}
+		}
+	}
+}
