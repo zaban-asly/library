@@ -1,1 +1,43 @@
-{"dir":"kenneth-grahame/the-wind-in-the-willows","title":"The Wind in the Willows","creator":"Kenneth Grahame","description":"Although 'The Wind in the Willows' was primarily written for a young audience, the book can be of great interest to both children and adults. It follows the adventures of wild animals living on the river bank. Mr. Toad is very rich and lives in a luxurious house called Toad Hall. Toad is a good animal, but he is extremely vain. Besides, he has a weird obsession with vehicles: boats, caravans, motorcars. His friends Mole, Rat and Badger are worried about him. They try to convince Toad to quit this hobby, but he doesn't listen. One day he goes too far and steals a car. Toad finds himself in jail, but he doesn't give up. He uses clever tricks to run away. When Toad finally gets home, he learns unpleasant news: Toad Hole has been taken by ferrets and weasels. Will Toad and his friends be able to get the house back?","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2848,"uniqueWordsCount":666,"ranks":{"highest":31106,"lowest":1},"levels":{"A1":{"count":268,"readability":56},"A2":{"count":134,"readability":70},"B1":{"count":101,"readability":77},"B2":{"count":97,"readability":85},"C1":{"count":39,"readability":98},"C2":{"count":18,"readability":100}}}}
+{
+	"dir": "kenneth-grahame/the-wind-in-the-willows",
+	"title": "The Wind in the Willows",
+	"creator": "Kenneth Grahame",
+	"description": "Although 'The Wind in the Willows' was primarily written for a young audience, the book can be of great interest to both children and adults. It follows the adventures of wild animals living on the river bank. Mr. Toad is very rich and lives in a luxurious house called Toad Hall. Toad is a good animal, but he is extremely vain. Besides, he has a weird obsession with vehicles: boats, caravans, motorcars. His friends Mole, Rat and Badger are worried about him. They try to convince Toad to quit this hobby, but he doesn't listen. One day he goes too far and steals a car. Toad finds himself in jail, but he doesn't give up. He uses clever tricks to run away. When Toad finally gets home, he learns unpleasant news: Toad Hole has been taken by ferrets and weasels. Will Toad and his friends be able to get the house back?",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2847,
+		"uniqueWordsCount": 683,
+		"ranks": {
+			"highest": 32283,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 261,
+				"readability": 54
+			},
+			"A2": {
+				"count": 135,
+				"readability": 69
+			},
+			"B1": {
+				"count": 114,
+				"readability": 76
+			},
+			"B2": {
+				"count": 100,
+				"readability": 85
+			},
+			"C1": {
+				"count": 44,
+				"readability": 97
+			},
+			"C2": {
+				"count": 20,
+				"readability": 100
+			}
+		}
+	}
+}
