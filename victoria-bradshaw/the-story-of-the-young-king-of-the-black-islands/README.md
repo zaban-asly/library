@@ -1,5 +1,5 @@
 
-# The Story of the Young King of the Black Islands <kbd>v3.2.1</kbd>
+# The Story of the Young King of the Black Islands <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>

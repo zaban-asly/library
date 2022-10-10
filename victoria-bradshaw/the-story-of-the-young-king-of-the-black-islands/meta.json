@@ -1,1 +1,43 @@
-{"dir":"victoria-bradshaw/the-story-of-the-young-king-of-the-black-islands","title":"The Story of the Young King of the Black Islands","creator":"Victoria Bradshaw","description":"King of the Black Islands Mahmoud died. His young son inherited the throne. Soon he married his cousin. The young man loved his wife very much and thought it was mutual. But the girl was a bad wife. She had no tender feelings for her husband. And also she was a witch. The king and queen had lived together for five years. But this king's happiness was not to last any longer. One day the monarch happened to hear a conversation between two maids. They said it was very sad that the queen did not love her husband. Every night the sly witch poured the sleeping potion into the king's glass and went to her lover. The next night, the king decided not to drink wine. In despair he followed his unfaithful wife to the wood and killed her lover.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":524,"uniqueWordsCount":215,"ranks":{"highest":11482,"lowest":11},"levels":{"A1":{"count":140,"readability":72},"A2":{"count":33,"readability":86},"B1":{"count":14,"readability":92},"B2":{"count":18,"readability":98},"C1":{"count":8,"readability":100},"C2":{"count":2,"readability":100}}}}
+{
+	"dir": "victoria-bradshaw/the-story-of-the-young-king-of-the-black-islands",
+	"title": "The Story of the Young King of the Black Islands",
+	"creator": "Victoria Bradshaw",
+	"description": "King of the Black Islands Mahmoud died. His young son inherited the throne. Soon he married his cousin. The young man loved his wife very much and thought it was mutual. But the girl was a bad wife. She had no tender feelings for her husband. And also she was a witch. The king and queen had lived together for five years. But this king's happiness was not to last any longer. One day the monarch happened to hear a conversation between two maids. They said it was very sad that the queen did not love her husband. Every night the sly witch poured the sleeping potion into the king's glass and went to her lover. The next night, the king decided not to drink wine. In despair he followed his unfaithful wife to the wood and killed her lover.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 524,
+		"uniqueWordsCount": 229,
+		"ranks": {
+			"highest": 11879,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 148,
+				"readability": 70
+			},
+			"A2": {
+				"count": 34,
+				"readability": 85
+			},
+			"B1": {
+				"count": 18,
+				"readability": 91
+			},
+			"B2": {
+				"count": 19,
+				"readability": 98
+			},
+			"C1": {
+				"count": 7,
+				"readability": 100
+			},
+			"C2": {
+				"count": 3,
+				"readability": 100
+			}
+		}
+	}
+}
