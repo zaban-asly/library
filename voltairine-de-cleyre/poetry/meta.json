@@ -1,1 +1,43 @@
-{"dir":"voltairine-de-cleyre/poetry","title":"Poetry","creator":"Voltairine de Cleyre","description":"A collection of Voltairine de Cleyre’s poetry.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":8575,"uniqueWordsCount":2062,"ranks":{"highest":43637,"lowest":1},"levels":{"A1":{"count":384,"readability":51},"A2":{"count":255,"readability":65},"B1":{"count":361,"readability":78},"B2":{"count":399,"readability":89},"C1":{"count":349,"readability":96},"C2":{"count":227,"readability":99}}}}
+{
+	"dir": "voltairine-de-cleyre/poetry",
+	"title": "Poetry",
+	"creator": "Voltairine de Cleyre",
+	"description": "A collection of Voltairine de Cleyre’s poetry.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 8561,
+		"uniqueWordsCount": 2212,
+		"ranks": {
+			"highest": 45295,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 404,
+				"readability": 48
+			},
+			"A2": {
+				"count": 260,
+				"readability": 62
+			},
+			"B1": {
+				"count": 379,
+				"readability": 76
+			},
+			"B2": {
+				"count": 430,
+				"readability": 87
+			},
+			"C1": {
+				"count": 375,
+				"readability": 95
+			},
+			"C2": {
+				"count": 263,
+				"readability": 99
+			}
+		}
+	}
+}
