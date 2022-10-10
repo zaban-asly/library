@@ -1,1 +1,43 @@
-{"dir":"selma-lagerl-f/short-fiction","title":"Short Fiction","creator":"Selma Lagerlöf","description":"A collection of Selma Lagerlöf’s translated short stories, ordered by date of publication.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":122044,"uniqueWordsCount":7161,"ranks":{"highest":50278,"lowest":1},"levels":{"A1":{"count":468,"readability":63},"A2":{"count":480,"readability":74},"B1":{"count":915,"readability":84},"B2":{"count":1534,"readability":92},"C1":{"count":1825,"readability":97},"C2":{"count":1378,"readability":100}}}}
+{
+	"dir": "selma-lagerl-f/short-fiction",
+	"title": "Short Fiction",
+	"creator": "Selma Lagerlöf",
+	"description": "A collection of Selma Lagerlöf’s translated short stories, ordered by date of publication.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 121872,
+		"uniqueWordsCount": 7550,
+		"ranks": {
+			"highest": 52207,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 60
+			},
+			"A2": {
+				"count": 481,
+				"readability": 72
+			},
+			"B1": {
+				"count": 927,
+				"readability": 83
+			},
+			"B2": {
+				"count": 1564,
+				"readability": 92
+			},
+			"C1": {
+				"count": 1921,
+				"readability": 97
+			},
+			"C2": {
+				"count": 1507,
+				"readability": 100
+			}
+		}
+	}
+}
