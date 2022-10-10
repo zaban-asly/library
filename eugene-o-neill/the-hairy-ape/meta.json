@@ -1,1 +1,43 @@
-{"dir":"eugene-o-neill/the-hairy-ape","title":"The Hairy Ape","creator":"Eugene O’Neill","description":"An expressionist play following a brutish stoker’s dehumanization as he descends from being a leader of his fellow workers to a literal ape.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":8264,"uniqueWordsCount":2037,"ranks":{"highest":45428,"lowest":1},"levels":{"A1":{"count":393,"readability":49},"A2":{"count":267,"readability":59},"B1":{"count":320,"readability":70},"B2":{"count":382,"readability":83},"C1":{"count":321,"readability":91},"C2":{"count":216,"readability":98}}}}
+{
+	"dir": "eugene-o-neill/the-hairy-ape",
+	"title": "The Hairy Ape",
+	"creator": "Eugene O’Neill",
+	"description": "An expressionist play following a brutish stoker’s dehumanization as he descends from being a leader of his fellow workers to a literal ape.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 8260,
+		"uniqueWordsCount": 2114,
+		"ranks": {
+			"highest": 47134,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 409,
+				"readability": 47
+			},
+			"A2": {
+				"count": 269,
+				"readability": 58
+			},
+			"B1": {
+				"count": 333,
+				"readability": 69
+			},
+			"B2": {
+				"count": 386,
+				"readability": 82
+			},
+			"C1": {
+				"count": 342,
+				"readability": 91
+			},
+			"C2": {
+				"count": 227,
+				"readability": 98
+			}
+		}
+	}
+}
