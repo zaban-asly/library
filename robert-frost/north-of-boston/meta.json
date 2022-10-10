@@ -1,1 +1,43 @@
-{"dir":"robert-frost/north-of-boston","title":"North of Boston","creator":"Robert Frost","description":"A collection of Frost’s poetry.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":7771,"uniqueWordsCount":1801,"ranks":{"highest":49898,"lowest":1},"levels":{"A1":{"count":414,"readability":68},"A2":{"count":291,"readability":78},"B1":{"count":339,"readability":87},"B2":{"count":330,"readability":93},"C1":{"count":227,"readability":97},"C2":{"count":136,"readability":99}}}}
+{
+	"dir": "robert-frost/north-of-boston",
+	"title": "North of Boston",
+	"creator": "Robert Frost",
+	"description": "A collection of Frost’s poetry.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 7758,
+		"uniqueWordsCount": 1920,
+		"ranks": {
+			"highest": 51816,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 439,
+				"readability": 66
+			},
+			"A2": {
+				"count": 297,
+				"readability": 76
+			},
+			"B1": {
+				"count": 369,
+				"readability": 86
+			},
+			"B2": {
+				"count": 348,
+				"readability": 92
+			},
+			"C1": {
+				"count": 243,
+				"readability": 97
+			},
+			"C2": {
+				"count": 152,
+				"readability": 99
+			}
+		}
+	}
+}
