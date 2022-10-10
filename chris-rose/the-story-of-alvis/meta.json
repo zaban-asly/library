@@ -1,1 +1,43 @@
-{"dir":"chris-rose/the-story-of-alvis","title":"The Story of Alvis","creator":"Chris Rose","description":"Alvis was a dark elf. People did not like his folk. They believed that all the existing elves were greedy and unfriendly. But Alvis decided to change everything. He told many other elves they were as good as other people. He was going to prove it and marry the daughter of Thor. Of course, everyone was laughing at him. No one believed that an elf could come to terms with the formidable and powerful God of Thunder. Alvis waited for the night and crept over the Rainbow Bridge to Asgard. Soon he met a big and strong man with a red beard in the clothes of a farmer. He got into conversation with this man and said that he wanted to marry Thor's daughter. Elvis was convinced that the farmer could not be a god. He did not know that it was Thor himself.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":641,"uniqueWordsCount":169,"ranks":{"highest":34531,"lowest":1},"levels":{"A1":{"count":117,"readability":76},"A2":{"count":18,"readability":81},"B1":{"count":15,"readability":85},"B2":{"count":8,"readability":87},"C1":{"count":5,"readability":98},"C2":{"count":4,"readability":100}}}}
+{
+	"dir": "chris-rose/the-story-of-alvis",
+	"title": "The Story of Alvis",
+	"creator": "Chris Rose",
+	"description": "Alvis was a dark elf. People did not like his folk. They believed that all the existing elves were greedy and unfriendly. But Alvis decided to change everything. He told many other elves they were as good as other people. He was going to prove it and marry the daughter of Thor. Of course, everyone was laughing at him. No one believed that an elf could come to terms with the formidable and powerful God of Thunder. Alvis waited for the night and crept over the Rainbow Bridge to Asgard. Soon he met a big and strong man with a red beard in the clothes of a farmer. He got into conversation with this man and said that he wanted to marry Thor's daughter. Elvis was convinced that the farmer could not be a god. He did not know that it was Thor himself.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 640,
+		"uniqueWordsCount": 181,
+		"ranks": {
+			"highest": 35859,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 124,
+				"readability": 74
+			},
+			"A2": {
+				"count": 20,
+				"readability": 80
+			},
+			"B1": {
+				"count": 17,
+				"readability": 85
+			},
+			"B2": {
+				"count": 8,
+				"readability": 87
+			},
+			"C1": {
+				"count": 3,
+				"readability": 95
+			},
+			"C2": {
+				"count": 7,
+				"readability": 100
+			}
+		}
+	}
+}
