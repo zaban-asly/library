@@ -1,1 +1,43 @@
-{"dir":"h-beam-piper/four-day-planet","title":"Four-Day Planet","creator":"H. Beam Piper","description":"A young reporter gets caught up in intrigue and adventure chasing tallow-wax bounties with the monster hunters on Fenris, a planet with a two-thousand-hour day and four-day year.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":27337,"uniqueWordsCount":3626,"ranks":{"highest":50124,"lowest":1},"levels":{"A1":{"count":453,"readability":57},"A2":{"count":375,"readability":68},"B1":{"count":550,"readability":78},"B2":{"count":683,"readability":86},"C1":{"count":676,"readability":94},"C2":{"count":494,"readability":98}}}}
+{
+	"dir": "h-beam-piper/four-day-planet",
+	"title": "Four-Day Planet",
+	"creator": "H. Beam Piper",
+	"description": "A young reporter gets caught up in intrigue and adventure chasing tallow-wax bounties with the monster hunters on Fenris, a planet with a two-thousand-hour day and four-day year.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 27297,
+		"uniqueWordsCount": 3815,
+		"ranks": {
+			"highest": 52048,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 478,
+				"readability": 55
+			},
+			"A2": {
+				"count": 380,
+				"readability": 66
+			},
+			"B1": {
+				"count": 588,
+				"readability": 76
+			},
+			"B2": {
+				"count": 690,
+				"readability": 85
+			},
+			"C1": {
+				"count": 715,
+				"readability": 92
+			},
+			"C2": {
+				"count": 528,
+				"readability": 98
+			}
+		}
+	}
+}
