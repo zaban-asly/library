@@ -1,1 +1,43 @@
-{"dir":"julius-caesar/commentaries-on-the-gallic-war","title":"Commentaries on the Gallic War","creator":"Julius Caesar","description":"Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":33716,"uniqueWordsCount":3211,"ranks":{"highest":48642,"lowest":1},"levels":{"A1":{"count":425,"readability":48},"A2":{"count":360,"readability":64},"B1":{"count":577,"readability":79},"B2":{"count":697,"readability":90},"C1":{"count":617,"readability":97},"C2":{"count":427,"readability":100}}}}
+{
+	"dir": "julius-caesar/commentaries-on-the-gallic-war",
+	"title": "Commentaries on the Gallic War",
+	"creator": "Julius Caesar",
+	"description": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 33438,
+		"uniqueWordsCount": 3379,
+		"ranks": {
+			"highest": 50478,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 447,
+				"readability": 47
+			},
+			"A2": {
+				"count": 364,
+				"readability": 62
+			},
+			"B1": {
+				"count": 597,
+				"readability": 78
+			},
+			"B2": {
+				"count": 723,
+				"readability": 90
+			},
+			"C1": {
+				"count": 662,
+				"readability": 96
+			},
+			"C2": {
+				"count": 456,
+				"readability": 100
+			}
+		}
+	}
+}
