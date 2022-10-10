@@ -1,1 +1,43 @@
-{"dir":"selma-lagerl-f/the-story-of-g-sta-berling","title":"The Story of Gösta Berling","creator":"Selma Lagerlöf","description":"A disgraced priest ends up adventuring with a group of societal outcasts.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":58914,"uniqueWordsCount":4804,"ranks":{"highest":50174,"lowest":1},"levels":{"A1":{"count":466,"readability":61},"A2":{"count":448,"readability":73},"B1":{"count":757,"readability":84},"B2":{"count":1084,"readability":92},"C1":{"count":1114,"readability":97},"C2":{"count":689,"readability":100}}}}
+{
+	"dir": "selma-lagerl-f/the-story-of-g-sta-berling",
+	"title": "The Story of Gösta Berling",
+	"creator": "Selma Lagerlöf",
+	"description": "A disgraced priest ends up adventuring with a group of societal outcasts.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 58868,
+		"uniqueWordsCount": 5096,
+		"ranks": {
+			"highest": 52098,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 58
+			},
+			"A2": {
+				"count": 454,
+				"readability": 71
+			},
+			"B1": {
+				"count": 781,
+				"readability": 83
+			},
+			"B2": {
+				"count": 1112,
+				"readability": 92
+			},
+			"C1": {
+				"count": 1206,
+				"readability": 97
+			},
+			"C2": {
+				"count": 768,
+				"readability": 100
+			}
+		}
+	}
+}
