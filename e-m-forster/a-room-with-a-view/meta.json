@@ -1,1 +1,43 @@
-{"dir":"e-m-forster/a-room-with-a-view","title":"A Room With a View","creator":"E. M. Forster","description":"A young English woman falls in love while on tour in Italy.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":32033,"uniqueWordsCount":4737,"ranks":{"highest":50003,"lowest":1},"levels":{"A1":{"count":466,"readability":58},"A2":{"count":456,"readability":69},"B1":{"count":773,"readability":78},"B2":{"count":1006,"readability":89},"C1":{"count":1008,"readability":95},"C2":{"count":743,"readability":99}}}}
+{
+	"dir": "e-m-forster/a-room-with-a-view",
+	"title": "A Room With a View",
+	"creator": "E. M. Forster",
+	"description": "A young English woman falls in love while on tour in Italy.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 31984,
+		"uniqueWordsCount": 4943,
+		"ranks": {
+			"highest": 51921,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 56
+			},
+			"A2": {
+				"count": 462,
+				"readability": 68
+			},
+			"B1": {
+				"count": 785,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1036,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1037,
+				"readability": 94
+			},
+			"C2": {
+				"count": 806,
+				"readability": 99
+			}
+		}
+	}
+}
