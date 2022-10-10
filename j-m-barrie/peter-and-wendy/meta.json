@@ -1,1 +1,43 @@
-{"dir":"j-m-barrie/peter-and-wendy","title":"Peter and Wendy","creator":"J. M. Barrie","description":"A mischievous and cocky young boy, Peter Pan, takes Wendy and her brothers on adventures on a fantasy island consisting of mermaids, pirates, Native Americans, and fairies.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":22145,"uniqueWordsCount":3359,"ranks":{"highest":49908,"lowest":1},"levels":{"A1":{"count":458,"readability":60},"A2":{"count":408,"readability":73},"B1":{"count":604,"readability":82},"B2":{"count":667,"readability":90},"C1":{"count":629,"readability":96},"C2":{"count":418,"readability":99}}}}
+{
+	"dir": "j-m-barrie/peter-and-wendy",
+	"title": "Peter and Wendy",
+	"creator": "J. M. Barrie",
+	"description": "A mischievous and cocky young boy, Peter Pan, takes Wendy and her brothers on adventures on a fantasy island consisting of mermaids, pirates, Native Americans, and fairies.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 22116,
+		"uniqueWordsCount": 3585,
+		"ranks": {
+			"highest": 51826,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 486,
+				"readability": 58
+			},
+			"A2": {
+				"count": 411,
+				"readability": 71
+			},
+			"B1": {
+				"count": 632,
+				"readability": 80
+			},
+			"B2": {
+				"count": 712,
+				"readability": 89
+			},
+			"C1": {
+				"count": 672,
+				"readability": 95
+			},
+			"C2": {
+				"count": 467,
+				"readability": 99
+			}
+		}
+	}
+}
