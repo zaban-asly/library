@@ -1,1 +1,43 @@
-{"dir":"arthur-machen/short-fiction","title":"Short Fiction","creator":"Arthur Machen","description":"A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":49135,"uniqueWordsCount":5536,"ranks":{"highest":49733,"lowest":1},"levels":{"A1":{"count":468,"readability":61},"A2":{"count":483,"readability":73},"B1":{"count":844,"readability":84},"B2":{"count":1250,"readability":91},"C1":{"count":1271,"readability":97},"C2":{"count":849,"readability":100}}}}
+{
+	"dir": "arthur-machen/short-fiction",
+	"title": "Short Fiction",
+	"creator": "Arthur Machen",
+	"description": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 49069,
+		"uniqueWordsCount": 5793,
+		"ranks": {
+			"highest": 51646,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 60
+			},
+			"A2": {
+				"count": 483,
+				"readability": 71
+			},
+			"B1": {
+				"count": 860,
+				"readability": 82
+			},
+			"B2": {
+				"count": 1266,
+				"readability": 91
+			},
+			"C1": {
+				"count": 1345,
+				"readability": 97
+			},
+			"C2": {
+				"count": 925,
+				"readability": 99
+			}
+		}
+	}
+}
