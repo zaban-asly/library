@@ -1,1 +1,43 @@
-{"dir":"jenny-dooley/blackbeard-s-treasure","title":"Blackbeard's Treasure","creator":"Jenny Dooley","description":"<font face=\"MS Shell Dlg 2, sans-serif\"><span style=\"font-size: 12px;\">What do you know about Bermuda Triangle? It's a miracle place where a lot of people, ships and other things were lost. Have you ever heard about the Blackbeard's treasure? It was lost in Bermuda Triangle and nobody ever could find it. Not many people want to have such risk for finding treasure. But there are no any barriers if you are a pirate, you are drunk and you hear the sound of coins. The greatest pirate in the whole world Captain Pike came into the bar of port where many sailors were resting. It was deep night and nobody expect for such celebrity. He proposed them adventure but even they didn't hurry because nobody had never returned Bermuda. At last, Captain Pike managed to collect the team. But whether they can realize his plan?</span></font>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3092,"uniqueWordsCount":611,"ranks":{"highest":24794,"lowest":1},"levels":{"A1":{"count":285,"readability":62},"A2":{"count":132,"readability":76},"B1":{"count":96,"readability":90},"B2":{"count":60,"readability":95},"C1":{"count":21,"readability":98},"C2":{"count":10,"readability":99}}}}
+{
+	"dir": "jenny-dooley/blackbeard-s-treasure",
+	"title": "Blackbeard's Treasure",
+	"creator": "Jenny Dooley",
+	"description": "<font face=\"MS Shell Dlg 2, sans-serif\"><span style=\"font-size: 12px;\">What do you know about Bermuda Triangle? It's a miracle place where a lot of people, ships and other things were lost. Have you ever heard about the Blackbeard's treasure? It was lost in Bermuda Triangle and nobody ever could find it. Not many people want to have such risk for finding treasure. But there are no any barriers if you are a pirate, you are drunk and you hear the sound of coins. The greatest pirate in the whole world Captain Pike came into the bar of port where many sailors were resting. It was deep night and nobody expect for such celebrity. He proposed them adventure but even they didn't hurry because nobody had never returned Bermuda. At last, Captain Pike managed to collect the team. But whether they can realize his plan?</span></font>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3092,
+		"uniqueWordsCount": 663,
+		"ranks": {
+			"highest": 28886,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 304,
+				"readability": 61
+			},
+			"A2": {
+				"count": 138,
+				"readability": 75
+			},
+			"B1": {
+				"count": 111,
+				"readability": 89
+			},
+			"B2": {
+				"count": 67,
+				"readability": 95
+			},
+			"C1": {
+				"count": 24,
+				"readability": 98
+			},
+			"C2": {
+				"count": 9,
+				"readability": 99
+			}
+		}
+	}
+}
