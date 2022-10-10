@@ -1,1 +1,43 @@
-{"dir":"mile-gaboriau/monsieur-lecoq","title":"Monsieur Lecoq","creator":"Émile Gaboriau","description":"Monsieur Lecoq’s first case in which he tries to determine the identity of a man in custody for three murders.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":115760,"uniqueWordsCount":7448,"ranks":{"highest":47787,"lowest":1},"levels":{"A1":{"count":468,"readability":51},"A2":{"count":477,"readability":65},"B1":{"count":914,"readability":79},"B2":{"count":1534,"readability":90},"C1":{"count":1963,"readability":97},"C2":{"count":1608,"readability":100}}}}
+{
+	"dir": "mile-gaboriau/monsieur-lecoq",
+	"title": "Monsieur Lecoq",
+	"creator": "Émile Gaboriau",
+	"description": "Monsieur Lecoq’s first case in which he tries to determine the identity of a man in custody for three murders.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 115076,
+		"uniqueWordsCount": 7782,
+		"ranks": {
+			"highest": 49586,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 49
+			},
+			"A2": {
+				"count": 479,
+				"readability": 63
+			},
+			"B1": {
+				"count": 928,
+				"readability": 78
+			},
+			"B2": {
+				"count": 1555,
+				"readability": 89
+			},
+			"C1": {
+				"count": 2031,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1723,
+				"readability": 100
+			}
+		}
+	}
+}
