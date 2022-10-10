@@ -1,1 +1,43 @@
-{"dir":"foreman-peter/jack-the-ripper","title":"Jack the Ripper","creator":"Foreman Peter","description":"In 1888 the whole England was shocked by a series of brutal terrifying killings. The murderer who later became known as Jack the Ripper showed neither empathy nor remorse. The victims he chose were poor women with bad reputation. The criminal killed them with inhuman violence and severely mutilated their bodies. In spite of the constant police control with a thorough investigation and wide public attention, Jack the Ripper always managed somehow to escape. For the years there have been many suspects, but even nowadays the real identity of the killer still remains unknown. This book offers the readers a unique opportunity to examine the facts and possibly some clues to the most blood-curling and mysterious murder case in history.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3971,"uniqueWordsCount":1025,"ranks":{"highest":30143,"lowest":1},"levels":{"A1":{"count":323,"readability":55},"A2":{"count":169,"readability":70},"B1":{"count":188,"readability":82},"B2":{"count":158,"readability":91},"C1":{"count":107,"readability":96},"C2":{"count":57,"readability":99}}}}
+{
+	"dir": "foreman-peter/jack-the-ripper",
+	"title": "Jack the Ripper",
+	"creator": "Foreman Peter",
+	"description": "In 1888 the whole England was shocked by a series of brutal terrifying killings. The murderer who later became known as Jack the Ripper showed neither empathy nor remorse. The victims he chose were poor women with bad reputation. The criminal killed them with inhuman violence and severely mutilated their bodies. In spite of the constant police control with a thorough investigation and wide public attention, Jack the Ripper always managed somehow to escape. For the years there have been many suspects, but even nowadays the real identity of the killer still remains unknown. This book offers the readers a unique opportunity to examine the facts and possibly some clues to the most blood-curling and mysterious murder case in history.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3953,
+		"uniqueWordsCount": 1084,
+		"ranks": {
+			"highest": 48306,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 338,
+				"readability": 53
+			},
+			"A2": {
+				"count": 176,
+				"readability": 69
+			},
+			"B1": {
+				"count": 199,
+				"readability": 81
+			},
+			"B2": {
+				"count": 163,
+				"readability": 89
+			},
+			"C1": {
+				"count": 113,
+				"readability": 95
+			},
+			"C2": {
+				"count": 63,
+				"readability": 98
+			}
+		}
+	}
+}
