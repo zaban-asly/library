@@ -1,1 +1,43 @@
-{"dir":"sue-grafton/l-is-for-lawless","title":"L is for Lawless","creator":"Sue Grafton","description":"Who would have thought that such a banal beginning of the day would bring so many problems. Now Kinsey Millhone has to risk herself and solve many secrets again. No one ever expects something like this. A close friend of Kinsey asks her for help - to arrange the funeral of a military pilot named Johnny Lee. There is nothing suspicious in the request. But why has nobody heard about this mysterious Johnny? Why do the Air Forces even have no records of this man? Why is the pilot's apartment immediately robbed after his death? This whole situation begins to remind of someone else's conspiracy. Global, very mysterious and extremely dangerous. But Kinsey is ready to accept this unexpected challenge. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":11703,"uniqueWordsCount":1222,"ranks":{"highest":38069,"lowest":1},"levels":{"A1":{"count":383,"readability":60},"A2":{"count":215,"readability":70},"B1":{"count":214,"readability":83},"B2":{"count":184,"readability":90},"C1":{"count":120,"readability":97},"C2":{"count":62,"readability":99}}}}
+{
+	"dir": "sue-grafton/l-is-for-lawless",
+	"title": "L is for Lawless",
+	"creator": "Sue Grafton",
+	"description": "Who would have thought that such a banal beginning of the day would bring so many problems. Now Kinsey Millhone has to risk herself and solve many secrets again. No one ever expects something like this. A close friend of Kinsey asks her for help - to arrange the funeral of a military pilot named Johnny Lee. There is nothing suspicious in the request. But why has nobody heard about this mysterious Johnny? Why do the Air Forces even have no records of this man? Why is the pilot's apartment immediately robbed after his death? This whole situation begins to remind of someone else's conspiracy. Global, very mysterious and extremely dangerous. But Kinsey is ready to accept this unexpected challenge. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 11679,
+		"uniqueWordsCount": 1324,
+		"ranks": {
+			"highest": 45051,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 410,
+				"readability": 57
+			},
+			"A2": {
+				"count": 218,
+				"readability": 68
+			},
+			"B1": {
+				"count": 246,
+				"readability": 82
+			},
+			"B2": {
+				"count": 201,
+				"readability": 90
+			},
+			"C1": {
+				"count": 136,
+				"readability": 96
+			},
+			"C2": {
+				"count": 65,
+				"readability": 99
+			}
+		}
+	}
+}
