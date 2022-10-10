@@ -1,1 +1,43 @@
-{"dir":"oliver-goldsmith/she-stoops-to-conquer","title":"She Stoops to Conquer","creator":"Oliver Goldsmith","description":"Two young men visit the countryside: one to find a wife, and the other to avoid one.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":10771,"uniqueWordsCount":2239,"ranks":{"highest":50044,"lowest":1},"levels":{"A1":{"count":427,"readability":61},"A2":{"count":324,"readability":71},"B1":{"count":404,"readability":82},"B2":{"count":454,"readability":90},"C1":{"count":341,"readability":97},"C2":{"count":204,"readability":100}}}}
+{
+	"dir": "oliver-goldsmith/she-stoops-to-conquer",
+	"title": "She Stoops to Conquer",
+	"creator": "Oliver Goldsmith",
+	"description": "Two young men visit the countryside: one to find a wife, and the other to avoid one.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 10757,
+		"uniqueWordsCount": 2337,
+		"ranks": {
+			"highest": 51966,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 446,
+				"readability": 59
+			},
+			"A2": {
+				"count": 328,
+				"readability": 69
+			},
+			"B1": {
+				"count": 417,
+				"readability": 81
+			},
+			"B2": {
+				"count": 466,
+				"readability": 90
+			},
+			"C1": {
+				"count": 361,
+				"readability": 96
+			},
+			"C2": {
+				"count": 218,
+				"readability": 99
+			}
+		}
+	}
+}
