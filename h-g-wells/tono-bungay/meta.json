@@ -1,1 +1,43 @@
-{"dir":"h-g-wells/tono-bungay","title":"Tono-Bungay","creator":"H. G. Wells","description":"A poor boy, the son of a servant, rises to fortune on the back of his uncle’s patent-medicine scheme.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":66259,"uniqueWordsCount":8248,"ranks":{"highest":50197,"lowest":1},"levels":{"A1":{"count":468,"readability":54},"A2":{"count":486,"readability":66},"B1":{"count":898,"readability":76},"B2":{"count":1505,"readability":86},"C1":{"count":1912,"readability":93},"C2":{"count":1845,"readability":98}}}}
+{
+	"dir": "h-g-wells/tono-bungay",
+	"title": "Tono-Bungay",
+	"creator": "H. G. Wells",
+	"description": "A poor boy, the son of a servant, rises to fortune on the back of his uncle’s patent-medicine scheme.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 66189,
+		"uniqueWordsCount": 8578,
+		"ranks": {
+			"highest": 52122,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 53
+			},
+			"A2": {
+				"count": 488,
+				"readability": 64
+			},
+			"B1": {
+				"count": 909,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1527,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1973,
+				"readability": 93
+			},
+			"C2": {
+				"count": 1927,
+				"readability": 98
+			}
+		}
+	}
+}
