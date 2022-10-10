@@ -1,1 +1,43 @@
-{"dir":"jonathan-swift/gulliver-s-travels","title":"Gulliver’s Travels","creator":"Jonathan Swift","description":"An Englishman travels to fictional islands where he meets tiny people, giants, magicians and talking horses.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":49480,"uniqueWordsCount":5301,"ranks":{"highest":48303,"lowest":1},"levels":{"A1":{"count":465,"readability":53},"A2":{"count":452,"readability":66},"B1":{"count":806,"readability":80},"B2":{"count":1172,"readability":90},"C1":{"count":1173,"readability":96},"C2":{"count":862,"readability":99}}}}
+{
+	"dir": "jonathan-swift/gulliver-s-travels",
+	"title": "Gulliver’s Travels",
+	"creator": "Jonathan Swift",
+	"description": "An Englishman travels to fictional islands where he meets tiny people, giants, magicians and talking horses.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 49306,
+		"uniqueWordsCount": 5571,
+		"ranks": {
+			"highest": 50122,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 51
+			},
+			"A2": {
+				"count": 458,
+				"readability": 64
+			},
+			"B1": {
+				"count": 816,
+				"readability": 78
+			},
+			"B2": {
+				"count": 1193,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1255,
+				"readability": 95
+			},
+			"C2": {
+				"count": 933,
+				"readability": 99
+			}
+		}
+	}
+}
