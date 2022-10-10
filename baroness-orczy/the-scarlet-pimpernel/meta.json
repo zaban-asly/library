@@ -1,1 +1,43 @@
-{"dir":"baroness-orczy/the-scarlet-pimpernel","title":"The Scarlet Pimpernel","creator":"Baroness Orczy","description":"A daring Englishman with a secret identity rescues French aristocrats from the guillotine during the French Revolution.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":42236,"uniqueWordsCount":5020,"ranks":{"highest":43413,"lowest":1},"levels":{"A1":{"count":464,"readability":53},"A2":{"count":459,"readability":66},"B1":{"count":779,"readability":77},"B2":{"count":1095,"readability":89},"C1":{"count":1139,"readability":96},"C2":{"count":819,"readability":99}}}}
+{
+	"dir": "baroness-orczy/the-scarlet-pimpernel",
+	"title": "The Scarlet Pimpernel",
+	"creator": "Baroness Orczy",
+	"description": "A daring Englishman with a secret identity rescues French aristocrats from the guillotine during the French Revolution.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 42167,
+		"uniqueWordsCount": 5267,
+		"ranks": {
+			"highest": 45066,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 51
+			},
+			"A2": {
+				"count": 463,
+				"readability": 64
+			},
+			"B1": {
+				"count": 793,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1135,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1181,
+				"readability": 95
+			},
+			"C2": {
+				"count": 896,
+				"readability": 99
+			}
+		}
+	}
+}
