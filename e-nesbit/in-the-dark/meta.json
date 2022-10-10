@@ -1,1 +1,43 @@
-{"dir":"e-nesbit/in-the-dark","title":"In the dark","creator":"E. Nesbit","description":"<p>At school my friend Haldane and I hated a boy called Visger. When we did something bad, he always told the teacher. One day we stole some cherries from a tree. He as always told this to teacher. We were very amazed cause nobody saw us, so we asked him how we could know about our stealing. He answered to us that he just know it, maybe felt or something like this. It was very weird. Nevertheless, Haldane and I grew up. Visger became a vegetarian and never drank alcohol. He also became Sir George Visger.\nWhen we all left Oxford University, I went away abroad. Just one year later I came back and wanted to see me dear old friend. He was always happy, kind, and honest. I wanted to see the smile in his blue eyes again and hear his happy laugh, so I went to visit him in London. But and this time he even did not smile. He was miserable, his face was pale and he looked weak and ill.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1020,"uniqueWordsCount":381,"ranks":{"highest":38670,"lowest":1},"levels":{"A1":{"count":207,"readability":74},"A2":{"count":67,"readability":82},"B1":{"count":48,"readability":91},"B2":{"count":35,"readability":96},"C1":{"count":10,"readability":97},"C2":{"count":8,"readability":98}}}}
+{
+	"dir": "e-nesbit/in-the-dark",
+	"title": "In the dark",
+	"creator": "E. Nesbit",
+	"description": "<p>At school my friend Haldane and I hated a boy called Visger. When we did something bad, he always told the teacher. One day we stole some cherries from a tree. He as always told this to teacher. We were very amazed cause nobody saw us, so we asked him how we could know about our stealing. He answered to us that he just know it, maybe felt or something like this. It was very weird. Nevertheless, Haldane and I grew up. Visger became a vegetarian and never drank alcohol. He also became Sir George Visger.\nWhen we all left Oxford University, I went away abroad. Just one year later I came back and wanted to see me dear old friend. He was always happy, kind, and honest. I wanted to see the smile in his blue eyes again and hear his happy laugh, so I went to visit him in London. But and this time he even did not smile. He was miserable, his face was pale and he looked weak and ill.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1020,
+		"uniqueWordsCount": 411,
+		"ranks": {
+			"highest": 40155,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 220,
+				"readability": 72
+			},
+			"A2": {
+				"count": 69,
+				"readability": 81
+			},
+			"B1": {
+				"count": 59,
+				"readability": 90
+			},
+			"B2": {
+				"count": 38,
+				"readability": 96
+			},
+			"C1": {
+				"count": 11,
+				"readability": 97
+			},
+			"C2": {
+				"count": 8,
+				"readability": 98
+			}
+		}
+	}
+}
