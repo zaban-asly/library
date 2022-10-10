@@ -1,1 +1,43 @@
-{"dir":"kathy-burke/mysteries-of-the-unexplained","title":"Mysteries of the Unexplained","creator":"Kathy Burke","description":"Space is a mysterious place. It is almost unexplored like the oceans. In the depths of space a lot of interesting and mysterious things can hide. Lots of governments have spent a lot of money on its research for many years. The United States, Britain, and the Soviet Union - each of these countries had space programs with large budgets. But even now there are still more questions than answers. Numerous stories about aliens - are they true or fiction? No one can answer for sure. Not only ordinary people, but also some astronauts say they have seen something strange. Even the famous Neil Armstrong said that he saw some strange luminous objects in space. For many years it was kept secret, but today the information is publicly available. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3887,"uniqueWordsCount":781,"ranks":{"highest":35482,"lowest":1},"levels":{"A1":{"count":315,"readability":64},"A2":{"count":143,"readability":76},"B1":{"count":111,"readability":86},"B2":{"count":95,"readability":93},"C1":{"count":55,"readability":97},"C2":{"count":37,"readability":99}}}}
+{
+	"dir": "kathy-burke/mysteries-of-the-unexplained",
+	"title": "Mysteries of the Unexplained",
+	"creator": "Kathy Burke",
+	"description": "Space is a mysterious place. It is almost unexplored like the oceans. In the depths of space a lot of interesting and mysterious things can hide. Lots of governments have spent a lot of money on its research for many years. The United States, Britain, and the Soviet Union - each of these countries had space programs with large budgets. But even now there are still more questions than answers. Numerous stories about aliens - are they true or fiction? No one can answer for sure. Not only ordinary people, but also some astronauts say they have seen something strange. Even the famous Neil Armstrong said that he saw some strange luminous objects in space. For many years it was kept secret, but today the information is publicly available. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3930,
+		"uniqueWordsCount": 859,
+		"ranks": {
+			"highest": 50566,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 331,
+				"readability": 60
+			},
+			"A2": {
+				"count": 152,
+				"readability": 73
+			},
+			"B1": {
+				"count": 136,
+				"readability": 85
+			},
+			"B2": {
+				"count": 97,
+				"readability": 91
+			},
+			"C1": {
+				"count": 67,
+				"readability": 96
+			},
+			"C2": {
+				"count": 38,
+				"readability": 98
+			}
+		}
+	}
+}
