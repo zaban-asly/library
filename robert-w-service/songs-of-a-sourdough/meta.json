@@ -1,1 +1,43 @@
-{"dir":"robert-w-service/songs-of-a-sourdough","title":"Songs of a Sourdough","creator":"Robert W. Service","description":"A collection of poems about the Klondike Gold Rush.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":6347,"uniqueWordsCount":2006,"ranks":{"highest":49344,"lowest":1},"levels":{"A1":{"count":365,"readability":48},"A2":{"count":251,"readability":62},"B1":{"count":312,"readability":74},"B2":{"count":365,"readability":85},"C1":{"count":340,"readability":93},"C2":{"count":246,"readability":98}}}}
+{
+	"dir": "robert-w-service/songs-of-a-sourdough",
+	"title": "Songs of a Sourdough",
+	"creator": "Robert W. Service",
+	"description": "A collection of poems about the Klondike Gold Rush.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 6343,
+		"uniqueWordsCount": 2122,
+		"ranks": {
+			"highest": 51241,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 386,
+				"readability": 46
+			},
+			"A2": {
+				"count": 252,
+				"readability": 59
+			},
+			"B1": {
+				"count": 334,
+				"readability": 72
+			},
+			"B2": {
+				"count": 394,
+				"readability": 84
+			},
+			"C1": {
+				"count": 358,
+				"readability": 93
+			},
+			"C2": {
+				"count": 264,
+				"readability": 98
+			}
+		}
+	}
+}
