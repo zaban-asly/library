@@ -1,1 +1,43 @@
-{"dir":"charles-babbage/passages-from-the-life-of-a-philosopher","title":"Passages from the Life of a Philosopher","creator":"Charles Babbage","description":"The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":70470,"uniqueWordsCount":6257,"ranks":{"highest":49697,"lowest":1},"levels":{"A1":{"count":468,"readability":46},"A2":{"count":472,"readability":60},"B1":{"count":831,"readability":75},"B2":{"count":1299,"readability":87},"C1":{"count":1438,"readability":95},"C2":{"count":1189,"readability":99}}}}
+{
+	"dir": "charles-babbage/passages-from-the-life-of-a-philosopher",
+	"title": "Passages from the Life of a Philosopher",
+	"creator": "Charles Babbage",
+	"description": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 70196,
+		"uniqueWordsCount": 6529,
+		"ranks": {
+			"highest": 51610,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 45
+			},
+			"A2": {
+				"count": 474,
+				"readability": 59
+			},
+			"B1": {
+				"count": 839,
+				"readability": 73
+			},
+			"B2": {
+				"count": 1324,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1490,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1266,
+				"readability": 99
+			}
+		}
+	}
+}
