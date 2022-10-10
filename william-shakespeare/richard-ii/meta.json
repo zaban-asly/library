@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/richard-ii","title":"Richard II","creator":"William Shakespeare","description":"King Richard II’s wasteful spending habits drive his supporters to revolt.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":11625,"uniqueWordsCount":2439,"ranks":{"highest":48057,"lowest":1},"levels":{"A1":{"count":420,"readability":52},"A2":{"count":307,"readability":65},"B1":{"count":438,"readability":77},"B2":{"count":512,"readability":87},"C1":{"count":393,"readability":94},"C2":{"count":273,"readability":99}}}}
+{
+	"dir": "william-shakespeare/richard-ii",
+	"title": "Richard II",
+	"creator": "William Shakespeare",
+	"description": "King Richard II’s wasteful spending habits drive his supporters to revolt.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 11606,
+		"uniqueWordsCount": 2569,
+		"ranks": {
+			"highest": 49864,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 440,
+				"readability": 50
+			},
+			"A2": {
+				"count": 308,
+				"readability": 62
+			},
+			"B1": {
+				"count": 447,
+				"readability": 75
+			},
+			"B2": {
+				"count": 542,
+				"readability": 86
+			},
+			"C1": {
+				"count": 407,
+				"readability": 93
+			},
+			"C2": {
+				"count": 303,
+				"readability": 99
+			}
+		}
+	}
+}
