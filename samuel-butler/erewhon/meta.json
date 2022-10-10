@@ -1,1 +1,43 @@
-{"dir":"samuel-butler/erewhon","title":"Erewhon","creator":"Samuel Butler","description":"A traveller ventures to the unknown country of Erewhon and finds a surprisingly different culture.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":38538,"uniqueWordsCount":5398,"ranks":{"highest":49758,"lowest":1},"levels":{"A1":{"count":466,"readability":56},"A2":{"count":470,"readability":67},"B1":{"count":816,"readability":79},"B2":{"count":1162,"readability":89},"C1":{"count":1202,"readability":95},"C2":{"count":894,"readability":99}}}}
+{
+	"dir": "samuel-butler/erewhon",
+	"title": "Erewhon",
+	"creator": "Samuel Butler",
+	"description": "A traveller ventures to the unknown country of Erewhon and finds a surprisingly different culture.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 38364,
+		"uniqueWordsCount": 5664,
+		"ranks": {
+			"highest": 51672,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 53
+			},
+			"A2": {
+				"count": 474,
+				"readability": 65
+			},
+			"B1": {
+				"count": 834,
+				"readability": 78
+			},
+			"B2": {
+				"count": 1185,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1259,
+				"readability": 95
+			},
+			"C2": {
+				"count": 961,
+				"readability": 99
+			}
+		}
+	}
+}

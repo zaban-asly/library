@@ -1,5 +1,5 @@
 
-# Erewhon <kbd>v3.2.1</kbd>
+# Erewhon <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
