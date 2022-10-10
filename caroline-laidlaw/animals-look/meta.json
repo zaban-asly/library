@@ -1,1 +1,43 @@
-{"dir":"caroline-laidlaw/animals-look","title":"Animals Look!","creator":"Caroline Laidlaw","description":"You can find many species of animals on our planet. They all look different. Eyes of different shapes and colors, different ears. Many animals have an interesting position of their eyes. Foxes have eyes in front of heads. Some species of crocodiles have eyes on the tops of their heads. What is the reason for this diversity? With ears, everything is no less difficult. Foxes and cats can boast with large moving and directed forward ears. When you look at eagles and crocodiles, you will not see their ears at all. But of course, they exist. The answers to all questions lie in evolution. All kinds of animals slowly change over thousands of years of their existence. The world is changing rapidly. So only those who are able to adapt to new conditions survive. Learn more about evolution in this book. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1938,"uniqueWordsCount":569,"ranks":{"highest":39565,"lowest":15},"levels":{"A1":{"count":218,"readability":57},"A2":{"count":85,"readability":69},"B1":{"count":83,"readability":79},"B2":{"count":85,"readability":89},"C1":{"count":49,"readability":95},"C2":{"count":24,"readability":98}}}}
+{
+	"dir": "caroline-laidlaw/animals-look",
+	"title": "Animals Look!",
+	"creator": "Caroline Laidlaw",
+	"description": "You can find many species of animals on our planet. They all look different. Eyes of different shapes and colors, different ears. Many animals have an interesting position of their eyes. Foxes have eyes in front of heads. Some species of crocodiles have eyes on the tops of their heads. What is the reason for this diversity? With ears, everything is no less difficult. Foxes and cats can boast with large moving and directed forward ears. When you look at eagles and crocodiles, you will not see their ears at all. But of course, they exist. The answers to all questions lie in evolution. All kinds of animals slowly change over thousands of years of their existence. The world is changing rapidly. So only those who are able to adapt to new conditions survive. Learn more about evolution in this book. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1950,
+		"uniqueWordsCount": 594,
+		"ranks": {
+			"highest": 50948,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 219,
+				"readability": 55
+			},
+			"A2": {
+				"count": 83,
+				"readability": 67
+			},
+			"B1": {
+				"count": 87,
+				"readability": 77
+			},
+			"B2": {
+				"count": 90,
+				"readability": 88
+			},
+			"C1": {
+				"count": 54,
+				"readability": 94
+			},
+			"C2": {
+				"count": 28,
+				"readability": 97
+			}
+		}
+	}
+}
