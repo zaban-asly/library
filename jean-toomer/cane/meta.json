@@ -1,1 +1,43 @@
-{"dir":"jean-toomer/cane","title":"Cane","creator":"Jean Toomer","description":"An experimental and highly lyrical novel exploring the African-American experience.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":21546,"uniqueWordsCount":3648,"ranks":{"highest":49081,"lowest":1},"levels":{"A1":{"count":453,"readability":54},"A2":{"count":378,"readability":66},"B1":{"count":542,"readability":77},"B2":{"count":737,"readability":87},"C1":{"count":740,"readability":95},"C2":{"count":520,"readability":99}}}}
+{
+	"dir": "jean-toomer/cane",
+	"title": "Cane",
+	"creator": "Jean Toomer",
+	"description": "An experimental and highly lyrical novel exploring the African-American experience.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 21507,
+		"uniqueWordsCount": 3818,
+		"ranks": {
+			"highest": 50944,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 478,
+				"readability": 53
+			},
+			"A2": {
+				"count": 385,
+				"readability": 64
+			},
+			"B1": {
+				"count": 581,
+				"readability": 76
+			},
+			"B2": {
+				"count": 736,
+				"readability": 86
+			},
+			"C1": {
+				"count": 786,
+				"readability": 94
+			},
+			"C2": {
+				"count": 553,
+				"readability": 99
+			}
+		}
+	}
+}
