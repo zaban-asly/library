@@ -1,1 +1,43 @@
-{"dir":"fyodor-dostoevsky/crime-and-punishment","title":"Crime and Punishment","creator":"Fyodor Dostoevsky","description":"Inflated by his own ambition, Raskolnikov murders a pawnbroker then faces the inevitable consequences.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":91687,"uniqueWordsCount":6224,"ranks":{"highest":47203,"lowest":1},"levels":{"A1":{"count":466,"readability":62},"A2":{"count":473,"readability":73},"B1":{"count":876,"readability":84},"B2":{"count":1335,"readability":92},"C1":{"count":1526,"readability":97},"C2":{"count":1158,"readability":100}}}}
+{
+	"dir": "fyodor-dostoevsky/crime-and-punishment",
+	"title": "Crime and Punishment",
+	"creator": "Fyodor Dostoevsky",
+	"description": "Inflated by his own ambition, Raskolnikov murders a pawnbroker then faces the inevitable consequences.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 91578,
+		"uniqueWordsCount": 6531,
+		"ranks": {
+			"highest": 48978,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 60
+			},
+			"A2": {
+				"count": 475,
+				"readability": 71
+			},
+			"B1": {
+				"count": 893,
+				"readability": 83
+			},
+			"B2": {
+				"count": 1355,
+				"readability": 91
+			},
+			"C1": {
+				"count": 1613,
+				"readability": 97
+			},
+			"C2": {
+				"count": 1244,
+				"readability": 100
+			}
+		}
+	}
+}
