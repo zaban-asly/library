@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/the-two-gentlemen-of-verona","title":"The Two Gentlemen of Verona","creator":"William Shakespeare","description":"Two best friends become involved in a love triangle.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":8523,"uniqueWordsCount":1862,"ranks":{"highest":46979,"lowest":1},"levels":{"A1":{"count":401,"readability":51},"A2":{"count":249,"readability":62},"B1":{"count":336,"readability":76},"B2":{"count":346,"readability":86},"C1":{"count":278,"readability":93},"C2":{"count":175,"readability":99}}}}
+{
+	"dir": "william-shakespeare/the-two-gentlemen-of-verona",
+	"title": "The Two Gentlemen of Verona",
+	"creator": "William Shakespeare",
+	"description": "Two best friends become involved in a love triangle.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 8501,
+		"uniqueWordsCount": 1973,
+		"ranks": {
+			"highest": 48744,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 423,
+				"readability": 49
+			},
+			"A2": {
+				"count": 250,
+				"readability": 60
+			},
+			"B1": {
+				"count": 344,
+				"readability": 74
+			},
+			"B2": {
+				"count": 368,
+				"readability": 85
+			},
+			"C1": {
+				"count": 295,
+				"readability": 92
+			},
+			"C2": {
+				"count": 197,
+				"readability": 98
+			}
+		}
+	}
+}
