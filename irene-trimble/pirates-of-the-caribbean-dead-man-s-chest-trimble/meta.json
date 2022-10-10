@@ -1,1 +1,43 @@
-{"dir":"irene-trimble/pirates-of-the-caribbean-dead-man-s-chest-trimble","title":"Pirates of the Caribbean - Dead Man's Chest - Trimble","creator":"Irene Trimble","description":"<p>In ancient times goddess Calypso lived on the Earth. She was incredibly gorgeous and owned all the waters of the planet. Her wanderings through the waters led her to a simple sailor Davy Jones. They fell in love with each other. One day Jones arranged a date with her but she didn't come. The man in love decided Calypso had betrayed him. He cut his heart out to relieve his suffering and put it into a chest. The sailor hid this chest on the unknown land. He became a bloodthirsty pirate and sailed on the ship \"Flying Dutchman\". He looked for the debtors. Captain Jack Sparrow became one of these debtors. Now he has to find out one hundred innocent souls in exchange for his one. These souls will be Davy Jones' slaves instead of Jack. Will Turner is an obstacle for Jack Sparrow's aim.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":6386,"uniqueWordsCount":716,"ranks":{"highest":20968,"lowest":11},"levels":{"A1":{"count":340,"readability":61},"A2":{"count":146,"readability":73},"B1":{"count":116,"readability":90},"B2":{"count":58,"readability":95},"C1":{"count":30,"readability":97},"C2":{"count":19,"readability":100}}}}
+{
+	"dir": "irene-trimble/pirates-of-the-caribbean-dead-man-s-chest-trimble",
+	"title": "Pirates of the Caribbean - Dead Man's Chest - Trimble",
+	"creator": "Irene Trimble",
+	"description": "<p>In ancient times goddess Calypso lived on the Earth. She was incredibly gorgeous and owned all the waters of the planet. Her wanderings through the waters led her to a simple sailor Davy Jones. They fell in love with each other. One day Jones arranged a date with her but she didn't come. The man in love decided Calypso had betrayed him. He cut his heart out to relieve his suffering and put it into a chest. The sailor hid this chest on the unknown land. He became a bloodthirsty pirate and sailed on the ship \"Flying Dutchman\". He looked for the debtors. Captain Jack Sparrow became one of these debtors. Now he has to find out one hundred innocent souls in exchange for his one. These souls will be Davy Jones' slaves instead of Jack. Will Turner is an obstacle for Jack Sparrow's aim.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 6423,
+		"uniqueWordsCount": 785,
+		"ranks": {
+			"highest": 37734,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 358,
+				"readability": 59
+			},
+			"A2": {
+				"count": 153,
+				"readability": 71
+			},
+			"B1": {
+				"count": 138,
+				"readability": 88
+			},
+			"B2": {
+				"count": 68,
+				"readability": 94
+			},
+			"C1": {
+				"count": 34,
+				"readability": 97
+			},
+			"C2": {
+				"count": 22,
+				"readability": 98
+			}
+		}
+	}
+}
