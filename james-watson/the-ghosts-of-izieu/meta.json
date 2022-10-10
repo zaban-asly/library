@@ -1,1 +1,43 @@
-{"dir":"james-watson/the-ghosts-of-izieu","title":"The Ghosts of Izieu","creator":"James Watson","description":"<p>The young English girl, Elise, has spent her holidays in France. She is very annoyed by father's new wife and she feels dull at hot dusty French countryside. Elise's father wants her to share his interest in a local history. But his daughter is not very excited by his ideas at first. But later she started to see children's ghosts from another time. After she has met a strange boy Stefan who seemed was very afraid of something in the town. Once upon a time she has been trying to escape from the heat in a cool local church, so she has found herself in the past. There she had found Jewish children who had been trying to hide from Gestapo.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3959,"uniqueWordsCount":730,"ranks":{"highest":44507,"lowest":1},"levels":{"A1":{"count":334,"readability":73},"A2":{"count":175,"readability":87},"B1":{"count":110,"readability":93},"B2":{"count":63,"readability":97},"C1":{"count":28,"readability":100},"C2":{"count":13,"readability":100}}}}
+{
+	"dir": "james-watson/the-ghosts-of-izieu",
+	"title": "The Ghosts of Izieu",
+	"creator": "James Watson",
+	"description": "<p>The young English girl, Elise, has spent her holidays in France. She is very annoyed by father's new wife and she feels dull at hot dusty French countryside. Elise's father wants her to share his interest in a local history. But his daughter is not very excited by his ideas at first. But later she started to see children's ghosts from another time. After she has met a strange boy Stefan who seemed was very afraid of something in the town. Once upon a time she has been trying to escape from the heat in a cool local church, so she has found herself in the past. There she had found Jewish children who had been trying to hide from Gestapo.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3961,
+		"uniqueWordsCount": 787,
+		"ranks": {
+			"highest": 46183,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 355,
+				"readability": 71
+			},
+			"A2": {
+				"count": 172,
+				"readability": 85
+			},
+			"B1": {
+				"count": 136,
+				"readability": 93
+			},
+			"B2": {
+				"count": 67,
+				"readability": 97
+			},
+			"C1": {
+				"count": 34,
+				"readability": 100
+			},
+			"C2": {
+				"count": 14,
+				"readability": 100
+			}
+		}
+	}
+}
