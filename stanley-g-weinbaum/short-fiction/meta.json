@@ -1,1 +1,43 @@
-{"dir":"stanley-g-weinbaum/short-fiction","title":"Short Fiction","creator":"Stanley G. Weinbaum","description":"Six classic science fiction short stories by Stanley Weinbaum.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":23073,"uniqueWordsCount":3985,"ranks":{"highest":49700,"lowest":1},"levels":{"A1":{"count":451,"readability":53},"A2":{"count":423,"readability":65},"B1":{"count":639,"readability":76},"B2":{"count":782,"readability":86},"C1":{"count":767,"readability":94},"C2":{"count":593,"readability":98}}}}
+{
+	"dir": "stanley-g-weinbaum/short-fiction",
+	"title": "Short Fiction",
+	"creator": "Stanley G. Weinbaum",
+	"description": "Six classic science fiction short stories by Stanley Weinbaum.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 23052,
+		"uniqueWordsCount": 4177,
+		"ranks": {
+			"highest": 51613,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 480,
+				"readability": 52
+			},
+			"A2": {
+				"count": 424,
+				"readability": 63
+			},
+			"B1": {
+				"count": 659,
+				"readability": 75
+			},
+			"B2": {
+				"count": 804,
+				"readability": 85
+			},
+			"C1": {
+				"count": 827,
+				"readability": 93
+			},
+			"C2": {
+				"count": 618,
+				"readability": 98
+			}
+		}
+	}
+}
