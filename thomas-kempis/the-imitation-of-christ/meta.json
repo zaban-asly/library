@@ -1,1 +1,43 @@
-{"dir":"thomas-kempis/the-imitation-of-christ","title":"The Imitation of Christ","creator":"Thomas à Kempis","description":"Thomas à Kempis provides instructions for a Christian spiritual life.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":29089,"uniqueWordsCount":3010,"ranks":{"highest":45345,"lowest":1},"levels":{"A1":{"count":416,"readability":55},"A2":{"count":333,"readability":66},"B1":{"count":510,"readability":80},"B2":{"count":593,"readability":89},"C1":{"count":581,"readability":96},"C2":{"count":414,"readability":100}}}}
+{
+	"dir": "thomas-kempis/the-imitation-of-christ",
+	"title": "The Imitation of Christ",
+	"creator": "Thomas à Kempis",
+	"description": "Thomas à Kempis provides instructions for a Christian spiritual life.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 29023,
+		"uniqueWordsCount": 3179,
+		"ranks": {
+			"highest": 47050,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 436,
+				"readability": 54
+			},
+			"A2": {
+				"count": 337,
+				"readability": 64
+			},
+			"B1": {
+				"count": 519,
+				"readability": 78
+			},
+			"B2": {
+				"count": 617,
+				"readability": 88
+			},
+			"C1": {
+				"count": 625,
+				"readability": 96
+			},
+			"C2": {
+				"count": 454,
+				"readability": 100
+			}
+		}
+	}
+}
