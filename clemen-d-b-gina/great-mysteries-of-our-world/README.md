@@ -1,5 +1,5 @@
 
-# Great Mysteries of Our World <kbd>v3.2.1</kbd>
+# Great Mysteries of Our World <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
