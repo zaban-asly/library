@@ -1,1 +1,43 @@
-{"dir":"thomas-paine/essays","title":"Essays","creator":"Thomas Paine","description":"A collection of Thomas Paine’s essays on republicanism, the problems of monarchy, and human rights.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":24528,"uniqueWordsCount":3712,"ranks":{"highest":49318,"lowest":1},"levels":{"A1":{"count":428,"readability":46},"A2":{"count":351,"readability":60},"B1":{"count":639,"readability":75},"B2":{"count":771,"readability":87},"C1":{"count":770,"readability":96},"C2":{"count":548,"readability":99}}}}
+{
+	"dir": "thomas-paine/essays",
+	"title": "Essays",
+	"creator": "Thomas Paine",
+	"description": "A collection of Thomas Paine’s essays on republicanism, the problems of monarchy, and human rights.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 24453,
+		"uniqueWordsCount": 3849,
+		"ranks": {
+			"highest": 51215,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 448,
+				"readability": 44
+			},
+			"A2": {
+				"count": 353,
+				"readability": 59
+			},
+			"B1": {
+				"count": 641,
+				"readability": 74
+			},
+			"B2": {
+				"count": 794,
+				"readability": 87
+			},
+			"C1": {
+				"count": 803,
+				"readability": 95
+			},
+			"C2": {
+				"count": 583,
+				"readability": 99
+			}
+		}
+	}
+}
