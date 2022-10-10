@@ -1,1 +1,43 @@
-{"dir":"william-wycherley/the-country-wife","title":"The Country Wife","creator":"William Wycherley","description":"A notorious womanizer spreads a rumour that he is now a eunuch in order to gain access to other’s wives.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":15327,"uniqueWordsCount":2222,"ranks":{"highest":47561,"lowest":1},"levels":{"A1":{"count":408,"readability":60},"A2":{"count":299,"readability":70},"B1":{"count":377,"readability":82},"B2":{"count":428,"readability":90},"C1":{"count":332,"readability":96},"C2":{"count":253,"readability":99}}}}
+{
+	"dir": "william-wycherley/the-country-wife",
+	"title": "The Country Wife",
+	"creator": "William Wycherley",
+	"description": "A notorious womanizer spreads a rumour that he is now a eunuch in order to gain access to other’s wives.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 15306,
+		"uniqueWordsCount": 2352,
+		"ranks": {
+			"highest": 49351,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 431,
+				"readability": 58
+			},
+			"A2": {
+				"count": 302,
+				"readability": 69
+			},
+			"B1": {
+				"count": 393,
+				"readability": 81
+			},
+			"B2": {
+				"count": 447,
+				"readability": 89
+			},
+			"C1": {
+				"count": 356,
+				"readability": 95
+			},
+			"C2": {
+				"count": 277,
+				"readability": 99
+			}
+		}
+	}
+}
