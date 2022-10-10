@@ -1,1 +1,43 @@
-{"dir":"hilaire-belloc/the-servile-state","title":"The Servile State","creator":"Hilaire Belloc","description":"Hilaire Belloc’s thesis that the capitalist state breeds a collectivist theory which, in action, produces something utterly different from collectivism: the Servile State.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":19913,"uniqueWordsCount":2919,"ranks":{"highest":46574,"lowest":1},"levels":{"A1":{"count":396,"readability":42},"A2":{"count":293,"readability":55},"B1":{"count":515,"readability":71},"B2":{"count":594,"readability":83},"C1":{"count":512,"readability":93},"C2":{"count":395,"readability":98}}}}
+{
+	"dir": "hilaire-belloc/the-servile-state",
+	"title": "The Servile State",
+	"creator": "Hilaire Belloc",
+	"description": "Hilaire Belloc’s thesis that the capitalist state breeds a collectivist theory which, in action, produces something utterly different from collectivism: the Servile State.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 19862,
+		"uniqueWordsCount": 3047,
+		"ranks": {
+			"highest": 48329,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 415,
+				"readability": 40
+			},
+			"A2": {
+				"count": 308,
+				"readability": 54
+			},
+			"B1": {
+				"count": 516,
+				"readability": 69
+			},
+			"B2": {
+				"count": 616,
+				"readability": 82
+			},
+			"C1": {
+				"count": 535,
+				"readability": 92
+			},
+			"C2": {
+				"count": 420,
+				"readability": 98
+			}
+		}
+	}
+}
