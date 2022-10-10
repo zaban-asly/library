@@ -1,1 +1,43 @@
-{"dir":"simon-beaver/fantastic-creatures-monsters-mermaids-and-wild-men","title":"Fantastic Creatures Monsters, Mermaids, and Wild Men","creator":"Simon Beaver","description":"Around the world, people love to tell stories. Even before the first printed books and long before poems, people were telling stories. They were sitting by the fire in the cave and making up something new. They imagined many fantastic creatures. Such stories are older than many ancient historical documents. This book is a collection of classic fairy tales. These interesting stories are about creatures that hide and live among people. Learn more about dragons, hydras, yetis and other mythological creatures. Do they live in the real world? This question has no answers. Many try to find the key to this mystery. Reading this book, you understand what people felt thousands years ago, listening to these tales.   ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":900,"uniqueWordsCount":262,"ranks":{"highest":30369,"lowest":11},"levels":{"A1":{"count":141,"readability":64},"A2":{"count":35,"readability":75},"B1":{"count":29,"readability":83},"B2":{"count":21,"readability":93},"C1":{"count":12,"readability":95},"C2":{"count":14,"readability":99}}}}
+{
+	"dir": "simon-beaver/fantastic-creatures-monsters-mermaids-and-wild-men",
+	"title": "Fantastic Creatures Monsters, Mermaids, and Wild Men",
+	"creator": "Simon Beaver",
+	"description": "Around the world, people love to tell stories. Even before the first printed books and long before poems, people were telling stories. They were sitting by the fire in the cave and making up something new. They imagined many fantastic creatures. Such stories are older than many ancient historical documents. This book is a collection of classic fairy tales. These interesting stories are about creatures that hide and live among people. Learn more about dragons, hydras, yetis and other mythological creatures. Do they live in the real world? This question has no answers. Many try to find the key to this mystery. Reading this book, you understand what people felt thousands years ago, listening to these tales.   ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 914,
+		"uniqueWordsCount": 282,
+		"ranks": {
+			"highest": 34162,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 150,
+				"readability": 62
+			},
+			"A2": {
+				"count": 35,
+				"readability": 73
+			},
+			"B1": {
+				"count": 33,
+				"readability": 82
+			},
+			"B2": {
+				"count": 23,
+				"readability": 92
+			},
+			"C1": {
+				"count": 11,
+				"readability": 93
+			},
+			"C2": {
+				"count": 16,
+				"readability": 97
+			}
+		}
+	}
+}
