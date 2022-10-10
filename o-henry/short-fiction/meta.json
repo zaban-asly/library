@@ -1,1 +1,43 @@
-{"dir":"o-henry/short-fiction","title":"Short Fiction","creator":"O. Henry","description":"A collection of O. Henry short stories, ordered by date of publication.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":449463,"uniqueWordsCount":18728,"ranks":{"highest":50327,"lowest":1},"levels":{"A1":{"count":472,"readability":51},"A2":{"count":495,"readability":63},"B1":{"count":990,"readability":74},"B2":{"count":1949,"readability":84},"C1":{"count":3550,"readability":92},"C2":{"count":5438,"readability":97}}}}
+{
+	"dir": "o-henry/short-fiction",
+	"title": "Short Fiction",
+	"creator": "O. Henry",
+	"description": "A collection of O. Henry short stories, ordered by date of publication.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 448762,
+		"uniqueWordsCount": 19415,
+		"ranks": {
+			"highest": 52256,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 498,
+				"readability": 49
+			},
+			"A2": {
+				"count": 495,
+				"readability": 61
+			},
+			"B1": {
+				"count": 990,
+				"readability": 73
+			},
+			"B2": {
+				"count": 1954,
+				"readability": 83
+			},
+			"C1": {
+				"count": 3593,
+				"readability": 92
+			},
+			"C2": {
+				"count": 5554,
+				"readability": 97
+			}
+		}
+	}
+}
