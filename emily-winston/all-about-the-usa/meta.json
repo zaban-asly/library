@@ -1,1 +1,43 @@
-{"dir":"emily-winston/all-about-the-usa","title":"All about the USA","creator":"Emily Winston","description":"'All about the USA' is an educational book by Emily Winston. It contains interesting stories and facts about places or people that made their mark in history. The pages of this book will create a fascinating journey to Grand Canyon for you. You will see the Niagara Falls. There are many other beautiful places in America to visit. There are also some unknown traditions and sights of the USA. The book contains many stories and legends. Lovers of secrets will love such stories. Each page of this book allows you to learn something new. This country has many achievements. The book provides an opportunity to meet talented people who have changed the world. And it is interesting to read about how Windows, Apple and other famous companies were created.  ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2297,"uniqueWordsCount":915,"ranks":{"highest":38411,"lowest":5},"levels":{"A1":{"count":246,"readability":43},"A2":{"count":127,"readability":55},"B1":{"count":148,"readability":70},"B2":{"count":162,"readability":84},"C1":{"count":95,"readability":91},"C2":{"count":100,"readability":98}}}}
+{
+	"dir": "emily-winston/all-about-the-usa",
+	"title": "All about the USA",
+	"creator": "Emily Winston",
+	"description": "'All about the USA' is an educational book by Emily Winston. It contains interesting stories and facts about places or people that made their mark in history. The pages of this book will create a fascinating journey to Grand Canyon for you. You will see the Niagara Falls. There are many other beautiful places in America to visit. There are also some unknown traditions and sights of the USA. The book contains many stories and legends. Lovers of secrets will love such stories. Each page of this book allows you to learn something new. This country has many achievements. The book provides an opportunity to meet talented people who have changed the world. And it is interesting to read about how Windows, Apple and other famous companies were created.  ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2323,
+		"uniqueWordsCount": 971,
+		"ranks": {
+			"highest": 50371,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 250,
+				"readability": 40
+			},
+			"A2": {
+				"count": 127,
+				"readability": 52
+			},
+			"B1": {
+				"count": 157,
+				"readability": 67
+			},
+			"B2": {
+				"count": 170,
+				"readability": 82
+			},
+			"C1": {
+				"count": 102,
+				"readability": 89
+			},
+			"C2": {
+				"count": 110,
+				"readability": 97
+			}
+		}
+	}
+}
