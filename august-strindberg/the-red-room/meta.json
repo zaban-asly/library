@@ -1,1 +1,43 @@
-{"dir":"august-strindberg/the-red-room","title":"The Red Room","creator":"August Strindberg","description":"A civil servant tired of bureaucracy quits his job to become a writer, and falls in with a group of artists and philosophers.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":47519,"uniqueWordsCount":6007,"ranks":{"highest":48909,"lowest":1},"levels":{"A1":{"count":467,"readability":54},"A2":{"count":480,"readability":67},"B1":{"count":884,"readability":78},"B2":{"count":1314,"readability":89},"C1":{"count":1404,"readability":95},"C2":{"count":1007,"readability":99}}}}
+{
+	"dir": "august-strindberg/the-red-room",
+	"title": "The Red Room",
+	"creator": "August Strindberg",
+	"description": "A civil servant tired of bureaucracy quits his job to become a writer, and falls in with a group of artists and philosophers.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 47461,
+		"uniqueWordsCount": 6268,
+		"ranks": {
+			"highest": 50758,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 52
+			},
+			"A2": {
+				"count": 481,
+				"readability": 65
+			},
+			"B1": {
+				"count": 893,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1347,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1470,
+				"readability": 95
+			},
+			"C2": {
+				"count": 1061,
+				"readability": 99
+			}
+		}
+	}
+}
