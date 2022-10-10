@@ -1,1 +1,43 @@
-{"dir":"lord-dunsany/the-book-of-wonder","title":"The Book of Wonder","creator":"Lord Dunsany","description":"A collection of fantastical short stories.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":10902,"uniqueWordsCount":2650,"ranks":{"highest":46556,"lowest":1},"levels":{"A1":{"count":432,"readability":55},"A2":{"count":351,"readability":66},"B1":{"count":440,"readability":77},"B2":{"count":550,"readability":87},"C1":{"count":457,"readability":94},"C2":{"count":298,"readability":99}}}}
+{
+	"dir": "lord-dunsany/the-book-of-wonder",
+	"title": "The Book of Wonder",
+	"creator": "Lord Dunsany",
+	"description": "A collection of fantastical short stories.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 10885,
+		"uniqueWordsCount": 2800,
+		"ranks": {
+			"highest": 48311,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 454,
+				"readability": 53
+			},
+			"A2": {
+				"count": 356,
+				"readability": 64
+			},
+			"B1": {
+				"count": 466,
+				"readability": 75
+			},
+			"B2": {
+				"count": 575,
+				"readability": 86
+			},
+			"C1": {
+				"count": 486,
+				"readability": 94
+			},
+			"C2": {
+				"count": 322,
+				"readability": 99
+			}
+		}
+	}
+}
