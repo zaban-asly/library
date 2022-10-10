@@ -1,1 +1,43 @@
-{"dir":"george-mac-donald/phantastes","title":"Phantastes","creator":"George MacDonald","description":"A young man awakes in Fairy Land, where he takes part in a series of strange adventures.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":33575,"uniqueWordsCount":4317,"ranks":{"highest":49860,"lowest":1},"levels":{"A1":{"count":457,"readability":57},"A2":{"count":427,"readability":71},"B1":{"count":733,"readability":82},"B2":{"count":957,"readability":92},"C1":{"count":909,"readability":97},"C2":{"count":592,"readability":100}}}}
+{
+	"dir": "george-mac-donald/phantastes",
+	"title": "Phantastes",
+	"creator": "George MacDonald",
+	"description": "A young man awakes in Fairy Land, where he takes part in a series of strange adventures.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 33538,
+		"uniqueWordsCount": 4584,
+		"ranks": {
+			"highest": 51775,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 485,
+				"readability": 55
+			},
+			"A2": {
+				"count": 432,
+				"readability": 68
+			},
+			"B1": {
+				"count": 742,
+				"readability": 81
+			},
+			"B2": {
+				"count": 1005,
+				"readability": 90
+			},
+			"C1": {
+				"count": 990,
+				"readability": 97
+			},
+			"C2": {
+				"count": 647,
+				"readability": 99
+			}
+		}
+	}
+}
