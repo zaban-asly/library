@@ -1,1 +1,43 @@
-{"dir":"p-g-wodehouse/leave-it-to-psmith","title":"Leave It to Psmith","creator":"P. G. Wodehouse","description":"Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":41865,"uniqueWordsCount":5743,"ranks":{"highest":49621,"lowest":1},"levels":{"A1":{"count":464,"readability":55},"A2":{"count":465,"readability":66},"B1":{"count":815,"readability":77},"B2":{"count":1227,"readability":88},"C1":{"count":1253,"readability":95},"C2":{"count":975,"readability":99}}}}
+{
+	"dir": "p-g-wodehouse/leave-it-to-psmith",
+	"title": "Leave It to Psmith",
+	"creator": "P. G. Wodehouse",
+	"description": "Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 41796,
+		"uniqueWordsCount": 6010,
+		"ranks": {
+			"highest": 51530,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 53
+			},
+			"A2": {
+				"count": 469,
+				"readability": 65
+			},
+			"B1": {
+				"count": 829,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1247,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1319,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1034,
+				"readability": 99
+			}
+		}
+	}
+}
