@@ -1,1 +1,43 @@
-{"dir":"victoria-spence/famous-british-criminals","title":"Famous British Criminals","creator":"Victoria Spence","description":"This story is about some of the most well known criminals in the history of the UK. Jack Sheppard was born in the 18th century in the capital of Great Britain. He was a very famous criminal and thief. A young man, born in a poor family, was trained to become a carpenter. In the end instead of honest work, he chose the path of crimes. Jack escaped from the prison four times, which made him quite popular among poor people of London. John Gov was a famous pirate. There is not much information about his life, but Daniel Defoe wrote about this criminal in his time. Jonathan Wilde is another representative of the criminal world. He was known to have worked on both sides of the law and was even involved in the execution of Jack Sheppard.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":4656,"uniqueWordsCount":1003,"ranks":{"highest":25877,"lowest":1},"levels":{"A1":{"count":330,"readability":54},"A2":{"count":187,"readability":70},"B1":{"count":193,"readability":83},"B2":{"count":152,"readability":93},"C1":{"count":83,"readability":97},"C2":{"count":49,"readability":100}}}}
+{
+	"dir": "victoria-spence/famous-british-criminals",
+	"title": "Famous British Criminals",
+	"creator": "Victoria Spence",
+	"description": "This story is about some of the most well known criminals in the history of the UK. Jack Sheppard was born in the 18th century in the capital of Great Britain. He was a very famous criminal and thief. A young man, born in a poor family, was trained to become a carpenter. In the end instead of honest work, he chose the path of crimes. Jack escaped from the prison four times, which made him quite popular among poor people of London. John Gov was a famous pirate. There is not much information about his life, but Daniel Defoe wrote about this criminal in his time. Jonathan Wilde is another representative of the criminal world. He was known to have worked on both sides of the law and was even involved in the execution of Jack Sheppard.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 4657,
+		"uniqueWordsCount": 1067,
+		"ranks": {
+			"highest": 34052,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 351,
+				"readability": 52
+			},
+			"A2": {
+				"count": 193,
+				"readability": 67
+			},
+			"B1": {
+				"count": 211,
+				"readability": 81
+			},
+			"B2": {
+				"count": 163,
+				"readability": 93
+			},
+			"C1": {
+				"count": 87,
+				"readability": 97
+			},
+			"C2": {
+				"count": 50,
+				"readability": 100
+			}
+		}
+	}
+}
