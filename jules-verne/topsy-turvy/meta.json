@@ -1,1 +1,43 @@
-{"dir":"jules-verne/topsy-turvy","title":"Topsy-Turvy","creator":"Jules Verne","description":"The North Pole is auctioned off, and the winning team undertakes a scientific experiment to ameliorate the local climate.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":19929,"uniqueWordsCount":3230,"ranks":{"highest":49341,"lowest":1},"levels":{"A1":{"count":446,"readability":50},"A2":{"count":388,"readability":62},"B1":{"count":596,"readability":77},"B2":{"count":667,"readability":87},"C1":{"count":567,"readability":95},"C2":{"count":352,"readability":99}}}}
+{
+	"dir": "jules-verne/topsy-turvy",
+	"title": "Topsy-Turvy",
+	"creator": "Jules Verne",
+	"description": "The North Pole is auctioned off, and the winning team undertakes a scientific experiment to ameliorate the local climate.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 19894,
+		"uniqueWordsCount": 3375,
+		"ranks": {
+			"highest": 51238,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 471,
+				"readability": 48
+			},
+			"A2": {
+				"count": 399,
+				"readability": 60
+			},
+			"B1": {
+				"count": 618,
+				"readability": 75
+			},
+			"B2": {
+				"count": 684,
+				"readability": 86
+			},
+			"C1": {
+				"count": 589,
+				"readability": 94
+			},
+			"C2": {
+				"count": 384,
+				"readability": 98
+			}
+		}
+	}
+}
