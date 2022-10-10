@@ -1,1 +1,43 @@
-{"dir":"paul-shipton/titanic","title":"Titanic","creator":"Paul Shipton","description":"Parents said goodbye to their children, wives kissed their husbands and friends shook hands with each other. They perfectly understood that they were seeing each other for the last time. The husband stayed on the ship but told his wife to get into the lifeboat. Titanic was not destined to return to the port from that voyage and many people died. But during this catastrophe many instances of courage and self-sacrifice were noticed. The night of April 14, 1912 is remembered by the whole world. The crew worked the whole night to save as many passengers as possible. But there were also such passengers who thought only of themselves and did not even try to help others. They pushed the women and children away to take their places in the lifeboats. People say that Titanic showed the real face of people - their best and worst sides.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3315,"uniqueWordsCount":674,"ranks":{"highest":39833,"lowest":1},"levels":{"A1":{"count":303,"readability":61},"A2":{"count":127,"readability":73},"B1":{"count":98,"readability":85},"B2":{"count":59,"readability":90},"C1":{"count":47,"readability":97},"C2":{"count":25,"readability":100}}}}
+{
+	"dir": "paul-shipton/titanic",
+	"title": "Titanic",
+	"creator": "Paul Shipton",
+	"description": "Parents said goodbye to their children, wives kissed their husbands and friends shook hands with each other. They perfectly understood that they were seeing each other for the last time. The husband stayed on the ship but told his wife to get into the lifeboat. Titanic was not destined to return to the port from that voyage and many people died. But during this catastrophe many instances of courage and self-sacrifice were noticed. The night of April 14, 1912 is remembered by the whole world. The crew worked the whole night to save as many passengers as possible. But there were also such passengers who thought only of themselves and did not even try to help others. They pushed the women and children away to take their places in the lifeboats. People say that Titanic showed the real face of people - their best and worst sides.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3313,
+		"uniqueWordsCount": 743,
+		"ranks": {
+			"highest": 41363,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 323,
+				"readability": 58
+			},
+			"A2": {
+				"count": 131,
+				"readability": 70
+			},
+			"B1": {
+				"count": 113,
+				"readability": 82
+			},
+			"B2": {
+				"count": 70,
+				"readability": 88
+			},
+			"C1": {
+				"count": 53,
+				"readability": 94
+			},
+			"C2": {
+				"count": 33,
+				"readability": 99
+			}
+		}
+	}
+}
