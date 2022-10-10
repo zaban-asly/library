@@ -1,1 +1,43 @@
-{"dir":"john-keats/poetry","title":"Poetry","creator":"John Keats","description":"A collection of John Keats’ published poems, and a selection of unpublished fragments and posthumous verse.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":50374,"uniqueWordsCount":6239,"ranks":{"highest":50226,"lowest":1},"levels":{"A1":{"count":459,"readability":45},"A2":{"count":414,"readability":58},"B1":{"count":701,"readability":70},"B2":{"count":1122,"readability":82},"C1":{"count":1448,"readability":92},"C2":{"count":1286,"readability":98}}}}
+{
+	"dir": "john-keats/poetry",
+	"title": "Poetry",
+	"creator": "John Keats",
+	"description": "A collection of John Keats’ published poems, and a selection of unpublished fragments and posthumous verse.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 50324,
+		"uniqueWordsCount": 6595,
+		"ranks": {
+			"highest": 52151,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 485,
+				"readability": 43
+			},
+			"A2": {
+				"count": 420,
+				"readability": 56
+			},
+			"B1": {
+				"count": 706,
+				"readability": 68
+			},
+			"B2": {
+				"count": 1153,
+				"readability": 80
+			},
+			"C1": {
+				"count": 1526,
+				"readability": 91
+			},
+			"C2": {
+				"count": 1382,
+				"readability": 98
+			}
+		}
+	}
+}
