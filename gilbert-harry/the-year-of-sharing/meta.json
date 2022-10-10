@@ -1,1 +1,43 @@
-{"dir":"gilbert-harry/the-year-of-sharing","title":"The Year of Sharing","creator":"Gilbert Harry","description":"Have you ever wondered what will be with our planet in five hundred years? How will the infrastructure develop? What will happen to the nature? Richard lives in the world, which is significantly different from ours. They live in villages instead of cities. They use bicycles as transport. In the forests, there are only wild animals. Every inhabitant of this world must bring his Year of Sharing when he reaches the age of twelve. It means the child will go to the wild forest to live alone. This term lasts for a whole year. They do it for learning to share the world with the animals. This way every person finds a new family in the wild. Tomorrow Richard is going somewhere deep into the forest. He cannot even imagine how many dangers are waiting for him there.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3096,"uniqueWordsCount":437,"ranks":{"highest":17207,"lowest":1},"levels":{"A1":{"count":257,"readability":73},"A2":{"count":87,"readability":85},"B1":{"count":60,"readability":96},"B2":{"count":20,"readability":98},"C1":{"count":9,"readability":100},"C2":{"count":3,"readability":100}}}}
+{
+	"dir": "gilbert-harry/the-year-of-sharing",
+	"title": "The Year of Sharing",
+	"creator": "Gilbert Harry",
+	"description": "Have you ever wondered what will be with our planet in five hundred years? How will the infrastructure develop? What will happen to the nature? Richard lives in the world, which is significantly different from ours. They live in villages instead of cities. They use bicycles as transport. In the forests, there are only wild animals. Every inhabitant of this world must bring his Year of Sharing when he reaches the age of twelve. It means the child will go to the wild forest to live alone. This term lasts for a whole year. They do it for learning to share the world with the animals. This way every person finds a new family in the wild. Tomorrow Richard is going somewhere deep into the forest. He cannot even imagine how many dangers are waiting for him there.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3095,
+		"uniqueWordsCount": 499,
+		"ranks": {
+			"highest": 18546,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 280,
+				"readability": 71
+			},
+			"A2": {
+				"count": 87,
+				"readability": 83
+			},
+			"B1": {
+				"count": 79,
+				"readability": 93
+			},
+			"B2": {
+				"count": 28,
+				"readability": 96
+			},
+			"C1": {
+				"count": 19,
+				"readability": 100
+			},
+			"C2": {
+				"count": 4,
+				"readability": 100
+			}
+		}
+	}
+}
