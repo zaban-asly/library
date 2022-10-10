@@ -1,1 +1,43 @@
-{"dir":"henrik-ibsen/a-doll-s-house","title":"A Doll’s House","creator":"Henrik Ibsen","description":"In 1870s Norway, a woman struggles to be herself within the confines of marriage and society.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":10867,"uniqueWordsCount":1731,"ranks":{"highest":32710,"lowest":1},"levels":{"A1":{"count":427,"readability":71},"A2":{"count":299,"readability":81},"B1":{"count":349,"readability":90},"B2":{"count":328,"readability":96},"C1":{"count":177,"readability":98},"C2":{"count":114,"readability":100}}}}
+{
+	"dir": "henrik-ibsen/a-doll-s-house",
+	"title": "A Doll’s House",
+	"creator": "Henrik Ibsen",
+	"description": "In 1870s Norway, a woman struggles to be herself within the confines of marriage and society.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 10852,
+		"uniqueWordsCount": 1839,
+		"ranks": {
+			"highest": 33957,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 449,
+				"readability": 69
+			},
+			"A2": {
+				"count": 300,
+				"readability": 80
+			},
+			"B1": {
+				"count": 373,
+				"readability": 89
+			},
+			"B2": {
+				"count": 346,
+				"readability": 95
+			},
+			"C1": {
+				"count": 198,
+				"readability": 98
+			},
+			"C2": {
+				"count": 134,
+				"readability": 100
+			}
+		}
+	}
+}
