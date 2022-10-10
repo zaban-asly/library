@@ -1,1 +1,43 @@
-{"dir":"guy-boothby/a-bid-for-fortune","title":"A Bid for Fortune","creator":"Guy Boothby","description":"A young Australian man struggles to reclaim his love from the clutches of an evil mastermind.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":40423,"uniqueWordsCount":4676,"ranks":{"highest":46900,"lowest":1},"levels":{"A1":{"count":464,"readability":62},"A2":{"count":466,"readability":75},"B1":{"count":789,"readability":84},"B2":{"count":1087,"readability":92},"C1":{"count":1008,"readability":97},"C2":{"count":621,"readability":100}}}}
+{
+	"dir": "guy-boothby/a-bid-for-fortune",
+	"title": "A Bid for Fortune",
+	"creator": "Guy Boothby",
+	"description": "A young Australian man struggles to reclaim his love from the clutches of an evil mastermind.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 40352,
+		"uniqueWordsCount": 4904,
+		"ranks": {
+			"highest": 48662,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 60
+			},
+			"A2": {
+				"count": 469,
+				"readability": 73
+			},
+			"B1": {
+				"count": 813,
+				"readability": 83
+			},
+			"B2": {
+				"count": 1107,
+				"readability": 92
+			},
+			"C1": {
+				"count": 1081,
+				"readability": 97
+			},
+			"C2": {
+				"count": 662,
+				"readability": 100
+			}
+		}
+	}
+}
