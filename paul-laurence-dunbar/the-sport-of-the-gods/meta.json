@@ -1,1 +1,43 @@
-{"dir":"paul-laurence-dunbar/the-sport-of-the-gods","title":"The Sport of the Gods","creator":"Paul Laurence Dunbar","description":"In a Southern town and then in New York City, an African American family struggles for for its integrity and survival.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":18368,"uniqueWordsCount":3327,"ranks":{"highest":46081,"lowest":1},"levels":{"A1":{"count":459,"readability":63},"A2":{"count":422,"readability":73},"B1":{"count":594,"readability":82},"B2":{"count":689,"readability":90},"C1":{"count":591,"readability":96},"C2":{"count":403,"readability":99}}}}
+{
+	"dir": "paul-laurence-dunbar/the-sport-of-the-gods",
+	"title": "The Sport of the Gods",
+	"creator": "Paul Laurence Dunbar",
+	"description": "In a Southern town and then in New York City, an African American family struggles for for its integrity and survival.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 18330,
+		"uniqueWordsCount": 3500,
+		"ranks": {
+			"highest": 47811,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 61
+			},
+			"A2": {
+				"count": 424,
+				"readability": 71
+			},
+			"B1": {
+				"count": 624,
+				"readability": 81
+			},
+			"B2": {
+				"count": 721,
+				"readability": 89
+			},
+			"C1": {
+				"count": 624,
+				"readability": 95
+			},
+			"C2": {
+				"count": 425,
+				"readability": 99
+			}
+		}
+	}
+}
