@@ -1,1 +1,43 @@
-{"dir":"leo-tolstoy/resurrection","title":"Resurrection","creator":"Leo Tolstoy","description":"A Russian landlord makes reparations to the woman he wronged in his youth.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":80557,"uniqueWordsCount":6071,"ranks":{"highest":49786,"lowest":1},"levels":{"A1":{"count":468,"readability":59},"A2":{"count":478,"readability":72},"B1":{"count":867,"readability":83},"B2":{"count":1327,"readability":91},"C1":{"count":1465,"readability":97},"C2":{"count":1074,"readability":100}}}}
+{
+	"dir": "leo-tolstoy/resurrection",
+	"title": "Resurrection",
+	"creator": "Leo Tolstoy",
+	"description": "A Russian landlord makes reparations to the woman he wronged in his youth.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 80353,
+		"uniqueWordsCount": 6370,
+		"ranks": {
+			"highest": 51700,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 57
+			},
+			"A2": {
+				"count": 479,
+				"readability": 70
+			},
+			"B1": {
+				"count": 889,
+				"readability": 81
+			},
+			"B2": {
+				"count": 1354,
+				"readability": 91
+			},
+			"C1": {
+				"count": 1539,
+				"readability": 97
+			},
+			"C2": {
+				"count": 1154,
+				"readability": 100
+			}
+		}
+	}
+}
