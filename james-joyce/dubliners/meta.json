@@ -1,1 +1,43 @@
-{"dir":"james-joyce/dubliners","title":"Dubliners","creator":"James Joyce","description":"Fifteen short stories about middle-class life in early 20th-century Dublin.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":33203,"uniqueWordsCount":5039,"ranks":{"highest":49607,"lowest":1},"levels":{"A1":{"count":465,"readability":60},"A2":{"count":459,"readability":71},"B1":{"count":783,"readability":80},"B2":{"count":1074,"readability":88},"C1":{"count":1095,"readability":95},"C2":{"count":825,"readability":99}}}}
+{
+	"dir": "james-joyce/dubliners",
+	"title": "Dubliners",
+	"creator": "James Joyce",
+	"description": "Fifteen short stories about middle-class life in early 20th-century Dublin.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 33171,
+		"uniqueWordsCount": 5249,
+		"ranks": {
+			"highest": 51516,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 58
+			},
+			"A2": {
+				"count": 463,
+				"readability": 69
+			},
+			"B1": {
+				"count": 793,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1102,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1146,
+				"readability": 94
+			},
+			"C2": {
+				"count": 876,
+				"readability": 99
+			}
+		}
+	}
+}
