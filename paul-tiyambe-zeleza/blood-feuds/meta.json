@@ -1,1 +1,43 @@
-{"dir":"paul-tiyambe-zeleza/blood-feuds","title":"Blood Feuds","creator":"Paul Tiyambe Zeleza","description":"Correted version\tThe one who has never felt like this will not be able to understand the whole pain of the person who was expelled from his home. How does it feel to live in a foreign country and speak a foreign language? You are always a foreigner, in any situation. Two families have been living in Zimbabwe for almost thirty years. Their home country is called Malawi, but they cannot come back there. They believed that one day they would return home. Although the men from these families have disagreements, they try to stick together. After all, they are countrymen. They often talked about the house. About the time when they were children: how they grew up, what games they played in their childhood. They remembered their schools and the beginning of the struggle for freedom against the British.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1678,"uniqueWordsCount":582,"ranks":{"highest":28282,"lowest":1},"levels":{"A1":{"count":277,"readability":66},"A2":{"count":111,"readability":80},"B1":{"count":79,"readability":88},"B2":{"count":64,"readability":95},"C1":{"count":30,"readability":97},"C2":{"count":14,"readability":99}}}}
+{
+	"dir": "paul-tiyambe-zeleza/blood-feuds",
+	"title": "Blood Feuds",
+	"creator": "Paul Tiyambe Zeleza",
+	"description": "Correted version\tThe one who has never felt like this will not be able to understand the whole pain of the person who was expelled from his home. How does it feel to live in a foreign country and speak a foreign language? You are always a foreigner, in any situation. Two families have been living in Zimbabwe for almost thirty years. Their home country is called Malawi, but they cannot come back there. They believed that one day they would return home. Although the men from these families have disagreements, they try to stick together. After all, they are countrymen. They often talked about the house. About the time when they were children: how they grew up, what games they played in their childhood. They remembered their schools and the beginning of the struggle for freedom against the British.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1679,
+		"uniqueWordsCount": 633,
+		"ranks": {
+			"highest": 52250,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 301,
+				"readability": 65
+			},
+			"A2": {
+				"count": 109,
+				"readability": 77
+			},
+			"B1": {
+				"count": 92,
+				"readability": 87
+			},
+			"B2": {
+				"count": 69,
+				"readability": 94
+			},
+			"C1": {
+				"count": 31,
+				"readability": 97
+			},
+			"C2": {
+				"count": 18,
+				"readability": 99
+			}
+		}
+	}
+}
