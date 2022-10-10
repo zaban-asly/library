@@ -1,1 +1,43 @@
-{"dir":"anthony-trollope/framley-parsonage","title":"Framley Parsonage","creator":"Anthony Trollope","description":"A young vicar with an aristocratic patron foolishly becomes mired in debt.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":90963,"uniqueWordsCount":6312,"ranks":{"highest":49089,"lowest":1},"levels":{"A1":{"count":467,"readability":64},"A2":{"count":478,"readability":76},"B1":{"count":893,"readability":85},"B2":{"count":1325,"readability":93},"C1":{"count":1477,"readability":97},"C2":{"count":1194,"readability":100}}}}
+{
+	"dir": "anthony-trollope/framley-parsonage",
+	"title": "Framley Parsonage",
+	"creator": "Anthony Trollope",
+	"description": "A young vicar with an aristocratic patron foolishly becomes mired in debt.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 90787,
+		"uniqueWordsCount": 6610,
+		"ranks": {
+			"highest": 50952,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 63
+			},
+			"A2": {
+				"count": 480,
+				"readability": 74
+			},
+			"B1": {
+				"count": 901,
+				"readability": 84
+			},
+			"B2": {
+				"count": 1366,
+				"readability": 92
+			},
+			"C1": {
+				"count": 1539,
+				"readability": 97
+			},
+			"C2": {
+				"count": 1295,
+				"readability": 100
+			}
+		}
+	}
+}
