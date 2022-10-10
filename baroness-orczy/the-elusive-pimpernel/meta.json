@@ -1,1 +1,43 @@
-{"dir":"baroness-orczy/the-elusive-pimpernel","title":"The Elusive Pimpernel","creator":"Baroness Orczy","description":"A French official schemes to finally catch the Scarlet Pimpernel.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":41531,"uniqueWordsCount":5503,"ranks":{"highest":49819,"lowest":1},"levels":{"A1":{"count":465,"readability":50},"A2":{"count":467,"readability":63},"B1":{"count":807,"readability":74},"B2":{"count":1133,"readability":86},"C1":{"count":1245,"readability":95},"C2":{"count":999,"readability":99}}}}
+{
+	"dir": "baroness-orczy/the-elusive-pimpernel",
+	"title": "The Elusive Pimpernel",
+	"creator": "Baroness Orczy",
+	"description": "A French official schemes to finally catch the Scarlet Pimpernel.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 41412,
+		"uniqueWordsCount": 5737,
+		"ranks": {
+			"highest": 51733,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 48
+			},
+			"A2": {
+				"count": 470,
+				"readability": 62
+			},
+			"B1": {
+				"count": 816,
+				"readability": 73
+			},
+			"B2": {
+				"count": 1154,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1307,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1052,
+				"readability": 99
+			}
+		}
+	}
+}
