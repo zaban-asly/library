@@ -1,1 +1,43 @@
-{"dir":"knut-hamsun/growth-of-the-soil","title":"Growth of the Soil","creator":"Knut Hamsun","description":"A man builds a farm and a family as society changes around him.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":63535,"uniqueWordsCount":4413,"ranks":{"highest":49101,"lowest":1},"levels":{"A1":{"count":461,"readability":69},"A2":{"count":453,"readability":78},"B1":{"count":751,"readability":87},"B2":{"count":976,"readability":93},"C1":{"count":866,"readability":98},"C2":{"count":617,"readability":100}}}}
+{
+	"dir": "knut-hamsun/growth-of-the-soil",
+	"title": "Growth of the Soil",
+	"creator": "Knut Hamsun",
+	"description": "A man builds a farm and a family as society changes around him.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 63411,
+		"uniqueWordsCount": 4691,
+		"ranks": {
+			"highest": 50966,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 489,
+				"readability": 66
+			},
+			"A2": {
+				"count": 455,
+				"readability": 76
+			},
+			"B1": {
+				"count": 780,
+				"readability": 86
+			},
+			"B2": {
+				"count": 997,
+				"readability": 93
+			},
+			"C1": {
+				"count": 964,
+				"readability": 97
+			},
+			"C2": {
+				"count": 660,
+				"readability": 100
+			}
+		}
+	}
+}
