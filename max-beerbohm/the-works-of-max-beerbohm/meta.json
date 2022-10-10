@@ -1,1 +1,43 @@
-{"dir":"max-beerbohm/the-works-of-max-beerbohm","title":"The Works of Max Beerbohm","creator":"Max Beerbohm","description":"A collection of satirical essays ridiculing pretentiousness through imitation.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":16332,"uniqueWordsCount":4496,"ranks":{"highest":48808,"lowest":1},"levels":{"A1":{"count":460,"readability":46},"A2":{"count":417,"readability":57},"B1":{"count":668,"readability":69},"B2":{"count":881,"readability":80},"C1":{"count":958,"readability":90},"C2":{"count":749,"readability":97}}}}
+{
+	"dir": "max-beerbohm/the-works-of-max-beerbohm",
+	"title": "The Works of Max Beerbohm",
+	"creator": "Max Beerbohm",
+	"description": "A collection of satirical essays ridiculing pretentiousness through imitation.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 16296,
+		"uniqueWordsCount": 4664,
+		"ranks": {
+			"highest": 50656,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 484,
+				"readability": 44
+			},
+			"A2": {
+				"count": 422,
+				"readability": 56
+			},
+			"B1": {
+				"count": 672,
+				"readability": 68
+			},
+			"B2": {
+				"count": 908,
+				"readability": 79
+			},
+			"C1": {
+				"count": 975,
+				"readability": 89
+			},
+			"C2": {
+				"count": 788,
+				"readability": 97
+			}
+		}
+	}
+}
