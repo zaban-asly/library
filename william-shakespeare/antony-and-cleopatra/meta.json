@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/antony-and-cleopatra","title":"Antony and Cleopatra","creator":"William Shakespeare","description":"Mark Antony, a Roman triumvir, and Cleopatra, the Queen of Egypt, become embroiled in a deadly love affair.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":12858,"uniqueWordsCount":2564,"ranks":{"highest":49662,"lowest":1},"levels":{"A1":{"count":417,"readability":51},"A2":{"count":323,"readability":62},"B1":{"count":482,"readability":75},"B2":{"count":516,"readability":87},"C1":{"count":437,"readability":95},"C2":{"count":256,"readability":99}}}}
+{
+	"dir": "william-shakespeare/antony-and-cleopatra",
+	"title": "Antony and Cleopatra",
+	"creator": "William Shakespeare",
+	"description": "Mark Antony, a Roman triumvir, and Cleopatra, the Queen of Egypt, become embroiled in a deadly love affair.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 12831,
+		"uniqueWordsCount": 2708,
+		"ranks": {
+			"highest": 51573,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 439,
+				"readability": 49
+			},
+			"A2": {
+				"count": 327,
+				"readability": 60
+			},
+			"B1": {
+				"count": 485,
+				"readability": 74
+			},
+			"B2": {
+				"count": 541,
+				"readability": 86
+			},
+			"C1": {
+				"count": 464,
+				"readability": 94
+			},
+			"C2": {
+				"count": 291,
+				"readability": 99
+			}
+		}
+	}
+}
