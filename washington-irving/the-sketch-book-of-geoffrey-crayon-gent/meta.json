@@ -1,1 +1,43 @@
-{"dir":"washington-irving/the-sketch-book-of-geoffrey-crayon-gent","title":"The Sketch-Book of Geoffrey Crayon, Gent.","creator":"Washington Irving","description":"A collection of 34 essays and short stories, including “The Legend of Sleepy Hollow” and “Rip Van Winkle.”","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":65355,"uniqueWordsCount":8267,"ranks":{"highest":50171,"lowest":1},"levels":{"A1":{"count":471,"readability":43},"A2":{"count":484,"readability":56},"B1":{"count":914,"readability":69},"B2":{"count":1559,"readability":83},"C1":{"count":2088,"readability":93},"C2":{"count":1913,"readability":99}}}}
+{
+	"dir": "washington-irving/the-sketch-book-of-geoffrey-crayon-gent",
+	"title": "The Sketch-Book of Geoffrey Crayon, Gent.",
+	"creator": "Washington Irving",
+	"description": "A collection of 34 essays and short stories, including “The Legend of Sleepy Hollow” and “Rip Van Winkle.”",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 65197,
+		"uniqueWordsCount": 8605,
+		"ranks": {
+			"highest": 52095,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 498,
+				"readability": 41
+			},
+			"A2": {
+				"count": 484,
+				"readability": 54
+			},
+			"B1": {
+				"count": 920,
+				"readability": 68
+			},
+			"B2": {
+				"count": 1572,
+				"readability": 81
+			},
+			"C1": {
+				"count": 2151,
+				"readability": 92
+			},
+			"C2": {
+				"count": 2018,
+				"readability": 98
+			}
+		}
+	}
+}
