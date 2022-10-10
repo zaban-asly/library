@@ -1,1 +1,43 @@
-{"dir":"h-g-wells/island-of-dr-moreau","title":"Island of Dr Moreau","creator":"H. G. Wells","description":"<p>This book became an inspiration for many writers around the world. The science fiction novel raises questions: what makes us humans? Where is the line, which can't be crossed? The traveller Edward Prednick, who survived shipwreck and he had spent eight days in mid ocean but finally recovered himself in a boat. Beside him was a man, called himself Montgomery. He took care of Edward, and asked victim about his survival in the ocean and about his life. Throughout the conversation, Edward was hearing strange animal sounds, but did not give them a special meaning. Later, when a saved man got better, he understood, that the ship followed to the unnamed island, and people he met on this ship weren’t look like a people...</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":6422,"uniqueWordsCount":808,"ranks":{"highest":36952,"lowest":1},"levels":{"A1":{"count":343,"readability":70},"A2":{"count":173,"readability":85},"B1":{"count":132,"readability":92},"B2":{"count":88,"readability":96},"C1":{"count":41,"readability":99},"C2":{"count":23,"readability":100}}}}
+{
+	"dir": "h-g-wells/island-of-dr-moreau",
+	"title": "Island of Dr Moreau",
+	"creator": "H. G. Wells",
+	"description": "<p>This book became an inspiration for many writers around the world. The science fiction novel raises questions: what makes us humans? Where is the line, which can't be crossed? The traveller Edward Prednick, who survived shipwreck and he had spent eight days in mid ocean but finally recovered himself in a boat. Beside him was a man, called himself Montgomery. He took care of Edward, and asked victim about his survival in the ocean and about his life. Throughout the conversation, Edward was hearing strange animal sounds, but did not give them a special meaning. Later, when a saved man got better, he understood, that the ship followed to the unnamed island, and people he met on this ship weren’t look like a people...</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 6422,
+		"uniqueWordsCount": 906,
+		"ranks": {
+			"highest": 38367,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 370,
+				"readability": 67
+			},
+			"A2": {
+				"count": 181,
+				"readability": 82
+			},
+			"B1": {
+				"count": 164,
+				"readability": 91
+			},
+			"B2": {
+				"count": 105,
+				"readability": 95
+			},
+			"C1": {
+				"count": 45,
+				"readability": 97
+			},
+			"C2": {
+				"count": 29,
+				"readability": 100
+			}
+		}
+	}
+}
