@@ -1,1 +1,43 @@
-{"dir":"mark-twain/the-million-pound-bank-note","title":"The Million Pound Bank Note","creator":"Mark Twain","description":"<p>An ordinary official worker suddenly appeared in foreign country only with one dollar in a pocket. When he spent his money at first day, he became an absolutely beggar. But his destiny wasn't to die from hunger. Two very rich brothers had an agreement: can someone live a month with one unique note of five million pounds or not? They proposed poor foreigner to take park at such experiment and to find out a truth. A hungry and tired man did not understand the proposal clearly, but when he heard word money - he agreed. He took an envelope with banknote and rushed to the nearest cafe. He ordered a lot of meal, but when he opened the envelope, he understand that he could not pay…</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1974,"uniqueWordsCount":533,"ranks":{"highest":33446,"lowest":11},"levels":{"A1":{"count":275,"readability":67},"A2":{"count":89,"readability":79},"B1":{"count":66,"readability":89},"B2":{"count":55,"readability":94},"C1":{"count":30,"readability":98},"C2":{"count":13,"readability":100}}}}
+{
+	"dir": "mark-twain/the-million-pound-bank-note",
+	"title": "The Million Pound Bank Note",
+	"creator": "Mark Twain",
+	"description": "<p>An ordinary official worker suddenly appeared in foreign country only with one dollar in a pocket. When he spent his money at first day, he became an absolutely beggar. But his destiny wasn't to die from hunger. Two very rich brothers had an agreement: can someone live a month with one unique note of five million pounds or not? They proposed poor foreigner to take park at such experiment and to find out a truth. A hungry and tired man did not understand the proposal clearly, but when he heard word money - he agreed. He took an envelope with banknote and rushed to the nearest cafe. He ordered a lot of meal, but when he opened the envelope, he understand that he could not pay…</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1974,
+		"uniqueWordsCount": 575,
+		"ranks": {
+			"highest": 34720,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 293,
+				"readability": 64
+			},
+			"A2": {
+				"count": 92,
+				"readability": 76
+			},
+			"B1": {
+				"count": 82,
+				"readability": 88
+			},
+			"B2": {
+				"count": 57,
+				"readability": 94
+			},
+			"C1": {
+				"count": 32,
+				"readability": 98
+			},
+			"C2": {
+				"count": 14,
+				"readability": 100
+			}
+		}
+	}
+}
