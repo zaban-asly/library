@@ -1,1 +1,43 @@
-{"dir":"jules-verne/ticket-no-9672","title":"Ticket No. 9672","creator":"Jules Verne","description":"The wife of a lost fisherman finds his last message to her: a lottery ticket in a bottle.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":23027,"uniqueWordsCount":3709,"ranks":{"highest":47738,"lowest":1},"levels":{"A1":{"count":460,"readability":52},"A2":{"count":425,"readability":65},"B1":{"count":693,"readability":77},"B2":{"count":824,"readability":87},"C1":{"count":720,"readability":93},"C2":{"count":461,"readability":100}}}}
+{
+	"dir": "jules-verne/ticket-no-9672",
+	"title": "Ticket No. 9672",
+	"creator": "Jules Verne",
+	"description": "The wife of a lost fisherman finds his last message to her: a lottery ticket in a bottle.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 22975,
+		"uniqueWordsCount": 3875,
+		"ranks": {
+			"highest": 49533,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 51
+			},
+			"A2": {
+				"count": 427,
+				"readability": 63
+			},
+			"B1": {
+				"count": 707,
+				"readability": 76
+			},
+			"B2": {
+				"count": 848,
+				"readability": 86
+			},
+			"C1": {
+				"count": 754,
+				"readability": 93
+			},
+			"C2": {
+				"count": 500,
+				"readability": 99
+			}
+		}
+	}
+}
