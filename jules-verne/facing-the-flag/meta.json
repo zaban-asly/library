@@ -1,1 +1,43 @@
-{"dir":"jules-verne/facing-the-flag","title":"Facing the Flag","creator":"Jules Verne","description":"An engineer poses as an aide to a scientist whose invention of a world-conquering weapon drives him insane.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":26415,"uniqueWordsCount":3915,"ranks":{"highest":49488,"lowest":1},"levels":{"A1":{"count":445,"readability":46},"A2":{"count":411,"readability":60},"B1":{"count":686,"readability":75},"B2":{"count":836,"readability":85},"C1":{"count":771,"readability":94},"C2":{"count":560,"readability":99}}}}
+{
+	"dir": "jules-verne/facing-the-flag",
+	"title": "Facing the Flag",
+	"creator": "Jules Verne",
+	"description": "An engineer poses as an aide to a scientist whose invention of a world-conquering weapon drives him insane.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 26343,
+		"uniqueWordsCount": 4069,
+		"ranks": {
+			"highest": 51393,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 470,
+				"readability": 45
+			},
+			"A2": {
+				"count": 416,
+				"readability": 59
+			},
+			"B1": {
+				"count": 697,
+				"readability": 73
+			},
+			"B2": {
+				"count": 871,
+				"readability": 85
+			},
+			"C1": {
+				"count": 798,
+				"readability": 93
+			},
+			"C2": {
+				"count": 580,
+				"readability": 99
+			}
+		}
+	}
+}
