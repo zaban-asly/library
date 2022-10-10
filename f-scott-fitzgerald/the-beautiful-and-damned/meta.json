@@ -1,1 +1,43 @@
-{"dir":"f-scott-fitzgerald/the-beautiful-and-damned","title":"The Beautiful and Damned","creator":"F. Scott Fitzgerald","description":"The marriage between a down-and-out aesthete and a self-indulgent flapper begins to crumble against the backdrop of World War I and America’s Jazz Age.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":63237,"uniqueWordsCount":8006,"ranks":{"highest":49944,"lowest":1},"levels":{"A1":{"count":469,"readability":52},"A2":{"count":485,"readability":63},"B1":{"count":892,"readability":74},"B2":{"count":1437,"readability":85},"C1":{"count":1810,"readability":93},"C2":{"count":1782,"readability":98}}}}
+{
+	"dir": "f-scott-fitzgerald/the-beautiful-and-damned",
+	"title": "The Beautiful and Damned",
+	"creator": "F. Scott Fitzgerald",
+	"description": "The marriage between a down-and-out aesthete and a self-indulgent flapper begins to crumble against the backdrop of World War I and America’s Jazz Age.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 63125,
+		"uniqueWordsCount": 8314,
+		"ranks": {
+			"highest": 51862,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 50
+			},
+			"A2": {
+				"count": 485,
+				"readability": 61
+			},
+			"B1": {
+				"count": 905,
+				"readability": 72
+			},
+			"B2": {
+				"count": 1459,
+				"readability": 84
+			},
+			"C1": {
+				"count": 1879,
+				"readability": 93
+			},
+			"C2": {
+				"count": 1847,
+				"readability": 98
+			}
+		}
+	}
+}
