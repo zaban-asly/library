@@ -1,1 +1,43 @@
-{"dir":"e-t-a-hoffmann/master-flea","title":"Master Flea","creator":"E. T. A. Hoffmann","description":"A gentleman bachelor gains an epic advantage of tiny proportions in this allegorical, Romantic, fairy-tale novel.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":22088,"uniqueWordsCount":3626,"ranks":{"highest":45692,"lowest":1},"levels":{"A1":{"count":450,"readability":54},"A2":{"count":421,"readability":67},"B1":{"count":677,"readability":79},"B2":{"count":799,"readability":88},"C1":{"count":696,"readability":96},"C2":{"count":423,"readability":99}}}}
+{
+	"dir": "e-t-a-hoffmann/master-flea",
+	"title": "Master Flea",
+	"creator": "E. T. A. Hoffmann",
+	"description": "A gentleman bachelor gains an epic advantage of tiny proportions in this allegorical, Romantic, fairy-tale novel.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 22043,
+		"uniqueWordsCount": 3846,
+		"ranks": {
+			"highest": 47404,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 481,
+				"readability": 52
+			},
+			"A2": {
+				"count": 424,
+				"readability": 65
+			},
+			"B1": {
+				"count": 699,
+				"readability": 77
+			},
+			"B2": {
+				"count": 829,
+				"readability": 87
+			},
+			"C1": {
+				"count": 747,
+				"readability": 93
+			},
+			"C2": {
+				"count": 480,
+				"readability": 99
+			}
+		}
+	}
+}
