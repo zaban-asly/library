@@ -1,1 +1,43 @@
-{"dir":"louis-h-mon/maria-chapdelaine","title":"Maria Chapdelaine","creator":"Louis Hémon","description":"Maria Chapdelaine, a woman living in the French Canadian wilderness, must choose either to remain Québécois in the land that has broken her heart, or to pursue a softer urban life in foreign New England.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":22892,"uniqueWordsCount":3869,"ranks":{"highest":50258,"lowest":1},"levels":{"A1":{"count":460,"readability":56},"A2":{"count":431,"readability":68},"B1":{"count":674,"readability":80},"B2":{"count":851,"readability":90},"C1":{"count":789,"readability":96},"C2":{"count":493,"readability":100}}}}
+{
+	"dir": "louis-h-mon/maria-chapdelaine",
+	"title": "Maria Chapdelaine",
+	"creator": "Louis Hémon",
+	"description": "Maria Chapdelaine, a woman living in the French Canadian wilderness, must choose either to remain Québécois in the land that has broken her heart, or to pursue a softer urban life in foreign New England.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 22866,
+		"uniqueWordsCount": 4090,
+		"ranks": {
+			"highest": 52185,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 488,
+				"readability": 54
+			},
+			"A2": {
+				"count": 432,
+				"readability": 66
+			},
+			"B1": {
+				"count": 696,
+				"readability": 78
+			},
+			"B2": {
+				"count": 897,
+				"readability": 89
+			},
+			"C1": {
+				"count": 832,
+				"readability": 96
+			},
+			"C2": {
+				"count": 547,
+				"readability": 99
+			}
+		}
+	}
+}
