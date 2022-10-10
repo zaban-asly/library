@@ -1,1 +1,43 @@
-{"dir":"edgar-rice-burroughs/the-beasts-of-tarzan","title":"The Beasts of Tarzan","creator":"Edgar Rice Burroughs","description":"An old enemy kidnaps Tarzan’s family, and Tarzan must rescue them with the help of his panther and ape friends.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":30158,"uniqueWordsCount":4138,"ranks":{"highest":38399,"lowest":1},"levels":{"A1":{"count":447,"readability":50},"A2":{"count":417,"readability":63},"B1":{"count":690,"readability":77},"B2":{"count":871,"readability":89},"C1":{"count":887,"readability":96},"C2":{"count":627,"readability":99}}}}
+{
+	"dir": "edgar-rice-burroughs/the-beasts-of-tarzan",
+	"title": "The Beasts of Tarzan",
+	"creator": "Edgar Rice Burroughs",
+	"description": "An old enemy kidnaps Tarzan’s family, and Tarzan must rescue them with the help of his panther and ape friends.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 30118,
+		"uniqueWordsCount": 4342,
+		"ranks": {
+			"highest": 39876,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 475,
+				"readability": 48
+			},
+			"A2": {
+				"count": 424,
+				"readability": 61
+			},
+			"B1": {
+				"count": 705,
+				"readability": 75
+			},
+			"B2": {
+				"count": 907,
+				"readability": 88
+			},
+			"C1": {
+				"count": 943,
+				"readability": 95
+			},
+			"C2": {
+				"count": 666,
+				"readability": 99
+			}
+		}
+	}
+}
