@@ -1,1 +1,43 @@
-{"dir":"ford-madox-ford/no-more-parades","title":"No More Parades","creator":"Ford Madox Ford","description":"An English gentleman gives his best as an officer during World War I, while struggling with his scandalous wife, the incompetence of the army, and the brutality of war.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":40408,"uniqueWordsCount":5557,"ranks":{"highest":50109,"lowest":1},"levels":{"A1":{"count":466,"readability":56},"A2":{"count":469,"readability":67},"B1":{"count":788,"readability":78},"B2":{"count":1147,"readability":87},"C1":{"count":1132,"readability":94},"C2":{"count":924,"readability":98}}}}
+{
+	"dir": "ford-madox-ford/no-more-parades",
+	"title": "No More Parades",
+	"creator": "Ford Madox Ford",
+	"description": "An English gentleman gives his best as an officer during World War I, while struggling with his scandalous wife, the incompetence of the army, and the brutality of war.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 40261,
+		"uniqueWordsCount": 5760,
+		"ranks": {
+			"highest": 52032,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 54
+			},
+			"A2": {
+				"count": 472,
+				"readability": 66
+			},
+			"B1": {
+				"count": 805,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1158,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1184,
+				"readability": 94
+			},
+			"C2": {
+				"count": 965,
+				"readability": 98
+			}
+		}
+	}
+}
