@@ -1,1 +1,43 @@
-{"dir":"gustave-flaubert/short-fiction","title":"Short Fiction","creator":"Gustave Flaubert","description":"A collection of short stories by Gustave Flaubert.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":19142,"uniqueWordsCount":4449,"ranks":{"highest":49779,"lowest":1},"levels":{"A1":{"count":461,"readability":47},"A2":{"count":441,"readability":61},"B1":{"count":739,"readability":74},"B2":{"count":979,"readability":86},"C1":{"count":937,"readability":94},"C2":{"count":624,"readability":99}}}}
+{
+	"dir": "gustave-flaubert/short-fiction",
+	"title": "Short Fiction",
+	"creator": "Gustave Flaubert",
+	"description": "A collection of short stories by Gustave Flaubert.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 19108,
+		"uniqueWordsCount": 4649,
+		"ranks": {
+			"highest": 51693,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 45
+			},
+			"A2": {
+				"count": 442,
+				"readability": 59
+			},
+			"B1": {
+				"count": 749,
+				"readability": 72
+			},
+			"B2": {
+				"count": 1012,
+				"readability": 85
+			},
+			"C1": {
+				"count": 980,
+				"readability": 93
+			},
+			"C2": {
+				"count": 684,
+				"readability": 99
+			}
+		}
+	}
+}
