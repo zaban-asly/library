@@ -1,1 +1,43 @@
-{"dir":"e-e-cummings/the-enormous-room","title":"The Enormous Room","creator":"E. E. Cummings","description":"E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":46838,"uniqueWordsCount":6517,"ranks":{"highest":49830,"lowest":1},"levels":{"A1":{"count":469,"readability":47},"A2":{"count":469,"readability":60},"B1":{"count":863,"readability":73},"B2":{"count":1251,"readability":84},"C1":{"count":1460,"readability":92},"C2":{"count":1236,"readability":98}}}}
+{
+	"dir": "e-e-cummings/the-enormous-room",
+	"title": "The Enormous Room",
+	"creator": "E. E. Cummings",
+	"description": "E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 46639,
+		"uniqueWordsCount": 6768,
+		"ranks": {
+			"highest": 51744,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 45
+			},
+			"A2": {
+				"count": 472,
+				"readability": 58
+			},
+			"B1": {
+				"count": 877,
+				"readability": 72
+			},
+			"B2": {
+				"count": 1273,
+				"readability": 83
+			},
+			"C1": {
+				"count": 1505,
+				"readability": 91
+			},
+			"C2": {
+				"count": 1310,
+				"readability": 97
+			}
+		}
+	}
+}
