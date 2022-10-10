@@ -1,1 +1,43 @@
-{"dir":"wilkie-collins/woman-in-white","title":"Woman in white","creator":"Wilkie Collins","description":"<font class=\"Apple-style-span\" face=\"'MS Shell Dlg 2', sans-serif\"><span class=\"Apple-style-span\" style=\"font-size: 12px;\">The young painter Walter Hartright has got a job like a drawing teacher in the  Limmeridge. He was recommended at this position by an Italian professor Pesca, his good friend. Walter was living in London, so he has to leave his town and went to Cumberland for this work. He decided to   say goodbye with his mother and sister. When he went out he met a strange woman. She was dressed in white from head to foot. They continued their way together and were talking. The woman in white has excited when he told about his future work, about people had hired him. And she has been telling about these people with love, anger and fear. Then Walter helped her to catch the cab and almost right he met two men who were searching woman in white which had escaped from the asylum.</span></font>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":5430,"uniqueWordsCount":1040,"ranks":{"highest":33822,"lowest":1},"levels":{"A1":{"count":384,"readability":68},"A2":{"count":200,"readability":80},"B1":{"count":198,"readability":89},"B2":{"count":169,"readability":96},"C1":{"count":62,"readability":99},"C2":{"count":23,"readability":100}}}}
+{
+	"dir": "wilkie-collins/woman-in-white",
+	"title": "Woman in white",
+	"creator": "Wilkie Collins",
+	"description": "<font class=\"Apple-style-span\" face=\"'MS Shell Dlg 2', sans-serif\"><span class=\"Apple-style-span\" style=\"font-size: 12px;\">The young painter Walter Hartright has got a job like a drawing teacher in the  Limmeridge. He was recommended at this position by an Italian professor Pesca, his good friend. Walter was living in London, so he has to leave his town and went to Cumberland for this work. He decided to   say goodbye with his mother and sister. When he went out he met a strange woman. She was dressed in white from head to foot. They continued their way together and were talking. The woman in white has excited when he told about his future work, about people had hired him. And she has been telling about these people with love, anger and fear. Then Walter helped her to catch the cab and almost right he met two men who were searching woman in white which had escaped from the asylum.</span></font>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 5428,
+		"uniqueWordsCount": 1109,
+		"ranks": {
+			"highest": 35117,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 412,
+				"readability": 66
+			},
+			"A2": {
+				"count": 197,
+				"readability": 79
+			},
+			"B1": {
+				"count": 213,
+				"readability": 88
+			},
+			"B2": {
+				"count": 180,
+				"readability": 95
+			},
+			"C1": {
+				"count": 76,
+				"readability": 99
+			},
+			"C2": {
+				"count": 27,
+				"readability": 100
+			}
+		}
+	}
+}
