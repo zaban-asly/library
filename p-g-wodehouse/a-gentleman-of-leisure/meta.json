@@ -1,1 +1,43 @@
-{"dir":"p-g-wodehouse/a-gentleman-of-leisure","title":"A Gentleman of Leisure","creator":"P. G. Wodehouse","description":"Jimmy Pitt gets much more than he bargained for when he bets his friends at the Strollers’ Club that he can successfully burgle a house.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":33011,"uniqueWordsCount":4819,"ranks":{"highest":48951,"lowest":1},"levels":{"A1":{"count":463,"readability":57},"A2":{"count":464,"readability":68},"B1":{"count":776,"readability":77},"B2":{"count":1042,"readability":88},"C1":{"count":1010,"readability":96},"C2":{"count":715,"readability":99}}}}
+{
+	"dir": "p-g-wodehouse/a-gentleman-of-leisure",
+	"title": "A Gentleman of Leisure",
+	"creator": "P. G. Wodehouse",
+	"description": "Jimmy Pitt gets much more than he bargained for when he bets his friends at the Strollers’ Club that he can successfully burgle a house.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 32957,
+		"uniqueWordsCount": 5031,
+		"ranks": {
+			"highest": 50802,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 56
+			},
+			"A2": {
+				"count": 469,
+				"readability": 66
+			},
+			"B1": {
+				"count": 796,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1059,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1050,
+				"readability": 95
+			},
+			"C2": {
+				"count": 759,
+				"readability": 99
+			}
+		}
+	}
+}
