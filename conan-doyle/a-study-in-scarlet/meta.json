@@ -1,1 +1,43 @@
-{"dir":"conan-doyle/a-study-in-scarlet","title":"A Study in Scarlet","creator":"Conan Doyle","description":"<p>This book is a debut of Sherlock Holmes and his companion Dr. Watson. The novel marked the beginning of a new epoch in the crime genre and the world literature in general. In 1881 two gentlemen settled in the same apartment in London. One of them is a retired military surgeon named John H. Watson. We will learn this story from his memoirs. His neighbor is a private detective Sherlock Holmes who was wounded during the war. The detective makes Dr. Watson amazed by his knowledge and by his original methods of solving the crimes. Sherlock complains about the absence of the real criminals in London. It's the reason why he can't use his methods in practice. But suddenly he got a lucky opportunity from Scotland Yard. His friend who works there, told him about a strange murder committed in an empty house.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":4302,"uniqueWordsCount":951,"ranks":{"highest":28049,"lowest":1},"levels":{"A1":{"count":361,"readability":65},"A2":{"count":189,"readability":77},"B1":{"count":188,"readability":88},"B2":{"count":137,"readability":95},"C1":{"count":51,"readability":98},"C2":{"count":19,"readability":100}}}}
+{
+	"dir": "conan-doyle/a-study-in-scarlet",
+	"title": "A Study in Scarlet",
+	"creator": "Conan Doyle",
+	"description": "<p>This book is a debut of Sherlock Holmes and his companion Dr. Watson. The novel marked the beginning of a new epoch in the crime genre and the world literature in general. In 1881 two gentlemen settled in the same apartment in London. One of them is a retired military surgeon named John H. Watson. We will learn this story from his memoirs. His neighbor is a private detective Sherlock Holmes who was wounded during the war. The detective makes Dr. Watson amazed by his knowledge and by his original methods of solving the crimes. Sherlock complains about the absence of the real criminals in London. It's the reason why he can't use his methods in practice. But suddenly he got a lucky opportunity from Scotland Yard. His friend who works there, told him about a strange murder committed in an empty house.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 4302,
+		"uniqueWordsCount": 1023,
+		"ranks": {
+			"highest": 29087,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 387,
+				"readability": 63
+			},
+			"A2": {
+				"count": 191,
+				"readability": 75
+			},
+			"B1": {
+				"count": 208,
+				"readability": 87
+			},
+			"B2": {
+				"count": 149,
+				"readability": 95
+			},
+			"C1": {
+				"count": 60,
+				"readability": 98
+			},
+			"C2": {
+				"count": 22,
+				"readability": 100
+			}
+		}
+	}
+}
