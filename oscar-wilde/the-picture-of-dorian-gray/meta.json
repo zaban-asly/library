@@ -1,1 +1,43 @@
-{"dir":"oscar-wilde/the-picture-of-dorian-gray","title":"The Picture of Dorian Gray","creator":"Oscar Wilde","description":"A Victorian dandy turns to a life of debauchery after a magical portrait stops him from aging.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":37718,"uniqueWordsCount":4639,"ranks":{"highest":49929,"lowest":1},"levels":{"A1":{"count":465,"readability":57},"A2":{"count":460,"readability":69},"B1":{"count":730,"readability":80},"B2":{"count":999,"readability":89},"C1":{"count":965,"readability":97},"C2":{"count":690,"readability":99}}}}
+{
+	"dir": "oscar-wilde/the-picture-of-dorian-gray",
+	"title": "The Picture of Dorian Gray",
+	"creator": "Oscar Wilde",
+	"description": "A Victorian dandy turns to a life of debauchery after a magical portrait stops him from aging.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 37651,
+		"uniqueWordsCount": 4857,
+		"ranks": {
+			"highest": 51847,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 55
+			},
+			"A2": {
+				"count": 466,
+				"readability": 68
+			},
+			"B1": {
+				"count": 748,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1036,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1031,
+				"readability": 96
+			},
+			"C2": {
+				"count": 719,
+				"readability": 99
+			}
+		}
+	}
+}
