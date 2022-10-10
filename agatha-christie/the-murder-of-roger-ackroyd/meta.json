@@ -1,1 +1,43 @@
-{"dir":"agatha-christie/the-murder-of-roger-ackroyd","title":"The Murder of Roger Ackroyd","creator":"Agatha Christie","description":"Poirot comes out of retirement to investigate the murder of a friend.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":33102,"uniqueWordsCount":3945,"ranks":{"highest":48319,"lowest":1},"levels":{"A1":{"count":462,"readability":62},"A2":{"count":433,"readability":73},"B1":{"count":690,"readability":83},"B2":{"count":835,"readability":91},"C1":{"count":766,"readability":96},"C2":{"count":542,"readability":99}}}}
+{
+	"dir": "agatha-christie/the-murder-of-roger-ackroyd",
+	"title": "The Murder of Roger Ackroyd",
+	"creator": "Agatha Christie",
+	"description": "Poirot comes out of retirement to investigate the murder of a friend.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 32950,
+		"uniqueWordsCount": 4104,
+		"ranks": {
+			"highest": 50141,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 61
+			},
+			"A2": {
+				"count": 438,
+				"readability": 72
+			},
+			"B1": {
+				"count": 703,
+				"readability": 82
+			},
+			"B2": {
+				"count": 860,
+				"readability": 90
+			},
+			"C1": {
+				"count": 783,
+				"readability": 96
+			},
+			"C2": {
+				"count": 583,
+				"readability": 99
+			}
+		}
+	}
+}
