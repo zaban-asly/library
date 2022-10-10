@@ -1,1 +1,43 @@
-{"dir":"alexander-pushkin/eugene-onegin","title":"Eugene Onegin","creator":"Alexander Pushkin","description":"A jaded Russian fop’s disdain for the world catches up with him.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":20961,"uniqueWordsCount":5152,"ranks":{"highest":49465,"lowest":1},"levels":{"A1":{"count":462,"readability":39},"A2":{"count":440,"readability":52},"B1":{"count":755,"readability":66},"B2":{"count":1073,"readability":81},"C1":{"count":1156,"readability":92},"C2":{"count":904,"readability":98}}}}
+{
+	"dir": "alexander-pushkin/eugene-onegin",
+	"title": "Eugene Onegin",
+	"creator": "Alexander Pushkin",
+	"description": "A jaded Russian fop’s disdain for the world catches up with him.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 20933,
+		"uniqueWordsCount": 5335,
+		"ranks": {
+			"highest": 51367,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 37
+			},
+			"A2": {
+				"count": 441,
+				"readability": 50
+			},
+			"B1": {
+				"count": 763,
+				"readability": 65
+			},
+			"B2": {
+				"count": 1096,
+				"readability": 80
+			},
+			"C1": {
+				"count": 1208,
+				"readability": 91
+			},
+			"C2": {
+				"count": 929,
+				"readability": 98
+			}
+		}
+	}
+}
