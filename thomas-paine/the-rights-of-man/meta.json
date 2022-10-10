@@ -1,1 +1,43 @@
-{"dir":"thomas-paine/the-rights-of-man","title":"The Rights of Man","creator":"Thomas Paine","description":"A philosopher and political activist presents a forceful argument in favor of the principles of the French Revolution and of republicanism in general, together with a condemnation of monarchy and hereditary power in general.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":44640,"uniqueWordsCount":4603,"ranks":{"highest":48080,"lowest":1},"levels":{"A1":{"count":448,"readability":45},"A2":{"count":407,"readability":61},"B1":{"count":714,"readability":76},"B2":{"count":949,"readability":87},"C1":{"count":1004,"readability":96},"C2":{"count":756,"readability":99}}}}
+{
+	"dir": "thomas-paine/the-rights-of-man",
+	"title": "The Rights of Man",
+	"creator": "Thomas Paine",
+	"description": "A philosopher and political activist presents a forceful argument in favor of the principles of the French Revolution and of republicanism in general, together with a condemnation of monarchy and hereditary power in general.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 44424,
+		"uniqueWordsCount": 4794,
+		"ranks": {
+			"highest": 49889,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 472,
+				"readability": 44
+			},
+			"A2": {
+				"count": 415,
+				"readability": 60
+			},
+			"B1": {
+				"count": 720,
+				"readability": 74
+			},
+			"B2": {
+				"count": 961,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1053,
+				"readability": 95
+			},
+			"C2": {
+				"count": 807,
+				"readability": 99
+			}
+		}
+	}
+}
