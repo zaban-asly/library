@@ -1,1 +1,43 @@
-{"dir":"agatha-christie/the-secret-adversary","title":"The Secret Adversary","creator":"Agatha Christie","description":"Tommy and Tuppence try to solve a mystery, only to find themselves embroiled in schemes of murder, millionaires, and diplomats.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":36777,"uniqueWordsCount":4702,"ranks":{"highest":37075,"lowest":1},"levels":{"A1":{"count":464,"readability":59},"A2":{"count":465,"readability":71},"B1":{"count":782,"readability":81},"B2":{"count":1035,"readability":90},"C1":{"count":971,"readability":96},"C2":{"count":717,"readability":100}}}}
+{
+	"dir": "agatha-christie/the-secret-adversary",
+	"title": "The Secret Adversary",
+	"creator": "Agatha Christie",
+	"description": "Tommy and Tuppence try to solve a mystery, only to find themselves embroiled in schemes of murder, millionaires, and diplomats.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 36704,
+		"uniqueWordsCount": 4915,
+		"ranks": {
+			"highest": 38499,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 57
+			},
+			"A2": {
+				"count": 468,
+				"readability": 69
+			},
+			"B1": {
+				"count": 803,
+				"readability": 80
+			},
+			"B2": {
+				"count": 1066,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1026,
+				"readability": 96
+			},
+			"C2": {
+				"count": 749,
+				"readability": 99
+			}
+		}
+	}
+}
