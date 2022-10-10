@@ -1,1 +1,43 @@
-{"dir":"o-henry/tildy-s-moment","title":"Tildy's Moment","creator":"O. Henry","description":"A small family restaurant is not the most famous or posh place in the city. Most clients are people who need an inexpensive but tasty food. Large portions for hungry men. The restaurant owner personally works in the hall and accepts money from guests. There are also two waitresses working there: a tall and beautiful woman and a low, fat partner who looks like a gnome. Mostly men visit the restaurant. Certainly, they love the tall beautiful girl more. They enjoy talking to her and just watching. She is able to support any conversation and to be pleasant and sweet. The young girl often receives expensive gifts from the customers. Nobody pays attention to the short fat waitress. Men do not want to talk to her and, of course, do not give gifts. She is just a good waitress, but that is not enough.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":402,"uniqueWordsCount":191,"ranks":{"highest":24653,"lowest":11},"levels":{"A1":{"count":133,"readability":76},"A2":{"count":27,"readability":86},"B1":{"count":12,"readability":91},"B2":{"count":13,"readability":96},"C1":{"count":4,"readability":97},"C2":{"count":1,"readability":98}}}}
+{
+	"dir": "o-henry/tildy-s-moment",
+	"title": "Tildy's Moment",
+	"creator": "O. Henry",
+	"description": "A small family restaurant is not the most famous or posh place in the city. Most clients are people who need an inexpensive but tasty food. Large portions for hungry men. The restaurant owner personally works in the hall and accepts money from guests. There are also two waitresses working there: a tall and beautiful woman and a low, fat partner who looks like a gnome. Mostly men visit the restaurant. Certainly, they love the tall beautiful girl more. They enjoy talking to her and just watching. She is able to support any conversation and to be pleasant and sweet. The young girl often receives expensive gifts from the customers. Nobody pays attention to the short fat waitress. Men do not want to talk to her and, of course, do not give gifts. She is just a good waitress, but that is not enough.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 402,
+		"uniqueWordsCount": 209,
+		"ranks": {
+			"highest": 25546,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 141,
+				"readability": 74
+			},
+			"A2": {
+				"count": 30,
+				"readability": 84
+			},
+			"B1": {
+				"count": 17,
+				"readability": 90
+			},
+			"B2": {
+				"count": 13,
+				"readability": 96
+			},
+			"C1": {
+				"count": 6,
+				"readability": 97
+			},
+			"C2": {
+				"count": 1,
+				"readability": 98
+			}
+		}
+	}
+}
