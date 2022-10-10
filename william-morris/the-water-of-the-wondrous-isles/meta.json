@@ -1,1 +1,43 @@
-{"dir":"william-morris/the-water-of-the-wondrous-isles","title":"The Water of the Wondrous Isles","creator":"William Morris","description":"A beautiful woman escapes a life of servitude under an evil witch to adventure through a series of magical islands.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":65324,"uniqueWordsCount":3617,"ranks":{"highest":49997,"lowest":1},"levels":{"A1":{"count":428,"readability":62},"A2":{"count":344,"readability":72},"B1":{"count":499,"readability":81},"B2":{"count":689,"readability":90},"C1":{"count":742,"readability":96},"C2":{"count":572,"readability":99}}}}
+{
+	"dir": "william-morris/the-water-of-the-wondrous-isles",
+	"title": "The Water of the Wondrous Isles",
+	"creator": "William Morris",
+	"description": "A beautiful woman escapes a life of servitude under an evil witch to adventure through a series of magical islands.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 65220,
+		"uniqueWordsCount": 3949,
+		"ranks": {
+			"highest": 51915,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 456,
+				"readability": 60
+			},
+			"A2": {
+				"count": 353,
+				"readability": 70
+			},
+			"B1": {
+				"count": 525,
+				"readability": 79
+			},
+			"B2": {
+				"count": 744,
+				"readability": 89
+			},
+			"C1": {
+				"count": 803,
+				"readability": 96
+			},
+			"C2": {
+				"count": 657,
+				"readability": 99
+			}
+		}
+	}
+}
