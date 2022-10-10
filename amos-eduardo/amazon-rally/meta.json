@@ -1,1 +1,43 @@
-{"dir":"amos-eduardo/amazon-rally","title":"Amazon Rally","creator":"Amos Eduardo","description":"<p>Two friends Brian and David arrived in Brazil from a small English town to take part in the rally through the Amazon jungle. They have been travelling in Europe on the motorbikes and participating in all competitions. Now they are going to ride through the jungles. But there was one thing, which worried one of the boys. The local newspaper printed a note about the Indians, who lived in the jungles. The Indians were very unkind. They thought the miners were going to take their land. His friend didn't pay any attention to it. Wonderful competitions were waiting for them. The next four days were promising to be exciting! However, different things happen to the transport. There was something wrong with Brian's bike from the very start. Will Brian and David be able to win?</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":702,"uniqueWordsCount":170,"ranks":{"highest":15468,"lowest":11},"levels":{"A1":{"count":100,"readability":59},"A2":{"count":28,"readability":70},"B1":{"count":10,"readability":76},"B2":{"count":14,"readability":89},"C1":{"count":9,"readability":94},"C2":{"count":9,"readability":100}}}}
+{
+	"dir": "amos-eduardo/amazon-rally",
+	"title": "Amazon Rally",
+	"creator": "Amos Eduardo",
+	"description": "<p>Two friends Brian and David arrived in Brazil from a small English town to take part in the rally through the Amazon jungle. They have been travelling in Europe on the motorbikes and participating in all competitions. Now they are going to ride through the jungles. But there was one thing, which worried one of the boys. The local newspaper printed a note about the Indians, who lived in the jungles. The Indians were very unkind. They thought the miners were going to take their land. His friend didn't pay any attention to it. Wonderful competitions were waiting for them. The next four days were promising to be exciting! However, different things happen to the transport. There was something wrong with Brian's bike from the very start. Will Brian and David be able to win?</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 702,
+		"uniqueWordsCount": 174,
+		"ranks": {
+			"highest": 16028,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 101,
+				"readability": 59
+			},
+			"A2": {
+				"count": 30,
+				"readability": 70
+			},
+			"B1": {
+				"count": 10,
+				"readability": 76
+			},
+			"B2": {
+				"count": 13,
+				"readability": 88
+			},
+			"C1": {
+				"count": 11,
+				"readability": 94
+			},
+			"C2": {
+				"count": 8,
+				"readability": 99
+			}
+		}
+	}
+}
