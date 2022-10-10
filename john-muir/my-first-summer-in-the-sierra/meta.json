@@ -1,1 +1,43 @@
-{"dir":"john-muir/my-first-summer-in-the-sierra","title":"My First Summer in the Sierra","creator":"John Muir","description":"The influential Scottish-American naturalist spends a summer exploring the high country surrounding the headwaters of the Merced and Tuolumne rivers in the Sierra Nevada, and records what he sees in a diary.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":33029,"uniqueWordsCount":4387,"ranks":{"highest":50264,"lowest":1},"levels":{"A1":{"count":452,"readability":45},"A2":{"count":416,"readability":59},"B1":{"count":668,"readability":72},"B2":{"count":855,"readability":84},"C1":{"count":914,"readability":93},"C2":{"count":610,"readability":98}}}}
+{
+	"dir": "john-muir/my-first-summer-in-the-sierra",
+	"title": "My First Summer in the Sierra",
+	"creator": "John Muir",
+	"description": "The influential Scottish-American naturalist spends a summer exploring the high country surrounding the headwaters of the Merced and Tuolumne rivers in the Sierra Nevada, and records what he sees in a diary.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 32971,
+		"uniqueWordsCount": 4610,
+		"ranks": {
+			"highest": 52192,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 476,
+				"readability": 43
+			},
+			"A2": {
+				"count": 422,
+				"readability": 57
+			},
+			"B1": {
+				"count": 673,
+				"readability": 70
+			},
+			"B2": {
+				"count": 882,
+				"readability": 83
+			},
+			"C1": {
+				"count": 969,
+				"readability": 93
+			},
+			"C2": {
+				"count": 670,
+				"readability": 97
+			}
+		}
+	}
+}
