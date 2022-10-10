@@ -1,1 +1,43 @@
-{"dir":"t-s-eliot/poetry","title":"Poetry","creator":"T. S. Eliot","description":"A collection of T. S. Eliot’s poetry, including “The Love Song of J. Alfred Prufrock,” “The Waste Land,” and “The Hollow Men.”","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":5800,"uniqueWordsCount":2407,"ranks":{"highest":49978,"lowest":1},"levels":{"A1":{"count":407,"readability":44},"A2":{"count":296,"readability":57},"B1":{"count":368,"readability":69},"B2":{"count":469,"readability":81},"C1":{"count":372,"readability":91},"C2":{"count":270,"readability":96}}}}
+{
+	"dir": "t-s-eliot/poetry",
+	"title": "Poetry",
+	"creator": "T. S. Eliot",
+	"description": "A collection of T. S. Eliot’s poetry, including “The Love Song of J. Alfred Prufrock,” “The Waste Land,” and “The Hollow Men.”",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 5788,
+		"uniqueWordsCount": 2493,
+		"ranks": {
+			"highest": 51896,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 430,
+				"readability": 42
+			},
+			"A2": {
+				"count": 289,
+				"readability": 55
+			},
+			"B1": {
+				"count": 383,
+				"readability": 68
+			},
+			"B2": {
+				"count": 482,
+				"readability": 80
+			},
+			"C1": {
+				"count": 390,
+				"readability": 90
+			},
+			"C2": {
+				"count": 275,
+				"readability": 96
+			}
+		}
+	}
+}
