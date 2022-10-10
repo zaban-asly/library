@@ -1,1 +1,43 @@
-{"dir":"kevin-brophy/manchester-united","title":"Manchester United","creator":"Kevin Brophy","description":"The stadium is quiet. Nearly fifty thousand fans of the Manchester United team are silent. They have come to Barcelona with their favorite team to support them. So far, Bayern wins, but the gap is quite small. The players are tired. They are demoralized and not sure that they can win. Finally, some more active activities start on the field. And Manchester United scores one goal. It happens at the very end of the game, at the last minute of the match. The fans cheer up. After all, now their team has a chance. But there is less than a minute before the end of the match. Now it is completely incomprehensible how it will end. And the miracle happens. Another goal from Manchester United. They win the match in the final seconds. It was May of 1999. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3674,"uniqueWordsCount":730,"ranks":{"highest":41107,"lowest":1},"levels":{"A1":{"count":278,"readability":51},"A2":{"count":122,"readability":62},"B1":{"count":88,"readability":74},"B2":{"count":86,"readability":86},"C1":{"count":60,"readability":93},"C2":{"count":58,"readability":97}}}}
+{
+	"dir": "kevin-brophy/manchester-united",
+	"title": "Manchester United",
+	"creator": "Kevin Brophy",
+	"description": "The stadium is quiet. Nearly fifty thousand fans of the Manchester United team are silent. They have come to Barcelona with their favorite team to support them. So far, Bayern wins, but the gap is quite small. The players are tired. They are demoralized and not sure that they can win. Finally, some more active activities start on the field. And Manchester United scores one goal. It happens at the very end of the game, at the last minute of the match. The fans cheer up. After all, now their team has a chance. But there is less than a minute before the end of the match. Now it is completely incomprehensible how it will end. And the miracle happens. Another goal from Manchester United. They win the match in the final seconds. It was May of 1999. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3685,
+		"uniqueWordsCount": 778,
+		"ranks": {
+			"highest": 45298,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 291,
+				"readability": 48
+			},
+			"A2": {
+				"count": 119,
+				"readability": 58
+			},
+			"B1": {
+				"count": 110,
+				"readability": 73
+			},
+			"B2": {
+				"count": 87,
+				"readability": 85
+			},
+			"C1": {
+				"count": 66,
+				"readability": 92
+			},
+			"C2": {
+				"count": 59,
+				"readability": 96
+			}
+		}
+	}
+}
