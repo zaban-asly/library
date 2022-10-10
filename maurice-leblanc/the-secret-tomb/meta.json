@@ -1,1 +1,43 @@
-{"dir":"maurice-leblanc/the-secret-tomb","title":"The Secret Tomb","creator":"Maurice Leblanc","description":"A young travelling circus owner discovers a clue to ancestral treasure.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":32864,"uniqueWordsCount":4386,"ranks":{"highest":46880,"lowest":1},"levels":{"A1":{"count":465,"readability":55},"A2":{"count":447,"readability":68},"B1":{"count":782,"readability":80},"B2":{"count":1001,"readability":90},"C1":{"count":903,"readability":96},"C2":{"count":580,"readability":99}}}}
+{
+	"dir": "maurice-leblanc/the-secret-tomb",
+	"title": "The Secret Tomb",
+	"creator": "Maurice Leblanc",
+	"description": "A young travelling circus owner discovers a clue to ancestral treasure.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 32812,
+		"uniqueWordsCount": 4608,
+		"ranks": {
+			"highest": 48642,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 53
+			},
+			"A2": {
+				"count": 452,
+				"readability": 66
+			},
+			"B1": {
+				"count": 801,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1029,
+				"readability": 89
+			},
+			"C1": {
+				"count": 979,
+				"readability": 96
+			},
+			"C2": {
+				"count": 619,
+				"readability": 99
+			}
+		}
+	}
+}
