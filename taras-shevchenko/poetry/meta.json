@@ -1,1 +1,43 @@
-{"dir":"taras-shevchenko/poetry","title":"Poetry","creator":"Taras Shevchenko","description":"A collection of Taras Shevchenko’s poetry.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":7858,"uniqueWordsCount":1959,"ranks":{"highest":43900,"lowest":1},"levels":{"A1":{"count":385,"readability":53},"A2":{"count":275,"readability":66},"B1":{"count":365,"readability":79},"B2":{"count":382,"readability":88},"C1":{"count":302,"readability":96},"C2":{"count":190,"readability":99}}}}
+{
+	"dir": "taras-shevchenko/poetry",
+	"title": "Poetry",
+	"creator": "Taras Shevchenko",
+	"description": "A collection of Taras Shevchenko’s poetry.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 7857,
+		"uniqueWordsCount": 2068,
+		"ranks": {
+			"highest": 45559,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 409,
+				"readability": 50
+			},
+			"A2": {
+				"count": 272,
+				"readability": 63
+			},
+			"B1": {
+				"count": 376,
+				"readability": 77
+			},
+			"B2": {
+				"count": 419,
+				"readability": 88
+			},
+			"C1": {
+				"count": 317,
+				"readability": 95
+			},
+			"C2": {
+				"count": 206,
+				"readability": 99
+			}
+		}
+	}
+}
