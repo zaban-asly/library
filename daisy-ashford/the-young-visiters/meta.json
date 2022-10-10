@@ -1,1 +1,43 @@
-{"dir":"daisy-ashford/the-young-visiters","title":"The Young Visiters","creator":"Daisy Ashford","description":"A nine-year-old girl’s humorous depiction of high society, exactly as written in her notebook.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":7074,"uniqueWordsCount":1675,"ranks":{"highest":49759,"lowest":1},"levels":{"A1":{"count":401,"readability":57},"A2":{"count":278,"readability":70},"B1":{"count":283,"readability":79},"B2":{"count":308,"readability":89},"C1":{"count":243,"readability":97},"C2":{"count":109,"readability":99}}}}
+{
+	"dir": "daisy-ashford/the-young-visiters",
+	"title": "The Young Visiters",
+	"creator": "Daisy Ashford",
+	"description": "A nine-year-old girl’s humorous depiction of high society, exactly as written in her notebook.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 7066,
+		"uniqueWordsCount": 1764,
+		"ranks": {
+			"highest": 51673,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 422,
+				"readability": 55
+			},
+			"A2": {
+				"count": 280,
+				"readability": 68
+			},
+			"B1": {
+				"count": 303,
+				"readability": 78
+			},
+			"B2": {
+				"count": 321,
+				"readability": 88
+			},
+			"C1": {
+				"count": 261,
+				"readability": 97
+			},
+			"C2": {
+				"count": 123,
+				"readability": 99
+			}
+		}
+	}
+}
