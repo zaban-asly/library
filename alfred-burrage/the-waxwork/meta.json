@@ -1,1 +1,43 @@
-{"dir":"alfred-burrage/the-waxwork","title":"The Waxwork","creator":"Alfred Burrage","description":"<p>There are many things people are ready to do when they need money. A modest journalist is forced to apply to the head of Marriner's Waxworks and ask to let him spend a night in this museum. There is a Murderers' Room. Many waxworks of the most terrific maniacs in the world are gathered there. It is terrifying to spend some time along in this room. A brave man, who agrees to spend a night in the museum, will get a fee. The journalist is going to do this. He also promises the head to write the article about Marriner's Waxworks into the famous newspaper. It will be a good advertising for attracting the visitors. The deal is easy. Now the journalist has to stay at night in the museum. The most terrible thing is the waxwork of one French maniac. He hypnotized his victims before to wrest their throats. The maniac is said to have died, but his body isn't found yet.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1415,"uniqueWordsCount":344,"ranks":{"highest":23778,"lowest":1},"levels":{"A1":{"count":211,"readability":82},"A2":{"count":59,"readability":90},"B1":{"count":32,"readability":95},"B2":{"count":17,"readability":97},"C1":{"count":12,"readability":99},"C2":{"count":8,"readability":99}}}}
+{
+	"dir": "alfred-burrage/the-waxwork",
+	"title": "The Waxwork",
+	"creator": "Alfred Burrage",
+	"description": "<p>There are many things people are ready to do when they need money. A modest journalist is forced to apply to the head of Marriner's Waxworks and ask to let him spend a night in this museum. There is a Murderers' Room. Many waxworks of the most terrific maniacs in the world are gathered there. It is terrifying to spend some time along in this room. A brave man, who agrees to spend a night in the museum, will get a fee. The journalist is going to do this. He also promises the head to write the article about Marriner's Waxworks into the famous newspaper. It will be a good advertising for attracting the visitors. The deal is easy. Now the journalist has to stay at night in the museum. The most terrible thing is the waxwork of one French maniac. He hypnotized his victims before to wrest their throats. The maniac is said to have died, but his body isn't found yet.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1413,
+		"uniqueWordsCount": 379,
+		"ranks": {
+			"highest": 24631,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 231,
+				"readability": 81
+			},
+			"A2": {
+				"count": 59,
+				"readability": 89
+			},
+			"B1": {
+				"count": 40,
+				"readability": 95
+			},
+			"B2": {
+				"count": 20,
+				"readability": 97
+			},
+			"C1": {
+				"count": 10,
+				"readability": 98
+			},
+			"C2": {
+				"count": 13,
+				"readability": 99
+			}
+		}
+	}
+}
