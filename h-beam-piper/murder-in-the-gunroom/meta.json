@@ -1,1 +1,43 @@
-{"dir":"h-beam-piper/murder-in-the-gunroom","title":"Murder in the Gunroom","creator":"H. Beam Piper","description":"A private detective is called upon to evaluate a gun collection that contains a dark secret.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":33276,"uniqueWordsCount":4529,"ranks":{"highest":50328,"lowest":1},"levels":{"A1":{"count":461,"readability":54},"A2":{"count":415,"readability":64},"B1":{"count":657,"readability":75},"B2":{"count":857,"readability":84},"C1":{"count":886,"readability":94},"C2":{"count":684,"readability":98}}}}
+{
+	"dir": "h-beam-piper/murder-in-the-gunroom",
+	"title": "Murder in the Gunroom",
+	"creator": "H. Beam Piper",
+	"description": "A private detective is called upon to evaluate a gun collection that contains a dark secret.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 33201,
+		"uniqueWordsCount": 4700,
+		"ranks": {
+			"highest": 52257,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 488,
+				"readability": 52
+			},
+			"A2": {
+				"count": 421,
+				"readability": 63
+			},
+			"B1": {
+				"count": 681,
+				"readability": 74
+			},
+			"B2": {
+				"count": 871,
+				"readability": 83
+			},
+			"C1": {
+				"count": 913,
+				"readability": 93
+			},
+			"C2": {
+				"count": 710,
+				"readability": 98
+			}
+		}
+	}
+}
