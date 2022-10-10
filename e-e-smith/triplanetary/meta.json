@@ -1,1 +1,43 @@
-{"dir":"e-e-smith/triplanetary","title":"Triplanetary","creator":"E. E. Smith","description":"In a universe where all powerful alien races influence the fates of worlds, a war erupts between the Triplanetary League of the inner solar system, pirates led by a mysterious and malicious scientist, and technologically advanced aliens.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":46826,"uniqueWordsCount":6060,"ranks":{"highest":50204,"lowest":1},"levels":{"A1":{"count":461,"readability":48},"A2":{"count":445,"readability":59},"B1":{"count":779,"readability":72},"B2":{"count":1090,"readability":82},"C1":{"count":1243,"readability":91},"C2":{"count":1174,"readability":97}}}}
+{
+	"dir": "e-e-smith/triplanetary",
+	"title": "Triplanetary",
+	"creator": "E. E. Smith",
+	"description": "In a universe where all powerful alien races influence the fates of worlds, a war erupts between the Triplanetary League of the inner solar system, pirates led by a mysterious and malicious scientist, and technologically advanced aliens.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 46702,
+		"uniqueWordsCount": 6311,
+		"ranks": {
+			"highest": 52129,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 46
+			},
+			"A2": {
+				"count": 449,
+				"readability": 58
+			},
+			"B1": {
+				"count": 783,
+				"readability": 70
+			},
+			"B2": {
+				"count": 1124,
+				"readability": 81
+			},
+			"C1": {
+				"count": 1316,
+				"readability": 90
+			},
+			"C2": {
+				"count": 1207,
+				"readability": 97
+			}
+		}
+	}
+}
