@@ -1,1 +1,43 @@
-{"dir":"e-w-hornung/the-amateur-cracksman","title":"The Amateur Cracksman","creator":"E. W. Hornung","description":"A British cricketer and his friend steal valuables in this first collection of A. J. Raffles short stories.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":24214,"uniqueWordsCount":4122,"ranks":{"highest":44612,"lowest":1},"levels":{"A1":{"count":464,"readability":59},"A2":{"count":445,"readability":70},"B1":{"count":674,"readability":79},"B2":{"count":874,"readability":89},"C1":{"count":846,"readability":96},"C2":{"count":604,"readability":99}}}}
+{
+	"dir": "e-w-hornung/the-amateur-cracksman",
+	"title": "The Amateur Cracksman",
+	"creator": "E. W. Hornung",
+	"description": "A British cricketer and his friend steal valuables in this first collection of A. J. Raffles short stories.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 24187,
+		"uniqueWordsCount": 4325,
+		"ranks": {
+			"highest": 50772,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 57
+			},
+			"A2": {
+				"count": 450,
+				"readability": 69
+			},
+			"B1": {
+				"count": 698,
+				"readability": 78
+			},
+			"B2": {
+				"count": 907,
+				"readability": 88
+			},
+			"C1": {
+				"count": 887,
+				"readability": 95
+			},
+			"C2": {
+				"count": 640,
+				"readability": 99
+			}
+		}
+	}
+}
