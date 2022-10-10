@@ -1,1 +1,43 @@
-{"dir":"jack-london/the-son-of-the-wolf","title":"The Son of the Wolf","creator":"Jack London","description":"A collection of stories entailing life during the gold rush in the harsh wilderness of northwestern North America.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":24167,"uniqueWordsCount":4418,"ranks":{"highest":49634,"lowest":1},"levels":{"A1":{"count":463,"readability":54},"A2":{"count":436,"readability":65},"B1":{"count":686,"readability":76},"B2":{"count":893,"readability":86},"C1":{"count":897,"readability":93},"C2":{"count":694,"readability":98}}}}
+{
+	"dir": "jack-london/the-son-of-the-wolf",
+	"title": "The Son of the Wolf",
+	"creator": "Jack London",
+	"description": "A collection of stories entailing life during the gold rush in the harsh wilderness of northwestern North America.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 24140,
+		"uniqueWordsCount": 4638,
+		"ranks": {
+			"highest": 51545,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 489,
+				"readability": 51
+			},
+			"A2": {
+				"count": 444,
+				"readability": 63
+			},
+			"B1": {
+				"count": 702,
+				"readability": 75
+			},
+			"B2": {
+				"count": 933,
+				"readability": 85
+			},
+			"C1": {
+				"count": 954,
+				"readability": 93
+			},
+			"C2": {
+				"count": 729,
+				"readability": 98
+			}
+		}
+	}
+}
