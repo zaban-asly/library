@@ -1,1 +1,43 @@
-{"dir":"alison-baxter/the-usa","title":"The USA","creator":"Alison Baxter","description":"Imagine a large and completely empty territory. There are high mountains and dense forests with many animals on this land. Many lakes are also full of fish. But there is not a single person there. America was such kind of land more than thirty thousand years ago. Scientists think that at that time first ancient people arrived there from Asia. They decided to go to the South, where it would be warmer and easier to survive. So they stayed in America. That is how the first Indian tribes appeared - they came from the Mayan and Aztec people. Later, such a large country became a tidbit for many other nations. In the sixteenth century, Europeans began to visit America. Soon they brought slaves from Africa - these people were engaged in hard work. Only after hundreds of years America became a rich country.  ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":5379,"uniqueWordsCount":1130,"ranks":{"highest":43538,"lowest":1},"levels":{"A1":{"count":323,"readability":52},"A2":{"count":181,"readability":67},"B1":{"count":143,"readability":79},"B2":{"count":157,"readability":87},"C1":{"count":111,"readability":93},"C2":{"count":116,"readability":98}}}}
+{
+	"dir": "alison-baxter/the-usa",
+	"title": "The USA",
+	"creator": "Alison Baxter",
+	"description": "Imagine a large and completely empty territory. There are high mountains and dense forests with many animals on this land. Many lakes are also full of fish. But there is not a single person there. America was such kind of land more than thirty thousand years ago. Scientists think that at that time first ancient people arrived there from Asia. They decided to go to the South, where it would be warmer and easier to survive. So they stayed in America. That is how the first Indian tribes appeared - they came from the Mayan and Aztec people. Later, such a large country became a tidbit for many other nations. In the sixteenth century, Europeans began to visit America. Soon they brought slaves from Africa - these people were engaged in hard work. Only after hundreds of years America became a rich country.  ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 5402,
+		"uniqueWordsCount": 1223,
+		"ranks": {
+			"highest": 52255,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 342,
+				"readability": 50
+			},
+			"A2": {
+				"count": 189,
+				"readability": 64
+			},
+			"B1": {
+				"count": 163,
+				"readability": 77
+			},
+			"B2": {
+				"count": 158,
+				"readability": 86
+			},
+			"C1": {
+				"count": 118,
+				"readability": 92
+			},
+			"C2": {
+				"count": 123,
+				"readability": 97
+			}
+		}
+	}
+}
