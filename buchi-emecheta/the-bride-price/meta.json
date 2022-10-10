@@ -1,1 +1,43 @@
-{"dir":"buchi-emecheta/the-bride-price","title":"The Bride Price","creator":"Buchi Emecheta","description":"The action takes place in the city of Lagos, Nigeria. The girl  inserts the key into the lock and turns it. The door opens quietly. There is a small one-room apartment. She sees her father standing in front of the door. He is dressed, holding a hat in his hand and looks like a thief caught at the crime scene. The girl and her brother are looking at their father in surprise. At this time he is supposed to be at work. The brother of the girl is only eleven, but he is unusually tall for his age. Recently he has learnt to write in ink and is proud of it. The boy is very smart, though school lessons are hard for him. And he inherited a wonderful sense of humour from his mother. Now this whole unusual family meets in a small apartment in Lagos to reveal a common secret. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":9049,"uniqueWordsCount":1265,"ranks":{"highest":33829,"lowest":1},"levels":{"A1":{"count":399,"readability":69},"A2":{"count":255,"readability":81},"B1":{"count":252,"readability":90},"B2":{"count":178,"readability":96},"C1":{"count":105,"readability":99},"C2":{"count":47,"readability":100}}}}
+{
+	"dir": "buchi-emecheta/the-bride-price",
+	"title": "The Bride Price",
+	"creator": "Buchi Emecheta",
+	"description": "The action takes place in the city of Lagos, Nigeria. The girl  inserts the key into the lock and turns it. The door opens quietly. There is a small one-room apartment. She sees her father standing in front of the door. He is dressed, holding a hat in his hand and looks like a thief caught at the crime scene. The girl and her brother are looking at their father in surprise. At this time he is supposed to be at work. The brother of the girl is only eleven, but he is unusually tall for his age. Recently he has learnt to write in ink and is proud of it. The boy is very smart, though school lessons are hard for him. And he inherited a wonderful sense of humour from his mother. Now this whole unusual family meets in a small apartment in Lagos to reveal a common secret. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 9307,
+		"uniqueWordsCount": 1389,
+		"ranks": {
+			"highest": 48299,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 430,
+				"readability": 65
+			},
+			"A2": {
+				"count": 258,
+				"readability": 76
+			},
+			"B1": {
+				"count": 291,
+				"readability": 87
+			},
+			"B2": {
+				"count": 202,
+				"readability": 93
+			},
+			"C1": {
+				"count": 115,
+				"readability": 96
+			},
+			"C2": {
+				"count": 56,
+				"readability": 100
+			}
+		}
+	}
+}
