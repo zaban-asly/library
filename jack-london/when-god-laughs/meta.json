@@ -1,1 +1,43 @@
-{"dir":"jack-london/when-god-laughs","title":"When God Laughs","creator":"Jack London","description":"The eleventh collection of short stories by Jack London.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":24480,"uniqueWordsCount":4432,"ranks":{"highest":48523,"lowest":1},"levels":{"A1":{"count":458,"readability":54},"A2":{"count":445,"readability":66},"B1":{"count":710,"readability":77},"B2":{"count":883,"readability":87},"C1":{"count":941,"readability":94},"C2":{"count":671,"readability":99}}}}
+{
+	"dir": "jack-london/when-god-laughs",
+	"title": "When God Laughs",
+	"creator": "Jack London",
+	"description": "The eleventh collection of short stories by Jack London.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 24440,
+		"uniqueWordsCount": 4649,
+		"ranks": {
+			"highest": 50353,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 486,
+				"readability": 51
+			},
+			"A2": {
+				"count": 445,
+				"readability": 64
+			},
+			"B1": {
+				"count": 734,
+				"readability": 76
+			},
+			"B2": {
+				"count": 923,
+				"readability": 86
+			},
+			"C1": {
+				"count": 986,
+				"readability": 94
+			},
+			"C2": {
+				"count": 712,
+				"readability": 98
+			}
+		}
+	}
+}
