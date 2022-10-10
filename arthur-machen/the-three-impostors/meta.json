@@ -1,1 +1,43 @@
-{"dir":"arthur-machen/the-three-impostors","title":"The Three Impostors","creator":"Arthur Machen","description":"Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":28398,"uniqueWordsCount":4786,"ranks":{"highest":50209,"lowest":1},"levels":{"A1":{"count":462,"readability":55},"A2":{"count":460,"readability":67},"B1":{"count":783,"readability":79},"B2":{"count":1054,"readability":89},"C1":{"count":1067,"readability":96},"C2":{"count":694,"readability":99}}}}
+{
+	"dir": "arthur-machen/the-three-impostors",
+	"title": "The Three Impostors",
+	"creator": "Arthur Machen",
+	"description": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 28376,
+		"uniqueWordsCount": 5017,
+		"ranks": {
+			"highest": 52134,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 489,
+				"readability": 54
+			},
+			"A2": {
+				"count": 463,
+				"readability": 66
+			},
+			"B1": {
+				"count": 803,
+				"readability": 78
+			},
+			"B2": {
+				"count": 1083,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1119,
+				"readability": 95
+			},
+			"C2": {
+				"count": 752,
+				"readability": 99
+			}
+		}
+	}
+}
