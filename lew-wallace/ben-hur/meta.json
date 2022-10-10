@@ -1,1 +1,43 @@
-{"dir":"lew-wallace/ben-hur","title":"Ben Hur","creator":"Lew Wallace","description":"A young Jewish man’s family is falsely imprisoned and he is sent to the galleys; when he is released, he swears revenge on the Romans.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":94818,"uniqueWordsCount":7660,"ranks":{"highest":49591,"lowest":1},"levels":{"A1":{"count":463,"readability":54},"A2":{"count":467,"readability":66},"B1":{"count":900,"readability":78},"B2":{"count":1497,"readability":88},"C1":{"count":1889,"readability":95},"C2":{"count":1595,"readability":99}}}}
+{
+	"dir": "lew-wallace/ben-hur",
+	"title": "Ben Hur",
+	"creator": "Lew Wallace",
+	"description": "A young Jewish man’s family is falsely imprisoned and he is sent to the galleys; when he is released, he swears revenge on the Romans.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 94723,
+		"uniqueWordsCount": 8072,
+		"ranks": {
+			"highest": 51500,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 52
+			},
+			"A2": {
+				"count": 468,
+				"readability": 63
+			},
+			"B1": {
+				"count": 911,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1525,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1969,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1738,
+				"readability": 99
+			}
+		}
+	}
+}
