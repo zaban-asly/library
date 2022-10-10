@@ -1,1 +1,43 @@
-{"dir":"martin-andersen-nex/pelle-the-conqueror","title":"Pelle the Conqueror","creator":"Martin Andersen Nexø","description":"As a poor boy grows up to be a man, he becomes determined to solve the plight of his fellow men.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":198352,"uniqueWordsCount":9384,"ranks":{"highest":48766,"lowest":1},"levels":{"A1":{"count":469,"readability":63},"A2":{"count":487,"readability":74},"B1":{"count":942,"readability":83},"B2":{"count":1689,"readability":92},"C1":{"count":2430,"readability":97},"C2":{"count":2213,"readability":100}}}}
+{
+	"dir": "martin-andersen-nex/pelle-the-conqueror",
+	"title": "Pelle the Conqueror",
+	"creator": "Martin Andersen Nexø",
+	"description": "As a poor boy grows up to be a man, he becomes determined to solve the plight of his fellow men.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 198083,
+		"uniqueWordsCount": 9845,
+		"ranks": {
+			"highest": 50612,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 61
+			},
+			"A2": {
+				"count": 489,
+				"readability": 72
+			},
+			"B1": {
+				"count": 952,
+				"readability": 82
+			},
+			"B2": {
+				"count": 1698,
+				"readability": 91
+			},
+			"C1": {
+				"count": 2542,
+				"readability": 96
+			},
+			"C2": {
+				"count": 2359,
+				"readability": 99
+			}
+		}
+	}
+}

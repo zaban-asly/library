@@ -1,5 +1,5 @@
 
-# Pelle the Conqueror <kbd>v3.2.1</kbd>
+# Pelle the Conqueror <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
