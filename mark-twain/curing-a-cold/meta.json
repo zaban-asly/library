@@ -1,1 +1,43 @@
-{"dir":"mark-twain/curing-a-cold","title":"Curing a Cold","creator":"Mark Twain","description":"When the White House in Virginia burned down - the main character of this book lost his home and his precious trunk, and also happiness. It was not a problem. A home without close people who take care of you is not a real home. Happiness is also not a problem. But the loss of the trunk was important, it was insulting for him. On the first day after the fire, he caught a cold and constantly sneezed. A friend told him to pour hot water into a basin and warm legs there. The next morning, the ill man had a cold shower and went to a restaurant to eat well. Another friend advised him to drink a bottle of warm salt water - this is the best cold medicine. This method was also useless. Now he suffered not only from a cold, but also from stomach ache. He would rather have survived an earthquake; this is better than drinking warm, salty water.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":424,"uniqueWordsCount":233,"ranks":{"highest":14835,"lowest":1},"levels":{"A1":{"count":121,"readability":55},"A2":{"count":34,"readability":66},"B1":{"count":35,"readability":81},"B2":{"count":27,"readability":94},"C1":{"count":13,"readability":99},"C2":{"count":3,"readability":100}}}}
+{
+	"dir": "mark-twain/curing-a-cold",
+	"title": "Curing a Cold",
+	"creator": "Mark Twain",
+	"description": "When the White House in Virginia burned down - the main character of this book lost his home and his precious trunk, and also happiness. It was not a problem. A home without close people who take care of you is not a real home. Happiness is also not a problem. But the loss of the trunk was important, it was insulting for him. On the first day after the fire, he caught a cold and constantly sneezed. A friend told him to pour hot water into a basin and warm legs there. The next morning, the ill man had a cold shower and went to a restaurant to eat well. Another friend advised him to drink a bottle of warm salt water - this is the best cold medicine. This method was also useless. Now he suffered not only from a cold, but also from stomach ache. He would rather have survived an earthquake; this is better than drinking warm, salty water.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 422,
+		"uniqueWordsCount": 237,
+		"ranks": {
+			"highest": 15361,
+			"lowest": 3
+		},
+		"levels": {
+			"A1": {
+				"count": 118,
+				"readability": 51
+			},
+			"A2": {
+				"count": 36,
+				"readability": 64
+			},
+			"B1": {
+				"count": 39,
+				"readability": 81
+			},
+			"B2": {
+				"count": 26,
+				"readability": 94
+			},
+			"C1": {
+				"count": 15,
+				"readability": 99
+			},
+			"C2": {
+				"count": 3,
+				"readability": 100
+			}
+		}
+	}
+}
