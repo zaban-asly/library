@@ -1,1 +1,43 @@
-{"dir":"christopher-morley/the-haunted-bookshop","title":"The Haunted Bookshop","creator":"Christopher Morley","description":"A missing copy of an obscure book leads to mysterious activities at a Brooklyn bookshop.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":30984,"uniqueWordsCount":5511,"ranks":{"highest":49766,"lowest":1},"levels":{"A1":{"count":464,"readability":53},"A2":{"count":456,"readability":63},"B1":{"count":803,"readability":74},"B2":{"count":1136,"readability":84},"C1":{"count":1200,"readability":92},"C2":{"count":920,"readability":98}}}}
+{
+	"dir": "christopher-morley/the-haunted-bookshop",
+	"title": "The Haunted Bookshop",
+	"creator": "Christopher Morley",
+	"description": "A missing copy of an obscure book leads to mysterious activities at a Brooklyn bookshop.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 30937,
+		"uniqueWordsCount": 5721,
+		"ranks": {
+			"highest": 51680,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 51
+			},
+			"A2": {
+				"count": 464,
+				"readability": 61
+			},
+			"B1": {
+				"count": 811,
+				"readability": 73
+			},
+			"B2": {
+				"count": 1166,
+				"readability": 83
+			},
+			"C1": {
+				"count": 1233,
+				"readability": 92
+			},
+			"C2": {
+				"count": 974,
+				"readability": 98
+			}
+		}
+	}
+}
