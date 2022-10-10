@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/henry-vi-part-i","title":"Henry VI, Part I","creator":"William Shakespeare","description":"King Henry VI takes the throne during a time of great political division: the quarreling among English noblemen and the collapse of England’s hold in France.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":11196,"uniqueWordsCount":2629,"ranks":{"highest":50186,"lowest":1},"levels":{"A1":{"count":416,"readability":45},"A2":{"count":325,"readability":59},"B1":{"count":455,"readability":71},"B2":{"count":510,"readability":82},"C1":{"count":471,"readability":94},"C2":{"count":320,"readability":99}}}}
+{
+	"dir": "william-shakespeare/henry-vi-part-i",
+	"title": "Henry VI, Part I",
+	"creator": "William Shakespeare",
+	"description": "King Henry VI takes the throne during a time of great political division: the quarreling among English noblemen and the collapse of England’s hold in France.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 11182,
+		"uniqueWordsCount": 2748,
+		"ranks": {
+			"highest": 52111,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 437,
+				"readability": 43
+			},
+			"A2": {
+				"count": 321,
+				"readability": 56
+			},
+			"B1": {
+				"count": 457,
+				"readability": 69
+			},
+			"B2": {
+				"count": 537,
+				"readability": 81
+			},
+			"C1": {
+				"count": 491,
+				"readability": 93
+			},
+			"C2": {
+				"count": 353,
+				"readability": 99
+			}
+		}
+	}
+}
