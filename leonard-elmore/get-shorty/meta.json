@@ -1,1 +1,43 @@
-{"dir":"leonard-elmore/get-shorty","title":"Get Shorty","creator":"Leonard Elmore","description":"Chili Palmer is a gangster who lives in Miami. Once he gets valuable advice from an old friend - he learns how one can easily get a lot of money. So Chili goes to a horror movie producer named Harry. After all, what could be easier than knocking money out of a debtor? But all of a sudden he makes friends with Harry. And then the gangster remembers his childhood dream. He wanted to make his own horror movie. Chili realises that the perfect moment for this has come. Together they decide to write an exciting plot based on the experience of Chili. The real gangster has overcome many scary things. Harry agrees to start this project as he simply has no other choice. But man proposes, God disposes. The next movie is to turn into a bunch of problems. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3859,"uniqueWordsCount":484,"ranks":{"highest":21066,"lowest":1},"levels":{"A1":{"count":263,"readability":67},"A2":{"count":84,"readability":74},"B1":{"count":52,"readability":80},"B2":{"count":47,"readability":88},"C1":{"count":13,"readability":91},"C2":{"count":22,"readability":100}}}}
+{
+	"dir": "leonard-elmore/get-shorty",
+	"title": "Get Shorty",
+	"creator": "Leonard Elmore",
+	"description": "Chili Palmer is a gangster who lives in Miami. Once he gets valuable advice from an old friend - he learns how one can easily get a lot of money. So Chili goes to a horror movie producer named Harry. After all, what could be easier than knocking money out of a debtor? But all of a sudden he makes friends with Harry. And then the gangster remembers his childhood dream. He wanted to make his own horror movie. Chili realises that the perfect moment for this has come. Together they decide to write an exciting plot based on the experience of Chili. The real gangster has overcome many scary things. Harry agrees to start this project as he simply has no other choice. But man proposes, God disposes. The next movie is to turn into a bunch of problems. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3859,
+		"uniqueWordsCount": 539,
+		"ranks": {
+			"highest": 21800,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 287,
+				"readability": 65
+			},
+			"A2": {
+				"count": 90,
+				"readability": 72
+			},
+			"B1": {
+				"count": 64,
+				"readability": 79
+			},
+			"B2": {
+				"count": 53,
+				"readability": 87
+			},
+			"C1": {
+				"count": 16,
+				"readability": 90
+			},
+			"C2": {
+				"count": 22,
+				"readability": 100
+			}
+		}
+	}
+}
