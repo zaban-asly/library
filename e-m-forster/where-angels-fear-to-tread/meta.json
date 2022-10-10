@@ -1,1 +1,43 @@
-{"dir":"e-m-forster/where-angels-fear-to-tread","title":"Where Angels Fear to Tread","creator":"E. M. Forster","description":"After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":22719,"uniqueWordsCount":3909,"ranks":{"highest":49124,"lowest":1},"levels":{"A1":{"count":461,"readability":59},"A2":{"count":447,"readability":71},"B1":{"count":685,"readability":82},"B2":{"count":888,"readability":91},"C1":{"count":742,"readability":96},"C2":{"count":506,"readability":99}}}}
+{
+	"dir": "e-m-forster/where-angels-fear-to-tread",
+	"title": "Where Angels Fear to Tread",
+	"creator": "E. M. Forster",
+	"description": "After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 22687,
+		"uniqueWordsCount": 4114,
+		"ranks": {
+			"highest": 50989,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 57
+			},
+			"A2": {
+				"count": 449,
+				"readability": 69
+			},
+			"B1": {
+				"count": 713,
+				"readability": 81
+			},
+			"B2": {
+				"count": 914,
+				"readability": 90
+			},
+			"C1": {
+				"count": 798,
+				"readability": 96
+			},
+			"C2": {
+				"count": 547,
+				"readability": 99
+			}
+		}
+	}
+}
