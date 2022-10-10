@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/the-tempest","title":"The Tempest","creator":"William Shakespeare","description":"A magic-induced tempest shipwrecks the king of Naples and his crew on an island inhabited by the usurped duke of Milan.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":8047,"uniqueWordsCount":2180,"ranks":{"highest":49911,"lowest":1},"levels":{"A1":{"count":395,"readability":53},"A2":{"count":285,"readability":65},"B1":{"count":381,"readability":76},"B2":{"count":407,"readability":86},"C1":{"count":373,"readability":94},"C2":{"count":240,"readability":98}}}}
+{
+	"dir": "william-shakespeare/the-tempest",
+	"title": "The Tempest",
+	"creator": "William Shakespeare",
+	"description": "A magic-induced tempest shipwrecks the king of Naples and his crew on an island inhabited by the usurped duke of Milan.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 8021,
+		"uniqueWordsCount": 2294,
+		"ranks": {
+			"highest": 51829,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 416,
+				"readability": 51
+			},
+			"A2": {
+				"count": 282,
+				"readability": 62
+			},
+			"B1": {
+				"count": 390,
+				"readability": 74
+			},
+			"B2": {
+				"count": 431,
+				"readability": 85
+			},
+			"C1": {
+				"count": 395,
+				"readability": 93
+			},
+			"C2": {
+				"count": 263,
+				"readability": 98
+			}
+		}
+	}
+}
