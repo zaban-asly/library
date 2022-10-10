@@ -1,1 +1,43 @@
-{"dir":"frank-norris/mc-teague","title":"McTeague","creator":"Frank Norris","description":"A San Francisco dentist and his wife descend into avarice, obsession, and violence.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":56477,"uniqueWordsCount":5790,"ranks":{"highest":49464,"lowest":1},"levels":{"A1":{"count":466,"readability":55},"A2":{"count":462,"readability":67},"B1":{"count":809,"readability":78},"B2":{"count":1190,"readability":88},"C1":{"count":1334,"readability":95},"C2":{"count":1009,"readability":99}}}}
+{
+	"dir": "frank-norris/mc-teague",
+	"title": "McTeague",
+	"creator": "Frank Norris",
+	"description": "A San Francisco dentist and his wife descend into avarice, obsession, and violence.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 56449,
+		"uniqueWordsCount": 6050,
+		"ranks": {
+			"highest": 51366,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 53
+			},
+			"A2": {
+				"count": 464,
+				"readability": 65
+			},
+			"B1": {
+				"count": 823,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1225,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1394,
+				"readability": 95
+			},
+			"C2": {
+				"count": 1055,
+				"readability": 98
+			}
+		}
+	}
+}
