@@ -1,1 +1,43 @@
-{"dir":"mile-zola/germinal","title":"Germinal","creator":"Émile Zola","description":"A new resident of a poor coal mining town in 1860s France begins learning about socialist principles, and convinces the town to go on strike.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":85642,"uniqueWordsCount":6113,"ranks":{"highest":50305,"lowest":1},"levels":{"A1":{"count":465,"readability":55},"A2":{"count":475,"readability":68},"B1":{"count":869,"readability":79},"B2":{"count":1326,"readability":90},"C1":{"count":1433,"readability":97},"C2":{"count":1067,"readability":99}}}}
+{
+	"dir": "mile-zola/germinal",
+	"title": "Germinal",
+	"creator": "Émile Zola",
+	"description": "A new resident of a poor coal mining town in 1860s France begins learning about socialist principles, and convinces the town to go on strike.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 85346,
+		"uniqueWordsCount": 6409,
+		"ranks": {
+			"highest": 52234,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 53
+			},
+			"A2": {
+				"count": 479,
+				"readability": 66
+			},
+			"B1": {
+				"count": 879,
+				"readability": 78
+			},
+			"B2": {
+				"count": 1349,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1524,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1149,
+				"readability": 99
+			}
+		}
+	}
+}
