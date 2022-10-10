@@ -1,1 +1,43 @@
-{"dir":"mark-twain/the-autobiography-of-mark-twain","title":"The Autobiography of Mark Twain","creator":"Mark Twain","description":"A collection of reminiscences and reflections from the author’s experiences.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":92489,"uniqueWordsCount":8151,"ranks":{"highest":50232,"lowest":1},"levels":{"A1":{"count":468,"readability":54},"A2":{"count":489,"readability":66},"B1":{"count":943,"readability":78},"B2":{"count":1575,"readability":88},"C1":{"count":1961,"readability":94},"C2":{"count":1719,"readability":99}}}}
+{
+	"dir": "mark-twain/the-autobiography-of-mark-twain",
+	"title": "The Autobiography of Mark Twain",
+	"creator": "Mark Twain",
+	"description": "A collection of reminiscences and reflections from the author’s experiences.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 92302,
+		"uniqueWordsCount": 8492,
+		"ranks": {
+			"highest": 52157,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 53
+			},
+			"A2": {
+				"count": 488,
+				"readability": 64
+			},
+			"B1": {
+				"count": 952,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1603,
+				"readability": 87
+			},
+			"C1": {
+				"count": 2008,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1825,
+				"readability": 99
+			}
+		}
+	}
+}
