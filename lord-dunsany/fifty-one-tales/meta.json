@@ -1,1 +1,43 @@
-{"dir":"lord-dunsany/fifty-one-tales","title":"Fifty-One Tales","creator":"Lord Dunsany","description":"A series of otherworldly short stories ranging from the moral to the whimsical.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":7985,"uniqueWordsCount":2005,"ranks":{"highest":43452,"lowest":1},"levels":{"A1":{"count":408,"readability":59},"A2":{"count":270,"readability":70},"B1":{"count":345,"readability":80},"B2":{"count":376,"readability":89},"C1":{"count":328,"readability":95},"C2":{"count":197,"readability":99}}}}
+{
+	"dir": "lord-dunsany/fifty-one-tales",
+	"title": "Fifty-One Tales",
+	"creator": "Lord Dunsany",
+	"description": "A series of otherworldly short stories ranging from the moral to the whimsical.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 7981,
+		"uniqueWordsCount": 2140,
+		"ranks": {
+			"highest": 45105,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 434,
+				"readability": 57
+			},
+			"A2": {
+				"count": 276,
+				"readability": 67
+			},
+			"B1": {
+				"count": 375,
+				"readability": 79
+			},
+			"B2": {
+				"count": 393,
+				"readability": 88
+			},
+			"C1": {
+				"count": 361,
+				"readability": 95
+			},
+			"C2": {
+				"count": 204,
+				"readability": 99
+			}
+		}
+	}
+}
