@@ -1,1 +1,43 @@
-{"dir":"george-gissing/new-grub-street","title":"New Grub Street","creator":"George Gissing","description":"A group of writers try to hold on to artistic merit in the face of abject poverty in the quickly-changing literary and social landscape of Victorian London.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":85978,"uniqueWordsCount":6670,"ranks":{"highest":49935,"lowest":1},"levels":{"A1":{"count":465,"readability":60},"A2":{"count":472,"readability":71},"B1":{"count":875,"readability":82},"B2":{"count":1360,"readability":91},"C1":{"count":1588,"readability":97},"C2":{"count":1308,"readability":100}}}}
+{
+	"dir": "george-gissing/new-grub-street",
+	"title": "New Grub Street",
+	"creator": "George Gissing",
+	"description": "A group of writers try to hold on to artistic merit in the face of abject poverty in the quickly-changing literary and social landscape of Victorian London.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 85896,
+		"uniqueWordsCount": 7014,
+		"ranks": {
+			"highest": 51853,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 58
+			},
+			"A2": {
+				"count": 473,
+				"readability": 70
+			},
+			"B1": {
+				"count": 893,
+				"readability": 80
+			},
+			"B2": {
+				"count": 1386,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1673,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1406,
+				"readability": 99
+			}
+		}
+	}
+}
