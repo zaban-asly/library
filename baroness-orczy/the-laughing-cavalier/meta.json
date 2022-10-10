@@ -1,1 +1,43 @@
-{"dir":"baroness-orczy/the-laughing-cavalier","title":"The Laughing Cavalier","creator":"Baroness Orczy","description":"An ancestor of the Scarlet Pimpernel is recruited to kidnap a woman for a few days.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":60646,"uniqueWordsCount":5831,"ranks":{"highest":44050,"lowest":1},"levels":{"A1":{"count":462,"readability":53},"A2":{"count":458,"readability":66},"B1":{"count":826,"readability":77},"B2":{"count":1198,"readability":87},"C1":{"count":1378,"readability":95},"C2":{"count":1116,"readability":99}}}}
+{
+	"dir": "baroness-orczy/the-laughing-cavalier",
+	"title": "The Laughing Cavalier",
+	"creator": "Baroness Orczy",
+	"description": "An ancestor of the Scarlet Pimpernel is recruited to kidnap a woman for a few days.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 60549,
+		"uniqueWordsCount": 6114,
+		"ranks": {
+			"highest": 45711,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 489,
+				"readability": 51
+			},
+			"A2": {
+				"count": 462,
+				"readability": 64
+			},
+			"B1": {
+				"count": 837,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1233,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1442,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1190,
+				"readability": 99
+			}
+		}
+	}
+}
