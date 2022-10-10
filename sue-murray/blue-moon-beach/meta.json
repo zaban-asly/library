@@ -1,1 +1,43 @@
-{"dir":"sue-murray/blue-moon-beach","title":"Blue Moon Beach","creator":"Sue Murray","description":"Samuel Martin is fifteen. His friends usually call him Sam. The boy lives with his parents in their hotel - Blue Moon Hotel. This hotel is near the Blue Moon Beach. Sam is sure that it is the best beach in the world. And it is really great here. The sand is white. The water is warm and blue. Summer holidays begin today. Five weeks without school, teachers and lessons. You can just rest. You can swim and sunbathe all day long. This is the best time of the year. One day Sam meets two people on the beach. These people are wearing dark clothes. They are wearing shoes and socks. This is strange. No one wears shoes and socks at Blue Moon Beach. Later the boy forgets about this meeting. But something will happen soon. This summer will change for Sam.  ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2725,"uniqueWordsCount":350,"ranks":{"highest":12149,"lowest":1},"levels":{"A1":{"count":212,"readability":65},"A2":{"count":59,"readability":78},"B1":{"count":42,"readability":85},"B2":{"count":21,"readability":94},"C1":{"count":10,"readability":99},"C2":{"count":6,"readability":100}}}}
+{
+	"dir": "sue-murray/blue-moon-beach",
+	"title": "Blue Moon Beach",
+	"creator": "Sue Murray",
+	"description": "Samuel Martin is fifteen. His friends usually call him Sam. The boy lives with his parents in their hotel - Blue Moon Hotel. This hotel is near the Blue Moon Beach. Sam is sure that it is the best beach in the world. And it is really great here. The sand is white. The water is warm and blue. Summer holidays begin today. Five weeks without school, teachers and lessons. You can just rest. You can swim and sunbathe all day long. This is the best time of the year. One day Sam meets two people on the beach. These people are wearing dark clothes. They are wearing shoes and socks. This is strange. No one wears shoes and socks at Blue Moon Beach. Later the boy forgets about this meeting. But something will happen soon. This summer will change for Sam.  ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2723,
+		"uniqueWordsCount": 386,
+		"ranks": {
+			"highest": 12580,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 227,
+				"readability": 63
+			},
+			"A2": {
+				"count": 59,
+				"readability": 76
+			},
+			"B1": {
+				"count": 53,
+				"readability": 83
+			},
+			"B2": {
+				"count": 26,
+				"readability": 92
+			},
+			"C1": {
+				"count": 14,
+				"readability": 98
+			},
+			"C2": {
+				"count": 7,
+				"readability": 100
+			}
+		}
+	}
+}
