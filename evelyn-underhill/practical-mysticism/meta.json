@@ -1,1 +1,43 @@
-{"dir":"evelyn-underhill/practical-mysticism","title":"Practical Mysticism","creator":"Evelyn Underhill","description":"Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":16208,"uniqueWordsCount":3114,"ranks":{"highest":49891,"lowest":1},"levels":{"A1":{"count":405,"readability":46},"A2":{"count":337,"readability":58},"B1":{"count":526,"readability":72},"B2":{"count":589,"readability":84},"C1":{"count":570,"readability":92},"C2":{"count":443,"readability":98}}}}
+{
+	"dir": "evelyn-underhill/practical-mysticism",
+	"title": "Practical Mysticism",
+	"creator": "Evelyn Underhill",
+	"description": "Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 16152,
+		"uniqueWordsCount": 3250,
+		"ranks": {
+			"highest": 51809,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 421,
+				"readability": 44
+			},
+			"A2": {
+				"count": 343,
+				"readability": 56
+			},
+			"B1": {
+				"count": 530,
+				"readability": 70
+			},
+			"B2": {
+				"count": 603,
+				"readability": 82
+			},
+			"C1": {
+				"count": 601,
+				"readability": 92
+			},
+			"C2": {
+				"count": 484,
+				"readability": 98
+			}
+		}
+	}
+}
