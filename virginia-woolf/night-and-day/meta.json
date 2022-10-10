@@ -1,1 +1,43 @@
-{"dir":"virginia-woolf/night-and-day","title":"Night and Day","creator":"Virginia Woolf","description":"Four young acquaintances in Edwardian London grapple with the quandary of love and marriage.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":78044,"uniqueWordsCount":6935,"ranks":{"highest":49612,"lowest":1},"levels":{"A1":{"count":464,"readability":58},"A2":{"count":479,"readability":71},"B1":{"count":891,"readability":82},"B2":{"count":1450,"readability":90},"C1":{"count":1721,"readability":97},"C2":{"count":1416,"readability":100}}}}
+{
+	"dir": "virginia-woolf/night-and-day",
+	"title": "Night and Day",
+	"creator": "Virginia Woolf",
+	"description": "Four young acquaintances in Edwardian London grapple with the quandary of love and marriage.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 77914,
+		"uniqueWordsCount": 7252,
+		"ranks": {
+			"highest": 51521,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 56
+			},
+			"A2": {
+				"count": 480,
+				"readability": 69
+			},
+			"B1": {
+				"count": 911,
+				"readability": 81
+			},
+			"B2": {
+				"count": 1480,
+				"readability": 90
+			},
+			"C1": {
+				"count": 1785,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1499,
+				"readability": 99
+			}
+		}
+	}
+}
