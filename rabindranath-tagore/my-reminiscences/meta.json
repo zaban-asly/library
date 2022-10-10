@@ -1,1 +1,43 @@
-{"dir":"rabindranath-tagore/my-reminiscences","title":"My Reminiscences","creator":"Rabindranath Tagore","description":"Autobiographical sketches from the Bengali writer, poet, and artist Rabindranath Tagore.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":28085,"uniqueWordsCount":5259,"ranks":{"highest":49616,"lowest":1},"levels":{"A1":{"count":463,"readability":49},"A2":{"count":443,"readability":62},"B1":{"count":782,"readability":74},"B2":{"count":1069,"readability":85},"C1":{"count":1133,"readability":93},"C2":{"count":943,"readability":98}}}}
+{
+	"dir": "rabindranath-tagore/my-reminiscences",
+	"title": "My Reminiscences",
+	"creator": "Rabindranath Tagore",
+	"description": "Autobiographical sketches from the Bengali writer, poet, and artist Rabindranath Tagore.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 27976,
+		"uniqueWordsCount": 5459,
+		"ranks": {
+			"highest": 51525,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 47
+			},
+			"A2": {
+				"count": 446,
+				"readability": 60
+			},
+			"B1": {
+				"count": 795,
+				"readability": 72
+			},
+			"B2": {
+				"count": 1093,
+				"readability": 84
+			},
+			"C1": {
+				"count": 1177,
+				"readability": 92
+			},
+			"C2": {
+				"count": 981,
+				"readability": 98
+			}
+		}
+	}
+}
