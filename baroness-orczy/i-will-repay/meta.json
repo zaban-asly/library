@@ -1,1 +1,43 @@
-{"dir":"baroness-orczy/i-will-repay","title":"I Will Repay","creator":"Baroness Orczy","description":"A young woman pursues revenge against the man who killed her brother in a duel years before.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":32019,"uniqueWordsCount":4731,"ranks":{"highest":47812,"lowest":1},"levels":{"A1":{"count":459,"readability":51},"A2":{"count":451,"readability":63},"B1":{"count":735,"readability":76},"B2":{"count":981,"readability":87},"C1":{"count":1021,"readability":94},"C2":{"count":787,"readability":99}}}}
+{
+	"dir": "baroness-orczy/i-will-repay",
+	"title": "I Will Repay",
+	"creator": "Baroness Orczy",
+	"description": "A young woman pursues revenge against the man who killed her brother in a duel years before.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 31526,
+		"uniqueWordsCount": 4945,
+		"ranks": {
+			"highest": 49615,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 485,
+				"readability": 49
+			},
+			"A2": {
+				"count": 456,
+				"readability": 61
+			},
+			"B1": {
+				"count": 747,
+				"readability": 74
+			},
+			"B2": {
+				"count": 1021,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1045,
+				"readability": 94
+			},
+			"C2": {
+				"count": 862,
+				"readability": 99
+			}
+		}
+	}
+}
