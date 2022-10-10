@@ -1,5 +1,5 @@
 
-# Business at the Speed of Thought <kbd>v3.2.1</kbd>
+# Business at the Speed of Thought <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>

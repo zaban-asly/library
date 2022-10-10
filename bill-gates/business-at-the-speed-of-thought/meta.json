@@ -1,1 +1,43 @@
-{"dir":"bill-gates/business-at-the-speed-of-thought","title":"Business at the Speed of Thought","creator":"Bill Gates","description":"<p>This book inspires everybody to take actions for their future. The greatest billionaire, the head of a huge computer company \"Microsoft\" Bill Gates wrote it. The book was published in 1999. The author shares his knowledge of business principles and how to use information technology properly. If you want to create your own business, it is not enough being led only by your intuition and luck. The modern business is a powerful system, which already uses advanced information technologies. The book is addressed to those people who do not want to stop on the achieved results but prefer to use new technologies for their business, to bring it to automatism. Here you will also find stories of life of many people who have achieved success without much effort.  </p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":16983,"uniqueWordsCount":1855,"ranks":{"highest":45808,"lowest":1},"levels":{"A1":{"count":380,"readability":47},"A2":{"count":250,"readability":58},"B1":{"count":382,"readability":74},"B2":{"count":348,"readability":87},"C1":{"count":243,"readability":95},"C2":{"count":155,"readability":98}}}}
+{
+	"dir": "bill-gates/business-at-the-speed-of-thought",
+	"title": "Business at the Speed of Thought",
+	"creator": "Bill Gates",
+	"description": "<p>This book inspires everybody to take actions for their future. The greatest billionaire, the head of a huge computer company \"Microsoft\" Bill Gates wrote it. The book was published in 1999. The author shares his knowledge of business principles and how to use information technology properly. If you want to create your own business, it is not enough being led only by your intuition and luck. The modern business is a powerful system, which already uses advanced information technologies. The book is addressed to those people who do not want to stop on the achieved results but prefer to use new technologies for their business, to bring it to automatism. Here you will also find stories of life of many people who have achieved success without much effort.  </p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 17410,
+		"uniqueWordsCount": 1992,
+		"ranks": {
+			"highest": 47520,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 405,
+				"readability": 44
+			},
+			"A2": {
+				"count": 258,
+				"readability": 55
+			},
+			"B1": {
+				"count": 392,
+				"readability": 71
+			},
+			"B2": {
+				"count": 369,
+				"readability": 84
+			},
+			"C1": {
+				"count": 261,
+				"readability": 91
+			},
+			"C2": {
+				"count": 177,
+				"readability": 96
+			}
+		}
+	}
+}
