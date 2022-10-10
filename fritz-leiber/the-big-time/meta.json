@@ -1,1 +1,43 @@
-{"dir":"fritz-leiber/the-big-time","title":"The Big Time","creator":"Fritz Leiber","description":"A motley collection of servicemembers escape a plot as two mysterious factions wage an epic war across time itself.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":18980,"uniqueWordsCount":3704,"ranks":{"highest":49546,"lowest":1},"levels":{"A1":{"count":447,"readability":56},"A2":{"count":399,"readability":66},"B1":{"count":578,"readability":75},"B2":{"count":689,"readability":84},"C1":{"count":684,"readability":93},"C2":{"count":492,"readability":97}}}}
+{
+	"dir": "fritz-leiber/the-big-time",
+	"title": "The Big Time",
+	"creator": "Fritz Leiber",
+	"description": "A motley collection of servicemembers escape a plot as two mysterious factions wage an epic war across time itself.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 18932,
+		"uniqueWordsCount": 3888,
+		"ranks": {
+			"highest": 51452,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 474,
+				"readability": 54
+			},
+			"A2": {
+				"count": 404,
+				"readability": 65
+			},
+			"B1": {
+				"count": 587,
+				"readability": 74
+			},
+			"B2": {
+				"count": 716,
+				"readability": 83
+			},
+			"C1": {
+				"count": 732,
+				"readability": 92
+			},
+			"C2": {
+				"count": 512,
+				"readability": 97
+			}
+		}
+	}
+}
