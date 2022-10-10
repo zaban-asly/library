@@ -1,1 +1,43 @@
-{"dir":"d-h-lawrence/the-rainbow","title":"The Rainbow","creator":"D. H. Lawrence","description":"Three generations of an English family struggle to adapt in a society rapidly changed by industrialization.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":88507,"uniqueWordsCount":7474,"ranks":{"highest":50135,"lowest":1},"levels":{"A1":{"count":470,"readability":57},"A2":{"count":483,"readability":69},"B1":{"count":884,"readability":80},"B2":{"count":1434,"readability":89},"C1":{"count":1751,"readability":95},"C2":{"count":1617,"readability":99}}}}
+{
+	"dir": "d-h-lawrence/the-rainbow",
+	"title": "The Rainbow",
+	"creator": "D. H. Lawrence",
+	"description": "Three generations of an English family struggle to adapt in a society rapidly changed by industrialization.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 88302,
+		"uniqueWordsCount": 7799,
+		"ranks": {
+			"highest": 52059,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 55
+			},
+			"A2": {
+				"count": 486,
+				"readability": 67
+			},
+			"B1": {
+				"count": 896,
+				"readability": 78
+			},
+			"B2": {
+				"count": 1456,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1819,
+				"readability": 95
+			},
+			"C2": {
+				"count": 1716,
+				"readability": 99
+			}
+		}
+	}
+}
