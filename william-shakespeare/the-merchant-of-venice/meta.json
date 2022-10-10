@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/the-merchant-of-venice","title":"The Merchant of Venice","creator":"William Shakespeare","description":"To help his friend Bassanio woo the beautiful Portia, the Venetian merchant Antonio borrows a large sum from Shylock, a Jewish moneylender.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":9800,"uniqueWordsCount":2238,"ranks":{"highest":46218,"lowest":1},"levels":{"A1":{"count":421,"readability":55},"A2":{"count":298,"readability":68},"B1":{"count":396,"readability":80},"B2":{"count":408,"readability":87},"C1":{"count":367,"readability":94},"C2":{"count":246,"readability":99}}}}
+{
+	"dir": "william-shakespeare/the-merchant-of-venice",
+	"title": "The Merchant of Venice",
+	"creator": "William Shakespeare",
+	"description": "To help his friend Bassanio woo the beautiful Portia, the Venetian merchant Antonio borrows a large sum from Shylock, a Jewish moneylender.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 9783,
+		"uniqueWordsCount": 2362,
+		"ranks": {
+			"highest": 47958,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 446,
+				"readability": 53
+			},
+			"A2": {
+				"count": 296,
+				"readability": 65
+			},
+			"B1": {
+				"count": 405,
+				"readability": 78
+			},
+			"B2": {
+				"count": 438,
+				"readability": 87
+			},
+			"C1": {
+				"count": 391,
+				"readability": 93
+			},
+			"C2": {
+				"count": 269,
+				"readability": 99
+			}
+		}
+	}
+}
