@@ -1,1 +1,43 @@
-{"dir":"jules-verne/in-search-of-the-castaways","title":"In Search of the Castaways","creator":"Jules Verne","description":"A Scottish lord and lady set off on a quest to find and rescue the shipwrecked Captain Grant.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":66582,"uniqueWordsCount":6336,"ranks":{"highest":46770,"lowest":1},"levels":{"A1":{"count":468,"readability":46},"A2":{"count":476,"readability":60},"B1":{"count":877,"readability":76},"B2":{"count":1319,"readability":87},"C1":{"count":1527,"readability":95},"C2":{"count":1172,"readability":99}}}}
+{
+	"dir": "jules-verne/in-search-of-the-castaways",
+	"title": "In Search of the Castaways",
+	"creator": "Jules Verne",
+	"description": "A Scottish lord and lady set off on a quest to find and rescue the shipwrecked Captain Grant.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 66516,
+		"uniqueWordsCount": 6595,
+		"ranks": {
+			"highest": 48530,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 45
+			},
+			"A2": {
+				"count": 479,
+				"readability": 59
+			},
+			"B1": {
+				"count": 881,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1348,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1602,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1252,
+				"readability": 99
+			}
+		}
+	}
+}
