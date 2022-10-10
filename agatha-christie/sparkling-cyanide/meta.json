@@ -1,1 +1,43 @@
-{"dir":"agatha-christie/sparkling-cyanide","title":"Sparkling Cyanide","creator":"Agatha Christie","description":"<p>This is an exciting detective story about love and passion, betrayal and treason, greed and egoism. The dynamic of the book, its lively and imaginative language attract invariably. The Iris Marle’s sister Rosemary committed suicide after a nasty illness and long depression. Rosemary was older than her sister six years. She was always beautiful, funny and clever. Iris was always jealous for her because of Rosemary’s perfect life. Rosemary’s life was like a dream until she married George Barton. They looked absolutely different. Rosemary was shiny, sociable, outgoing, with big heritage from godfather. But George was quiet, introverted and not very rich man… According to such difference, was it really suicide?</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":12396,"uniqueWordsCount":1814,"ranks":{"highest":39113,"lowest":1},"levels":{"A1":{"count":436,"readability":61},"A2":{"count":301,"readability":74},"B1":{"count":396,"readability":84},"B2":{"count":333,"readability":93},"C1":{"count":202,"readability":96},"C2":{"count":107,"readability":100}}}}
+{
+	"dir": "agatha-christie/sparkling-cyanide",
+	"title": "Sparkling Cyanide",
+	"creator": "Agatha Christie",
+	"description": "<p>This is an exciting detective story about love and passion, betrayal and treason, greed and egoism. The dynamic of the book, its lively and imaginative language attract invariably. The Iris Marle’s sister Rosemary committed suicide after a nasty illness and long depression. Rosemary was older than her sister six years. She was always beautiful, funny and clever. Iris was always jealous for her because of Rosemary’s perfect life. Rosemary’s life was like a dream until she married George Barton. They looked absolutely different. Rosemary was shiny, sociable, outgoing, with big heritage from godfather. But George was quiet, introverted and not very rich man… According to such difference, was it really suicide?</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 12389,
+		"uniqueWordsCount": 1919,
+		"ranks": {
+			"highest": 40607,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 466,
+				"readability": 59
+			},
+			"A2": {
+				"count": 306,
+				"readability": 73
+			},
+			"B1": {
+				"count": 411,
+				"readability": 83
+			},
+			"B2": {
+				"count": 359,
+				"readability": 91
+			},
+			"C1": {
+				"count": 213,
+				"readability": 96
+			},
+			"C2": {
+				"count": 118,
+				"readability": 99
+			}
+		}
+	}
+}
