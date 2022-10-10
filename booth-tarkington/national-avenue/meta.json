@@ -1,1 +1,43 @@
-{"dir":"booth-tarkington/national-avenue","title":"National Avenue","creator":"Booth Tarkington","description":"A businessman struggles to bring the modernity of the suburban industrial age to a Midwestern town.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":46044,"uniqueWordsCount":5281,"ranks":{"highest":49029,"lowest":1},"levels":{"A1":{"count":464,"readability":63},"A2":{"count":459,"readability":73},"B1":{"count":791,"readability":83},"B2":{"count":1110,"readability":90},"C1":{"count":1125,"readability":96},"C2":{"count":893,"readability":99}}}}
+{
+	"dir": "booth-tarkington/national-avenue",
+	"title": "National Avenue",
+	"creator": "Booth Tarkington",
+	"description": "A businessman struggles to bring the modernity of the suburban industrial age to a Midwestern town.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 45972,
+		"uniqueWordsCount": 5544,
+		"ranks": {
+			"highest": 50888,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 61
+			},
+			"A2": {
+				"count": 463,
+				"readability": 72
+			},
+			"B1": {
+				"count": 807,
+				"readability": 81
+			},
+			"B2": {
+				"count": 1145,
+				"readability": 90
+			},
+			"C1": {
+				"count": 1180,
+				"readability": 95
+			},
+			"C2": {
+				"count": 950,
+				"readability": 99
+			}
+		}
+	}
+}
