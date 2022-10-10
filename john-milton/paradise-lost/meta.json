@@ -1,1 +1,43 @@
-{"dir":"john-milton/paradise-lost","title":"Paradise Lost","creator":"John Milton","description":"A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":45955,"uniqueWordsCount":5584,"ranks":{"highest":50105,"lowest":1},"levels":{"A1":{"count":442,"readability":46},"A2":{"count":396,"readability":58},"B1":{"count":695,"readability":72},"B2":{"count":1003,"readability":84},"C1":{"count":1201,"readability":93},"C2":{"count":1188,"readability":98}}}}
+{
+	"dir": "john-milton/paradise-lost",
+	"title": "Paradise Lost",
+	"creator": "John Milton",
+	"description": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 45916,
+		"uniqueWordsCount": 5900,
+		"ranks": {
+			"highest": 52028,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 467,
+				"readability": 44
+			},
+			"A2": {
+				"count": 402,
+				"readability": 56
+			},
+			"B1": {
+				"count": 692,
+				"readability": 70
+			},
+			"B2": {
+				"count": 1047,
+				"readability": 83
+			},
+			"C1": {
+				"count": 1242,
+				"readability": 92
+			},
+			"C2": {
+				"count": 1295,
+				"readability": 98
+			}
+		}
+	}
+}
