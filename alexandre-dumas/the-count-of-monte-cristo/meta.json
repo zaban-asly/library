@@ -1,1 +1,43 @@
-{"dir":"alexandre-dumas/the-count-of-monte-cristo","title":"The Count of Monte Cristo","creator":"Alexandre Dumas","description":"<p>France 1815, Napoleon in exile. The ship named Pharaon came home to Marseilles without a Capitan. When the Capitan died during the travelling, Edmond Dantes, a young First Officer replaced him. Edmond was a brave and a clever young man so when he unexpectedly received a letter from Napoleon he agreed to bring the secret paper to Paris. The ship owner had liked Dantes's work as a Capitan when his ship successfully returned home, so he proposed him to be a new Capitan at new sailing that was planned on next month. During month of awaiting oncoming Capitan were going to marry a beautiful girl Mercedes and went to Paris to hand the letter. The bright and happy future were waiting for the sailor. However, Dantes's colleague, who wanted his woman and his position on the ship, broke everything.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":5717,"uniqueWordsCount":705,"ranks":{"highest":36367,"lowest":11},"levels":{"A1":{"count":358,"readability":74},"A2":{"count":162,"readability":87},"B1":{"count":102,"readability":93},"B2":{"count":47,"readability":95},"C1":{"count":16,"readability":96},"C2":{"count":13,"readability":97}}}}
+{
+	"dir": "alexandre-dumas/the-count-of-monte-cristo",
+	"title": "The Count of Monte Cristo",
+	"creator": "Alexandre Dumas",
+	"description": "<p>France 1815, Napoleon in exile. The ship named Pharaon came home to Marseilles without a Capitan. When the Capitan died during the travelling, Edmond Dantes, a young First Officer replaced him. Edmond was a brave and a clever young man so when he unexpectedly received a letter from Napoleon he agreed to bring the secret paper to Paris. The ship owner had liked Dantes's work as a Capitan when his ship successfully returned home, so he proposed him to be a new Capitan at new sailing that was planned on next month. During month of awaiting oncoming Capitan were going to marry a beautiful girl Mercedes and went to Paris to hand the letter. The bright and happy future were waiting for the sailor. However, Dantes's colleague, who wanted his woman and his position on the ship, broke everything.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 5717,
+		"uniqueWordsCount": 794,
+		"ranks": {
+			"highest": 37756,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 385,
+				"readability": 72
+			},
+			"A2": {
+				"count": 167,
+				"readability": 85
+			},
+			"B1": {
+				"count": 131,
+				"readability": 92
+			},
+			"B2": {
+				"count": 62,
+				"readability": 95
+			},
+			"C1": {
+				"count": 24,
+				"readability": 96
+			},
+			"C2": {
+				"count": 18,
+				"readability": 97
+			}
+		}
+	}
+}
