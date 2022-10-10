@@ -1,1 +1,43 @@
-{"dir":"amanda-brown/legally-blonde","title":"Legally Blonde","creator":"Amanda Brown","description":"Lots of people watched a fun comedy starring Reese Witherspoon. But not everyone knows that the film was based on the book. The plot does not start too original. We meet Elle Woods. She is young, beautiful and socially active. Elle even won the title of Miss University. Her boyfriend is also very popular. Elle wants to marry Warner. But the guy is sure his girlfriend is too stupid and does not think about their future. He hides from Elle his plans about admission into Harvard. He also wants to find another more intelligent partner. When Elle goes to Harvard to her boyfriend, she finds out he has been already engaged to another girl for some time. This could be the beginning of a protracted depression. But Elle is not used to being discouraged. She decides to make Warner regret his hasty decision. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":14018,"uniqueWordsCount":1947,"ranks":{"highest":41215,"lowest":1},"levels":{"A1":{"count":415,"readability":59},"A2":{"count":286,"readability":70},"B1":{"count":335,"readability":79},"B2":{"count":354,"readability":87},"C1":{"count":244,"readability":92},"C2":{"count":163,"readability":98}}}}
+{
+	"dir": "amanda-brown/legally-blonde",
+	"title": "Legally Blonde",
+	"creator": "Amanda Brown",
+	"description": "Lots of people watched a fun comedy starring Reese Witherspoon. But not everyone knows that the film was based on the book. The plot does not start too original. We meet Elle Woods. She is young, beautiful and socially active. Elle even won the title of Miss University. Her boyfriend is also very popular. Elle wants to marry Warner. But the guy is sure his girlfriend is too stupid and does not think about their future. He hides from Elle his plans about admission into Harvard. He also wants to find another more intelligent partner. When Elle goes to Harvard to her boyfriend, she finds out he has been already engaged to another girl for some time. This could be the beginning of a protracted depression. But Elle is not used to being discouraged. She decides to make Warner regret his hasty decision. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 14065,
+		"uniqueWordsCount": 2086,
+		"ranks": {
+			"highest": 52109,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 444,
+				"readability": 57
+			},
+			"A2": {
+				"count": 288,
+				"readability": 68
+			},
+			"B1": {
+				"count": 364,
+				"readability": 78
+			},
+			"B2": {
+				"count": 375,
+				"readability": 86
+			},
+			"C1": {
+				"count": 254,
+				"readability": 91
+			},
+			"C2": {
+				"count": 170,
+				"readability": 96
+			}
+		}
+	}
+}
