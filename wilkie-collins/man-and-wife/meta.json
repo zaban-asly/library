@@ -1,1 +1,43 @@
-{"dir":"wilkie-collins/man-and-wife","title":"Man and Wife","creator":"Wilkie Collins","description":"A young woman who has been made pregnant by an unscrupulous man tries to force him to marry her secretly, but much goes wrong with her plan.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":106664,"uniqueWordsCount":6523,"ranks":{"highest":49648,"lowest":1},"levels":{"A1":{"count":468,"readability":60},"A2":{"count":474,"readability":71},"B1":{"count":901,"readability":83},"B2":{"count":1433,"readability":92},"C1":{"count":1608,"readability":98},"C2":{"count":1253,"readability":100}}}}
+{
+	"dir": "wilkie-collins/man-and-wife",
+	"title": "Man and Wife",
+	"creator": "Wilkie Collins",
+	"description": "A young woman who has been made pregnant by an unscrupulous man tries to force him to marry her secretly, but much goes wrong with her plan.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 106483,
+		"uniqueWordsCount": 6895,
+		"ranks": {
+			"highest": 51559,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 58
+			},
+			"A2": {
+				"count": 475,
+				"readability": 70
+			},
+			"B1": {
+				"count": 916,
+				"readability": 82
+			},
+			"B2": {
+				"count": 1457,
+				"readability": 91
+			},
+			"C1": {
+				"count": 1699,
+				"readability": 97
+			},
+			"C2": {
+				"count": 1388,
+				"readability": 100
+			}
+		}
+	}
+}
