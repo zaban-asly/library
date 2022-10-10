@@ -1,1 +1,43 @@
-{"dir":"a-merritt/the-moon-pool","title":"The Moon Pool","creator":"A. Merritt","description":"A group of adventurers search for their friends, who were lost while exploring the otherworldly secrets of a monument discovered on a chain of island ruins.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":48957,"uniqueWordsCount":5605,"ranks":{"highest":49515,"lowest":1},"levels":{"A1":{"count":459,"readability":52},"A2":{"count":444,"readability":64},"B1":{"count":741,"readability":75},"B2":{"count":1049,"readability":86},"C1":{"count":1232,"readability":94},"C2":{"count":965,"readability":98}}}}
+{
+	"dir": "a-merritt/the-moon-pool",
+	"title": "The Moon Pool",
+	"creator": "A. Merritt",
+	"description": "A group of adventurers search for their friends, who were lost while exploring the otherworldly secrets of a monument discovered on a chain of island ruins.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 48922,
+		"uniqueWordsCount": 5868,
+		"ranks": {
+			"highest": 51421,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 485,
+				"readability": 49
+			},
+			"A2": {
+				"count": 444,
+				"readability": 62
+			},
+			"B1": {
+				"count": 759,
+				"readability": 73
+			},
+			"B2": {
+				"count": 1100,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1274,
+				"readability": 93
+			},
+			"C2": {
+				"count": 1035,
+				"readability": 98
+			}
+		}
+	}
+}
