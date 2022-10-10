@@ -1,1 +1,43 @@
-{"dir":"phillis-wheatley/poems-on-various-subjects-religious-and-moral","title":"Poems on Various Subjects, Religious and Moral","creator":"Phillis Wheatley","description":"Phillis Wheatley’s only published collection of poetry.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":7407,"uniqueWordsCount":1986,"ranks":{"highest":48097,"lowest":1},"levels":{"A1":{"count":363,"readability":41},"A2":{"count":242,"readability":55},"B1":{"count":381,"readability":72},"B2":{"count":412,"readability":86},"C1":{"count":337,"readability":95},"C2":{"count":191,"readability":99}}}}
+{
+	"dir": "phillis-wheatley/poems-on-various-subjects-religious-and-moral",
+	"title": "Poems on Various Subjects, Religious and Moral",
+	"creator": "Phillis Wheatley",
+	"description": "Phillis Wheatley’s only published collection of poetry.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 7400,
+		"uniqueWordsCount": 2092,
+		"ranks": {
+			"highest": 49906,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 383,
+				"readability": 39
+			},
+			"A2": {
+				"count": 250,
+				"readability": 53
+			},
+			"B1": {
+				"count": 368,
+				"readability": 69
+			},
+			"B2": {
+				"count": 454,
+				"readability": 85
+			},
+			"C1": {
+				"count": 348,
+				"readability": 94
+			},
+			"C2": {
+				"count": 216,
+				"readability": 99
+			}
+		}
+	}
+}
