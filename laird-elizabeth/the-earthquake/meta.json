@@ -1,1 +1,43 @@
-{"dir":"laird-elizabeth/the-earthquake","title":"The Earthquake","creator":"Laird Elizabeth","description":"This book is written by the modern author form New Zealand. She used to be a teacher and taught in many countries. Now she creates the touching stories for young people. Her books are translated into many languages. This work is about love difficult times. When a catastrophe happens, people first try to find their relatives or friends under the wrecks of the collapsed life. You will find a classic love triangle in the book. Sylvia is a young woman. She takes care of her ill mother. The family used to be rich, but everything changed after father's death. Gabriel is a young man, who is very kind and generous. He is Sylvia's old friend and he loves her. However, Sylvia loves Marco. Marco is a reach person. He is interested only in his fortune. A great earthquake happens on one Saturday evening. The tragedy completely changes their lives.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2483,"uniqueWordsCount":396,"ranks":{"highest":25048,"lowest":1},"levels":{"A1":{"count":228,"readability":72},"A2":{"count":65,"readability":81},"B1":{"count":47,"readability":88},"B2":{"count":34,"readability":93},"C1":{"count":13,"readability":99},"C2":{"count":7,"readability":100}}}}
+{
+	"dir": "laird-elizabeth/the-earthquake",
+	"title": "The Earthquake",
+	"creator": "Laird Elizabeth",
+	"description": "This book is written by the modern author form New Zealand. She used to be a teacher and taught in many countries. Now she creates the touching stories for young people. Her books are translated into many languages. This work is about love difficult times. When a catastrophe happens, people first try to find their relatives or friends under the wrecks of the collapsed life. You will find a classic love triangle in the book. Sylvia is a young woman. She takes care of her ill mother. The family used to be rich, but everything changed after father's death. Gabriel is a young man, who is very kind and generous. He is Sylvia's old friend and he loves her. However, Sylvia loves Marco. Marco is a reach person. He is interested only in his fortune. A great earthquake happens on one Saturday evening. The tragedy completely changes their lives.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2482,
+		"uniqueWordsCount": 427,
+		"ranks": {
+			"highest": 33182,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 239,
+				"readability": 70
+			},
+			"A2": {
+				"count": 68,
+				"readability": 81
+			},
+			"B1": {
+				"count": 61,
+				"readability": 88
+			},
+			"B2": {
+				"count": 31,
+				"readability": 92
+			},
+			"C1": {
+				"count": 16,
+				"readability": 99
+			},
+			"C2": {
+				"count": 9,
+				"readability": 100
+			}
+		}
+	}
+}
