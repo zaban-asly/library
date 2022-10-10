@@ -1,1 +1,43 @@
-{"dir":"rachel-bladon/animal-life-cycles","title":"Animal Life Cycles","creator":"Rachel Bladon","description":"There are a big number of different types of animals on the planet Earth. There are real big ones like blue whales, elephants or polar bears. There are also so small species that the human eye cannot see them. Their life cycles vary. All living organisms are divided into groups. Most of the animals in the world are invertebrates. There are very few animals with spinal column, but they are much larger in size and people are used to seeing them around. In the life of a wild animal there are many dangers: predators, lack of food and water. Survival is quite difficult. Another terrible enemy of animals is people. They hunt not only for food, but also for entertainment. They cut down the forests that are home for many species. People even poison water and environment.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1994,"uniqueWordsCount":420,"ranks":{"highest":35738,"lowest":15},"levels":{"A1":{"count":174,"readability":49},"A2":{"count":53,"readability":61},"B1":{"count":47,"readability":76},"B2":{"count":34,"readability":83},"C1":{"count":31,"readability":90},"C2":{"count":42,"readability":95}}}}
+{
+	"dir": "rachel-bladon/animal-life-cycles",
+	"title": "Animal Life Cycles",
+	"creator": "Rachel Bladon",
+	"description": "There are a big number of different types of animals on the planet Earth. There are real big ones like blue whales, elephants or polar bears. There are also so small species that the human eye cannot see them. Their life cycles vary. All living organisms are divided into groups. Most of the animals in the world are invertebrates. There are very few animals with spinal column, but they are much larger in size and people are used to seeing them around. In the life of a wild animal there are many dangers: predators, lack of food and water. Survival is quite difficult. Another terrible enemy of animals is people. They hunt not only for food, but also for entertainment. They cut down the forests that are home for many species. People even poison water and environment.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2005,
+		"uniqueWordsCount": 445,
+		"ranks": {
+			"highest": 52138,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 169,
+				"readability": 45
+			},
+			"A2": {
+				"count": 56,
+				"readability": 58
+			},
+			"B1": {
+				"count": 53,
+				"readability": 74
+			},
+			"B2": {
+				"count": 40,
+				"readability": 82
+			},
+			"C1": {
+				"count": 39,
+				"readability": 89
+			},
+			"C2": {
+				"count": 41,
+				"readability": 94
+			}
+		}
+	}
+}
