@@ -1,1 +1,43 @@
-{"dir":"patricia-highsmith/woodrow-wilson-tie","title":"Woodrow Wilson Tie","creator":"Patricia Highsmith","description":"<p>The museum of madame Thibault Hall of Waxworks attracted a lot of people’s attention. Clive Wilkes was obsessed by this. Because this place was very impressing. The first of all the building was bright colors and inside in the hall were stood themes of kills and famous historical events. One day he’d hidden in the Hall of Waxworks at night and stole the necktie from the famous model of Woodrow Wilson. He’d repeated it procedure on the next day, but killed three museum’s workers. He told the police about his crimes, but they didn’t want believe him. He decided to kill much more people to pay attention to his person.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1343,"uniqueWordsCount":465,"ranks":{"highest":33300,"lowest":1},"levels":{"A1":{"count":249,"readability":65},"A2":{"count":97,"readability":80},"B1":{"count":53,"readability":87},"B2":{"count":38,"readability":93},"C1":{"count":12,"readability":95},"C2":{"count":6,"readability":99}}}}
+{
+	"dir": "patricia-highsmith/woodrow-wilson-tie",
+	"title": "Woodrow Wilson Tie",
+	"creator": "Patricia Highsmith",
+	"description": "<p>The museum of madame Thibault Hall of Waxworks attracted a lot of people’s attention. Clive Wilkes was obsessed by this. Because this place was very impressing. The first of all the building was bright colors and inside in the hall were stood themes of kills and famous historical events. One day he’d hidden in the Hall of Waxworks at night and stole the necktie from the famous model of Woodrow Wilson. He’d repeated it procedure on the next day, but killed three museum’s workers. He told the police about his crimes, but they didn’t want believe him. He decided to kill much more people to pay attention to his person.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1344,
+		"uniqueWordsCount": 496,
+		"ranks": {
+			"highest": 34571,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 265,
+				"readability": 64
+			},
+			"A2": {
+				"count": 89,
+				"readability": 77
+			},
+			"B1": {
+				"count": 69,
+				"readability": 86
+			},
+			"B2": {
+				"count": 40,
+				"readability": 92
+			},
+			"C1": {
+				"count": 14,
+				"readability": 94
+			},
+			"C2": {
+				"count": 7,
+				"readability": 95
+			}
+		}
+	}
+}
