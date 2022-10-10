@@ -1,1 +1,43 @@
-{"dir":"chris-rose/the-brisingamen-necklace","title":"The Brisingamen Necklace","creator":"Chris Rose","description":"Freya was the most beautiful out of all the gods and goddesses in Asgrad. She was tall and stately with long blond hair and bright blue eyes. She was a good woman. Still Freya had one fault - greed. She loved not food or weapon, but adored jewelry: pearls, gold, precious stones, rings and necklaces. The goddess had a lot of jewels. Despite this, she always wanted more. Her wish for these precious things turned into an obsession. She had the largest collection in Asgard. But those jewels from other worlds were an enormous temptation for her. Freya loved travelling to Midgard in search of countless new bracelets and necklaces. One day, Loki put on his cloak that made him invisible and followed the goddess to play another joke on her.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":961,"uniqueWordsCount":235,"ranks":{"highest":21982,"lowest":11},"levels":{"A1":{"count":154,"readability":65},"A2":{"count":33,"readability":74},"B1":{"count":19,"readability":77},"B2":{"count":15,"readability":81},"C1":{"count":7,"readability":91},"C2":{"count":5,"readability":99}}}}
+{
+	"dir": "chris-rose/the-brisingamen-necklace",
+	"title": "The Brisingamen Necklace",
+	"creator": "Chris Rose",
+	"description": "Freya was the most beautiful out of all the gods and goddesses in Asgrad. She was tall and stately with long blond hair and bright blue eyes. She was a good woman. Still Freya had one fault - greed. She loved not food or weapon, but adored jewelry: pearls, gold, precious stones, rings and necklaces. The goddess had a lot of jewels. Despite this, she always wanted more. Her wish for these precious things turned into an obsession. She had the largest collection in Asgard. But those jewels from other worlds were an enormous temptation for her. Freya loved travelling to Midgard in search of countless new bracelets and necklaces. One day, Loki put on his cloak that made him invisible and followed the goddess to play another joke on her.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1013,
+		"uniqueWordsCount": 257,
+		"ranks": {
+			"highest": 22741,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 166,
+				"readability": 61
+			},
+			"A2": {
+				"count": 32,
+				"readability": 69
+			},
+			"B1": {
+				"count": 26,
+				"readability": 73
+			},
+			"B2": {
+				"count": 17,
+				"readability": 77
+			},
+			"C1": {
+				"count": 5,
+				"readability": 83
+			},
+			"C2": {
+				"count": 8,
+				"readability": 94
+			}
+		}
+	}
+}
