@@ -1,1 +1,43 @@
-{"dir":"sigfrid-siwertz/downstream","title":"Downstream","creator":"Sigfrid Siwertz","description":"Five bourgeois Swedish siblings, linked by their ancestral home, attempt to forge different paths in life.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":61787,"uniqueWordsCount":6445,"ranks":{"highest":49838,"lowest":1},"levels":{"A1":{"count":468,"readability":55},"A2":{"count":475,"readability":68},"B1":{"count":885,"readability":79},"B2":{"count":1354,"readability":89},"C1":{"count":1600,"readability":96},"C2":{"count":1165,"readability":99}}}}
+{
+	"dir": "sigfrid-siwertz/downstream",
+	"title": "Downstream",
+	"creator": "Sigfrid Siwertz",
+	"description": "Five bourgeois Swedish siblings, linked by their ancestral home, attempt to forge different paths in life.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 61707,
+		"uniqueWordsCount": 6754,
+		"ranks": {
+			"highest": 51752,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 52
+			},
+			"A2": {
+				"count": 477,
+				"readability": 66
+			},
+			"B1": {
+				"count": 898,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1381,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1679,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1258,
+				"readability": 99
+			}
+		}
+	}
+}
