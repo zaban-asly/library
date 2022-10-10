@@ -1,1 +1,43 @@
-{"dir":"peter-kropotkin/mutual-aid","title":"Mutual Aid","creator":"Peter Kropotkin","description":"Kropotkin explores the role of cooperation in animal societes and human societies, past and present, and how it could benefit modern society.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":52923,"uniqueWordsCount":5828,"ranks":{"highest":50261,"lowest":1},"levels":{"A1":{"count":459,"readability":42},"A2":{"count":432,"readability":55},"B1":{"count":786,"readability":70},"B2":{"count":1107,"readability":83},"C1":{"count":1284,"readability":92},"C2":{"count":1033,"readability":98}}}}
+{
+	"dir": "peter-kropotkin/mutual-aid",
+	"title": "Mutual Aid",
+	"creator": "Peter Kropotkin",
+	"description": "Kropotkin explores the role of cooperation in animal societes and human societies, past and present, and how it could benefit modern society.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 52763,
+		"uniqueWordsCount": 6061,
+		"ranks": {
+			"highest": 52188,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 40
+			},
+			"A2": {
+				"count": 436,
+				"readability": 53
+			},
+			"B1": {
+				"count": 788,
+				"readability": 68
+			},
+			"B2": {
+				"count": 1126,
+				"readability": 82
+			},
+			"C1": {
+				"count": 1322,
+				"readability": 92
+			},
+			"C2": {
+				"count": 1096,
+				"readability": 97
+			}
+		}
+	}
+}
