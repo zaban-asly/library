@@ -1,1 +1,43 @@
-{"dir":"john-bookworm/great-speeches","title":"Great Speeches","creator":"John Bookworm","description":"This book is a collection of the most interesting and inspiring speeches of many famous people, politicians and leaders. You need to read these speeches in order to understand the history better. They reflect the main problems of each era and provide a clear understanding of how society developed. Thanks to the speakers from this book, many countries have chosen new paths of development. The book begins with an inspiring speech on the rights of African Americans. The speaker is Martin Luther King. This is the time when black people were enslaved and perceived as a commodity, not citizens. Discrimination was considered to be the norm, and everyone took it for granted. But not everyone agreed with this state of affairs. Even today this great man is not forgotten after many years.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":5007,"uniqueWordsCount":1783,"ranks":{"highest":40417,"lowest":1},"levels":{"A1":{"count":343,"readability":43},"A2":{"count":230,"readability":58},"B1":{"count":346,"readability":73},"B2":{"count":330,"readability":85},"C1":{"count":273,"readability":93},"C2":{"count":173,"readability":98}}}}
+{
+	"dir": "john-bookworm/great-speeches",
+	"title": "Great Speeches",
+	"creator": "John Bookworm",
+	"description": "This book is a collection of the most interesting and inspiring speeches of many famous people, politicians and leaders. You need to read these speeches in order to understand the history better. They reflect the main problems of each era and provide a clear understanding of how society developed. Thanks to the speakers from this book, many countries have chosen new paths of development. The book begins with an inspiring speech on the rights of African Americans. The speaker is Martin Luther King. This is the time when black people were enslaved and perceived as a commodity, not citizens. Discrimination was considered to be the norm, and everyone took it for granted. But not everyone agreed with this state of affairs. Even today this great man is not forgotten after many years.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 5000,
+		"uniqueWordsCount": 1834,
+		"ranks": {
+			"highest": 46900,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 353,
+				"readability": 42
+			},
+			"A2": {
+				"count": 233,
+				"readability": 56
+			},
+			"B1": {
+				"count": 337,
+				"readability": 71
+			},
+			"B2": {
+				"count": 345,
+				"readability": 84
+			},
+			"C1": {
+				"count": 282,
+				"readability": 93
+			},
+			"C2": {
+				"count": 188,
+				"readability": 98
+			}
+		}
+	}
+}
