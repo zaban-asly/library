@@ -1,1 +1,43 @@
-{"dir":"friedrich-nietzsche/thus-spake-zarathustra","title":"Thus Spake Zarathustra","creator":"Friedrich Nietzsche","description":"After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":43699,"uniqueWordsCount":4784,"ranks":{"highest":50140,"lowest":1},"levels":{"A1":{"count":449,"readability":56},"A2":{"count":400,"readability":67},"B1":{"count":655,"readability":77},"B2":{"count":944,"readability":86},"C1":{"count":1036,"readability":95},"C2":{"count":799,"readability":99}}}}
+{
+	"dir": "friedrich-nietzsche/thus-spake-zarathustra",
+	"title": "Thus Spake Zarathustra",
+	"creator": "Friedrich Nietzsche",
+	"description": "After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 43645,
+		"uniqueWordsCount": 5101,
+		"ranks": {
+			"highest": 52064,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 475,
+				"readability": 54
+			},
+			"A2": {
+				"count": 404,
+				"readability": 64
+			},
+			"B1": {
+				"count": 669,
+				"readability": 75
+			},
+			"B2": {
+				"count": 973,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1107,
+				"readability": 94
+			},
+			"C2": {
+				"count": 891,
+				"readability": 99
+			}
+		}
+	}
+}
