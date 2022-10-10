@@ -1,1 +1,43 @@
-{"dir":"ira-levin/a-kiss-before-dying","title":"A Kiss Before Dying","creator":"Ira Levin","description":"<p>The young man wanted to become reach using charming girl that studied with him. Her name is Dorothy and she is a daughter of very rich man named Leo Kingship. But suddenly Dorothy became pregnant and her boyfriend realized that his plan can be ruined. He started to make new arrangements for resolving so inconvenient situation. In several days Dorothy found dead. According to suicide note that was send to Ellen, sister of dead girl, and that fact that birth certificate was found at place of dead, police decided that her death was certainly suicide. But Ellen was not so sure, she thought her sister was killed. Ellen went to city where her sister was studying at university. There she started an investigation, almost immediately she founded a man that she thinks killed her sister…</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":8659,"uniqueWordsCount":960,"ranks":{"highest":44204,"lowest":1},"levels":{"A1":{"count":368,"readability":67},"A2":{"count":173,"readability":77},"B1":{"count":150,"readability":85},"B2":{"count":123,"readability":90},"C1":{"count":76,"readability":96},"C2":{"count":36,"readability":97}}}}
+{
+	"dir": "ira-levin/a-kiss-before-dying",
+	"title": "A Kiss Before Dying",
+	"creator": "Ira Levin",
+	"description": "<p>The young man wanted to become reach using charming girl that studied with him. Her name is Dorothy and she is a daughter of very rich man named Leo Kingship. But suddenly Dorothy became pregnant and her boyfriend realized that his plan can be ruined. He started to make new arrangements for resolving so inconvenient situation. In several days Dorothy found dead. According to suicide note that was send to Ellen, sister of dead girl, and that fact that birth certificate was found at place of dead, police decided that her death was certainly suicide. But Ellen was not so sure, she thought her sister was killed. Ellen went to city where her sister was studying at university. There she started an investigation, almost immediately she founded a man that she thinks killed her sister…</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 8655,
+		"uniqueWordsCount": 1045,
+		"ranks": {
+			"highest": 45870,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 395,
+				"readability": 65
+			},
+			"A2": {
+				"count": 178,
+				"readability": 76
+			},
+			"B1": {
+				"count": 176,
+				"readability": 85
+			},
+			"B2": {
+				"count": 140,
+				"readability": 90
+			},
+			"C1": {
+				"count": 77,
+				"readability": 96
+			},
+			"C2": {
+				"count": 43,
+				"readability": 98
+			}
+		}
+	}
+}
