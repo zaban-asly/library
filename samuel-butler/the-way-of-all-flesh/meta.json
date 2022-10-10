@@ -1,1 +1,43 @@
-{"dir":"samuel-butler/the-way-of-all-flesh","title":"The Way of All Flesh","creator":"Samuel Butler","description":"Four generations of the Pontifex family grow to adulthood in Victorian England, encountering challenges that satirize the era along the way.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":72078,"uniqueWordsCount":6933,"ranks":{"highest":49951,"lowest":1},"levels":{"A1":{"count":471,"readability":63},"A2":{"count":481,"readability":73},"B1":{"count":906,"readability":82},"B2":{"count":1394,"readability":90},"C1":{"count":1649,"readability":96},"C2":{"count":1429,"readability":99}}}}
+{
+	"dir": "samuel-butler/the-way-of-all-flesh",
+	"title": "The Way of All Flesh",
+	"creator": "Samuel Butler",
+	"description": "Four generations of the Pontifex family grow to adulthood in Victorian England, encountering challenges that satirize the era along the way.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 71791,
+		"uniqueWordsCount": 7266,
+		"ranks": {
+			"highest": 51869,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 60
+			},
+			"A2": {
+				"count": 483,
+				"readability": 71
+			},
+			"B1": {
+				"count": 919,
+				"readability": 81
+			},
+			"B2": {
+				"count": 1426,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1718,
+				"readability": 95
+			},
+			"C2": {
+				"count": 1517,
+				"readability": 99
+			}
+		}
+	}
+}
