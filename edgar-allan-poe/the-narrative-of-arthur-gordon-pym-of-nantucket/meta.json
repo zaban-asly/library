@@ -1,0 +1,43 @@
+{
+	"dir": "edgar-allan-poe/the-narrative-of-arthur-gordon-pym-of-nantucket",
+	"title": "The Narrative of Arthur Gordon Pym of Nantucket",
+	"creator": "Edgar Allan Poe",
+	"description": "A young stowaway embarks on high-seas adventures.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-10",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 34976,
+		"uniqueWordsCount": 4753,
+		"ranks": {
+			"highest": 51037,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 469,
+				"readability": 45
+			},
+			"A2": {
+				"count": 427,
+				"readability": 60
+			},
+			"B1": {
+				"count": 732,
+				"readability": 74
+			},
+			"B2": {
+				"count": 1011,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1040,
+				"readability": 95
+			},
+			"C2": {
+				"count": 754,
+				"readability": 99
+			}
+		}
+	}
+}
