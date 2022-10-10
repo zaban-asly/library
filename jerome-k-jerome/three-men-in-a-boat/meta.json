@@ -1,1 +1,43 @@
-{"dir":"jerome-k-jerome/three-men-in-a-boat","title":"Three men in a boat","creator":"Jerome K-Jerome","description":"Once in the evening, three friends were sitting smoking at Jay in the evening and were discussing the diseases from which they suffered terribly. They came to the conclusion that all their troubles due to overwork and they urgently need a vacation. After a long discussion vacation in the countryside and the sea walk were rejected. In the end the friends decided to go up the Thames by boat from Kingston to Oxford, breaking camps for the nights. Departure was scheduled for next Saturday. George on this day was at work, so Jay and Harris have went to Kingston by train. At Waterloo station they can not find the right train, so they had to bribe the engineer, so he sent his train is in Kingston. There they hired boat were waiting for them. Later Gorge joined them and the journey began.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":4696,"uniqueWordsCount":864,"ranks":{"highest":33423,"lowest":1},"levels":{"A1":{"count":342,"readability":62},"A2":{"count":161,"readability":77},"B1":{"count":145,"readability":86},"B2":{"count":116,"readability":92},"C1":{"count":65,"readability":99},"C2":{"count":20,"readability":100}}}}
+{
+	"dir": "jerome-k-jerome/three-men-in-a-boat",
+	"title": "Three men in a boat",
+	"creator": "Jerome K-Jerome",
+	"description": "Once in the evening, three friends were sitting smoking at Jay in the evening and were discussing the diseases from which they suffered terribly. They came to the conclusion that all their troubles due to overwork and they urgently need a vacation. After a long discussion vacation in the countryside and the sea walk were rejected. In the end the friends decided to go up the Thames by boat from Kingston to Oxford, breaking camps for the nights. Departure was scheduled for next Saturday. George on this day was at work, so Jay and Harris have went to Kingston by train. At Waterloo station they can not find the right train, so they had to bribe the engineer, so he sent his train is in Kingston. There they hired boat were waiting for them. Later Gorge joined them and the journey began.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 4694,
+		"uniqueWordsCount": 929,
+		"ranks": {
+			"highest": 34696,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 365,
+				"readability": 60
+			},
+			"A2": {
+				"count": 166,
+				"readability": 75
+			},
+			"B1": {
+				"count": 163,
+				"readability": 85
+			},
+			"B2": {
+				"count": 127,
+				"readability": 92
+			},
+			"C1": {
+				"count": 69,
+				"readability": 99
+			},
+			"C2": {
+				"count": 23,
+				"readability": 100
+			}
+		}
+	}
+}
