@@ -1,1 +1,43 @@
-{"dir":"roswitha-of-gandersheim/plays","title":"Plays","creator":"Roswitha of Gandersheim","description":"The collected plays of Roswitha of Gandersheim, the tenth century German canoness, dramatist, and poet.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":15845,"uniqueWordsCount":3039,"ranks":{"highest":47921,"lowest":1},"levels":{"A1":{"count":441,"readability":49},"A2":{"count":366,"readability":62},"B1":{"count":596,"readability":76},"B2":{"count":631,"readability":87},"C1":{"count":546,"readability":94},"C2":{"count":325,"readability":99}}}}
+{
+	"dir": "roswitha-of-gandersheim/plays",
+	"title": "Plays",
+	"creator": "Roswitha of Gandersheim",
+	"description": "The collected plays of Roswitha of Gandersheim, the tenth century German canoness, dramatist, and poet.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 15819,
+		"uniqueWordsCount": 3193,
+		"ranks": {
+			"highest": 49726,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 465,
+				"readability": 48
+			},
+			"A2": {
+				"count": 371,
+				"readability": 60
+			},
+			"B1": {
+				"count": 609,
+				"readability": 74
+			},
+			"B2": {
+				"count": 667,
+				"readability": 86
+			},
+			"C1": {
+				"count": 574,
+				"readability": 94
+			},
+			"C2": {
+				"count": 362,
+				"readability": 99
+			}
+		}
+	}
+}
