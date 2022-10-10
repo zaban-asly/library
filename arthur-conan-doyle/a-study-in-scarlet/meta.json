@@ -1,1 +1,43 @@
-{"dir":"arthur-conan-doyle/a-study-in-scarlet","title":"A Study in Scarlet","creator":"Arthur Conan Doyle","description":"The self-declared world’s first consulting detective unravels a mysterious case of murder and revenge.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":20352,"uniqueWordsCount":4082,"ranks":{"highest":49298,"lowest":1},"levels":{"A1":{"count":461,"readability":55},"A2":{"count":447,"readability":68},"B1":{"count":719,"readability":80},"B2":{"count":894,"readability":89},"C1":{"count":801,"readability":96},"C2":{"count":545,"readability":99}}}}
+{
+	"dir": "arthur-conan-doyle/a-study-in-scarlet",
+	"title": "A Study in Scarlet",
+	"creator": "Arthur Conan Doyle",
+	"description": "The self-declared world’s first consulting detective unravels a mysterious case of murder and revenge.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 20314,
+		"uniqueWordsCount": 4261,
+		"ranks": {
+			"highest": 51194,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 53
+			},
+			"A2": {
+				"count": 447,
+				"readability": 66
+			},
+			"B1": {
+				"count": 737,
+				"readability": 79
+			},
+			"B2": {
+				"count": 917,
+				"readability": 88
+			},
+			"C1": {
+				"count": 862,
+				"readability": 95
+			},
+			"C2": {
+				"count": 573,
+				"readability": 99
+			}
+		}
+	}
+}
