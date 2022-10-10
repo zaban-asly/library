@@ -1,1 +1,43 @@
-{"dir":"jules-verne/an-antarctic-mystery","title":"An Antarctic Mystery","creator":"Jules Verne","description":"An American naturalist travels south beyond the remote Kerguelen Islands.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":37123,"uniqueWordsCount":4504,"ranks":{"highest":48024,"lowest":1},"levels":{"A1":{"count":451,"readability":49},"A2":{"count":439,"readability":62},"B1":{"count":761,"readability":77},"B2":{"count":995,"readability":88},"C1":{"count":933,"readability":95},"C2":{"count":631,"readability":99}}}}
+{
+	"dir": "jules-verne/an-antarctic-mystery",
+	"title": "An Antarctic Mystery",
+	"creator": "Jules Verne",
+	"description": "An American naturalist travels south beyond the remote Kerguelen Islands.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 37049,
+		"uniqueWordsCount": 4708,
+		"ranks": {
+			"highest": 49830,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 478,
+				"readability": 47
+			},
+			"A2": {
+				"count": 446,
+				"readability": 61
+			},
+			"B1": {
+				"count": 766,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1029,
+				"readability": 87
+			},
+			"C1": {
+				"count": 988,
+				"readability": 95
+			},
+			"C2": {
+				"count": 675,
+				"readability": 99
+			}
+		}
+	}
+}
