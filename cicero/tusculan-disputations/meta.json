@@ -1,1 +1,43 @@
-{"dir":"cicero/tusculan-disputations","title":"Tusculan Disputations","creator":"Cicero","description":"Cicero gives practical guidance for living wisely and well by adopting a Stoic outlook and concentrating on the virtues.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":34519,"uniqueWordsCount":4071,"ranks":{"highest":48050,"lowest":1},"levels":{"A1":{"count":441,"readability":53},"A2":{"count":397,"readability":65},"B1":{"count":668,"readability":79},"B2":{"count":856,"readability":89},"C1":{"count":796,"readability":95},"C2":{"count":646,"readability":99}}}}
+{
+	"dir": "cicero/tusculan-disputations",
+	"title": "Tusculan Disputations",
+	"creator": "Cicero",
+	"description": "Cicero gives practical guidance for living wisely and well by adopting a Stoic outlook and concentrating on the virtues.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 34278,
+		"uniqueWordsCount": 4265,
+		"ranks": {
+			"highest": 49857,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 468,
+				"readability": 51
+			},
+			"A2": {
+				"count": 399,
+				"readability": 64
+			},
+			"B1": {
+				"count": 683,
+				"readability": 78
+			},
+			"B2": {
+				"count": 883,
+				"readability": 88
+			},
+			"C1": {
+				"count": 841,
+				"readability": 95
+			},
+			"C2": {
+				"count": 693,
+				"readability": 99
+			}
+		}
+	}
+}
