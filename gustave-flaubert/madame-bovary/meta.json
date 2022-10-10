@@ -1,1 +1,43 @@
-{"dir":"gustave-flaubert/madame-bovary","title":"Madame Bovary","creator":"Gustave Flaubert","description":"Charles Bovary graduates from the college. He is not a very smart person, so his mother helps him to get a doctor's job in a provincial French town. Thanks mother's efforts, he marries a local widow. The woman is over 40. She is unattractive, but wealthy. One day Charles goes to examine another patient - a local farmer. He meets a farmer's daughter Emma, who is very pretty. The doctor feels a desire towards the young girl. After his wife's death, Charles starts communicating with Emma and after a while decides to ask for her hand. Her father gives a consent and arranges a magnificent wedding. But when the young couple begins to live together, Emma suddenly realizes her true feelings. She does not love Charles. She is unaware of what real love is.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":15431,"uniqueWordsCount":1902,"ranks":{"highest":35877,"lowest":1},"levels":{"A1":{"count":448,"readability":68},"A2":{"count":365,"readability":82},"B1":{"count":420,"readability":92},"B2":{"count":403,"readability":97},"C1":{"count":165,"readability":99},"C2":{"count":76,"readability":100}}}}
+{
+	"dir": "gustave-flaubert/madame-bovary",
+	"title": "Madame Bovary",
+	"creator": "Gustave Flaubert",
+	"description": "Charles Bovary graduates from the college. He is not a very smart person, so his mother helps him to get a doctor's job in a provincial French town. Thanks mother's efforts, he marries a local widow. The woman is over 40. She is unattractive, but wealthy. One day Charles goes to examine another patient - a local farmer. He meets a farmer's daughter Emma, who is very pretty. The doctor feels a desire towards the young girl. After his wife's death, Charles starts communicating with Emma and after a while decides to ask for her hand. Her father gives a consent and arranges a magnificent wedding. But when the young couple begins to live together, Emma suddenly realizes her true feelings. She does not love Charles. She is unaware of what real love is.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 15420,
+		"uniqueWordsCount": 2066,
+		"ranks": {
+			"highest": 37247,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 474,
+				"readability": 66
+			},
+			"A2": {
+				"count": 372,
+				"readability": 80
+			},
+			"B1": {
+				"count": 465,
+				"readability": 91
+			},
+			"B2": {
+				"count": 429,
+				"readability": 97
+			},
+			"C1": {
+				"count": 197,
+				"readability": 99
+			},
+			"C2": {
+				"count": 96,
+				"readability": 100
+			}
+		}
+	}
+}
