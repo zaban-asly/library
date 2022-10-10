@@ -1,1 +1,43 @@
-{"dir":"joyce-hannam/christmas-in-prague","title":"Christmas in Prague","creator":"Joyce Hannam","description":"Jan Vlach was born in Czechoslovakia, but moved to England with his father many years ago. His mother died on Christmas Eve in 1957. Now Jan lives in England and teaches Czech at Oxford University. His wife Carol gets an offer to play in an orchestra in Prague this Christmas. She asks Jan and his father Josef to come with her. Carol flies there earlier as she has rehearsals. After the first rehearsal she goes Christmas shopping. All of a sudden Carol sees her husband in the street. But why has he already come to Prague? What is he doing here? She calls him. But he doesn't stop. He looks at her and then walks away. Carol is shocked. She runs to him but gets into an accident. The woman is taken to hospital. When Jan and Josef finally arrive in Prague, Josef explains everything. It turns out there's more to the story of what happened in 1957.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2256,"uniqueWordsCount":362,"ranks":{"highest":27450,"lowest":11},"levels":{"A1":{"count":216,"readability":75},"A2":{"count":64,"readability":84},"B1":{"count":28,"readability":87},"B2":{"count":29,"readability":92},"C1":{"count":16,"readability":98},"C2":{"count":5,"readability":100}}}}
+{
+	"dir": "joyce-hannam/christmas-in-prague",
+	"title": "Christmas in Prague",
+	"creator": "Joyce Hannam",
+	"description": "Jan Vlach was born in Czechoslovakia, but moved to England with his father many years ago. His mother died on Christmas Eve in 1957. Now Jan lives in England and teaches Czech at Oxford University. His wife Carol gets an offer to play in an orchestra in Prague this Christmas. She asks Jan and his father Josef to come with her. Carol flies there earlier as she has rehearsals. After the first rehearsal she goes Christmas shopping. All of a sudden Carol sees her husband in the street. But why has he already come to Prague? What is he doing here? She calls him. But he doesn't stop. He looks at her and then walks away. Carol is shocked. She runs to him but gets into an accident. The woman is taken to hospital. When Jan and Josef finally arrive in Prague, Josef explains everything. It turns out there's more to the story of what happened in 1957.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2256,
+		"uniqueWordsCount": 394,
+		"ranks": {
+			"highest": 28458,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 235,
+				"readability": 74
+			},
+			"A2": {
+				"count": 63,
+				"readability": 83
+			},
+			"B1": {
+				"count": 40,
+				"readability": 87
+			},
+			"B2": {
+				"count": 31,
+				"readability": 92
+			},
+			"C1": {
+				"count": 16,
+				"readability": 98
+			},
+			"C2": {
+				"count": 3,
+				"readability": 99
+			}
+		}
+	}
+}
