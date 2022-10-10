@@ -1,1 +1,43 @@
-{"dir":"thomas-malory/le-morte-d-arthur","title":"Le Morte d’Arthur","creator":"Thomas Malory","description":"A late Middle Ages version of the story of King Arthur and the Knights of the Round Table.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":152452,"uniqueWordsCount":3864,"ranks":{"highest":50283,"lowest":1},"levels":{"A1":{"count":435,"readability":61},"A2":{"count":387,"readability":73},"B1":{"count":578,"readability":83},"B2":{"count":752,"readability":92},"C1":{"count":748,"readability":97},"C2":{"count":573,"readability":100}}}}
+{
+	"dir": "thomas-malory/le-morte-d-arthur",
+	"title": "Le Morte d’Arthur",
+	"creator": "Thomas Malory",
+	"description": "A late Middle Ages version of the story of King Arthur and the Knights of the Round Table.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 152428,
+		"uniqueWordsCount": 4144,
+		"ranks": {
+			"highest": 52212,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 460,
+				"readability": 60
+			},
+			"A2": {
+				"count": 391,
+				"readability": 71
+			},
+			"B1": {
+				"count": 597,
+				"readability": 81
+			},
+			"B2": {
+				"count": 788,
+				"readability": 90
+			},
+			"C1": {
+				"count": 804,
+				"readability": 97
+			},
+			"C2": {
+				"count": 650,
+				"readability": 100
+			}
+		}
+	}
+}
