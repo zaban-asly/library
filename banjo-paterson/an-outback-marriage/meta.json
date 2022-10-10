@@ -1,1 +1,43 @@
-{"dir":"banjo-paterson/an-outback-marriage","title":"An Outback Marriage","creator":"Banjo Paterson","description":"A posh Englishwoman is sent to a station in New South Wales to learn the ropes, while a search for a lost son with a large inheritance is underway.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":33244,"uniqueWordsCount":4497,"ranks":{"highest":46431,"lowest":1},"levels":{"A1":{"count":465,"readability":59},"A2":{"count":457,"readability":71},"B1":{"count":716,"readability":81},"B2":{"count":972,"readability":89},"C1":{"count":901,"readability":96},"C2":{"count":673,"readability":99}}}}
+{
+	"dir": "banjo-paterson/an-outback-marriage",
+	"title": "An Outback Marriage",
+	"creator": "Banjo Paterson",
+	"description": "A posh Englishwoman is sent to a station in New South Wales to learn the ropes, while a search for a lost son with a large inheritance is underway.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 33193,
+		"uniqueWordsCount": 4717,
+		"ranks": {
+			"highest": 48182,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 57
+			},
+			"A2": {
+				"count": 463,
+				"readability": 69
+			},
+			"B1": {
+				"count": 746,
+				"readability": 80
+			},
+			"B2": {
+				"count": 997,
+				"readability": 88
+			},
+			"C1": {
+				"count": 953,
+				"readability": 95
+			},
+			"C2": {
+				"count": 718,
+				"readability": 99
+			}
+		}
+	}
+}
