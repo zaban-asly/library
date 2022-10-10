@@ -1,1 +1,43 @@
-{"dir":"rosemary-border/the-fifteenth-character","title":"The Fifteenth Character","creator":"Rosemary Border","description":"Sally Brown is an ordinary student. During the holidays, she works at Happy Hills, a local amusement park. This is a very popular place among visitors. Every day lots of people come here to ride and look at the staff in the costumes of various funny characters. This day is very unusual. Zapp is a famous singer among young people. He arrives in this amusement park. Zapp has to open a new attraction. This is a wonderful possibility for Sally. The girl wants to talk to her favourite singer, despite the displeasure of her boss. He is sure that she already works too little. But an unexpected trouble happens - Zapp's disc with the new secret song disappears. Happy Hills is not a very happy place anymore. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":768,"uniqueWordsCount":232,"ranks":{"highest":20999,"lowest":11},"levels":{"A1":{"count":134,"readability":56},"A2":{"count":41,"readability":71},"B1":{"count":21,"readability":81},"B2":{"count":19,"readability":90},"C1":{"count":11,"readability":97},"C2":{"count":4,"readability":99}}}}
+{
+	"dir": "rosemary-border/the-fifteenth-character",
+	"title": "The Fifteenth Character",
+	"creator": "Rosemary Border",
+	"description": "Sally Brown is an ordinary student. During the holidays, she works at Happy Hills, a local amusement park. This is a very popular place among visitors. Every day lots of people come here to ride and look at the staff in the costumes of various funny characters. This day is very unusual. Zapp is a famous singer among young people. He arrives in this amusement park. Zapp has to open a new attraction. This is a wonderful possibility for Sally. The girl wants to talk to her favourite singer, despite the displeasure of her boss. He is sure that she already works too little. But an unexpected trouble happens - Zapp's disc with the new secret song disappears. Happy Hills is not a very happy place anymore. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 770,
+		"uniqueWordsCount": 236,
+		"ranks": {
+			"highest": 38336,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 132,
+				"readability": 54
+			},
+			"A2": {
+				"count": 41,
+				"readability": 70
+			},
+			"B1": {
+				"count": 25,
+				"readability": 81
+			},
+			"B2": {
+				"count": 19,
+				"readability": 90
+			},
+			"C1": {
+				"count": 11,
+				"readability": 97
+			},
+			"C2": {
+				"count": 4,
+				"readability": 99
+			}
+		}
+	}
+}
