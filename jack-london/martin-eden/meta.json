@@ -1,1 +1,43 @@
-{"dir":"jack-london/martin-eden","title":"Martin Eden","creator":"Jack London","description":"A young working-class man sets out to become a bourgeois writer.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":65482,"uniqueWordsCount":7381,"ranks":{"highest":49250,"lowest":1},"levels":{"A1":{"count":467,"readability":53},"A2":{"count":480,"readability":64},"B1":{"count":885,"readability":76},"B2":{"count":1413,"readability":86},"C1":{"count":1708,"readability":94},"C2":{"count":1539,"readability":98}}}}
+{
+	"dir": "jack-london/martin-eden",
+	"title": "Martin Eden",
+	"creator": "Jack London",
+	"description": "A young working-class man sets out to become a bourgeois writer.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 65377,
+		"uniqueWordsCount": 7682,
+		"ranks": {
+			"highest": 51139,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 50
+			},
+			"A2": {
+				"count": 481,
+				"readability": 62
+			},
+			"B1": {
+				"count": 903,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1419,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1781,
+				"readability": 93
+			},
+			"C2": {
+				"count": 1626,
+				"readability": 98
+			}
+		}
+	}
+}
