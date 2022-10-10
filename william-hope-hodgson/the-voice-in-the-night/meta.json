@@ -1,1 +1,43 @@
-{"dir":"william-hope-hodgson/the-voice-in-the-night","title":"The Voice in the Night","creator":"William Hope Hodgson","description":"Everything began on a dark starless night. The small ship was in the ocean. There was no wind at all. The ship wasn't moving. Several heroes did not know where they were for a week - a thick fog hid any landmarks. Even the sun hid behind a dense veil of fog for more than a week. Two men and a child were asleep. The main character was standing on the deck. Suddenly a human scream came from the fog. It was very unexpected and scary. The voice shouted an ominous warning and died away. There was silence again. This strange event excited the hero. Was it his imagination? Was it from fatigue and stress? But soon the voice returned to tell its mysterious story. And things, that he said, turned out to be much more terrifying than spending a week in the fog.   ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1493,"uniqueWordsCount":503,"ranks":{"highest":22464,"lowest":1},"levels":{"A1":{"count":258,"readability":68},"A2":{"count":97,"readability":82},"B1":{"count":82,"readability":92},"B2":{"count":42,"readability":97},"C1":{"count":18,"readability":99},"C2":{"count":3,"readability":100}}}}
+{
+	"dir": "william-hope-hodgson/the-voice-in-the-night",
+	"title": "The Voice in the Night",
+	"creator": "William Hope Hodgson",
+	"description": "Everything began on a dark starless night. The small ship was in the ocean. There was no wind at all. The ship wasn't moving. Several heroes did not know where they were for a week - a thick fog hid any landmarks. Even the sun hid behind a dense veil of fog for more than a week. Two men and a child were asleep. The main character was standing on the deck. Suddenly a human scream came from the fog. It was very unexpected and scary. The voice shouted an ominous warning and died away. There was silence again. This strange event excited the hero. Was it his imagination? Was it from fatigue and stress? But soon the voice returned to tell its mysterious story. And things, that he said, turned out to be much more terrifying than spending a week in the fog.   ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1492,
+		"uniqueWordsCount": 539,
+		"ranks": {
+			"highest": 23249,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 273,
+				"readability": 66
+			},
+			"A2": {
+				"count": 98,
+				"readability": 80
+			},
+			"B1": {
+				"count": 91,
+				"readability": 91
+			},
+			"B2": {
+				"count": 51,
+				"readability": 97
+			},
+			"C1": {
+				"count": 19,
+				"readability": 98
+			},
+			"C2": {
+				"count": 4,
+				"readability": 100
+			}
+		}
+	}
+}
