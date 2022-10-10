@@ -1,1 +1,43 @@
-{"dir":"alexandre-dumas/the-vicomte-de-bragelonne","title":"The Vicomte de Bragelonne","creator":"Alexandre Dumas","description":"The events of the early days of Louis XIV’s majority reign in France, including the continuing story of the four musketeers who served both Louis XIV’s father and himself.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":329021,"uniqueWordsCount":10619,"ranks":{"highest":49654,"lowest":1},"levels":{"A1":{"count":468,"readability":55},"A2":{"count":489,"readability":69},"B1":{"count":961,"readability":82},"B2":{"count":1762,"readability":91},"C1":{"count":2710,"readability":97},"C2":{"count":2853,"readability":100}}}}
+{
+	"dir": "alexandre-dumas/the-vicomte-de-bragelonne",
+	"title": "The Vicomte de Bragelonne",
+	"creator": "Alexandre Dumas",
+	"description": "The events of the early days of Louis XIV’s majority reign in France, including the continuing story of the four musketeers who served both Louis XIV’s father and himself.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 325956,
+		"uniqueWordsCount": 11124,
+		"ranks": {
+			"highest": 51565,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 53
+			},
+			"A2": {
+				"count": 489,
+				"readability": 67
+			},
+			"B1": {
+				"count": 967,
+				"readability": 80
+			},
+			"B2": {
+				"count": 1779,
+				"readability": 90
+			},
+			"C1": {
+				"count": 2785,
+				"readability": 97
+			},
+			"C2": {
+				"count": 3023,
+				"readability": 100
+			}
+		}
+	}
+}
