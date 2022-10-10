@@ -1,1 +1,43 @@
-{"dir":"edgar-allan-poe/the-cask-of-amontillado","title":"The Cask of Amontillado","creator":"Edgar Allan Poe","description":"This is the story by the famous writer Edgar Allan Poe. It is this author who is considered to be the progenitor of such a popular genre in literature as horror fiction. Even Howard Lovecraft was inspired by his books. This story was published in the collection at the end of the nineteenth century. The main character's name is Montezor. At the beginning of the story, he brags about how he got even with a mean nobleman, avenging for all bitter offences. He planned to commit a murder during the carnival: the people around would be drunk and cheerful, everyone would be dancing - no one would notice the real crime. Everyone would decide it as a part of the fun. He lured the foe into his mansion to show a collection of wines in the cellar. Further, Montezor thought up a particularly exquisite crime, which no one expected.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":686,"uniqueWordsCount":351,"ranks":{"highest":21323,"lowest":1},"levels":{"A1":{"count":199,"readability":63},"A2":{"count":58,"readability":77},"B1":{"count":46,"readability":88},"B2":{"count":30,"readability":95},"C1":{"count":14,"readability":98},"C2":{"count":3,"readability":99}}}}
+{
+	"dir": "edgar-allan-poe/the-cask-of-amontillado",
+	"title": "The Cask of Amontillado",
+	"creator": "Edgar Allan Poe",
+	"description": "This is the story by the famous writer Edgar Allan Poe. It is this author who is considered to be the progenitor of such a popular genre in literature as horror fiction. Even Howard Lovecraft was inspired by his books. This story was published in the collection at the end of the nineteenth century. The main character's name is Montezor. At the beginning of the story, he brags about how he got even with a mean nobleman, avenging for all bitter offences. He planned to commit a murder during the carnival: the people around would be drunk and cheerful, everyone would be dancing - no one would notice the real crime. Everyone would decide it as a part of the fun. He lured the foe into his mansion to show a collection of wines in the cellar. Further, Montezor thought up a particularly exquisite crime, which no one expected.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 687,
+		"uniqueWordsCount": 376,
+		"ranks": {
+			"highest": 39533,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 204,
+				"readability": 61
+			},
+			"A2": {
+				"count": 54,
+				"readability": 73
+			},
+			"B1": {
+				"count": 56,
+				"readability": 85
+			},
+			"B2": {
+				"count": 36,
+				"readability": 94
+			},
+			"C1": {
+				"count": 19,
+				"readability": 97
+			},
+			"C2": {
+				"count": 5,
+				"readability": 99
+			}
+		}
+	}
+}
