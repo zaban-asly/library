@@ -1,1 +1,43 @@
-{"dir":"oliver-goldsmith/the-vicar-of-wakefield","title":"The Vicar of Wakefield","creator":"Oliver Goldsmith","description":"A country vicar and his family are subjected to a series of unfortunate events.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":29801,"uniqueWordsCount":4221,"ranks":{"highest":50079,"lowest":1},"levels":{"A1":{"count":467,"readability":57},"A2":{"count":427,"readability":69},"B1":{"count":708,"readability":81},"B2":{"count":921,"readability":90},"C1":{"count":865,"readability":96},"C2":{"count":634,"readability":100}}}}
+{
+	"dir": "oliver-goldsmith/the-vicar-of-wakefield",
+	"title": "The Vicar of Wakefield",
+	"creator": "Oliver Goldsmith",
+	"description": "A country vicar and his family are subjected to a series of unfortunate events.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 29703,
+		"uniqueWordsCount": 4453,
+		"ranks": {
+			"highest": 52002,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 55
+			},
+			"A2": {
+				"count": 429,
+				"readability": 67
+			},
+			"B1": {
+				"count": 728,
+				"readability": 79
+			},
+			"B2": {
+				"count": 957,
+				"readability": 89
+			},
+			"C1": {
+				"count": 916,
+				"readability": 96
+			},
+			"C2": {
+				"count": 696,
+				"readability": 99
+			}
+		}
+	}
+}
