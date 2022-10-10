@@ -1,1 +1,43 @@
-{"dir":"m-r-james/the-experiment","title":"The Experiment","creator":"M. R. James","description":"Mr. Hall was a priest from a small village. One day he was working in the office when his servant entered. The woman was alarmed. She said that the squire died. Mr. Hall was surprised, because he had seen this man the day before. But soon the church bell rang, notifying the village of someone's death. It was true. People said that the squire suddenly got some terrible unusual disease. He passed away very quickly and they decided to bury him as soon as possible. The priest took his clothes and left the office to learn all the details. As it turned out, the squire said he did not want to be buried in the family crypt. He wished to be buried in an ordinary grave in a cemetery. The priest thought that the man was too ill to realize what he was talking about. But the last desire must be fulfilled.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":896,"uniqueWordsCount":359,"ranks":{"highest":20854,"lowest":1},"levels":{"A1":{"count":220,"readability":73},"A2":{"count":58,"readability":84},"B1":{"count":34,"readability":90},"B2":{"count":25,"readability":96},"C1":{"count":13,"readability":98},"C2":{"count":7,"readability":100}}}}
+{
+	"dir": "m-r-james/the-experiment",
+	"title": "The Experiment",
+	"creator": "M. R. James",
+	"description": "Mr. Hall was a priest from a small village. One day he was working in the office when his servant entered. The woman was alarmed. She said that the squire died. Mr. Hall was surprised, because he had seen this man the day before. But soon the church bell rang, notifying the village of someone's death. It was true. People said that the squire suddenly got some terrible unusual disease. He passed away very quickly and they decided to bury him as soon as possible. The priest took his clothes and left the office to learn all the details. As it turned out, the squire said he did not want to be buried in the family crypt. He wished to be buried in an ordinary grave in a cemetery. The priest thought that the man was too ill to realize what he was talking about. But the last desire must be fulfilled.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 896,
+		"uniqueWordsCount": 389,
+		"ranks": {
+			"highest": 21588,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 240,
+				"readability": 71
+			},
+			"A2": {
+				"count": 56,
+				"readability": 82
+			},
+			"B1": {
+				"count": 39,
+				"readability": 88
+			},
+			"B2": {
+				"count": 29,
+				"readability": 96
+			},
+			"C1": {
+				"count": 16,
+				"readability": 98
+			},
+			"C2": {
+				"count": 7,
+				"readability": 100
+			}
+		}
+	}
+}
