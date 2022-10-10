@@ -1,1 +1,43 @@
-{"dir":"marcus-aurelius/meditations","title":"Meditations","creator":"Marcus Aurelius","description":"The personal diary of the Roman Emperor, in which he lays out his thoughts and philosophical musings on the Stoic philosophy and way of life.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":21685,"uniqueWordsCount":2926,"ranks":{"highest":49369,"lowest":1},"levels":{"A1":{"count":433,"readability":60},"A2":{"count":324,"readability":71},"B1":{"count":506,"readability":82},"B2":{"count":585,"readability":91},"C1":{"count":516,"readability":96},"C2":{"count":398,"readability":99}}}}
+{
+	"dir": "marcus-aurelius/meditations",
+	"title": "Meditations",
+	"creator": "Marcus Aurelius",
+	"description": "The personal diary of the Roman Emperor, in which he lays out his thoughts and philosophical musings on the Stoic philosophy and way of life.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 21584,
+		"uniqueWordsCount": 3046,
+		"ranks": {
+			"highest": 51267,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 452,
+				"readability": 59
+			},
+			"A2": {
+				"count": 330,
+				"readability": 70
+			},
+			"B1": {
+				"count": 516,
+				"readability": 80
+			},
+			"B2": {
+				"count": 597,
+				"readability": 90
+			},
+			"C1": {
+				"count": 543,
+				"readability": 96
+			},
+			"C2": {
+				"count": 418,
+				"readability": 99
+			}
+		}
+	}
+}
