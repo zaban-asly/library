@@ -1,1 +1,43 @@
-{"dir":"j-s-fletcher/the-charing-cross-mystery","title":"The Charing Cross Mystery","creator":"J. S. Fletcher","description":"A young lawyer witnesses a suspicious death on a late-night train and investigates what turns out to be a murder.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":33919,"uniqueWordsCount":3490,"ranks":{"highest":49656,"lowest":1},"levels":{"A1":{"count":458,"readability":64},"A2":{"count":410,"readability":76},"B1":{"count":638,"readability":86},"B2":{"count":732,"readability":93},"C1":{"count":664,"readability":98},"C2":{"count":415,"readability":100}}}}
+{
+	"dir": "j-s-fletcher/the-charing-cross-mystery",
+	"title": "The Charing Cross Mystery",
+	"creator": "J. S. Fletcher",
+	"description": "A young lawyer witnesses a suspicious death on a late-night train and investigates what turns out to be a murder.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 33859,
+		"uniqueWordsCount": 3640,
+		"ranks": {
+			"highest": 51567,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 481,
+				"readability": 62
+			},
+			"A2": {
+				"count": 419,
+				"readability": 75
+			},
+			"B1": {
+				"count": 654,
+				"readability": 85
+			},
+			"B2": {
+				"count": 771,
+				"readability": 93
+			},
+			"C1": {
+				"count": 690,
+				"readability": 97
+			},
+			"C2": {
+				"count": 427,
+				"readability": 100
+			}
+		}
+	}
+}
