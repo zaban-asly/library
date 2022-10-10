@@ -1,1 +1,43 @@
-{"dir":"voltaire/candide","title":"Candide","creator":"Voltaire","description":"A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":16586,"uniqueWordsCount":3453,"ranks":{"highest":44762,"lowest":1},"levels":{"A1":{"count":461,"readability":54},"A2":{"count":417,"readability":65},"B1":{"count":616,"readability":77},"B2":{"count":740,"readability":87},"C1":{"count":614,"readability":94},"C2":{"count":402,"readability":98}}}}
+{
+	"dir": "voltaire/candide",
+	"title": "Candide",
+	"creator": "Voltaire",
+	"description": "A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 16542,
+		"uniqueWordsCount": 3614,
+		"ranks": {
+			"highest": 51103,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 488,
+				"readability": 52
+			},
+			"A2": {
+				"count": 424,
+				"readability": 63
+			},
+			"B1": {
+				"count": 625,
+				"readability": 76
+			},
+			"B2": {
+				"count": 776,
+				"readability": 86
+			},
+			"C1": {
+				"count": 644,
+				"readability": 93
+			},
+			"C2": {
+				"count": 431,
+				"readability": 98
+			}
+		}
+	}
+}
