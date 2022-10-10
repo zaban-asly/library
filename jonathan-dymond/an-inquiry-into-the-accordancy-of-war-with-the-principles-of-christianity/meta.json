@@ -1,1 +1,43 @@
-{"dir":"jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity","title":"An Inquiry Into the Accordancy of War with the Principles of Christianity","creator":"Jonathan Dymond","description":"Dymond argues that war is incompatible with the teachings of Christianity.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":21153,"uniqueWordsCount":3397,"ranks":{"highest":46248,"lowest":1},"levels":{"A1":{"count":415,"readability":42},"A2":{"count":325,"readability":56},"B1":{"count":546,"readability":72},"B2":{"count":641,"readability":85},"C1":{"count":683,"readability":93},"C2":{"count":545,"readability":99}}}}
+{
+	"dir": "jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
+	"title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
+	"creator": "Jonathan Dymond",
+	"description": "Dymond argues that war is incompatible with the teachings of Christianity.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 21111,
+		"uniqueWordsCount": 3521,
+		"ranks": {
+			"highest": 47989,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 433,
+				"readability": 41
+			},
+			"A2": {
+				"count": 336,
+				"readability": 55
+			},
+			"B1": {
+				"count": 539,
+				"readability": 71
+			},
+			"B2": {
+				"count": 673,
+				"readability": 84
+			},
+			"C1": {
+				"count": 699,
+				"readability": 93
+			},
+			"C2": {
+				"count": 574,
+				"readability": 98
+			}
+		}
+	}
+}
