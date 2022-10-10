@@ -1,1 +1,43 @@
-{"dir":"william-hazlitt/table-talk","title":"Table-Talk","creator":"William Hazlitt","description":"A collection of essays on art, literature, philosophy, society, and culture.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":75361,"uniqueWordsCount":8341,"ranks":{"highest":48777,"lowest":1},"levels":{"A1":{"count":468,"readability":50},"A2":{"count":485,"readability":61},"B1":{"count":927,"readability":74},"B2":{"count":1515,"readability":85},"C1":{"count":2025,"readability":93},"C2":{"count":1967,"readability":99}}}}
+{
+	"dir": "william-hazlitt/table-talk",
+	"title": "Table-Talk",
+	"creator": "William Hazlitt",
+	"description": "A collection of essays on art, literature, philosophy, society, and culture.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 75181,
+		"uniqueWordsCount": 8695,
+		"ranks": {
+			"highest": 50623,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 48
+			},
+			"A2": {
+				"count": 487,
+				"readability": 60
+			},
+			"B1": {
+				"count": 929,
+				"readability": 73
+			},
+			"B2": {
+				"count": 1537,
+				"readability": 84
+			},
+			"C1": {
+				"count": 2061,
+				"readability": 93
+			},
+			"C2": {
+				"count": 2095,
+				"readability": 98
+			}
+		}
+	}
+}
