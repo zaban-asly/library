@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/henry-vi-part-ii","title":"Henry VI, Part II","creator":"William Shakespeare","description":"King Henry VI marries Margaret of Anjou and further stokes discord within his court.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":12978,"uniqueWordsCount":2730,"ranks":{"highest":47093,"lowest":1},"levels":{"A1":{"count":425,"readability":50},"A2":{"count":332,"readability":63},"B1":{"count":470,"readability":75},"B2":{"count":552,"readability":86},"C1":{"count":482,"readability":95},"C2":{"count":332,"readability":99}}}}
+{
+	"dir": "william-shakespeare/henry-vi-part-ii",
+	"title": "Henry VI, Part II",
+	"creator": "William Shakespeare",
+	"description": "King Henry VI marries Margaret of Anjou and further stokes discord within his court.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 12948,
+		"uniqueWordsCount": 2861,
+		"ranks": {
+			"highest": 48862,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 446,
+				"readability": 48
+			},
+			"A2": {
+				"count": 331,
+				"readability": 60
+			},
+			"B1": {
+				"count": 483,
+				"readability": 74
+			},
+			"B2": {
+				"count": 579,
+				"readability": 85
+			},
+			"C1": {
+				"count": 505,
+				"readability": 95
+			},
+			"C2": {
+				"count": 360,
+				"readability": 99
+			}
+		}
+	}
+}
