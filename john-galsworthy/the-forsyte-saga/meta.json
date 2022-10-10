@@ -1,1 +1,43 @@
-{"dir":"john-galsworthy/the-forsyte-saga","title":"The Forsyte Saga","creator":"John Galsworthy","description":"A classic work of English literature that won the Nobel Prize in the early twentieth century. The saga describes the life of several generations of a wealthy English family, whose life is full of fun and dramatic moments. The novel begins with the story of two brothers. The brothers have not seen each other for a long time. They both are no longer young. But they have managed to earn a lot of money. One of them is terminally ill and now is trying to analyze his life. He wants to understand what he did wrong. The reader travels through the memories of the old man and sees many interesting and vivid scenes from his life. And the life of each member of the Forsyte family is full of unusual events. It is worth reading about.  ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":14331,"uniqueWordsCount":2970,"ranks":{"highest":48488,"lowest":1},"levels":{"A1":{"count":457,"readability":62},"A2":{"count":401,"readability":74},"B1":{"count":571,"readability":84},"B2":{"count":631,"readability":92},"C1":{"count":496,"readability":97},"C2":{"count":307,"readability":100}}}}
+{
+	"dir": "john-galsworthy/the-forsyte-saga",
+	"title": "The Forsyte Saga",
+	"creator": "John Galsworthy",
+	"description": "A classic work of English literature that won the Nobel Prize in the early twentieth century. The saga describes the life of several generations of a wealthy English family, whose life is full of fun and dramatic moments. The novel begins with the story of two brothers. The brothers have not seen each other for a long time. They both are no longer young. But they have managed to earn a lot of money. One of them is terminally ill and now is trying to analyze his life. He wants to understand what he did wrong. The reader travels through the memories of the old man and sees many interesting and vivid scenes from his life. And the life of each member of the Forsyte family is full of unusual events. It is worth reading about.  ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 14313,
+		"uniqueWordsCount": 3121,
+		"ranks": {
+			"highest": 51540,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 486,
+				"readability": 60
+			},
+			"A2": {
+				"count": 407,
+				"readability": 72
+			},
+			"B1": {
+				"count": 591,
+				"readability": 83
+			},
+			"B2": {
+				"count": 665,
+				"readability": 91
+			},
+			"C1": {
+				"count": 533,
+				"readability": 97
+			},
+			"C2": {
+				"count": 316,
+				"readability": 99
+			}
+		}
+	}
+}
