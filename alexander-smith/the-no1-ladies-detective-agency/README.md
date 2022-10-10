@@ -1,5 +1,5 @@
 
-# The No1 Ladies Detective Agency <kbd>v3.2.1</kbd>
+# The No1 Ladies Detective Agency <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
