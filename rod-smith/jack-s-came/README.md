@@ -1,5 +1,5 @@
 
-# Jack's Came <kbd>v3.2.1</kbd>
+# Jack's Came <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
