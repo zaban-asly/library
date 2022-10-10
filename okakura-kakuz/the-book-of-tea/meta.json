@@ -1,1 +1,43 @@
-{"dir":"okakura-kakuz/the-book-of-tea","title":"The Book of Tea","creator":"Okakura Kakuzō","description":"The Book of Tea is a long essay exploring the relationship between teaism, taoism, and the aesthetics of Japanese culture.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":9159,"uniqueWordsCount":3057,"ranks":{"highest":49346,"lowest":1},"levels":{"A1":{"count":407,"readability":38},"A2":{"count":335,"readability":52},"B1":{"count":501,"readability":65},"B2":{"count":617,"readability":79},"C1":{"count":593,"readability":90},"C2":{"count":420,"readability":97}}}}
+{
+	"dir": "okakura-kakuz/the-book-of-tea",
+	"title": "The Book of Tea",
+	"creator": "Okakura Kakuzō",
+	"description": "The Book of Tea is a long essay exploring the relationship between teaism, taoism, and the aesthetics of Japanese culture.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 9142,
+		"uniqueWordsCount": 3163,
+		"ranks": {
+			"highest": 51243,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 428,
+				"readability": 36
+			},
+			"A2": {
+				"count": 339,
+				"readability": 50
+			},
+			"B1": {
+				"count": 511,
+				"readability": 64
+			},
+			"B2": {
+				"count": 629,
+				"readability": 78
+			},
+			"C1": {
+				"count": 609,
+				"readability": 89
+			},
+			"C2": {
+				"count": 440,
+				"readability": 97
+			}
+		}
+	}
+}
