@@ -1,1 +1,43 @@
-{"dir":"lytton-strachey/queen-victoria","title":"Queen Victoria","creator":"Lytton Strachey","description":"A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":45724,"uniqueWordsCount":6584,"ranks":{"highest":49861,"lowest":1},"levels":{"A1":{"count":467,"readability":45},"A2":{"count":471,"readability":58},"B1":{"count":855,"readability":71},"B2":{"count":1300,"readability":83},"C1":{"count":1530,"readability":93},"C2":{"count":1294,"readability":98}}}}
+{
+	"dir": "lytton-strachey/queen-victoria",
+	"title": "Queen Victoria",
+	"creator": "Lytton Strachey",
+	"description": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 45599,
+		"uniqueWordsCount": 6823,
+		"ranks": {
+			"highest": 51776,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 43
+			},
+			"A2": {
+				"count": 474,
+				"readability": 56
+			},
+			"B1": {
+				"count": 865,
+				"readability": 70
+			},
+			"B2": {
+				"count": 1317,
+				"readability": 82
+			},
+			"C1": {
+				"count": 1568,
+				"readability": 92
+			},
+			"C2": {
+				"count": 1364,
+				"readability": 98
+			}
+		}
+	}
+}
