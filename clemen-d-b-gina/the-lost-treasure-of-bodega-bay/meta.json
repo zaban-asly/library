@@ -1,1 +1,43 @@
-{"dir":"clemen-d-b-gina/the-lost-treasure-of-bodega-bay","title":"The Lost Treasure of Bodega Bay","creator":"Clemen D. B. Gina","description":"<p>It's so great when our parents travel due to their work and take you to the unusual places. There are many interesting and useful things you can discover. Last time, for instance, the captain of a Spanish pirate ship wanted to turn the children's parents into his slaves. Only fortune helped them to escape this fate. The children were even able to steal a treasure map from the pirates-ghosts. And now the adventures are waiting for them on summer holidays. The parents take the children to Bodega Bay - a small town with the marine reserve. It is located on the northern coast of San Francisco. Except the rare species of animals, this place is also famous of its history. Long time ago it was a pirates' secret place. With the map the children will be able to find the hidden treasures. However, the map is too difficult to read and they have only one week to explore the coast.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3175,"uniqueWordsCount":616,"ranks":{"highest":37414,"lowest":11},"levels":{"A1":{"count":280,"readability":59},"A2":{"count":105,"readability":70},"B1":{"count":83,"readability":78},"B2":{"count":64,"readability":90},"C1":{"count":36,"readability":96},"C2":{"count":26,"readability":99}}}}
+{
+	"dir": "clemen-d-b-gina/the-lost-treasure-of-bodega-bay",
+	"title": "The Lost Treasure of Bodega Bay",
+	"creator": "Clemen D. B. Gina",
+	"description": "<p>It's so great when our parents travel due to their work and take you to the unusual places. There are many interesting and useful things you can discover. Last time, for instance, the captain of a Spanish pirate ship wanted to turn the children's parents into his slaves. Only fortune helped them to escape this fate. The children were even able to steal a treasure map from the pirates-ghosts. And now the adventures are waiting for them on summer holidays. The parents take the children to Bodega Bay - a small town with the marine reserve. It is located on the northern coast of San Francisco. Except the rare species of animals, this place is also famous of its history. Long time ago it was a pirates' secret place. With the map the children will be able to find the hidden treasures. However, the map is too difficult to read and they have only one week to explore the coast.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3175,
+		"uniqueWordsCount": 657,
+		"ranks": {
+			"highest": 38851,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 294,
+				"readability": 58
+			},
+			"A2": {
+				"count": 113,
+				"readability": 68
+			},
+			"B1": {
+				"count": 91,
+				"readability": 77
+			},
+			"B2": {
+				"count": 70,
+				"readability": 89
+			},
+			"C1": {
+				"count": 38,
+				"readability": 95
+			},
+			"C2": {
+				"count": 28,
+				"readability": 98
+			}
+		}
+	}
+}
