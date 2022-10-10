@@ -1,1 +1,43 @@
-{"dir":"lytton-strachey/eminent-victorians","title":"Eminent Victorians","creator":"Lytton Strachey","description":"Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":47569,"uniqueWordsCount":6814,"ranks":{"highest":49923,"lowest":1},"levels":{"A1":{"count":470,"readability":46},"A2":{"count":470,"readability":58},"B1":{"count":884,"readability":72},"B2":{"count":1332,"readability":84},"C1":{"count":1590,"readability":92},"C2":{"count":1364,"readability":98}}}}
+{
+	"dir": "lytton-strachey/eminent-victorians",
+	"title": "Eminent Victorians",
+	"creator": "Lytton Strachey",
+	"description": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 47483,
+		"uniqueWordsCount": 7079,
+		"ranks": {
+			"highest": 51841,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 44
+			},
+			"A2": {
+				"count": 475,
+				"readability": 57
+			},
+			"B1": {
+				"count": 886,
+				"readability": 71
+			},
+			"B2": {
+				"count": 1358,
+				"readability": 83
+			},
+			"C1": {
+				"count": 1631,
+				"readability": 91
+			},
+			"C2": {
+				"count": 1450,
+				"readability": 98
+			}
+		}
+	}
+}
