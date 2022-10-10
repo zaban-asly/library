@@ -1,1 +1,43 @@
-{"dir":"linda-brent/incidents-in-the-life-of-a-slave-girl","title":"Incidents in the Life of a Slave Girl","creator":"Linda Brent","description":"The autobiography of a woman who grew up in, and escaped from, slavery.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":37996,"uniqueWordsCount":4390,"ranks":{"highest":43248,"lowest":1},"levels":{"A1":{"count":462,"readability":59},"A2":{"count":457,"readability":71},"B1":{"count":779,"readability":83},"B2":{"count":1009,"readability":92},"C1":{"count":983,"readability":97},"C2":{"count":573,"readability":100}}}}
+{
+	"dir": "linda-brent/incidents-in-the-life-of-a-slave-girl",
+	"title": "Incidents in the Life of a Slave Girl",
+	"creator": "Linda Brent",
+	"description": "The autobiography of a woman who grew up in, and escaped from, slavery.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 37911,
+		"uniqueWordsCount": 4614,
+		"ranks": {
+			"highest": 44895,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 57
+			},
+			"A2": {
+				"count": 457,
+				"readability": 69
+			},
+			"B1": {
+				"count": 805,
+				"readability": 81
+			},
+			"B2": {
+				"count": 1043,
+				"readability": 91
+			},
+			"C1": {
+				"count": 1037,
+				"readability": 97
+			},
+			"C2": {
+				"count": 634,
+				"readability": 100
+			}
+		}
+	}
+}
