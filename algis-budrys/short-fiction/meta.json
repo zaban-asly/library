@@ -1,1 +1,43 @@
-{"dir":"algis-budrys/short-fiction","title":"Short Fiction","creator":"Algis Budrys","description":"Seven science fiction short stories by author Algis Budrys.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":23241,"uniqueWordsCount":4323,"ranks":{"highest":49530,"lowest":1},"levels":{"A1":{"count":457,"readability":54},"A2":{"count":411,"readability":65},"B1":{"count":668,"readability":75},"B2":{"count":872,"readability":85},"C1":{"count":813,"readability":92},"C2":{"count":625,"readability":97}}}}
+{
+	"dir": "algis-budrys/short-fiction",
+	"title": "Short Fiction",
+	"creator": "Algis Budrys",
+	"description": "Seven science fiction short stories by author Algis Budrys.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 23203,
+		"uniqueWordsCount": 4517,
+		"ranks": {
+			"highest": 51436,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 483,
+				"readability": 52
+			},
+			"A2": {
+				"count": 416,
+				"readability": 63
+			},
+			"B1": {
+				"count": 695,
+				"readability": 73
+			},
+			"B2": {
+				"count": 899,
+				"readability": 84
+			},
+			"C1": {
+				"count": 863,
+				"readability": 91
+			},
+			"C2": {
+				"count": 644,
+				"readability": 97
+			}
+		}
+	}
+}
