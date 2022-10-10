@@ -1,1 +1,43 @@
-{"dir":"bram-stoker/the-judge-s-house","title":"The Judge's House","creator":"Bram Stoker","description":"This is a story from a world famous writer who wrote a book about the first vampire in the world. A young lawyer named John Moore comes to a small town to prepare for the exams in a relaxed atmosphere. After spending one night in a hotel, he firmly decides to rent a big beautiful mansion to live in it. The hostess of the hotel warns the young man that this mansion has a bad reputation. A cruel judge had lived there before. Nowadays some mysterious ghosts live in this house.  It is a bad idea to rent it. But John doesn't believe in ghosts, and the house seems very comfortable. The young man moves to a new place but it is not possible to live peacefully. Everything begins with a huge rat, that comes to him at night. And then the events start evolving rapidly.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2519,"uniqueWordsCount":650,"ranks":{"highest":43243,"lowest":1},"levels":{"A1":{"count":296,"readability":61},"A2":{"count":121,"readability":75},"B1":{"count":114,"readability":87},"B2":{"count":74,"readability":97},"C1":{"count":28,"readability":99},"C2":{"count":13,"readability":100}}}}
+{
+	"dir": "bram-stoker/the-judge-s-house",
+	"title": "The Judge's House",
+	"creator": "Bram Stoker",
+	"description": "This is a story from a world famous writer who wrote a book about the first vampire in the world. A young lawyer named John Moore comes to a small town to prepare for the exams in a relaxed atmosphere. After spending one night in a hotel, he firmly decides to rent a big beautiful mansion to live in it. The hostess of the hotel warns the young man that this mansion has a bad reputation. A cruel judge had lived there before. Nowadays some mysterious ghosts live in this house.  It is a bad idea to rent it. But John doesn't believe in ghosts, and the house seems very comfortable. The young man moves to a new place but it is not possible to live peacefully. Everything begins with a huge rat, that comes to him at night. And then the events start evolving rapidly.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2519,
+		"uniqueWordsCount": 699,
+		"ranks": {
+			"highest": 44887,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 308,
+				"readability": 59
+			},
+			"A2": {
+				"count": 125,
+				"readability": 73
+			},
+			"B1": {
+				"count": 133,
+				"readability": 86
+			},
+			"B2": {
+				"count": 84,
+				"readability": 97
+			},
+			"C1": {
+				"count": 27,
+				"readability": 99
+			},
+			"C2": {
+				"count": 18,
+				"readability": 100
+			}
+		}
+	}
+}
