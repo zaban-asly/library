@@ -1,1 +1,43 @@
-{"dir":"jane-rollason/the-glass-box","title":"The Glass Box","creator":"Jane Rollason","description":"In ancient times, a poor man named Hans lived in one country. He had neither home nor money for buying food. He did not own any property. But the man felt quite happy. He was sure that one day he would definitely find his place under the sun. After a while Hans met an old woman who asked what he wanted. Hans decided that he wanted  to have some money. The old woman gave him a present. It was amagical blue coat. She told Hans that he should go to one strange place where huge dogs were sitting. These animals protected chests full of gold, but if you put them on this coat - they would not attack. Hans would be able to take as much money as he needed. And the old woman herself needed a box of glass that her grandmother lost in that very place.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1426,"uniqueWordsCount":286,"ranks":{"highest":15783,"lowest":11},"levels":{"A1":{"count":192,"readability":74},"A2":{"count":48,"readability":86},"B1":{"count":26,"readability":94},"B2":{"count":16,"readability":100},"C1":{"count":2,"readability":100},"C2":{"count":2,"readability":100}}}}
+{
+	"dir": "jane-rollason/the-glass-box",
+	"title": "The Glass Box",
+	"creator": "Jane Rollason",
+	"description": "In ancient times, a poor man named Hans lived in one country. He had neither home nor money for buying food. He did not own any property. But the man felt quite happy. He was sure that one day he would definitely find his place under the sun. After a while Hans met an old woman who asked what he wanted. Hans decided that he wanted  to have some money. The old woman gave him a present. It was amagical blue coat. She told Hans that he should go to one strange place where huge dogs were sitting. These animals protected chests full of gold, but if you put them on this coat - they would not attack. Hans would be able to take as much money as he needed. And the old woman herself needed a box of glass that her grandmother lost in that very place.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1426,
+		"uniqueWordsCount": 307,
+		"ranks": {
+			"highest": 16343,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 202,
+				"readability": 73
+			},
+			"A2": {
+				"count": 44,
+				"readability": 85
+			},
+			"B1": {
+				"count": 37,
+				"readability": 93
+			},
+			"B2": {
+				"count": 18,
+				"readability": 100
+			},
+			"C1": {
+				"count": 3,
+				"readability": 100
+			},
+			"C2": {
+				"count": 2,
+				"readability": 100
+			}
+		}
+	}
+}
