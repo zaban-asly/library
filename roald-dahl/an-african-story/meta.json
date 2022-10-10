@@ -1,1 +1,43 @@
-{"dir":"roald-dahl/an-african-story","title":"An African Story","creator":"Roald Dahl","description":"The protagonist of this book spent his youth in eastern Africa. He was a good hunter. He loved his country and spent time on the plains, in many cozy valleys and loved walking at cold nights. But soon the war began. World War II overtook Europe. The man was preparing to become a pilot. Once he took a plane and flew to watch wild animals during maneuvering exercises in the sky. He damaged the wing of the plane, but was able to return to the airport. Soon he was again entrusted with the aircraft. But the next time the pilot was unlucky - the aircraft's engine died out and he had to make an emergency landing. This time it was without damage. He saw a small hut and went to her. There lived an old man who grew food. He warmly welcomed the pilot and allowed him to live in his hut.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2338,"uniqueWordsCount":591,"ranks":{"highest":26640,"lowest":1},"levels":{"A1":{"count":275,"readability":68},"A2":{"count":124,"readability":82},"B1":{"count":85,"readability":90},"B2":{"count":64,"readability":97},"C1":{"count":27,"readability":99},"C2":{"count":9,"readability":100}}}}
+{
+	"dir": "roald-dahl/an-african-story",
+	"title": "An African Story",
+	"creator": "Roald Dahl",
+	"description": "The protagonist of this book spent his youth in eastern Africa. He was a good hunter. He loved his country and spent time on the plains, in many cozy valleys and loved walking at cold nights. But soon the war began. World War II overtook Europe. The man was preparing to become a pilot. Once he took a plane and flew to watch wild animals during maneuvering exercises in the sky. He damaged the wing of the plane, but was able to return to the airport. Soon he was again entrusted with the aircraft. But the next time the pilot was unlucky - the aircraft's engine died out and he had to make an emergency landing. This time it was without damage. He saw a small hut and went to her. There lived an old man who grew food. He warmly welcomed the pilot and allowed him to live in his hut.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2344,
+		"uniqueWordsCount": 643,
+		"ranks": {
+			"highest": 49327,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 291,
+				"readability": 67
+			},
+			"A2": {
+				"count": 122,
+				"readability": 80
+			},
+			"B1": {
+				"count": 103,
+				"readability": 89
+			},
+			"B2": {
+				"count": 71,
+				"readability": 95
+			},
+			"C1": {
+				"count": 37,
+				"readability": 98
+			},
+			"C2": {
+				"count": 10,
+				"readability": 99
+			}
+		}
+	}
+}
