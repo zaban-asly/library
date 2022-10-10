@@ -1,0 +1,43 @@
+{
+	"dir": "edgar-allan-poe/short-fiction",
+	"title": "Short Fiction",
+	"creator": "Edgar Allan Poe",
+	"description": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-10",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 155655,
+		"uniqueWordsCount": 12214,
+		"ranks": {
+			"highest": 52047,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 44
+			},
+			"A2": {
+				"count": 494,
+				"readability": 57
+			},
+			"B1": {
+				"count": 977,
+				"readability": 71
+			},
+			"B2": {
+				"count": 1790,
+				"readability": 83
+			},
+			"C1": {
+				"count": 2815,
+				"readability": 92
+			},
+			"C2": {
+				"count": 3285,
+				"readability": 98
+			}
+		}
+	}
+}
