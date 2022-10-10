@@ -1,1 +1,43 @@
-{"dir":"frances-hodgson-burnett/the-secret-garden","title":"The Secret Garden","creator":"Frances Hodgson Burnett","description":"A young girl is moved to the English countryside where she starts restoring a neglected garden, and uncovers secrets in the process.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":37696,"uniqueWordsCount":3065,"ranks":{"highest":47783,"lowest":1},"levels":{"A1":{"count":453,"readability":67},"A2":{"count":406,"readability":79},"B1":{"count":528,"readability":87},"B2":{"count":644,"readability":93},"C1":{"count":541,"readability":98},"C2":{"count":345,"readability":100}}}}
+{
+	"dir": "frances-hodgson-burnett/the-secret-garden",
+	"title": "The Secret Garden",
+	"creator": "Frances Hodgson Burnett",
+	"description": "A young girl is moved to the English countryside where she starts restoring a neglected garden, and uncovers secrets in the process.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 37653,
+		"uniqueWordsCount": 3286,
+		"ranks": {
+			"highest": 49581,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 481,
+				"readability": 65
+			},
+			"A2": {
+				"count": 410,
+				"readability": 77
+			},
+			"B1": {
+				"count": 561,
+				"readability": 86
+			},
+			"B2": {
+				"count": 673,
+				"readability": 93
+			},
+			"C1": {
+				"count": 597,
+				"readability": 97
+			},
+			"C2": {
+				"count": 382,
+				"readability": 100
+			}
+		}
+	}
+}
