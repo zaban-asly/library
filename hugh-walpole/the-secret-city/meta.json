@@ -1,1 +1,43 @@
-{"dir":"hugh-walpole/the-secret-city","title":"The Secret City","creator":"Hugh Walpole","description":"A Russian family and their English friends become tangled in threads of intrigue as the Revolution erupts around them.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":57516,"uniqueWordsCount":5271,"ranks":{"highest":50230,"lowest":1},"levels":{"A1":{"count":468,"readability":62},"A2":{"count":476,"readability":74},"B1":{"count":838,"readability":84},"B2":{"count":1168,"readability":92},"C1":{"count":1131,"readability":97},"C2":{"count":861,"readability":100}}}}
+{
+	"dir": "hugh-walpole/the-secret-city",
+	"title": "The Secret City",
+	"creator": "Hugh Walpole",
+	"description": "A Russian family and their English friends become tangled in threads of intrigue as the Revolution erupts around them.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 57454,
+		"uniqueWordsCount": 5552,
+		"ranks": {
+			"highest": 52155,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 60
+			},
+			"A2": {
+				"count": 481,
+				"readability": 72
+			},
+			"B1": {
+				"count": 852,
+				"readability": 82
+			},
+			"B2": {
+				"count": 1205,
+				"readability": 91
+			},
+			"C1": {
+				"count": 1211,
+				"readability": 97
+			},
+			"C2": {
+				"count": 918,
+				"readability": 100
+			}
+		}
+	}
+}
