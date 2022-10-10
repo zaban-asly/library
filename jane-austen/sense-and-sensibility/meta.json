@@ -1,1 +1,43 @@
-{"dir":"jane-austen/sense-and-sensibility","title":"Sense and Sensibility","creator":"Jane Austen","description":"Two sisters take long journeys to love in early nineteenth-century England.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":53463,"uniqueWordsCount":4275,"ranks":{"highest":49930,"lowest":1},"levels":{"A1":{"count":458,"readability":61},"A2":{"count":422,"readability":73},"B1":{"count":721,"readability":85},"B2":{"count":912,"readability":93},"C1":{"count":893,"readability":97},"C2":{"count":666,"readability":100}}}}
+{
+	"dir": "jane-austen/sense-and-sensibility",
+	"title": "Sense and Sensibility",
+	"creator": "Jane Austen",
+	"description": "Two sisters take long journeys to love in early nineteenth-century England.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 53284,
+		"uniqueWordsCount": 4523,
+		"ranks": {
+			"highest": 51848,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 485,
+				"readability": 59
+			},
+			"A2": {
+				"count": 431,
+				"readability": 71
+			},
+			"B1": {
+				"count": 736,
+				"readability": 83
+			},
+			"B2": {
+				"count": 947,
+				"readability": 92
+			},
+			"C1": {
+				"count": 954,
+				"readability": 97
+			},
+			"C2": {
+				"count": 728,
+				"readability": 100
+			}
+		}
+	}
+}
