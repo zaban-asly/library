@@ -1,1 +1,43 @@
-{"dir":"edgar-rice-burroughs/tarzan-of-the-apes","title":"Tarzan of the Apes","creator":"Edgar Rice Burroughs","description":"An orphan is raised by apes in Africa and goes on various adventures.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":42341,"uniqueWordsCount":5045,"ranks":{"highest":50158,"lowest":1},"levels":{"A1":{"count":462,"readability":51},"A2":{"count":463,"readability":65},"B1":{"count":785,"readability":77},"B2":{"count":1050,"readability":89},"C1":{"count":1147,"readability":96},"C2":{"count":832,"readability":99}}}}
+{
+	"dir": "edgar-rice-burroughs/tarzan-of-the-apes",
+	"title": "Tarzan of the Apes",
+	"creator": "Edgar Rice Burroughs",
+	"description": "An orphan is raised by apes in Africa and goes on various adventures.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 42290,
+		"uniqueWordsCount": 5297,
+		"ranks": {
+			"highest": 52082,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 49
+			},
+			"A2": {
+				"count": 466,
+				"readability": 63
+			},
+			"B1": {
+				"count": 800,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1096,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1195,
+				"readability": 95
+			},
+			"C2": {
+				"count": 894,
+				"readability": 99
+			}
+		}
+	}
+}
