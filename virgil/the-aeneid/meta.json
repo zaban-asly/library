@@ -1,1 +1,43 @@
-{"dir":"virgil/the-aeneid","title":"The Aeneid","creator":"Virgil","description":"The legendary hero Aeneas flees the city of Troy with his father and young son, and travels to Italy to become the ancestor of the Romans.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":54517,"uniqueWordsCount":4518,"ranks":{"highest":50188,"lowest":1},"levels":{"A1":{"count":442,"readability":43},"A2":{"count":389,"readability":57},"B1":{"count":655,"readability":73},"B2":{"count":923,"readability":86},"C1":{"count":981,"readability":95},"C2":{"count":763,"readability":99}}}}
+{
+	"dir": "virgil/the-aeneid",
+	"title": "The Aeneid",
+	"creator": "Virgil",
+	"description": "The legendary hero Aeneas flees the city of Troy with his father and young son, and travels to Italy to become the ancestor of the Romans.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 54504,
+		"uniqueWordsCount": 4771,
+		"ranks": {
+			"highest": 52113,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 465,
+				"readability": 39
+			},
+			"A2": {
+				"count": 395,
+				"readability": 54
+			},
+			"B1": {
+				"count": 666,
+				"readability": 70
+			},
+			"B2": {
+				"count": 957,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1042,
+				"readability": 94
+			},
+			"C2": {
+				"count": 825,
+				"readability": 99
+			}
+		}
+	}
+}
