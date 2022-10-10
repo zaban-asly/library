@@ -1,1 +1,43 @@
-{"dir":"john-buchan/mr-standfast","title":"Mr. Standfast","creator":"John Buchan","description":"An army general chases a network of German spies through Scotland, the Swiss Alps, and the First World War’s Western Front.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":59440,"uniqueWordsCount":6812,"ranks":{"highest":50217,"lowest":1},"levels":{"A1":{"count":470,"readability":56},"A2":{"count":485,"readability":69},"B1":{"count":890,"readability":80},"B2":{"count":1378,"readability":88},"C1":{"count":1559,"readability":95},"C2":{"count":1293,"readability":98}}}}
+{
+	"dir": "john-buchan/mr-standfast",
+	"title": "Mr. Standfast",
+	"creator": "John Buchan",
+	"description": "An army general chases a network of German spies through Scotland, the Swiss Alps, and the First World War’s Western Front.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 59344,
+		"uniqueWordsCount": 7117,
+		"ranks": {
+			"highest": 52142,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 54
+			},
+			"A2": {
+				"count": 486,
+				"readability": 67
+			},
+			"B1": {
+				"count": 896,
+				"readability": 78
+			},
+			"B2": {
+				"count": 1390,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1645,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1368,
+				"readability": 98
+			}
+		}
+	}
+}
