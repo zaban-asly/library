@@ -1,1 +1,43 @@
-{"dir":"andrea-m-hutchinson/missing-in-sydney","title":"Missing in Sydney","creator":"Andrea M. Hutchinson","description":"Three friends Ami, Lisa and Claire decided to have a great holiday before entering the university. The friends had been planning this vacation for two years. They arrived in hot Australia from cold London in search of adventures and impressions. What could be better that a celebration of New Year on the beach in Sydney? During the party Lisa discovered that she had forgotten her purse. So she asked her friends to lend her some money. Instead of a not big sum she got many reproaches form Ami and Claire that she was always forgetting her money. Lisa got angry and joined another group which was also celebrating. The beach was full of people. After the party Ami and Claire didn't find Lisa. She wasn't in the room of the hostel where they stayed. She didn't come in the morning either. The girls started looking for her.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2061,"uniqueWordsCount":615,"ranks":{"highest":34727,"lowest":1},"levels":{"A1":{"count":269,"readability":66},"A2":{"count":115,"readability":78},"B1":{"count":76,"readability":86},"B2":{"count":77,"readability":93},"C1":{"count":43,"readability":97},"C2":{"count":23,"readability":99}}}}
+{
+	"dir": "andrea-m-hutchinson/missing-in-sydney",
+	"title": "Missing in Sydney",
+	"creator": "Andrea M. Hutchinson",
+	"description": "Three friends Ami, Lisa and Claire decided to have a great holiday before entering the university. The friends had been planning this vacation for two years. They arrived in hot Australia from cold London in search of adventures and impressions. What could be better that a celebration of New Year on the beach in Sydney? During the party Lisa discovered that she had forgotten her purse. So she asked her friends to lend her some money. Instead of a not big sum she got many reproaches form Ami and Claire that she was always forgetting her money. Lisa got angry and joined another group which was also celebrating. The beach was full of people. After the party Ami and Claire didn't find Lisa. She wasn't in the room of the hostel where they stayed. She didn't come in the morning either. The girls started looking for her.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2066,
+		"uniqueWordsCount": 658,
+		"ranks": {
+			"highest": 37554,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 289,
+				"readability": 64
+			},
+			"A2": {
+				"count": 120,
+				"readability": 77
+			},
+			"B1": {
+				"count": 86,
+				"readability": 85
+			},
+			"B2": {
+				"count": 78,
+				"readability": 93
+			},
+			"C1": {
+				"count": 47,
+				"readability": 97
+			},
+			"C2": {
+				"count": 23,
+				"readability": 99
+			}
+		}
+	}
+}
