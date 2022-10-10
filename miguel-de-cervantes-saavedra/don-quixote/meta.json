@@ -1,1 +1,43 @@
-{"dir":"miguel-de-cervantes-saavedra/don-quixote","title":"Don Quixote","creator":"Miguel de Cervantes Saavedra","description":"A mad knight-errant and his down-to-earth squire encounter adventure in the Spanish countryside.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":197376,"uniqueWordsCount":9749,"ranks":{"highest":50095,"lowest":1},"levels":{"A1":{"count":470,"readability":55},"A2":{"count":489,"readability":68},"B1":{"count":949,"readability":79},"B2":{"count":1682,"readability":89},"C1":{"count":2401,"readability":95},"C2":{"count":2406,"readability":99}}}}
+{
+	"dir": "miguel-de-cervantes-saavedra/don-quixote",
+	"title": "Don Quixote",
+	"creator": "Miguel de Cervantes Saavedra",
+	"description": "A mad knight-errant and his down-to-earth squire encounter adventure in the Spanish countryside.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 196813,
+		"uniqueWordsCount": 10220,
+		"ranks": {
+			"highest": 52018,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 53
+			},
+			"A2": {
+				"count": 490,
+				"readability": 66
+			},
+			"B1": {
+				"count": 958,
+				"readability": 78
+			},
+			"B2": {
+				"count": 1700,
+				"readability": 88
+			},
+			"C1": {
+				"count": 2489,
+				"readability": 95
+			},
+			"C2": {
+				"count": 2556,
+				"readability": 99
+			}
+		}
+	}
+}
