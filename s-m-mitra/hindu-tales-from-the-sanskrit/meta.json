@@ -1,1 +1,43 @@
-{"dir":"s-m-mitra/hindu-tales-from-the-sanskrit","title":"Hindu Tales from the Sanskrit","creator":"S. M. Mitra","description":"Short stories and fables from the Sanskrit tradition.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":17878,"uniqueWordsCount":2052,"ranks":{"highest":44185,"lowest":1},"levels":{"A1":{"count":440,"readability":67},"A2":{"count":359,"readability":79},"B1":{"count":460,"readability":89},"B2":{"count":396,"readability":95},"C1":{"count":237,"readability":98},"C2":{"count":123,"readability":100}}}}
+{
+	"dir": "s-m-mitra/hindu-tales-from-the-sanskrit",
+	"title": "Hindu Tales from the Sanskrit",
+	"creator": "S. M. Mitra",
+	"description": "Short stories and fables from the Sanskrit tradition.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 17846,
+		"uniqueWordsCount": 2219,
+		"ranks": {
+			"highest": 45851,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 470,
+				"readability": 66
+			},
+			"A2": {
+				"count": 359,
+				"readability": 77
+			},
+			"B1": {
+				"count": 495,
+				"readability": 87
+			},
+			"B2": {
+				"count": 428,
+				"readability": 94
+			},
+			"C1": {
+				"count": 277,
+				"readability": 98
+			},
+			"C2": {
+				"count": 143,
+				"readability": 100
+			}
+		}
+	}
+}
