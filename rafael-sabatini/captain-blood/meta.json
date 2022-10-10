@@ -1,1 +1,43 @@
-{"dir":"rafael-sabatini/captain-blood","title":"Captain Blood","creator":"Rafael Sabatini","description":"An English doctor is caught up in a rebellion and sentenced to transportation to the Caribbean, but later escapes slavery to become a pirate.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":53699,"uniqueWordsCount":6302,"ranks":{"highest":46840,"lowest":1},"levels":{"A1":{"count":467,"readability":49},"A2":{"count":464,"readability":61},"B1":{"count":850,"readability":75},"B2":{"count":1255,"readability":86},"C1":{"count":1440,"readability":94},"C2":{"count":1240,"readability":98}}}}
+{
+	"dir": "rafael-sabatini/captain-blood",
+	"title": "Captain Blood",
+	"creator": "Rafael Sabatini",
+	"description": "An English doctor is caught up in a rebellion and sentenced to transportation to the Caribbean, but later escapes slavery to become a pirate.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 53424,
+		"uniqueWordsCount": 6582,
+		"ranks": {
+			"highest": 48602,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 47
+			},
+			"A2": {
+				"count": 466,
+				"readability": 60
+			},
+			"B1": {
+				"count": 853,
+				"readability": 73
+			},
+			"B2": {
+				"count": 1288,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1505,
+				"readability": 93
+			},
+			"C2": {
+				"count": 1309,
+				"readability": 98
+			}
+		}
+	}
+}
