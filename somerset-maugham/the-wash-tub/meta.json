@@ -1,1 +1,43 @@
-{"dir":"somerset-maugham/the-wash-tub","title":"The Wash-tub","creator":"Somerset Maugham","description":"This town is located on a steep hillside. From afar, it looks like dozens of small houses scattered in random order on the ground. These roofs have lost their original color after many years in the hot sun. One cannot take in all the sights in one glance. The town streets rise the mountain in zigzags and look like snakes. On the streets one can see many shabby houses in the Baroque style, where the local nobility lived many years ago. This place is very beautiful. In winter several small hotels are always crowded with painters. They come not to relax, but to depict the city on their canvases. All of them work hard. Someone paints in the style of realism, the other tries to express himself on strange avant-garde canvases. It goes on every year. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1122,"uniqueWordsCount":542,"ranks":{"highest":38698,"lowest":1},"levels":{"A1":{"count":239,"readability":62},"A2":{"count":87,"readability":75},"B1":{"count":88,"readability":86},"B2":{"count":73,"readability":95},"C1":{"count":29,"readability":98},"C2":{"count":14,"readability":99}}}}
+{
+	"dir": "somerset-maugham/the-wash-tub",
+	"title": "The Wash-tub",
+	"creator": "Somerset Maugham",
+	"description": "This town is located on a steep hillside. From afar, it looks like dozens of small houses scattered in random order on the ground. These roofs have lost their original color after many years in the hot sun. One cannot take in all the sights in one glance. The town streets rise the mountain in zigzags and look like snakes. On the streets one can see many shabby houses in the Baroque style, where the local nobility lived many years ago. This place is very beautiful. In winter several small hotels are always crowded with painters. They come not to relax, but to depict the city on their canvases. All of them work hard. Someone paints in the style of realism, the other tries to express himself on strange avant-garde canvases. It goes on every year. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1122,
+		"uniqueWordsCount": 577,
+		"ranks": {
+			"highest": 40184,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 254,
+				"readability": 60
+			},
+			"A2": {
+				"count": 90,
+				"readability": 73
+			},
+			"B1": {
+				"count": 93,
+				"readability": 85
+			},
+			"B2": {
+				"count": 81,
+				"readability": 94
+			},
+			"C1": {
+				"count": 30,
+				"readability": 97
+			},
+			"C2": {
+				"count": 17,
+				"readability": 99
+			}
+		}
+	}
+}
