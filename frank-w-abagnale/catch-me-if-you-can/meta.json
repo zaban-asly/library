@@ -1,1 +1,43 @@
-{"dir":"frank-w-abagnale/catch-me-if-you-can","title":"Catch Me If You Can","creator":"Frank W. Abagnale","description":"'Catch Me If You Can' is an autobiography of a former con artist Frank Abagnale. This guy was able to steal 2.5 million dollars by cashing fake checks. Back, then he was not even 20 years old. This book tells about Abagnale's life. At 16, Frank was much more mature than other teenagers. He ran away from home to deal with check counterfeiting. He pretended to be a 26-year-old-man and people believed him. Frank had an incredible intuition. He always sensed when it was necessary to change 'job' so that the police could not catch him. During his career as a swindler, he tried to be a pilot, a doctor, a teacher and even a lawyer. Frank knew how to make people believe him. The FBI could not ignore such scams. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":24641,"uniqueWordsCount":2828,"ranks":{"highest":43201,"lowest":1},"levels":{"A1":{"count":453,"readability":52},"A2":{"count":367,"readability":64},"B1":{"count":532,"readability":78},"B2":{"count":550,"readability":88},"C1":{"count":407,"readability":94},"C2":{"count":298,"readability":99}}}}
+{
+	"dir": "frank-w-abagnale/catch-me-if-you-can",
+	"title": "Catch Me If You Can",
+	"creator": "Frank W. Abagnale",
+	"description": "'Catch Me If You Can' is an autobiography of a former con artist Frank Abagnale. This guy was able to steal 2.5 million dollars by cashing fake checks. Back, then he was not even 20 years old. This book tells about Abagnale's life. At 16, Frank was much more mature than other teenagers. He ran away from home to deal with check counterfeiting. He pretended to be a 26-year-old-man and people believed him. Frank had an incredible intuition. He always sensed when it was necessary to change 'job' so that the police could not catch him. During his career as a swindler, he tried to be a pilot, a doctor, a teacher and even a lawyer. Frank knew how to make people believe him. The FBI could not ignore such scams. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 24754,
+		"uniqueWordsCount": 3025,
+		"ranks": {
+			"highest": 51162,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 479,
+				"readability": 50
+			},
+			"A2": {
+				"count": 377,
+				"readability": 61
+			},
+			"B1": {
+				"count": 564,
+				"readability": 77
+			},
+			"B2": {
+				"count": 579,
+				"readability": 87
+			},
+			"C1": {
+				"count": 422,
+				"readability": 93
+			},
+			"C2": {
+				"count": 323,
+				"readability": 98
+			}
+		}
+	}
+}
