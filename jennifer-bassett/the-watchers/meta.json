@@ -1,1 +1,43 @@
-{"dir":"jennifer-bassett/the-watchers","title":"The Watchers","creator":"Jennifer Bassett","description":"His name is Taras. He is very, very old. He is already more than three thousand years old. He has found very old times. He sits under the Palace of Knossos. But he is not alone. His sister Aketa is sitting next to him. She is as old as Taras. They do not need water or food. They never close their eyes. Are they dead or alive? They do not know it. But it is not important. They have been sitting and watching for already three thousand years. They are watching and waiting. They are watchers. There is a god next to them. Poseidon stands in this temple. They look at his statue. It is cast in gold. There is gold everywhere in this temple. The hands of the god are molded of gold, as well as his face and long hair. His golden eyes shine in the darkness. And the brother and the sister watch over him. After all, they are his watchers.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":824,"uniqueWordsCount":204,"ranks":{"highest":27994,"lowest":11},"levels":{"A1":{"count":134,"readability":69},"A2":{"count":31,"readability":82},"B1":{"count":15,"readability":90},"B2":{"count":10,"readability":93},"C1":{"count":9,"readability":97},"C2":{"count":3,"readability":98}}}}
+{
+	"dir": "jennifer-bassett/the-watchers",
+	"title": "The Watchers",
+	"creator": "Jennifer Bassett",
+	"description": "His name is Taras. He is very, very old. He is already more than three thousand years old. He has found very old times. He sits under the Palace of Knossos. But he is not alone. His sister Aketa is sitting next to him. She is as old as Taras. They do not need water or food. They never close their eyes. Are they dead or alive? They do not know it. But it is not important. They have been sitting and watching for already three thousand years. They are watching and waiting. They are watchers. There is a god next to them. Poseidon stands in this temple. They look at his statue. It is cast in gold. There is gold everywhere in this temple. The hands of the god are molded of gold, as well as his face and long hair. His golden eyes shine in the darkness. And the brother and the sister watch over him. After all, they are his watchers.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 824,
+		"uniqueWordsCount": 208,
+		"ranks": {
+			"highest": 29033,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 138,
+				"readability": 69
+			},
+			"A2": {
+				"count": 27,
+				"readability": 81
+			},
+			"B1": {
+				"count": 18,
+				"readability": 90
+			},
+			"B2": {
+				"count": 10,
+				"readability": 92
+			},
+			"C1": {
+				"count": 10,
+				"readability": 97
+			},
+			"C2": {
+				"count": 2,
+				"readability": 98
+			}
+		}
+	}
+}
