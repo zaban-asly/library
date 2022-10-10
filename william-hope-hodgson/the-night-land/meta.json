@@ -1,1 +1,43 @@
-{"dir":"william-hope-hodgson/the-night-land","title":"The Night Land","creator":"William Hope Hodgson","description":"A 17th-century gentleman is reincarnated on a far-future Earth where the sun has died, and scours the hellish landscape for his lost love.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":82205,"uniqueWordsCount":3583,"ranks":{"highest":50148,"lowest":1},"levels":{"A1":{"count":443,"readability":62},"A2":{"count":393,"readability":75},"B1":{"count":601,"readability":85},"B2":{"count":717,"readability":92},"C1":{"count":674,"readability":98},"C2":{"count":432,"readability":100}}}}
+{
+	"dir": "william-hope-hodgson/the-night-land",
+	"title": "The Night Land",
+	"creator": "William Hope Hodgson",
+	"description": "A 17th-century gentleman is reincarnated on a far-future Earth where the sun has died, and scours the hellish landscape for his lost love.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 82048,
+		"uniqueWordsCount": 3812,
+		"ranks": {
+			"highest": 52072,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 469,
+				"readability": 60
+			},
+			"A2": {
+				"count": 402,
+				"readability": 73
+			},
+			"B1": {
+				"count": 618,
+				"readability": 83
+			},
+			"B2": {
+				"count": 770,
+				"readability": 91
+			},
+			"C1": {
+				"count": 715,
+				"readability": 97
+			},
+			"C2": {
+				"count": 495,
+				"readability": 100
+			}
+		}
+	}
+}
