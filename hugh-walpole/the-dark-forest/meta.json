@@ -1,1 +1,43 @@
-{"dir":"hugh-walpole/the-dark-forest","title":"The Dark Forest","creator":"Hugh Walpole","description":"An Englishman accompanies a group of doctors and nurses on the Russian side of the Eastern Front during World War I.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":43518,"uniqueWordsCount":4450,"ranks":{"highest":48400,"lowest":1},"levels":{"A1":{"count":464,"readability":61},"A2":{"count":467,"readability":74},"B1":{"count":769,"readability":85},"B2":{"count":1034,"readability":93},"C1":{"count":900,"readability":98},"C2":{"count":606,"readability":100}}}}
+{
+	"dir": "hugh-walpole/the-dark-forest",
+	"title": "The Dark Forest",
+	"creator": "Hugh Walpole",
+	"description": "An Englishman accompanies a group of doctors and nurses on the Russian side of the Eastern Front during World War I.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 43451,
+		"uniqueWordsCount": 4700,
+		"ranks": {
+			"highest": 50225,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 59
+			},
+			"A2": {
+				"count": 468,
+				"readability": 73
+			},
+			"B1": {
+				"count": 791,
+				"readability": 84
+			},
+			"B2": {
+				"count": 1091,
+				"readability": 92
+			},
+			"C1": {
+				"count": 961,
+				"readability": 98
+			},
+			"C2": {
+				"count": 650,
+				"readability": 100
+			}
+		}
+	}
+}
