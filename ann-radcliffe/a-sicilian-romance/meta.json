@@ -1,1 +1,43 @@
-{"dir":"ann-radcliffe/a-sicilian-romance","title":"A Sicilian Romance","creator":"Ann Radcliffe","description":"Two beautiful sisters are forced to live under the control of their tyrannical nobleman father.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":32638,"uniqueWordsCount":3931,"ranks":{"highest":41665,"lowest":1},"levels":{"A1":{"count":446,"readability":41},"A2":{"count":403,"readability":58},"B1":{"count":672,"readability":75},"B2":{"count":894,"readability":88},"C1":{"count":852,"readability":97},"C2":{"count":538,"readability":100}}}}
+{
+	"dir": "ann-radcliffe/a-sicilian-romance",
+	"title": "A Sicilian Romance",
+	"creator": "Ann Radcliffe",
+	"description": "Two beautiful sisters are forced to live under the control of their tyrannical nobleman father.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 32599,
+		"uniqueWordsCount": 4102,
+		"ranks": {
+			"highest": 43257,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 472,
+				"readability": 39
+			},
+			"A2": {
+				"count": 407,
+				"readability": 56
+			},
+			"B1": {
+				"count": 681,
+				"readability": 73
+			},
+			"B2": {
+				"count": 922,
+				"readability": 87
+			},
+			"C1": {
+				"count": 898,
+				"readability": 96
+			},
+			"C2": {
+				"count": 579,
+				"readability": 100
+			}
+		}
+	}
+}
