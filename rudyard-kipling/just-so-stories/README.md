@@ -1,5 +1,5 @@
 
-# Just So Stories <kbd>v3.2.1</kbd>
+# Just So Stories <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
