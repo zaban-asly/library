@@ -1,1 +1,43 @@
-{"dir":"h-g-wells/the-war-of-the-worlds","title":"The War Of The Worlds","creator":"H. G. Wells","description":"<p>At the end of the nineteenth century, a metal object has fallen from the sky over the south of England, making a large hole in the ground. People came to see what it was, and surrounded the hole in great numbers. When one end of the object started to open, the watchers realized that it was a hollow. Was anybody there inside? But the creatures that have come out were not human... Slowly, people began to understand that these visitors have come from Mars. A small group of scientists and many of the other people, who have come to watch, have been killed. The second object has landed than the third, and so on. Are the Martians trying to take planet Earth, aren't they?</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":13806,"uniqueWordsCount":1667,"ranks":{"highest":29297,"lowest":1},"levels":{"A1":{"count":436,"readability":65},"A2":{"count":329,"readability":80},"B1":{"count":353,"readability":89},"B2":{"count":284,"readability":95},"C1":{"count":159,"readability":99},"C2":{"count":81,"readability":100}}}}
+{
+	"dir": "h-g-wells/the-war-of-the-worlds",
+	"title": "The War Of The Worlds",
+	"creator": "H. G. Wells",
+	"description": "<p>At the end of the nineteenth century, a metal object has fallen from the sky over the south of England, making a large hole in the ground. People came to see what it was, and surrounded the hole in great numbers. When one end of the object started to open, the watchers realized that it was a hollow. Was anybody there inside? But the creatures that have come out were not human... Slowly, people began to understand that these visitors have come from Mars. A small group of scientists and many of the other people, who have come to watch, have been killed. The second object has landed than the third, and so on. Are the Martians trying to take planet Earth, aren't they?</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 13783,
+		"uniqueWordsCount": 1824,
+		"ranks": {
+			"highest": 30396,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 465,
+				"readability": 62
+			},
+			"A2": {
+				"count": 334,
+				"readability": 77
+			},
+			"B1": {
+				"count": 395,
+				"readability": 88
+			},
+			"B2": {
+				"count": 312,
+				"readability": 94
+			},
+			"C1": {
+				"count": 185,
+				"readability": 98
+			},
+			"C2": {
+				"count": 99,
+				"readability": 100
+			}
+		}
+	}
+}
