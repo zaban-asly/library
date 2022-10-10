@@ -1,1 +1,43 @@
-{"dir":"john-buchan/the-thirty-nine-steps","title":"The Thirty-Nine Steps","creator":"John Buchan","description":"An expatriate returning to England after many years in South Africa is accused of a murder he did not commit, and has to flee from the police and other more dangerous pursuers.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":19256,"uniqueWordsCount":3645,"ranks":{"highest":47051,"lowest":1},"levels":{"A1":{"count":455,"readability":57},"A2":{"count":425,"readability":70},"B1":{"count":619,"readability":80},"B2":{"count":786,"readability":89},"C1":{"count":657,"readability":95},"C2":{"count":450,"readability":99}}}}
+{
+	"dir": "john-buchan/the-thirty-nine-steps",
+	"title": "The Thirty-Nine Steps",
+	"creator": "John Buchan",
+	"description": "An expatriate returning to England after many years in South Africa is accused of a murder he did not commit, and has to flee from the police and other more dangerous pursuers.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 19226,
+		"uniqueWordsCount": 3823,
+		"ranks": {
+			"highest": 48819,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 481,
+				"readability": 56
+			},
+			"A2": {
+				"count": 432,
+				"readability": 68
+			},
+			"B1": {
+				"count": 636,
+				"readability": 79
+			},
+			"B2": {
+				"count": 817,
+				"readability": 89
+			},
+			"C1": {
+				"count": 689,
+				"readability": 95
+			},
+			"C2": {
+				"count": 485,
+				"readability": 99
+			}
+		}
+	}
+}
