@@ -1,1 +1,43 @@
-{"dir":"anthony-trollope/the-last-chronicle-of-barset","title":"The Last Chronicle of Barset","creator":"Anthony Trollope","description":"An impoverished clergyman is accused of theft, and this disgrace leads to great suffering for both his family and those that love them.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":146884,"uniqueWordsCount":6813,"ranks":{"highest":50272,"lowest":1},"levels":{"A1":{"count":469,"readability":66},"A2":{"count":484,"readability":77},"B1":{"count":905,"readability":86},"B2":{"count":1429,"readability":94},"C1":{"count":1632,"readability":98},"C2":{"count":1335,"readability":100}}}}
+{
+	"dir": "anthony-trollope/the-last-chronicle-of-barset",
+	"title": "The Last Chronicle of Barset",
+	"creator": "Anthony Trollope",
+	"description": "An impoverished clergyman is accused of theft, and this disgrace leads to great suffering for both his family and those that love them.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 146582,
+		"uniqueWordsCount": 7160,
+		"ranks": {
+			"highest": 52152,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 65
+			},
+			"A2": {
+				"count": 485,
+				"readability": 75
+			},
+			"B1": {
+				"count": 916,
+				"readability": 85
+			},
+			"B2": {
+				"count": 1455,
+				"readability": 93
+			},
+			"C1": {
+				"count": 1732,
+				"readability": 98
+			},
+			"C2": {
+				"count": 1439,
+				"readability": 100
+			}
+		}
+	}
+}
