@@ -1,1 +1,43 @@
-{"dir":"jack-london/white-fang","title":"White Fang","creator":"Jack London","description":"A wild half-wolf survives a harsh existence before finding love and domestication in civilization.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":36318,"uniqueWordsCount":4424,"ranks":{"highest":44882,"lowest":1},"levels":{"A1":{"count":451,"readability":52},"A2":{"count":422,"readability":64},"B1":{"count":677,"readability":76},"B2":{"count":891,"readability":87},"C1":{"count":926,"readability":95},"C2":{"count":733,"readability":99}}}}
+{
+	"dir": "jack-london/white-fang",
+	"title": "White Fang",
+	"creator": "Jack London",
+	"description": "A wild half-wolf survives a harsh existence before finding love and domestication in civilization.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 36218,
+		"uniqueWordsCount": 4675,
+		"ranks": {
+			"highest": 46574,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 478,
+				"readability": 49
+			},
+			"A2": {
+				"count": 430,
+				"readability": 62
+			},
+			"B1": {
+				"count": 694,
+				"readability": 74
+			},
+			"B2": {
+				"count": 914,
+				"readability": 84
+			},
+			"C1": {
+				"count": 1001,
+				"readability": 94
+			},
+			"C2": {
+				"count": 794,
+				"readability": 99
+			}
+		}
+	}
+}
