@@ -1,1 +1,43 @@
-{"dir":"henrik-ibsen/ghosts","title":"Ghosts","creator":"Henrik Ibsen","description":"A Norwegian sea captain’s widow who, no matter how much she tries, cannot escape the ghosts of the past.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":11311,"uniqueWordsCount":2230,"ranks":{"highest":37461,"lowest":1},"levels":{"A1":{"count":443,"readability":65},"A2":{"count":326,"readability":74},"B1":{"count":454,"readability":82},"B2":{"count":414,"readability":88},"C1":{"count":301,"readability":95},"C2":{"count":218,"readability":100}}}}
+{
+	"dir": "henrik-ibsen/ghosts",
+	"title": "Ghosts",
+	"creator": "Henrik Ibsen",
+	"description": "A Norwegian sea captain’s widow who, no matter how much she tries, cannot escape the ghosts of the past.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 11299,
+		"uniqueWordsCount": 2343,
+		"ranks": {
+			"highest": 38902,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 468,
+				"readability": 63
+			},
+			"A2": {
+				"count": 332,
+				"readability": 72
+			},
+			"B1": {
+				"count": 463,
+				"readability": 81
+			},
+			"B2": {
+				"count": 438,
+				"readability": 88
+			},
+			"C1": {
+				"count": 324,
+				"readability": 95
+			},
+			"C2": {
+				"count": 230,
+				"readability": 99
+			}
+		}
+	}
+}
