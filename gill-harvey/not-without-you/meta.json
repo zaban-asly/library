@@ -1,1 +1,43 @@
-{"dir":"gill-harvey/not-without-you","title":"Not Without You","creator":"Gill Harvey","description":"There is the end of the twenty-first century on the streets. High-tech cities are filled with people. Each resident wears a special chip under his skin, which allows him to use all modern technologies. The outside world froze on the verge of a great disaster. Now it is contaminated.  It is abandoned by most of the inhabitants, who once left it for their own safety. Sala is the main character of this story. The girl has been living in one of such high-tech cities since the age of ten. In this world of the future, virtual simulations are created in order to replace many social areas. Sala works in a laboratory with her friends. It is an ordinary evening now. But something very unusual is to happen soon. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":10606,"uniqueWordsCount":1303,"ranks":{"highest":31502,"lowest":1},"levels":{"A1":{"count":389,"readability":66},"A2":{"count":249,"readability":78},"B1":{"count":270,"readability":87},"B2":{"count":194,"readability":93},"C1":{"count":121,"readability":95},"C2":{"count":54,"readability":100}}}}
+{
+	"dir": "gill-harvey/not-without-you",
+	"title": "Not Without You",
+	"creator": "Gill Harvey",
+	"description": "There is the end of the twenty-first century on the streets. High-tech cities are filled with people. Each resident wears a special chip under his skin, which allows him to use all modern technologies. The outside world froze on the verge of a great disaster. Now it is contaminated.  It is abandoned by most of the inhabitants, who once left it for their own safety. Sala is the main character of this story. The girl has been living in one of such high-tech cities since the age of ten. In this world of the future, virtual simulations are created in order to replace many social areas. Sala works in a laboratory with her friends. It is an ordinary evening now. But something very unusual is to happen soon. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 10646,
+		"uniqueWordsCount": 1419,
+		"ranks": {
+			"highest": 51907,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 418,
+				"readability": 64
+			},
+			"A2": {
+				"count": 254,
+				"readability": 76
+			},
+			"B1": {
+				"count": 301,
+				"readability": 86
+			},
+			"B2": {
+				"count": 209,
+				"readability": 92
+			},
+			"C1": {
+				"count": 135,
+				"readability": 95
+			},
+			"C2": {
+				"count": 64,
+				"readability": 99
+			}
+		}
+	}
+}
