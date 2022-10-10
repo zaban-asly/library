@@ -1,1 +1,43 @@
-{"dir":"e-nesbit/five-children-and-it","title":"Five Children and It","creator":"E. Nesbit","description":"Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":25516,"uniqueWordsCount":3302,"ranks":{"highest":48697,"lowest":1},"levels":{"A1":{"count":456,"readability":62},"A2":{"count":416,"readability":73},"B1":{"count":593,"readability":83},"B2":{"count":690,"readability":92},"C1":{"count":586,"readability":97},"C2":{"count":375,"readability":99}}}}
+{
+	"dir": "e-nesbit/five-children-and-it",
+	"title": "Five Children and It",
+	"creator": "E. Nesbit",
+	"description": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 25465,
+		"uniqueWordsCount": 3511,
+		"ranks": {
+			"highest": 51172,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 485,
+				"readability": 60
+			},
+			"A2": {
+				"count": 418,
+				"readability": 71
+			},
+			"B1": {
+				"count": 626,
+				"readability": 82
+			},
+			"B2": {
+				"count": 713,
+				"readability": 91
+			},
+			"C1": {
+				"count": 636,
+				"readability": 97
+			},
+			"C2": {
+				"count": 414,
+				"readability": 99
+			}
+		}
+	}
+}
