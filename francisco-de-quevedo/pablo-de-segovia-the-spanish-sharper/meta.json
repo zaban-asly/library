@@ -1,1 +1,43 @@
-{"dir":"francisco-de-quevedo/pablo-de-segovia-the-spanish-sharper","title":"Pablo de Segovia, the Spanish Sharper","creator":"Francisco de Quevedo","description":"The adventures of a swindler in 17th-century Spain.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":28297,"uniqueWordsCount":4465,"ranks":{"highest":48598,"lowest":1},"levels":{"A1":{"count":463,"readability":57},"A2":{"count":440,"readability":68},"B1":{"count":742,"readability":79},"B2":{"count":916,"readability":88},"C1":{"count":936,"readability":95},"C2":{"count":660,"readability":99}}}}
+{
+	"dir": "francisco-de-quevedo/pablo-de-segovia-the-spanish-sharper",
+	"title": "Pablo de Segovia, the Spanish Sharper",
+	"creator": "Francisco de Quevedo",
+	"description": "The adventures of a swindler in 17th-century Spain.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 28143,
+		"uniqueWordsCount": 4696,
+		"ranks": {
+			"highest": 50432,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 54
+			},
+			"A2": {
+				"count": 443,
+				"readability": 66
+			},
+			"B1": {
+				"count": 758,
+				"readability": 78
+			},
+			"B2": {
+				"count": 958,
+				"readability": 87
+			},
+			"C1": {
+				"count": 980,
+				"readability": 94
+			},
+			"C2": {
+				"count": 711,
+				"readability": 99
+			}
+		}
+	}
+}
