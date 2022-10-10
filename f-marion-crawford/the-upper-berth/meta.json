@@ -1,1 +1,43 @@
-{"dir":"f-marion-crawford/the-upper-berth","title":"The upper Berth","creator":"F. Marion Crawford","description":"<p>The man Brisbane tell the history, which is happened with him, when he had to travelling on his favourite ship named “Kamtschatka”. Ofcourse, after when you’ll have known this story, you’d understand why Brisbane don’t sailing on it anymore. But at that time, in hot summer he came on his cabin number 105, he was going to America. Our hero noticed strange behavior of the steward. And Brisbane thought that steward was drunk. In this cabin he had a companion. But he went out the cabin at night with screaming and anybody didn’t saw him after it. Next day shep’s doctor invited Brisbane to live in his room, when he inquired about the number of his room. And told to Brisbane that three man who lived there were dead. Brisbane decided to consider this mystery.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1158,"uniqueWordsCount":374,"ranks":{"highest":26878,"lowest":11},"levels":{"A1":{"count":212,"readability":71},"A2":{"count":56,"readability":80},"B1":{"count":54,"readability":91},"B2":{"count":33,"readability":97},"C1":{"count":14,"readability":100},"C2":{"count":2,"readability":100}}}}
+{
+	"dir": "f-marion-crawford/the-upper-berth",
+	"title": "The upper Berth",
+	"creator": "F. Marion Crawford",
+	"description": "<p>The man Brisbane tell the history, which is happened with him, when he had to travelling on his favourite ship named “Kamtschatka”. Ofcourse, after when you’ll have known this story, you’d understand why Brisbane don’t sailing on it anymore. But at that time, in hot summer he came on his cabin number 105, he was going to America. Our hero noticed strange behavior of the steward. And Brisbane thought that steward was drunk. In this cabin he had a companion. But he went out the cabin at night with screaming and anybody didn’t saw him after it. Next day shep’s doctor invited Brisbane to live in his room, when he inquired about the number of his room. And told to Brisbane that three man who lived there were dead. Brisbane decided to consider this mystery.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1158,
+		"uniqueWordsCount": 403,
+		"ranks": {
+			"highest": 27866,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 233,
+				"readability": 70
+			},
+			"A2": {
+				"count": 53,
+				"readability": 79
+			},
+			"B1": {
+				"count": 63,
+				"readability": 91
+			},
+			"B2": {
+				"count": 31,
+				"readability": 96
+			},
+			"C1": {
+				"count": 18,
+				"readability": 100
+			},
+			"C2": {
+				"count": 1,
+				"readability": 100
+			}
+		}
+	}
+}
