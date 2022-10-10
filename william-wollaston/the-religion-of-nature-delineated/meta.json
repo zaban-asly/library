@@ -1,1 +1,43 @@
-{"dir":"william-wollaston/the-religion-of-nature-delineated","title":"The Religion of Nature Delineated","creator":"William Wollaston","description":"Wollaston attempts to derive ethics and religion by using rational thought and observation of the natural world, without resorting to revelation or received religion.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":53594,"uniqueWordsCount":5035,"ranks":{"highest":50136,"lowest":1},"levels":{"A1":{"count":451,"readability":55},"A2":{"count":405,"readability":66},"B1":{"count":696,"readability":78},"B2":{"count":953,"readability":88},"C1":{"count":1040,"readability":95},"C2":{"count":933,"readability":99}}}}
+{
+	"dir": "william-wollaston/the-religion-of-nature-delineated",
+	"title": "The Religion of Nature Delineated",
+	"creator": "William Wollaston",
+	"description": "Wollaston attempts to derive ethics and religion by using rational thought and observation of the natural world, without resorting to revelation or received religion.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 53053,
+		"uniqueWordsCount": 5249,
+		"ranks": {
+			"highest": 52060,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 476,
+				"readability": 53
+			},
+			"A2": {
+				"count": 407,
+				"readability": 65
+			},
+			"B1": {
+				"count": 706,
+				"readability": 77
+			},
+			"B2": {
+				"count": 975,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1086,
+				"readability": 94
+			},
+			"C2": {
+				"count": 983,
+				"readability": 98
+			}
+		}
+	}
+}
