@@ -1,1 +1,43 @@
-{"dir":"carlo-collodi/the-adventures-of-pinocchio","title":"The Adventures of Pinocchio","creator":"Carlo Collodi","description":"A wooden puppet comes to life and goes on adventures.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":19281,"uniqueWordsCount":2659,"ranks":{"highest":45469,"lowest":1},"levels":{"A1":{"count":442,"readability":61},"A2":{"count":378,"readability":73},"B1":{"count":519,"readability":83},"B2":{"count":546,"readability":91},"C1":{"count":437,"readability":97},"C2":{"count":260,"readability":99}}}}
+{
+	"dir": "carlo-collodi/the-adventures-of-pinocchio",
+	"title": "The Adventures of Pinocchio",
+	"creator": "Carlo Collodi",
+	"description": "A wooden puppet comes to life and goes on adventures.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 19248,
+		"uniqueWordsCount": 2828,
+		"ranks": {
+			"highest": 47176,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 468,
+				"readability": 59
+			},
+			"A2": {
+				"count": 382,
+				"readability": 71
+			},
+			"B1": {
+				"count": 551,
+				"readability": 82
+			},
+			"B2": {
+				"count": 565,
+				"readability": 90
+			},
+			"C1": {
+				"count": 490,
+				"readability": 97
+			},
+			"C2": {
+				"count": 281,
+				"readability": 99
+			}
+		}
+	}
+}
