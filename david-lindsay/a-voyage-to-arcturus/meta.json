@@ -1,1 +1,43 @@
-{"dir":"david-lindsay/a-voyage-to-arcturus","title":"A Voyage to Arcturus","creator":"David Lindsay","description":"One man’s journey through a psychedelic alien landscape of philosophy, religion, life, and death.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":44426,"uniqueWordsCount":5006,"ranks":{"highest":49924,"lowest":1},"levels":{"A1":{"count":455,"readability":57},"A2":{"count":441,"readability":71},"B1":{"count":763,"readability":82},"B2":{"count":1065,"readability":91},"C1":{"count":1118,"readability":97},"C2":{"count":847,"readability":99}}}}
+{
+	"dir": "david-lindsay/a-voyage-to-arcturus",
+	"title": "A Voyage to Arcturus",
+	"creator": "David Lindsay",
+	"description": "One man’s journey through a psychedelic alien landscape of philosophy, religion, life, and death.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 44349,
+		"uniqueWordsCount": 5275,
+		"ranks": {
+			"highest": 51842,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 482,
+				"readability": 55
+			},
+			"A2": {
+				"count": 446,
+				"readability": 69
+			},
+			"B1": {
+				"count": 775,
+				"readability": 81
+			},
+			"B2": {
+				"count": 1101,
+				"readability": 90
+			},
+			"C1": {
+				"count": 1184,
+				"readability": 96
+			},
+			"C2": {
+				"count": 919,
+				"readability": 99
+			}
+		}
+	}
+}
