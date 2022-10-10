@@ -1,1 +1,43 @@
-{"dir":"rudyard-kipling/kim","title":"Kim","creator":"Rudyard Kipling","description":"An orphaned street-urchin follows a holy man across India during the time of the British Raj, eventually gaining an education and becoming a recruit to the Great Game of espionage against the Russians.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":52065,"uniqueWordsCount":5938,"ranks":{"highest":50298,"lowest":1},"levels":{"A1":{"count":468,"readability":55},"A2":{"count":463,"readability":67},"B1":{"count":813,"readability":77},"B2":{"count":1210,"readability":86},"C1":{"count":1305,"readability":94},"C2":{"count":1063,"readability":98}}}}
+{
+	"dir": "rudyard-kipling/kim",
+	"title": "Kim",
+	"creator": "Rudyard Kipling",
+	"description": "An orphaned street-urchin follows a holy man across India during the time of the British Raj, eventually gaining an education and becoming a recruit to the Great Game of espionage against the Russians.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 52011,
+		"uniqueWordsCount": 6230,
+		"ranks": {
+			"highest": 52227,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 53
+			},
+			"A2": {
+				"count": 467,
+				"readability": 65
+			},
+			"B1": {
+				"count": 827,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1241,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1384,
+				"readability": 93
+			},
+			"C2": {
+				"count": 1122,
+				"readability": 98
+			}
+		}
+	}
+}
