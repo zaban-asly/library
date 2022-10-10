@@ -1,1 +1,43 @@
-{"dir":"robert-james-waller/the-bridges-of-madison-county","title":"The Bridges of Madison County","creator":"Robert James Waller","description":"'The Bridges of Madison County' is a famous bestselling novel. A novel about love and loss. The book was filmed. Meryl Streep got an Oscar nomination for the part in this film. After the death of their mother, the children find a diary in the documents. This diary describes 4 days. It tells about a love story that lasted only 4 days and at the same time the whole life. This love story was a secret and became a discovery. Everything starts in 1965. It seems that Francesca and Richard Johnson are a happy couple. They have two children. The family is wealthy. But who is this other man? Why hasn't anyone heard of him? The events develop rapidly and passionately. These feelings turn into a whirlwind. The choice Francesca makes will change everything. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":16204,"uniqueWordsCount":2677,"ranks":{"highest":42016,"lowest":1},"levels":{"A1":{"count":442,"readability":59},"A2":{"count":357,"readability":70},"B1":{"count":473,"readability":81},"B2":{"count":513,"readability":89},"C1":{"count":420,"readability":95},"C2":{"count":271,"readability":98}}}}
+{
+	"dir": "robert-james-waller/the-bridges-of-madison-county",
+	"title": "The Bridges of Madison County",
+	"creator": "Robert James Waller",
+	"description": "'The Bridges of Madison County' is a famous bestselling novel. A novel about love and loss. The book was filmed. Meryl Streep got an Oscar nomination for the part in this film. After the death of their mother, the children find a diary in the documents. This diary describes 4 days. It tells about a love story that lasted only 4 days and at the same time the whole life. This love story was a secret and became a discovery. Everything starts in 1965. It seems that Francesca and Richard Johnson are a happy couple. They have two children. The family is wealthy. But who is this other man? Why hasn't anyone heard of him? The events develop rapidly and passionately. These feelings turn into a whirlwind. The choice Francesca makes will change everything. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 16216,
+		"uniqueWordsCount": 2822,
+		"ranks": {
+			"highest": 51192,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 471,
+				"readability": 57
+			},
+			"A2": {
+				"count": 370,
+				"readability": 68
+			},
+			"B1": {
+				"count": 486,
+				"readability": 80
+			},
+			"B2": {
+				"count": 539,
+				"readability": 88
+			},
+			"C1": {
+				"count": 437,
+				"readability": 94
+			},
+			"C2": {
+				"count": 291,
+				"readability": 98
+			}
+		}
+	}
+}
