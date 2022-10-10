@@ -1,1 +1,43 @@
-{"dir":"o-henry/by-courier","title":"By Courier","creator":"O. Henry","description":"At that time of year there were few people in the park. A young girl was sitting on one of the benches. Perhaps she just wanted to rest and think about the coming spring. But there was sadness on her beautiful face. Her lips were compressed into a thin line. A tall young man walked past the bench where this girl was sitting. A boy with a suitcase was coming behind him. The man saw the girl. Suddenly his face changed to red. Then he became pale again. The girl pretended not to recognise him. The man sat down on a nearby bench, fifty meters from her. He stopped the boy and asked him to send a message to the lady on the next bench. So the boy became a random courier. A courier, who can change the fate of two people.  ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":677,"uniqueWordsCount":321,"ranks":{"highest":33369,"lowest":1},"levels":{"A1":{"count":202,"readability":74},"A2":{"count":48,"readability":85},"B1":{"count":23,"readability":90},"B2":{"count":22,"readability":96},"C1":{"count":13,"readability":98},"C2":{"count":8,"readability":100}}}}
+{
+	"dir": "o-henry/by-courier",
+	"title": "By Courier",
+	"creator": "O. Henry",
+	"description": "At that time of year there were few people in the park. A young girl was sitting on one of the benches. Perhaps she just wanted to rest and think about the coming spring. But there was sadness on her beautiful face. Her lips were compressed into a thin line. A tall young man walked past the bench where this girl was sitting. A boy with a suitcase was coming behind him. The man saw the girl. Suddenly his face changed to red. Then he became pale again. The girl pretended not to recognise him. The man sat down on a nearby bench, fifty meters from her. He stopped the boy and asked him to send a message to the lady on the next bench. So the boy became a random courier. A courier, who can change the fate of two people.  ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 677,
+		"uniqueWordsCount": 342,
+		"ranks": {
+			"highest": 34642,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 212,
+				"readability": 72
+			},
+			"A2": {
+				"count": 51,
+				"readability": 84
+			},
+			"B1": {
+				"count": 28,
+				"readability": 88
+			},
+			"B2": {
+				"count": 25,
+				"readability": 96
+			},
+			"C1": {
+				"count": 13,
+				"readability": 98
+			},
+			"C2": {
+				"count": 7,
+				"readability": 99
+			}
+		}
+	}
+}
