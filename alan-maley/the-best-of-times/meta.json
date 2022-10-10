@@ -1,1 +1,43 @@
-{"dir":"alan-maley/the-best-of-times","title":"The Best of times","creator":"Alan Maley","description":"The book tells about a crash in one happy Malaysian family from Kuala Lumpur by the eyes of a sixteen-year-old teenager. The story begins when the teenager and his aunt came to the hospital to visit his mother. She is in the intensive care unit. The son feels terrible as there is his fault in everything that had happened. The boy pulls himself together and tries to comprehend his life. The starting point is his sixteen's birthday party. His parents arranged a grand celebration and invited many relatives and friends. The family is very famous in the city. They are very beautiful and successful. It was the happiest day in the boy's life.  But after the celebration everything went wrong. The guy witnessed one scene to which he tried to close his eyes. It was the end of the best times.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":14004,"uniqueWordsCount":1832,"ranks":{"highest":38656,"lowest":1},"levels":{"A1":{"count":425,"readability":67},"A2":{"count":304,"readability":77},"B1":{"count":352,"readability":86},"B2":{"count":349,"readability":92},"C1":{"count":214,"readability":98},"C2":{"count":103,"readability":99}}}}
+{
+	"dir": "alan-maley/the-best-of-times",
+	"title": "The Best of times",
+	"creator": "Alan Maley",
+	"description": "The book tells about a crash in one happy Malaysian family from Kuala Lumpur by the eyes of a sixteen-year-old teenager. The story begins when the teenager and his aunt came to the hospital to visit his mother. She is in the intensive care unit. The son feels terrible as there is his fault in everything that had happened. The boy pulls himself together and tries to comprehend his life. The starting point is his sixteen's birthday party. His parents arranged a grand celebration and invited many relatives and friends. The family is very famous in the city. They are very beautiful and successful. It was the happiest day in the boy's life.  But after the celebration everything went wrong. The guy witnessed one scene to which he tried to close his eyes. It was the end of the best times.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 14040,
+		"uniqueWordsCount": 1978,
+		"ranks": {
+			"highest": 51927,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 455,
+				"readability": 65
+			},
+			"A2": {
+				"count": 307,
+				"readability": 76
+			},
+			"B1": {
+				"count": 378,
+				"readability": 84
+			},
+			"B2": {
+				"count": 360,
+				"readability": 91
+			},
+			"C1": {
+				"count": 244,
+				"readability": 97
+			},
+			"C2": {
+				"count": 116,
+				"readability": 99
+			}
+		}
+	}
+}
