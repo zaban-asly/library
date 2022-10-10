@@ -1,1 +1,43 @@
-{"dir":"o-henry/soapy-s-choice","title":"Soapy's Choice","creator":"O. Henry","description":"The main character of this book was sitting on Maddison Square and thinking about his sad future. He was looking on the horizon line, and dry yellow leaves were falling nearby. The autumn was ending and he needed to decide what he would do next. Recently, he was in prison: so he had a roof over his head, hot food and friends. This would be a good place to wait out the cold season. After all, sleeping on the street, trying to get warm with the newspapers was not a very pleasant activity. The man decided to return to prison. First he decided to go to an expensive restaurant, eat dinner and say that he had no money. They would call the police - that's all! Simple and effective plan. But the waiter saw his old clothes and brought him out. Then the man broke a shop window, but the policeman did not believe that he did it.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":661,"uniqueWordsCount":245,"ranks":{"highest":13634,"lowest":11},"levels":{"A1":{"count":157,"readability":67},"A2":{"count":51,"readability":81},"B1":{"count":13,"readability":85},"B2":{"count":17,"readability":93},"C1":{"count":5,"readability":95},"C2":{"count":2,"readability":100}}}}
+{
+	"dir": "o-henry/soapy-s-choice",
+	"title": "Soapy's Choice",
+	"creator": "O. Henry",
+	"description": "The main character of this book was sitting on Maddison Square and thinking about his sad future. He was looking on the horizon line, and dry yellow leaves were falling nearby. The autumn was ending and he needed to decide what he would do next. Recently, he was in prison: so he had a roof over his head, hot food and friends. This would be a good place to wait out the cold season. After all, sleeping on the street, trying to get warm with the newspapers was not a very pleasant activity. The man decided to return to prison. First he decided to go to an expensive restaurant, eat dinner and say that he had no money. They would call the police - that's all! Simple and effective plan. But the waiter saw his old clothes and brought him out. Then the man broke a shop window, but the policeman did not believe that he did it.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 661,
+		"uniqueWordsCount": 268,
+		"ranks": {
+			"highest": 14108,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 169,
+				"readability": 65
+			},
+			"A2": {
+				"count": 51,
+				"readability": 79
+			},
+			"B1": {
+				"count": 22,
+				"readability": 85
+			},
+			"B2": {
+				"count": 18,
+				"readability": 93
+			},
+			"C1": {
+				"count": 6,
+				"readability": 95
+			},
+			"C2": {
+				"count": 2,
+				"readability": 100
+			}
+		}
+	}
+}
