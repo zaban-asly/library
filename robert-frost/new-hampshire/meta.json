@@ -1,1 +1,43 @@
-{"dir":"robert-frost/new-hampshire","title":"New Hampshire","creator":"Robert Frost","description":"Robert Frost’s Pulitzer-winning book of poetry.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":9406,"uniqueWordsCount":2278,"ranks":{"highest":45677,"lowest":1},"levels":{"A1":{"count":434,"readability":61},"A2":{"count":321,"readability":72},"B1":{"count":415,"readability":82},"B2":{"count":440,"readability":90},"C1":{"count":342,"readability":96},"C2":{"count":210,"readability":99}}}}
+{
+	"dir": "robert-frost/new-hampshire",
+	"title": "New Hampshire",
+	"creator": "Robert Frost",
+	"description": "Robert Frost’s Pulitzer-winning book of poetry.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 9385,
+		"uniqueWordsCount": 2413,
+		"ranks": {
+			"highest": 52170,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 459,
+				"readability": 59
+			},
+			"A2": {
+				"count": 327,
+				"readability": 70
+			},
+			"B1": {
+				"count": 435,
+				"readability": 81
+			},
+			"B2": {
+				"count": 469,
+				"readability": 89
+			},
+			"C1": {
+				"count": 364,
+				"readability": 95
+			},
+			"C2": {
+				"count": 236,
+				"readability": 99
+			}
+		}
+	}
+}
