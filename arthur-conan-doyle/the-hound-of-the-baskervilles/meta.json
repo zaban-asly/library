@@ -1,1 +1,43 @@
-{"dir":"arthur-conan-doyle/the-hound-of-the-baskervilles","title":"The Hound of the Baskervilles","creator":"Arthur Conan Doyle","description":"A famous detective investigates a mysterious and apparently supernatural threat to the heir of a wealthy Dartmoor estate.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":27053,"uniqueWordsCount":3961,"ranks":{"highest":45125,"lowest":1},"levels":{"A1":{"count":459,"readability":58},"A2":{"count":434,"readability":70},"B1":{"count":747,"readability":82},"B2":{"count":892,"readability":91},"C1":{"count":774,"readability":97},"C2":{"count":489,"readability":99}}}}
+{
+	"dir": "arthur-conan-doyle/the-hound-of-the-baskervilles",
+	"title": "The Hound of the Baskervilles",
+	"creator": "Arthur Conan Doyle",
+	"description": "A famous detective investigates a mysterious and apparently supernatural threat to the heir of a wealthy Dartmoor estate.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 27020,
+		"uniqueWordsCount": 4154,
+		"ranks": {
+			"highest": 46824,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 56
+			},
+			"A2": {
+				"count": 440,
+				"readability": 68
+			},
+			"B1": {
+				"count": 765,
+				"readability": 81
+			},
+			"B2": {
+				"count": 927,
+				"readability": 91
+			},
+			"C1": {
+				"count": 817,
+				"readability": 96
+			},
+			"C2": {
+				"count": 530,
+				"readability": 99
+			}
+		}
+	}
+}
