@@ -1,5 +1,5 @@
 
-# The Clarion Call <kbd>v3.2.1</kbd>
+# The Clarion Call <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
