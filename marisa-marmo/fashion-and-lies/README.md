@@ -1,5 +1,5 @@
 
-# Fashion and Lies <kbd>v3.2.1</kbd>
+# Fashion and Lies <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
