@@ -1,1 +1,43 @@
-{"dir":"o-henry/the-last-leaf","title":"The Last Leaf","creator":"O. Henry","description":"New York consists of numerous districts. In one of such districts there are small streets called 'places'. Lots of artists discovered these places and decided to live there. Cheap rentals and old lofts were the things they liked. Later this place was named Greenwich Village. Sue and Johnsy opened a studio on the top floor of one old building. The real name of Johnsy was Joana. She came from California. Sue was from Maine. Soon they became best friends. Suddenly a dangerous disease came to their house. Sue got pneumonia. The doctor examined her. He said that the girl had only one way to survive - she had to obtain a passion to life. She needed either a beloved person or a life goal. Johnsy decided to help her friend recover.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":653,"uniqueWordsCount":278,"ranks":{"highest":18061,"lowest":11},"levels":{"A1":{"count":149,"readability":64},"A2":{"count":42,"readability":73},"B1":{"count":26,"readability":79},"B2":{"count":37,"readability":89},"C1":{"count":19,"readability":99},"C2":{"count":4,"readability":100}}}}
+{
+	"dir": "o-henry/the-last-leaf",
+	"title": "The Last Leaf",
+	"creator": "O. Henry",
+	"description": "New York consists of numerous districts. In one of such districts there are small streets called 'places'. Lots of artists discovered these places and decided to live there. Cheap rentals and old lofts were the things they liked. Later this place was named Greenwich Village. Sue and Johnsy opened a studio on the top floor of one old building. The real name of Johnsy was Joana. She came from California. Sue was from Maine. Soon they became best friends. Suddenly a dangerous disease came to their house. Sue got pneumonia. The doctor examined her. He said that the girl had only one way to survive - she had to obtain a passion to life. She needed either a beloved person or a life goal. Johnsy decided to help her friend recover.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 653,
+		"uniqueWordsCount": 290,
+		"ranks": {
+			"highest": 18698,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 156,
+				"readability": 63
+			},
+			"A2": {
+				"count": 37,
+				"readability": 71
+			},
+			"B1": {
+				"count": 34,
+				"readability": 79
+			},
+			"B2": {
+				"count": 40,
+				"readability": 89
+			},
+			"C1": {
+				"count": 17,
+				"readability": 99
+			},
+			"C2": {
+				"count": 5,
+				"readability": 100
+			}
+		}
+	}
+}
