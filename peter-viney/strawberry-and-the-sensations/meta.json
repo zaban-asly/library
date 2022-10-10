@@ -1,1 +1,43 @@
-{"dir":"peter-viney/strawberry-and-the-sensations","title":"Strawberry and the Sensations","creator":"Peter Viney","description":"How do you live when you are a vocalist of a famous rock band? You're used to standing on the stage, watching your devoted fans. To feel the real glory, to create really high-quality music is your vocation. You can't imagine your life without all these things. The next big show is to start soon. The hall is full, the fans are excited and you see the bright light of the spotlights and hear the rich sound of an electric guitar. But shortly before the concert a policeman arrives. He warns: there will be a psychopathic killer in the hall.  What should the band do? Cancel the show? Or risk everything and give the fans what they are waiting for? Cindy needs to make this choice, as she is the leader singer of 'Strawberry and The Sensations'.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1205,"uniqueWordsCount":299,"ranks":{"highest":42838,"lowest":1},"levels":{"A1":{"count":178,"readability":61},"A2":{"count":45,"readability":78},"B1":{"count":30,"readability":85},"B2":{"count":21,"readability":92},"C1":{"count":12,"readability":97},"C2":{"count":6,"readability":100}}}}
+{
+	"dir": "peter-viney/strawberry-and-the-sensations",
+	"title": "Strawberry and the Sensations",
+	"creator": "Peter Viney",
+	"description": "How do you live when you are a vocalist of a famous rock band? You're used to standing on the stage, watching your devoted fans. To feel the real glory, to create really high-quality music is your vocation. You can't imagine your life without all these things. The next big show is to start soon. The hall is full, the fans are excited and you see the bright light of the spotlights and hear the rich sound of an electric guitar. But shortly before the concert a policeman arrives. He warns: there will be a psychopathic killer in the hall.  What should the band do? Cancel the show? Or risk everything and give the fans what they are waiting for? Cindy needs to make this choice, as she is the leader singer of 'Strawberry and The Sensations'.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1207,
+		"uniqueWordsCount": 321,
+		"ranks": {
+			"highest": 44459,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 191,
+				"readability": 60
+			},
+			"A2": {
+				"count": 43,
+				"readability": 76
+			},
+			"B1": {
+				"count": 35,
+				"readability": 85
+			},
+			"B2": {
+				"count": 24,
+				"readability": 91
+			},
+			"C1": {
+				"count": 13,
+				"readability": 96
+			},
+			"C2": {
+				"count": 7,
+				"readability": 100
+			}
+		}
+	}
+}
