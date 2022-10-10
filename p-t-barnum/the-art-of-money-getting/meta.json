@@ -1,1 +1,43 @@
-{"dir":"p-t-barnum/the-art-of-money-getting","title":"The Art of Money Getting","creator":"P. T. Barnum","description":"A short guide on achieving financial success.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":6627,"uniqueWordsCount":1902,"ranks":{"highest":37399,"lowest":1},"levels":{"A1":{"count":402,"readability":55},"A2":{"count":294,"readability":68},"B1":{"count":342,"readability":80},"B2":{"count":361,"readability":90},"C1":{"count":266,"readability":96},"C2":{"count":181,"readability":99}}}}
+{
+	"dir": "p-t-barnum/the-art-of-money-getting",
+	"title": "The Art of Money Getting",
+	"creator": "P. T. Barnum",
+	"description": "A short guide on achieving financial success.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 6611,
+		"uniqueWordsCount": 1983,
+		"ranks": {
+			"highest": 38833,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 421,
+				"readability": 53
+			},
+			"A2": {
+				"count": 295,
+				"readability": 66
+			},
+			"B1": {
+				"count": 353,
+				"readability": 79
+			},
+			"B2": {
+				"count": 364,
+				"readability": 89
+			},
+			"C1": {
+				"count": 290,
+				"readability": 96
+			},
+			"C2": {
+				"count": 194,
+				"readability": 99
+			}
+		}
+	}
+}
