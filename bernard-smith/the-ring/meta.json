@@ -1,1 +1,43 @@
-{"dir":"bernard-smith/the-ring","title":"The Ring","creator":"Bernard Smith","description":"The Doctor faces a difficult task. Now he has to solve a complex detective story that takes place in a small fishing village. The first problem is Rafael. He's a crazy man who lives in a boat shed on the beach. He was once a normal person, but then something terrible happened. How to find the cause of this insanity? The second mystery is the fate of the girl with whom Rafael was in love. At the same time, a wandering soldier arrives in the village with his mysterious history. Rafael knows the answers to all these questions, but the madman cannot tell anything. So what are the madman and the other villagers hiding? And why can the golden ring help to learn answers? The Doctor has to find everything out.   ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":6744,"uniqueWordsCount":706,"ranks":{"highest":29938,"lowest":1},"levels":{"A1":{"count":329,"readability":73},"A2":{"count":144,"readability":88},"B1":{"count":115,"readability":95},"B2":{"count":75,"readability":98},"C1":{"count":24,"readability":100},"C2":{"count":14,"readability":100}}}}
+{
+	"dir": "bernard-smith/the-ring",
+	"title": "The Ring",
+	"creator": "Bernard Smith",
+	"description": "The Doctor faces a difficult task. Now he has to solve a complex detective story that takes place in a small fishing village. The first problem is Rafael. He's a crazy man who lives in a boat shed on the beach. He was once a normal person, but then something terrible happened. How to find the cause of this insanity? The second mystery is the fate of the girl with whom Rafael was in love. At the same time, a wandering soldier arrives in the village with his mysterious history. Rafael knows the answers to all these questions, but the madman cannot tell anything. So what are the madman and the other villagers hiding? And why can the golden ring help to learn answers? The Doctor has to find everything out.   ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 6792,
+		"uniqueWordsCount": 791,
+		"ranks": {
+			"highest": 31064,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 359,
+				"readability": 71
+			},
+			"A2": {
+				"count": 145,
+				"readability": 86
+			},
+			"B1": {
+				"count": 149,
+				"readability": 94
+			},
+			"B2": {
+				"count": 83,
+				"readability": 97
+			},
+			"C1": {
+				"count": 35,
+				"readability": 99
+			},
+			"C2": {
+				"count": 13,
+				"readability": 100
+			}
+		}
+	}
+}
