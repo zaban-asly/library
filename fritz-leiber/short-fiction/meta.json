@@ -1,1 +1,43 @@
-{"dir":"fritz-leiber/short-fiction","title":"Short Fiction","creator":"Fritz Leiber","description":"A collection of Fritz Leiber short stories and novellas ordered by date of publication.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":93254,"uniqueWordsCount":9414,"ranks":{"highest":50300,"lowest":1},"levels":{"A1":{"count":472,"readability":52},"A2":{"count":484,"readability":63},"B1":{"count":910,"readability":74},"B2":{"count":1500,"readability":84},"C1":{"count":1976,"readability":92},"C2":{"count":2072,"readability":97}}}}
+{
+	"dir": "fritz-leiber/short-fiction",
+	"title": "Short Fiction",
+	"creator": "Fritz Leiber",
+	"description": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 93061,
+		"uniqueWordsCount": 9795,
+		"ranks": {
+			"highest": 52229,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 50
+			},
+			"A2": {
+				"count": 484,
+				"readability": 61
+			},
+			"B1": {
+				"count": 916,
+				"readability": 72
+			},
+			"B2": {
+				"count": 1524,
+				"readability": 83
+			},
+			"C1": {
+				"count": 2038,
+				"readability": 91
+			},
+			"C2": {
+				"count": 2156,
+				"readability": 97
+			}
+		}
+	}
+}
