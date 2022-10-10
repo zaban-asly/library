@@ -1,1 +1,43 @@
-{"dir":"helen-keller/the-story-of-my-life","title":"The Story of My Life","creator":"Helen Keller","description":"Helen Keller writes about her experiences as a deafblind child learning to communicate.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":65486,"uniqueWordsCount":6085,"ranks":{"highest":48864,"lowest":1},"levels":{"A1":{"count":470,"readability":58},"A2":{"count":482,"readability":70},"B1":{"count":884,"readability":80},"B2":{"count":1311,"readability":90},"C1":{"count":1395,"readability":96},"C2":{"count":1074,"readability":99}}}}
+{
+	"dir": "helen-keller/the-story-of-my-life",
+	"title": "The Story of My Life",
+	"creator": "Helen Keller",
+	"description": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 65371,
+		"uniqueWordsCount": 6363,
+		"ranks": {
+			"highest": 50712,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 498,
+				"readability": 56
+			},
+			"A2": {
+				"count": 483,
+				"readability": 68
+			},
+			"B1": {
+				"count": 895,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1346,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1483,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1129,
+				"readability": 99
+			}
+		}
+	}
+}
