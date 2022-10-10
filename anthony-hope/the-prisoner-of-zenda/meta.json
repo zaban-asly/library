@@ -1,1 +1,43 @@
-{"dir":"anthony-hope/the-prisoner-of-zenda","title":"The Prisoner of Zenda","creator":"Anthony Hope","description":"King Rudolph V of Ruritania is drugged and abducted on the eve of his coronation, and a gentleman on holiday who happens to look like the king has to stop the sinister plot.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":24453,"uniqueWordsCount":3547,"ranks":{"highest":43434,"lowest":1},"levels":{"A1":{"count":456,"readability":62},"A2":{"count":453,"readability":75},"B1":{"count":671,"readability":85},"B2":{"count":812,"readability":93},"C1":{"count":707,"readability":98},"C2":{"count":354,"readability":100}}}}
+{
+	"dir": "anthony-hope/the-prisoner-of-zenda",
+	"title": "The Prisoner of Zenda",
+	"creator": "Anthony Hope",
+	"description": "King Rudolph V of Ruritania is drugged and abducted on the eve of his coronation, and a gentleman on holiday who happens to look like the king has to stop the sinister plot.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 24413,
+		"uniqueWordsCount": 3754,
+		"ranks": {
+			"highest": 45087,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 485,
+				"readability": 59
+			},
+			"A2": {
+				"count": 456,
+				"readability": 73
+			},
+			"B1": {
+				"count": 702,
+				"readability": 84
+			},
+			"B2": {
+				"count": 846,
+				"readability": 92
+			},
+			"C1": {
+				"count": 753,
+				"readability": 98
+			},
+			"C2": {
+				"count": 395,
+				"readability": 100
+			}
+		}
+	}
+}
