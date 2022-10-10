@@ -1,1 +1,43 @@
-{"dir":"william-beckford/vathek","title":"Vathek","creator":"William Beckford","description":"A powerful caliph embarks on a quest to harness the powers of darkness.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":17797,"uniqueWordsCount":4120,"ranks":{"highest":47043,"lowest":1},"levels":{"A1":{"count":444,"readability":42},"A2":{"count":395,"readability":55},"B1":{"count":664,"readability":69},"B2":{"count":841,"readability":82},"C1":{"count":869,"readability":92},"C2":{"count":670,"readability":99}}}}
+{
+	"dir": "william-beckford/vathek",
+	"title": "Vathek",
+	"creator": "William Beckford",
+	"description": "A powerful caliph embarks on a quest to harness the powers of darkness.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 17754,
+		"uniqueWordsCount": 4288,
+		"ranks": {
+			"highest": 48811,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 471,
+				"readability": 40
+			},
+			"A2": {
+				"count": 398,
+				"readability": 53
+			},
+			"B1": {
+				"count": 669,
+				"readability": 67
+			},
+			"B2": {
+				"count": 857,
+				"readability": 80
+			},
+			"C1": {
+				"count": 906,
+				"readability": 91
+			},
+			"C2": {
+				"count": 718,
+				"readability": 98
+			}
+		}
+	}
+}
