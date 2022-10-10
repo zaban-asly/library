@@ -1,1 +1,43 @@
-{"dir":"maurice-leblanc/the-golden-triangle","title":"The Golden Triangle","creator":"Maurice Leblanc","description":"A captain’s longing for the woman who nursed him back to health drags him into a conspiracy of stolen gold.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":39949,"uniqueWordsCount":4352,"ranks":{"highest":43865,"lowest":1},"levels":{"A1":{"count":460,"readability":60},"A2":{"count":451,"readability":73},"B1":{"count":775,"readability":84},"B2":{"count":1013,"readability":92},"C1":{"count":901,"readability":97},"C2":{"count":558,"readability":100}}}}
+{
+	"dir": "maurice-leblanc/the-golden-triangle",
+	"title": "The Golden Triangle",
+	"creator": "Maurice Leblanc",
+	"description": "A captain’s longing for the woman who nursed him back to health drags him into a conspiracy of stolen gold.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 39761,
+		"uniqueWordsCount": 4575,
+		"ranks": {
+			"highest": 45523,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 58
+			},
+			"A2": {
+				"count": 454,
+				"readability": 72
+			},
+			"B1": {
+				"count": 790,
+				"readability": 83
+			},
+			"B2": {
+				"count": 1043,
+				"readability": 92
+			},
+			"C1": {
+				"count": 976,
+				"readability": 97
+			},
+			"C2": {
+				"count": 602,
+				"readability": 100
+			}
+		}
+	}
+}
