@@ -1,5 +1,5 @@
 
-# The Happy Prince and the Selfish Giant <kbd>v3.2.1</kbd>
+# The Happy Prince and the Selfish Giant <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
