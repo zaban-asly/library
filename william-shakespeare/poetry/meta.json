@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/poetry","title":"Poetry","creator":"William Shakespeare","description":"A collection of William Shakespeare’s poems and sonnets.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":24695,"uniqueWordsCount":4018,"ranks":{"highest":48438,"lowest":1},"levels":{"A1":{"count":447,"readability":50},"A2":{"count":362,"readability":63},"B1":{"count":609,"readability":76},"B2":{"count":797,"readability":87},"C1":{"count":858,"readability":95},"C2":{"count":614,"readability":99}}}}
+{
+	"dir": "william-shakespeare/poetry",
+	"title": "Poetry",
+	"creator": "William Shakespeare",
+	"description": "A collection of William Shakespeare’s poems and sonnets.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 24595,
+		"uniqueWordsCount": 4238,
+		"ranks": {
+			"highest": 50266,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 469,
+				"readability": 48
+			},
+			"A2": {
+				"count": 369,
+				"readability": 60
+			},
+			"B1": {
+				"count": 615,
+				"readability": 74
+			},
+			"B2": {
+				"count": 837,
+				"readability": 86
+			},
+			"C1": {
+				"count": 897,
+				"readability": 94
+			},
+			"C2": {
+				"count": 675,
+				"readability": 98
+			}
+		}
+	}
+}
