@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/king-john","title":"King John","creator":"William Shakespeare","description":"King John is commanded to hand over his throne to Arthur of Bretagne or face war with the French.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":10801,"uniqueWordsCount":2446,"ranks":{"highest":46633,"lowest":1},"levels":{"A1":{"count":415,"readability":52},"A2":{"count":310,"readability":65},"B1":{"count":446,"readability":78},"B2":{"count":501,"readability":87},"C1":{"count":409,"readability":95},"C2":{"count":252,"readability":99}}}}
+{
+	"dir": "william-shakespeare/king-john",
+	"title": "King John",
+	"creator": "William Shakespeare",
+	"description": "King John is commanded to hand over his throne to Arthur of Bretagne or face war with the French.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 10780,
+		"uniqueWordsCount": 2571,
+		"ranks": {
+			"highest": 48390,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 439,
+				"readability": 50
+			},
+			"A2": {
+				"count": 313,
+				"readability": 63
+			},
+			"B1": {
+				"count": 446,
+				"readability": 76
+			},
+			"B2": {
+				"count": 537,
+				"readability": 87
+			},
+			"C1": {
+				"count": 431,
+				"readability": 95
+			},
+			"C2": {
+				"count": 280,
+				"readability": 99
+			}
+		}
+	}
+}
