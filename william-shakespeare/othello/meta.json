@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/othello","title":"Othello","creator":"William Shakespeare","description":"Jealousy destroys the marriage between an older black man and a younger white woman in 1500s Venice.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":12835,"uniqueWordsCount":2574,"ranks":{"highest":49601,"lowest":1},"levels":{"A1":{"count":418,"readability":52},"A2":{"count":331,"readability":63},"B1":{"count":461,"readability":75},"B2":{"count":472,"readability":83},"C1":{"count":433,"readability":95},"C2":{"count":304,"readability":99}}}}
+{
+	"dir": "william-shakespeare/othello",
+	"title": "Othello",
+	"creator": "William Shakespeare",
+	"description": "Jealousy destroys the marriage between an older black man and a younger white woman in 1500s Venice.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 12811,
+		"uniqueWordsCount": 2697,
+		"ranks": {
+			"highest": 51510,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 442,
+				"readability": 50
+			},
+			"A2": {
+				"count": 333,
+				"readability": 61
+			},
+			"B1": {
+				"count": 464,
+				"readability": 73
+			},
+			"B2": {
+				"count": 500,
+				"readability": 83
+			},
+			"C1": {
+				"count": 456,
+				"readability": 91
+			},
+			"C2": {
+				"count": 325,
+				"readability": 99
+			}
+		}
+	}
+}
