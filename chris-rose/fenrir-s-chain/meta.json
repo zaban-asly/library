@@ -1,1 +1,43 @@
-{"dir":"chris-rose/fenrir-s-chain","title":"Fenrir's Chain","creator":"Chris Rose","description":"As the god of cunning and deception, Loki was very intelligent and treacherous. He had three children from different mothers. Jormungand was a giant snake that slept on the ocean floor, covering the whole earth with his rings. Hel was a girl whose one half of the face looked beautiful, and the second half was terrible, like death itself. Fenrir was a huge wolf. God Tyr loved to play with him when Fenrir was a cub. But he grew and became bigger and stronger. The gods realized that Fenrir was too dangerous and could kill all of them. They decided to tie the wolf so that he could not harm anyone. But which chain on earth would be able to hold such a monster? The gods went to the dwarves who made the hammer of Thor and lots of other incredible things.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":750,"uniqueWordsCount":216,"ranks":{"highest":22693,"lowest":11},"levels":{"A1":{"count":140,"readability":70},"A2":{"count":30,"readability":77},"B1":{"count":23,"readability":90},"B2":{"count":13,"readability":92},"C1":{"count":3,"readability":94},"C2":{"count":2,"readability":97}}}}
+{
+	"dir": "chris-rose/fenrir-s-chain",
+	"title": "Fenrir's Chain",
+	"creator": "Chris Rose",
+	"description": "As the god of cunning and deception, Loki was very intelligent and treacherous. He had three children from different mothers. Jormungand was a giant snake that slept on the ocean floor, covering the whole earth with his rings. Hel was a girl whose one half of the face looked beautiful, and the second half was terrible, like death itself. Fenrir was a huge wolf. God Tyr loved to play with him when Fenrir was a cub. But he grew and became bigger and stronger. The gods realized that Fenrir was too dangerous and could kill all of them. They decided to tie the wolf so that he could not harm anyone. But which chain on earth would be able to hold such a monster? The gods went to the dwarves who made the hammer of Thor and lots of other incredible things.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 783,
+		"uniqueWordsCount": 245,
+		"ranks": {
+			"highest": 29365,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 150,
+				"readability": 61
+			},
+			"A2": {
+				"count": 34,
+				"readability": 69
+			},
+			"B1": {
+				"count": 25,
+				"readability": 79
+			},
+			"B2": {
+				"count": 18,
+				"readability": 86
+			},
+			"C1": {
+				"count": 7,
+				"readability": 90
+			},
+			"C2": {
+				"count": 3,
+				"readability": 92
+			}
+		}
+	}
+}
