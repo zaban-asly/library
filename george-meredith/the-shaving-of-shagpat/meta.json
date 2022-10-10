@@ -1,1 +1,43 @@
-{"dir":"george-meredith/the-shaving-of-shagpat","title":"The Shaving of Shagpat","creator":"George Meredith","description":"A Persian barber embarks on a quest to save a city from the clutches of a tyrant and his magical hair.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":40134,"uniqueWordsCount":4937,"ranks":{"highest":50165,"lowest":1},"levels":{"A1":{"count":443,"readability":45},"A2":{"count":416,"readability":60},"B1":{"count":716,"readability":73},"B2":{"count":1013,"readability":86},"C1":{"count":1152,"readability":95},"C2":{"count":814,"readability":99}}}}
+{
+	"dir": "george-meredith/the-shaving-of-shagpat",
+	"title": "The Shaving of Shagpat",
+	"creator": "George Meredith",
+	"description": "A Persian barber embarks on a quest to save a city from the clutches of a tyrant and his magical hair.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 40113,
+		"uniqueWordsCount": 5215,
+		"ranks": {
+			"highest": 52089,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 471,
+				"readability": 43
+			},
+			"A2": {
+				"count": 420,
+				"readability": 58
+			},
+			"B1": {
+				"count": 726,
+				"readability": 71
+			},
+			"B2": {
+				"count": 1053,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1220,
+				"readability": 94
+			},
+			"C2": {
+				"count": 894,
+				"readability": 99
+			}
+		}
+	}
+}
