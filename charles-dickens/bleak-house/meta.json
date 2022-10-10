@@ -1,1 +1,43 @@
-{"dir":"charles-dickens/bleak-house","title":"Bleak House","creator":"Charles Dickens","description":"A young woman of uncertain parentage is taken in by a kindly guardian, while her fate and that of two other young people hinge on the outcome of an interminable legal case.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":165805,"uniqueWordsCount":9334,"ranks":{"highest":49034,"lowest":1},"levels":{"A1":{"count":471,"readability":62},"A2":{"count":491,"readability":72},"B1":{"count":947,"readability":82},"B2":{"count":1716,"readability":90},"C1":{"count":2427,"readability":96},"C2":{"count":2272,"readability":100}}}}
+{
+	"dir": "charles-dickens/bleak-house",
+	"title": "Bleak House",
+	"creator": "Charles Dickens",
+	"description": "A young woman of uncertain parentage is taken in by a kindly guardian, while her fate and that of two other young people hinge on the outcome of an interminable legal case.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 165238,
+		"uniqueWordsCount": 9794,
+		"ranks": {
+			"highest": 50893,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 498,
+				"readability": 60
+			},
+			"A2": {
+				"count": 492,
+				"readability": 71
+			},
+			"B1": {
+				"count": 953,
+				"readability": 81
+			},
+			"B2": {
+				"count": 1731,
+				"readability": 89
+			},
+			"C1": {
+				"count": 2498,
+				"readability": 96
+			},
+			"C2": {
+				"count": 2435,
+				"readability": 99
+			}
+		}
+	}
+}
