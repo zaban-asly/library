@@ -1,1 +1,43 @@
-{"dir":"jules-verne/michael-strogoff","title":"Michael Strogoff","creator":"Jules Verne","description":"A courier of the Russian Czar must race against time and the Siberian elements to deliver a crucial message of an impeding Tartar invasion and possible treachery.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":47262,"uniqueWordsCount":5088,"ranks":{"highest":48687,"lowest":1},"levels":{"A1":{"count":466,"readability":50},"A2":{"count":462,"readability":65},"B1":{"count":814,"readability":78},"B2":{"count":1139,"readability":88},"C1":{"count":1125,"readability":95},"C2":{"count":768,"readability":99}}}}
+{
+	"dir": "jules-verne/michael-strogoff",
+	"title": "Michael Strogoff",
+	"creator": "Jules Verne",
+	"description": "A courier of the Russian Czar must race against time and the Siberian elements to deliver a crucial message of an impeding Tartar invasion and possible treachery.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 47113,
+		"uniqueWordsCount": 5322,
+		"ranks": {
+			"highest": 50524,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 48
+			},
+			"A2": {
+				"count": 467,
+				"readability": 64
+			},
+			"B1": {
+				"count": 819,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1163,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1198,
+				"readability": 95
+			},
+			"C2": {
+				"count": 825,
+				"readability": 99
+			}
+		}
+	}
+}
