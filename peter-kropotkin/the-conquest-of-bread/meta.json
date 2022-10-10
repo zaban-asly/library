@@ -1,1 +1,43 @@
-{"dir":"peter-kropotkin/the-conquest-of-bread","title":"The Conquest of Bread","creator":"Peter Kropotkin","description":"Peter Kropotkin describes the organization of an anarchist society.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":36867,"uniqueWordsCount":4908,"ranks":{"highest":49892,"lowest":1},"levels":{"A1":{"count":459,"readability":44},"A2":{"count":416,"readability":56},"B1":{"count":722,"readability":72},"B2":{"count":995,"readability":85},"C1":{"count":1052,"readability":94},"C2":{"count":847,"readability":98}}}}
+{
+	"dir": "peter-kropotkin/the-conquest-of-bread",
+	"title": "The Conquest of Bread",
+	"creator": "Peter Kropotkin",
+	"description": "Peter Kropotkin describes the organization of an anarchist society.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 36751,
+		"uniqueWordsCount": 5105,
+		"ranks": {
+			"highest": 51810,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 482,
+				"readability": 42
+			},
+			"A2": {
+				"count": 426,
+				"readability": 55
+			},
+			"B1": {
+				"count": 739,
+				"readability": 70
+			},
+			"B2": {
+				"count": 997,
+				"readability": 84
+			},
+			"C1": {
+				"count": 1090,
+				"readability": 93
+			},
+			"C2": {
+				"count": 900,
+				"readability": 98
+			}
+		}
+	}
+}
