@@ -1,1 +1,43 @@
-{"dir":"poul-anderson/short-fiction","title":"Short Fiction","creator":"Poul Anderson","description":"A collection of science fiction short stories by Poul Anderson ordered by date of publication.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":139398,"uniqueWordsCount":10089,"ranks":{"highest":50331,"lowest":1},"levels":{"A1":{"count":471,"readability":52},"A2":{"count":482,"readability":64},"B1":{"count":939,"readability":75},"B2":{"count":1603,"readability":85},"C1":{"count":2240,"readability":93},"C2":{"count":2285,"readability":98}}}}
+{
+	"dir": "poul-anderson/short-fiction",
+	"title": "Short Fiction",
+	"creator": "Poul Anderson",
+	"description": "A collection of science fiction short stories by Poul Anderson ordered by date of publication.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 139184,
+		"uniqueWordsCount": 10512,
+		"ranks": {
+			"highest": 52260,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 498,
+				"readability": 50
+			},
+			"A2": {
+				"count": 484,
+				"readability": 62
+			},
+			"B1": {
+				"count": 946,
+				"readability": 73
+			},
+			"B2": {
+				"count": 1623,
+				"readability": 84
+			},
+			"C1": {
+				"count": 2330,
+				"readability": 93
+			},
+			"C2": {
+				"count": 2376,
+				"readability": 97
+			}
+		}
+	}
+}
