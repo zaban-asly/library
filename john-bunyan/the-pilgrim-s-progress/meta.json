@@ -1,1 +1,43 @@
-{"dir":"john-bunyan/the-pilgrim-s-progress","title":"The Pilgrim’s Progress","creator":"John Bunyan","description":"An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":76592,"uniqueWordsCount":5595,"ranks":{"highest":47287,"lowest":1},"levels":{"A1":{"count":467,"readability":58},"A2":{"count":454,"readability":69},"B1":{"count":815,"readability":81},"B2":{"count":1167,"readability":90},"C1":{"count":1269,"readability":96},"C2":{"count":988,"readability":99}}}}
+{
+	"dir": "john-bunyan/the-pilgrim-s-progress",
+	"title": "The Pilgrim’s Progress",
+	"creator": "John Bunyan",
+	"description": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 76412,
+		"uniqueWordsCount": 5897,
+		"ranks": {
+			"highest": 49065,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 56
+			},
+			"A2": {
+				"count": 456,
+				"readability": 67
+			},
+			"B1": {
+				"count": 829,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1201,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1339,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1088,
+				"readability": 99
+			}
+		}
+	}
+}
