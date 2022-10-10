@@ -1,1 +1,43 @@
-{"dir":"louisa-may-alcott/little-women","title":"Little Women","creator":"Louisa May Alcott","description":"The story of how four young sisters grow to adulthood.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":90829,"uniqueWordsCount":6836,"ranks":{"highest":49201,"lowest":1},"levels":{"A1":{"count":470,"readability":60},"A2":{"count":486,"readability":72},"B1":{"count":889,"readability":82},"B2":{"count":1393,"readability":90},"C1":{"count":1609,"readability":96},"C2":{"count":1411,"readability":100}}}}
+{
+	"dir": "louisa-may-alcott/little-women",
+	"title": "Little Women",
+	"creator": "Louisa May Alcott",
+	"description": "The story of how four young sisters grow to adulthood.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 90651,
+		"uniqueWordsCount": 7183,
+		"ranks": {
+			"highest": 51079,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 58
+			},
+			"A2": {
+				"count": 487,
+				"readability": 70
+			},
+			"B1": {
+				"count": 902,
+				"readability": 80
+			},
+			"B2": {
+				"count": 1421,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1687,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1509,
+				"readability": 99
+			}
+		}
+	}
+}
