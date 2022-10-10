@@ -1,1 +1,43 @@
-{"dir":"fyodor-dostoevsky/poor-folk","title":"Poor Folk","creator":"Fyodor Dostoevsky","description":"Two poor Russian people exchange letters of love, hope and fear.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":24560,"uniqueWordsCount":3770,"ranks":{"highest":48552,"lowest":1},"levels":{"A1":{"count":458,"readability":60},"A2":{"count":428,"readability":72},"B1":{"count":677,"readability":83},"B2":{"count":830,"readability":92},"C1":{"count":723,"readability":97},"C2":{"count":484,"readability":100}}}}
+{
+	"dir": "fyodor-dostoevsky/poor-folk",
+	"title": "Poor Folk",
+	"creator": "Fyodor Dostoevsky",
+	"description": "Two poor Russian people exchange letters of love, hope and fear.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 24485,
+		"uniqueWordsCount": 3969,
+		"ranks": {
+			"highest": 50385,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 485,
+				"readability": 58
+			},
+			"A2": {
+				"count": 429,
+				"readability": 69
+			},
+			"B1": {
+				"count": 703,
+				"readability": 82
+			},
+			"B2": {
+				"count": 858,
+				"readability": 91
+			},
+			"C1": {
+				"count": 770,
+				"readability": 97
+			},
+			"C2": {
+				"count": 517,
+				"readability": 99
+			}
+		}
+	}
+}
