@@ -1,1 +1,43 @@
-{"dir":"epeli-hauofa/the-glorious-pacific-way","title":"The Glorious Pacific Way","creator":"Epeli Hauofa","description":"In the South Pacific, folk tales, legends and stories are not forgotten, as in the rest of the world. There they are still remembered and transmitted from person to person. In the modern world, such stories lost their value, but not in Ole's house. The guy loves these folk tales and writes them down to save for the next generations. This is hard and slow work. He dreams of a typewriter. Once Ole felt that God wanted him to go on writing. That is why he does not give up. Some rumours of this reach the official Mr. Harold. Mr. Harold is quite interested. He even invites Ole to the party at an expensive hotel, where he praises the guy for his effort. Finally Ole can get money for help in his work. But everything is not so simple as it seems.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1501,"uniqueWordsCount":485,"ranks":{"highest":22286,"lowest":1},"levels":{"A1":{"count":248,"readability":67},"A2":{"count":86,"readability":78},"B1":{"count":60,"readability":87},"B2":{"count":43,"readability":94},"C1":{"count":26,"readability":97},"C2":{"count":16,"readability":100}}}}
+{
+	"dir": "epeli-hauofa/the-glorious-pacific-way",
+	"title": "The Glorious Pacific Way",
+	"creator": "Epeli Hauofa",
+	"description": "In the South Pacific, folk tales, legends and stories are not forgotten, as in the rest of the world. There they are still remembered and transmitted from person to person. In the modern world, such stories lost their value, but not in Ole's house. The guy loves these folk tales and writes them down to save for the next generations. This is hard and slow work. He dreams of a typewriter. Once Ole felt that God wanted him to go on writing. That is why he does not give up. Some rumours of this reach the official Mr. Harold. Mr. Harold is quite interested. He even invites Ole to the party at an expensive hotel, where he praises the guy for his effort. Finally Ole can get money for help in his work. But everything is not so simple as it seems.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1507,
+		"uniqueWordsCount": 528,
+		"ranks": {
+			"highest": 46285,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 267,
+				"readability": 65
+			},
+			"A2": {
+				"count": 84,
+				"readability": 76
+			},
+			"B1": {
+				"count": 72,
+				"readability": 85
+			},
+			"B2": {
+				"count": 49,
+				"readability": 93
+			},
+			"C1": {
+				"count": 29,
+				"readability": 97
+			},
+			"C2": {
+				"count": 17,
+				"readability": 99
+			}
+		}
+	}
+}
