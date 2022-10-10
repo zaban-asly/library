@@ -1,1 +1,43 @@
-{"dir":"leo-tolstoy/anna-karenina","title":"Anna Karenina","creator":"Leo Tolstoy","description":"A socialite starts an affair with a cavalry officer, against a backdrop of wealthy family life in Imperialist Russia.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":157988,"uniqueWordsCount":7917,"ranks":{"highest":49644,"lowest":1},"levels":{"A1":{"count":469,"readability":60},"A2":{"count":483,"readability":72},"B1":{"count":934,"readability":83},"B2":{"count":1601,"readability":92},"C1":{"count":2001,"readability":97},"C2":{"count":1736,"readability":100}}}}
+{
+	"dir": "leo-tolstoy/anna-karenina",
+	"title": "Anna Karenina",
+	"creator": "Leo Tolstoy",
+	"description": "A socialite starts an affair with a cavalry officer, against a backdrop of wealthy family life in Imperialist Russia.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 157710,
+		"uniqueWordsCount": 8294,
+		"ranks": {
+			"highest": 51555,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 58
+			},
+			"A2": {
+				"count": 484,
+				"readability": 70
+			},
+			"B1": {
+				"count": 944,
+				"readability": 82
+			},
+			"B2": {
+				"count": 1618,
+				"readability": 91
+			},
+			"C1": {
+				"count": 2087,
+				"readability": 97
+			},
+			"C2": {
+				"count": 1856,
+				"readability": 100
+			}
+		}
+	}
+}
