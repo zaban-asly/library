@@ -1,1 +1,43 @@
-{"dir":"ella-cheever-thayer/wired-love","title":"Wired Love","creator":"Ella Cheever Thayer","description":"A romance begins over the wire between two telegraph operators.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":23202,"uniqueWordsCount":3708,"ranks":{"highest":42085,"lowest":1},"levels":{"A1":{"count":443,"readability":58},"A2":{"count":386,"readability":69},"B1":{"count":645,"readability":80},"B2":{"count":789,"readability":90},"C1":{"count":747,"readability":96},"C2":{"count":527,"readability":100}}}}
+{
+	"dir": "ella-cheever-thayer/wired-love",
+	"title": "Wired Love",
+	"creator": "Ella Cheever Thayer",
+	"description": "A romance begins over the wire between two telegraph operators.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 23081,
+		"uniqueWordsCount": 3879,
+		"ranks": {
+			"highest": 49169,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 468,
+				"readability": 56
+			},
+			"A2": {
+				"count": 393,
+				"readability": 67
+			},
+			"B1": {
+				"count": 669,
+				"readability": 79
+			},
+			"B2": {
+				"count": 818,
+				"readability": 89
+			},
+			"C1": {
+				"count": 770,
+				"readability": 95
+			},
+			"C2": {
+				"count": 572,
+				"readability": 99
+			}
+		}
+	}
+}
