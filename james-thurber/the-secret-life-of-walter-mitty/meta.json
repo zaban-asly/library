@@ -1,1 +1,43 @@
-{"dir":"james-thurber/the-secret-life-of-walter-mitty","title":"The Secret Life of Walter Mitty","creator":"James Thurber","description":"Corrected version\tThis story became widely known after its adaptation in movie. The literary original itself was written a long time ago. The protagonist of the story is Walter. He has a boring and ordinary life, like hundreds of thousands of other people. Walter goes to work he doesn't like; the weekend goes fast. The only feature of this person is a rich imagination. In his fantasies, he is transported far from the annoying routine. He becomes a fearless traveler, astronaut or real Casanova. In dreams, Walter achieves everything he wants. In real life he is in love with his colleague, but he cannot tell her about it. Soon something happens and changes Walter's monotonous life. He will have to go on a long journey not in his fantasies, but in reality.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":570,"uniqueWordsCount":288,"ranks":{"highest":34843,"lowest":1},"levels":{"A1":{"count":150,"readability":58},"A2":{"count":43,"readability":69},"B1":{"count":41,"readability":81},"B2":{"count":28,"readability":93},"C1":{"count":15,"readability":98},"C2":{"count":4,"readability":99}}}}
+{
+	"dir": "james-thurber/the-secret-life-of-walter-mitty",
+	"title": "The Secret Life of Walter Mitty",
+	"creator": "James Thurber",
+	"description": "Corrected version\tThis story became widely known after its adaptation in movie. The literary original itself was written a long time ago. The protagonist of the story is Walter. He has a boring and ordinary life, like hundreds of thousands of other people. Walter goes to work he doesn't like; the weekend goes fast. The only feature of this person is a rich imagination. In his fantasies, he is transported far from the annoying routine. He becomes a fearless traveler, astronaut or real Casanova. In dreams, Walter achieves everything he wants. In real life he is in love with his colleague, but he cannot tell her about it. Soon something happens and changes Walter's monotonous life. He will have to go on a long journey not in his fantasies, but in reality.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 570,
+		"uniqueWordsCount": 299,
+		"ranks": {
+			"highest": 36179,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 150,
+				"readability": 55
+			},
+			"A2": {
+				"count": 47,
+				"readability": 68
+			},
+			"B1": {
+				"count": 44,
+				"readability": 80
+			},
+			"B2": {
+				"count": 29,
+				"readability": 92
+			},
+			"C1": {
+				"count": 17,
+				"readability": 98
+			},
+			"C2": {
+				"count": 5,
+				"readability": 99
+			}
+		}
+	}
+}
