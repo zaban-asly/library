@@ -1,1 +1,43 @@
-{"dir":"james-stephens/irish-fairy-tales","title":"Irish Fairy Tales","creator":"James Stephens","description":"Ten stories from the Fenian cycle of Irish folklore retold by James Stephens.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":28635,"uniqueWordsCount":3993,"ranks":{"highest":49366,"lowest":1},"levels":{"A1":{"count":453,"readability":58},"A2":{"count":414,"readability":70},"B1":{"count":647,"readability":80},"B2":{"count":866,"readability":89},"C1":{"count":806,"readability":96},"C2":{"count":582,"readability":99}}}}
+{
+	"dir": "james-stephens/irish-fairy-tales",
+	"title": "Irish Fairy Tales",
+	"creator": "James Stephens",
+	"description": "Ten stories from the Fenian cycle of Irish folklore retold by James Stephens.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 28603,
+		"uniqueWordsCount": 4200,
+		"ranks": {
+			"highest": 51786,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 482,
+				"readability": 56
+			},
+			"A2": {
+				"count": 420,
+				"readability": 68
+			},
+			"B1": {
+				"count": 663,
+				"readability": 78
+			},
+			"B2": {
+				"count": 895,
+				"readability": 88
+			},
+			"C1": {
+				"count": 856,
+				"readability": 96
+			},
+			"C2": {
+				"count": 620,
+				"readability": 99
+			}
+		}
+	}
+}
