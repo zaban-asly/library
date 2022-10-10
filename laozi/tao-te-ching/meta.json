@@ -1,1 +1,43 @@
-{"dir":"laozi/tao-te-ching","title":"Tao Te Ching","creator":"Laozi","description":"One of the fundamental texts of the Tao philosophy and religion.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":17483,"uniqueWordsCount":3103,"ranks":{"highest":48955,"lowest":1},"levels":{"A1":{"count":424,"readability":47},"A2":{"count":349,"readability":58},"B1":{"count":488,"readability":71},"B2":{"count":593,"readability":82},"C1":{"count":563,"readability":92},"C2":{"count":463,"readability":98}}}}
+{
+	"dir": "laozi/tao-te-ching",
+	"title": "Tao Te Ching",
+	"creator": "Laozi",
+	"description": "One of the fundamental texts of the Tao philosophy and religion.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 17407,
+		"uniqueWordsCount": 3226,
+		"ranks": {
+			"highest": 50806,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 447,
+				"readability": 45
+			},
+			"A2": {
+				"count": 358,
+				"readability": 57
+			},
+			"B1": {
+				"count": 488,
+				"readability": 69
+			},
+			"B2": {
+				"count": 598,
+				"readability": 81
+			},
+			"C1": {
+				"count": 591,
+				"readability": 91
+			},
+			"C2": {
+				"count": 496,
+				"readability": 98
+			}
+		}
+	}
+}
