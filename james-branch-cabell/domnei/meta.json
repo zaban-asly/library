@@ -1,1 +1,43 @@
-{"dir":"james-branch-cabell/domnei","title":"Domnei","creator":"James Branch Cabell","description":"The tale of to what extent a woman’s love is worth pursuing.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":16647,"uniqueWordsCount":4092,"ranks":{"highest":50087,"lowest":1},"levels":{"A1":{"count":454,"readability":50},"A2":{"count":402,"readability":62},"B1":{"count":624,"readability":74},"B2":{"count":820,"readability":84},"C1":{"count":811,"readability":92},"C2":{"count":633,"readability":98}}}}
+{
+	"dir": "james-branch-cabell/domnei",
+	"title": "Domnei",
+	"creator": "James Branch Cabell",
+	"description": "The tale of to what extent a woman’s love is worth pursuing.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 16602,
+		"uniqueWordsCount": 4276,
+		"ranks": {
+			"highest": 52010,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 480,
+				"readability": 49
+			},
+			"A2": {
+				"count": 405,
+				"readability": 60
+			},
+			"B1": {
+				"count": 641,
+				"readability": 72
+			},
+			"B2": {
+				"count": 844,
+				"readability": 83
+			},
+			"C1": {
+				"count": 836,
+				"readability": 92
+			},
+			"C2": {
+				"count": 681,
+				"readability": 98
+			}
+		}
+	}
+}
