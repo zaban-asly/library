@@ -1,1 +1,43 @@
-{"dir":"thomas-hardy/what-the-shepherd-saw","title":"What the Shepherd Saw","creator":"Thomas Hardy","description":"Corrected version \tEverything happened at Christmas, in the south of England. That night a bright white moon was illuminating the earth. Shepherds lived on these lands. They kept sheep and grazed them all year round. They had to be close to the herd all the time. Therefore people used small houses on wheels, where they could have a rest and warm themselves. At the same time, it was possible not to lose sight of the precious sheep. One of the huts stood between low trees. It was not so cold; the wind did not pester so much. The house had small windows through which its inhabitants could watch eight hundred sheep grazing nearby. Also it was easy to see ancient stones, built in the form of a doorway. No one already remembered who created this small monument. The locals called this place the Devil's Door.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1944,"uniqueWordsCount":515,"ranks":{"highest":21645,"lowest":1},"levels":{"A1":{"count":304,"readability":74},"A2":{"count":92,"readability":87},"B1":{"count":54,"readability":93},"B2":{"count":33,"readability":98},"C1":{"count":22,"readability":100},"C2":{"count":7,"readability":100}}}}
+{
+	"dir": "thomas-hardy/what-the-shepherd-saw",
+	"title": "What the Shepherd Saw",
+	"creator": "Thomas Hardy",
+	"description": "Corrected version \tEverything happened at Christmas, in the south of England. That night a bright white moon was illuminating the earth. Shepherds lived on these lands. They kept sheep and grazed them all year round. They had to be close to the herd all the time. Therefore people used small houses on wheels, where they could have a rest and warm themselves. At the same time, it was possible not to lose sight of the precious sheep. One of the huts stood between low trees. It was not so cold; the wind did not pester so much. The house had small windows through which its inhabitants could watch eight hundred sheep grazing nearby. Also it was easy to see ancient stones, built in the form of a doorway. No one already remembered who created this small monument. The locals called this place the Devil's Door.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1942,
+		"uniqueWordsCount": 568,
+		"ranks": {
+			"highest": 22399,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 324,
+				"readability": 72
+			},
+			"A2": {
+				"count": 99,
+				"readability": 85
+			},
+			"B1": {
+				"count": 71,
+				"readability": 92
+			},
+			"B2": {
+				"count": 39,
+				"readability": 98
+			},
+			"C1": {
+				"count": 26,
+				"readability": 100
+			},
+			"C2": {
+				"count": 5,
+				"readability": 100
+			}
+		}
+	}
+}
