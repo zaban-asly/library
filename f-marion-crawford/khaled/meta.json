@@ -1,1 +1,43 @@
-{"dir":"f-marion-crawford/khaled","title":"Khaled","creator":"F. Marion Crawford","description":"A powerful genie is condemned to live the life of a man, unless he can find true love.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":26272,"uniqueWordsCount":2952,"ranks":{"highest":45222,"lowest":1},"levels":{"A1":{"count":446,"readability":62},"A2":{"count":390,"readability":74},"B1":{"count":602,"readability":85},"B2":{"count":657,"readability":92},"C1":{"count":488,"readability":98},"C2":{"count":281,"readability":100}}}}
+{
+	"dir": "f-marion-crawford/khaled",
+	"title": "Khaled",
+	"creator": "F. Marion Crawford",
+	"description": "A powerful genie is condemned to live the life of a man, unless he can find true love.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 26187,
+		"uniqueWordsCount": 3149,
+		"ranks": {
+			"highest": 46924,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 475,
+				"readability": 60
+			},
+			"A2": {
+				"count": 390,
+				"readability": 72
+			},
+			"B1": {
+				"count": 625,
+				"readability": 83
+			},
+			"B2": {
+				"count": 707,
+				"readability": 92
+			},
+			"C1": {
+				"count": 537,
+				"readability": 97
+			},
+			"C2": {
+				"count": 310,
+				"readability": 100
+			}
+		}
+	}
+}
