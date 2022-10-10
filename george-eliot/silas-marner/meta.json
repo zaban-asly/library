@@ -1,1 +1,43 @@
-{"dir":"george-eliot/silas-marner","title":"Silas Marner","creator":"George Eliot","description":"A miserly weaver’s isolated life is transformed by the theft of his precious money and the sudden appearance of an abandoned infant, whom he adopts and raises.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":32918,"uniqueWordsCount":4709,"ranks":{"highest":49910,"lowest":1},"levels":{"A1":{"count":461,"readability":59},"A2":{"count":445,"readability":70},"B1":{"count":747,"readability":80},"B2":{"count":1030,"readability":90},"C1":{"count":997,"readability":96},"C2":{"count":721,"readability":99}}}}
+{
+	"dir": "george-eliot/silas-marner",
+	"title": "Silas Marner",
+	"creator": "George Eliot",
+	"description": "A miserly weaver’s isolated life is transformed by the theft of his precious money and the sudden appearance of an abandoned infant, whom he adopts and raises.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 32833,
+		"uniqueWordsCount": 4959,
+		"ranks": {
+			"highest": 51828,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 488,
+				"readability": 57
+			},
+			"A2": {
+				"count": 448,
+				"readability": 68
+			},
+			"B1": {
+				"count": 767,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1055,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1068,
+				"readability": 95
+			},
+			"C2": {
+				"count": 785,
+				"readability": 99
+			}
+		}
+	}
+}
