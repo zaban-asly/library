@@ -1,1 +1,43 @@
-{"dir":"baroness-orczy/the-league-of-the-scarlet-pimpernel","title":"The League of the Scarlet Pimpernel","creator":"Baroness Orczy","description":"A collection of short stories featuring the Scarlet Pimpernel.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":36786,"uniqueWordsCount":4835,"ranks":{"highest":49253,"lowest":1},"levels":{"A1":{"count":464,"readability":52},"A2":{"count":457,"readability":64},"B1":{"count":745,"readability":76},"B2":{"count":1008,"readability":87},"C1":{"count":1036,"readability":94},"C2":{"count":835,"readability":99}}}}
+{
+	"dir": "baroness-orczy/the-league-of-the-scarlet-pimpernel",
+	"title": "The League of the Scarlet Pimpernel",
+	"creator": "Baroness Orczy",
+	"description": "A collection of short stories featuring the Scarlet Pimpernel.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 36674,
+		"uniqueWordsCount": 5058,
+		"ranks": {
+			"highest": 51142,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 50
+			},
+			"A2": {
+				"count": 460,
+				"readability": 63
+			},
+			"B1": {
+				"count": 762,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1043,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1081,
+				"readability": 94
+			},
+			"C2": {
+				"count": 891,
+				"readability": 99
+			}
+		}
+	}
+}
