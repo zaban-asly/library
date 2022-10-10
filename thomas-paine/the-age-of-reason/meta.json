@@ -1,1 +1,43 @@
-{"dir":"thomas-paine/the-age-of-reason","title":"The Age of Reason","creator":"Thomas Paine","description":"Paine argues against the legitimacy of the Bible and institutional religion.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":43706,"uniqueWordsCount":4737,"ranks":{"highest":48587,"lowest":1},"levels":{"A1":{"count":461,"readability":51},"A2":{"count":420,"readability":61},"B1":{"count":721,"readability":74},"B2":{"count":926,"readability":85},"C1":{"count":994,"readability":94},"C2":{"count":808,"readability":99}}}}
+{
+	"dir": "thomas-paine/the-age-of-reason",
+	"title": "The Age of Reason",
+	"creator": "Thomas Paine",
+	"description": "Paine argues against the legitimacy of the Bible and institutional religion.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 43534,
+		"uniqueWordsCount": 4928,
+		"ranks": {
+			"highest": 50420,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 485,
+				"readability": 49
+			},
+			"A2": {
+				"count": 424,
+				"readability": 60
+			},
+			"B1": {
+				"count": 742,
+				"readability": 73
+			},
+			"B2": {
+				"count": 945,
+				"readability": 84
+			},
+			"C1": {
+				"count": 1035,
+				"readability": 93
+			},
+			"C2": {
+				"count": 847,
+				"readability": 99
+			}
+		}
+	}
+}
