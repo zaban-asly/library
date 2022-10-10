@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/edward-iii","title":"Edward III","creator":"William Shakespeare","description":"Edward III declares himself the true heir of France, which launches the Hundred Years’ War.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":10507,"uniqueWordsCount":2597,"ranks":{"highest":43409,"lowest":1},"levels":{"A1":{"count":414,"readability":48},"A2":{"count":312,"readability":61},"B1":{"count":454,"readability":75},"B2":{"count":540,"readability":86},"C1":{"count":482,"readability":94},"C2":{"count":291,"readability":99}}}}
+{
+	"dir": "william-shakespeare/edward-iii",
+	"title": "Edward III",
+	"creator": "William Shakespeare",
+	"description": "Edward III declares himself the true heir of France, which launches the Hundred Years’ War.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 10490,
+		"uniqueWordsCount": 2716,
+		"ranks": {
+			"highest": 45062,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 435,
+				"readability": 46
+			},
+			"A2": {
+				"count": 308,
+				"readability": 58
+			},
+			"B1": {
+				"count": 463,
+				"readability": 73
+			},
+			"B2": {
+				"count": 567,
+				"readability": 85
+			},
+			"C1": {
+				"count": 501,
+				"readability": 94
+			},
+			"C2": {
+				"count": 318,
+				"readability": 99
+			}
+		}
+	}
+}
