@@ -1,1 +1,43 @@
-{"dir":"sherwood-anderson/winesburg-ohio","title":"Winesburg, Ohio","creator":"Sherwood Anderson","description":"The residents of a small pre-industrial Ohio town lead their lives amidst a backdrop of pervasive loneliness.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":36183,"uniqueWordsCount":3940,"ranks":{"highest":50233,"lowest":1},"levels":{"A1":{"count":463,"readability":63},"A2":{"count":434,"readability":75},"B1":{"count":706,"readability":84},"B2":{"count":865,"readability":92},"C1":{"count":745,"readability":96},"C2":{"count":518,"readability":100}}}}
+{
+	"dir": "sherwood-anderson/winesburg-ohio",
+	"title": "Winesburg, Ohio",
+	"creator": "Sherwood Anderson",
+	"description": "The residents of a small pre-industrial Ohio town lead their lives amidst a backdrop of pervasive loneliness.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 36141,
+		"uniqueWordsCount": 4132,
+		"ranks": {
+			"highest": 52158,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 61
+			},
+			"A2": {
+				"count": 437,
+				"readability": 73
+			},
+			"B1": {
+				"count": 727,
+				"readability": 83
+			},
+			"B2": {
+				"count": 909,
+				"readability": 91
+			},
+			"C1": {
+				"count": 789,
+				"readability": 96
+			},
+			"C2": {
+				"count": 550,
+				"readability": 99
+			}
+		}
+	}
+}
