@@ -1,1 +1,43 @@
-{"dir":"henry-david-thoreau/a-week-on-the-concord-and-merrimack-rivers","title":"A Week on the Concord and Merrimack Rivers","creator":"Henry David Thoreau","description":"On a rowboat excursion with his brother, Thoreau lets his thoughts meander with the river.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":56758,"uniqueWordsCount":7479,"ranks":{"highest":50255,"lowest":1},"levels":{"A1":{"count":467,"readability":47},"A2":{"count":475,"readability":59},"B1":{"count":884,"readability":73},"B2":{"count":1452,"readability":85},"C1":{"count":1743,"readability":93},"C2":{"count":1595,"readability":98}}}}
+{
+	"dir": "henry-david-thoreau/a-week-on-the-concord-and-merrimack-rivers",
+	"title": "A Week on the Concord and Merrimack Rivers",
+	"creator": "Henry David Thoreau",
+	"description": "On a rowboat excursion with his brother, Thoreau lets his thoughts meander with the river.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 56665,
+		"uniqueWordsCount": 7879,
+		"ranks": {
+			"highest": 52182,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 45
+			},
+			"A2": {
+				"count": 476,
+				"readability": 57
+			},
+			"B1": {
+				"count": 892,
+				"readability": 71
+			},
+			"B2": {
+				"count": 1478,
+				"readability": 83
+			},
+			"C1": {
+				"count": 1817,
+				"readability": 92
+			},
+			"C2": {
+				"count": 1725,
+				"readability": 98
+			}
+		}
+	}
+}
