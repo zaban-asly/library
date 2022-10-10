@@ -1,1 +1,43 @@
-{"dir":"arthur-conan-doyle/the-medal-of-brigadier-gerard","title":"The Medal of Brigadier Gerard","creator":"Arthur Conan Doyle","description":"Arthur Conan Doyle is mostly known for his stories about Sherlock Holmes, the brilliant detective from Baker Street. At the same time, very few people know that this author also wrote stories in many other genres, including fantasy, science fiction and even comedy. One of his humorous works is 'The Medal of Brigadier Gerard'. This is the first book in the series about the title character. Brigadier Gerard is a French soldier during the Napoleonic Wars. He is a brave warrior but not a clever man. In the story he receives and order from the Emperor to deliver a letter to his brother, the King of Spain. Gerard's friend Charpentier gets the same task. But the mission doesn't turn out to be what they expected. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":749,"uniqueWordsCount":166,"ranks":{"highest":22651,"lowest":11},"levels":{"A1":{"count":113,"readability":66},"A2":{"count":25,"readability":83},"B1":{"count":9,"readability":93},"B2":{"count":14,"readability":98},"C1":{"count":2,"readability":98},"C2":{"count":1,"readability":99}}}}
+{
+	"dir": "arthur-conan-doyle/the-medal-of-brigadier-gerard",
+	"title": "The Medal of Brigadier Gerard",
+	"creator": "Arthur Conan Doyle",
+	"description": "Arthur Conan Doyle is mostly known for his stories about Sherlock Holmes, the brilliant detective from Baker Street. At the same time, very few people know that this author also wrote stories in many other genres, including fantasy, science fiction and even comedy. One of his humorous works is 'The Medal of Brigadier Gerard'. This is the first book in the series about the title character. Brigadier Gerard is a French soldier during the Napoleonic Wars. He is a brave warrior but not a clever man. In the story he receives and order from the Emperor to deliver a letter to his brother, the King of Spain. Gerard's friend Charpentier gets the same task. But the mission doesn't turn out to be what they expected. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 749,
+		"uniqueWordsCount": 184,
+		"ranks": {
+			"highest": 23451,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 127,
+				"readability": 66
+			},
+			"A2": {
+				"count": 26,
+				"readability": 80
+			},
+			"B1": {
+				"count": 12,
+				"readability": 93
+			},
+			"B2": {
+				"count": 14,
+				"readability": 98
+			},
+			"C1": {
+				"count": 2,
+				"readability": 98
+			},
+			"C2": {
+				"count": 1,
+				"readability": 99
+			}
+		}
+	}
+}
