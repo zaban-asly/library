@@ -1,1 +1,43 @@
-{"dir":"ernest-howard-crosby/captain-jinks-hero","title":"Captain Jinks, Hero","creator":"Ernest Howard Crosby","description":"A jingoistic military officer embarks on a tragicomic quest to become a “perfect soldier.”","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":31889,"uniqueWordsCount":4418,"ranks":{"highest":45877,"lowest":1},"levels":{"A1":{"count":466,"readability":57},"A2":{"count":456,"readability":69},"B1":{"count":781,"readability":80},"B2":{"count":972,"readability":90},"C1":{"count":916,"readability":96},"C2":{"count":588,"readability":99}}}}
+{
+	"dir": "ernest-howard-crosby/captain-jinks-hero",
+	"title": "Captain Jinks, Hero",
+	"creator": "Ernest Howard Crosby",
+	"description": "A jingoistic military officer embarks on a tragicomic quest to become a “perfect soldier.”",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 31856,
+		"uniqueWordsCount": 4616,
+		"ranks": {
+			"highest": 47593,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 56
+			},
+			"A2": {
+				"count": 460,
+				"readability": 68
+			},
+			"B1": {
+				"count": 804,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1004,
+				"readability": 90
+			},
+			"C1": {
+				"count": 961,
+				"readability": 96
+			},
+			"C2": {
+				"count": 617,
+				"readability": 99
+			}
+		}
+	}
+}
