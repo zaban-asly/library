@@ -1,1 +1,43 @@
-{"dir":"d-catrille/the-sharcks-were-hungry","title":"The Sharcks Were Hungry","creator":"D. Catrille","description":"It was a good day. John decided that now he could definitely go home. It was the best day in recent years for Dr. Perry. He was extremely pleased. John's bag was filled with a huge variety of seashells. There was enough material to study for months. John took his bag and sat on the reef that connected the mainland with the island. The man wanted to watch the sunset. It was a very beautiful sight, which was worth a few valuable minutes. After that he went to the shore. It was quickly becoming dark around, and John went faster. The next minute he fell. There was water all around. It covered him over his head. He could not understand where he was and what was happening. It was difficult, but John finally managed to climb onto the sand.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":620,"uniqueWordsCount":263,"ranks":{"highest":14525,"lowest":1},"levels":{"A1":{"count":147,"readability":59},"A2":{"count":53,"readability":76},"B1":{"count":27,"readability":88},"B2":{"count":25,"readability":94},"C1":{"count":6,"readability":100},"C2":{"count":5,"readability":100}}}}
+{
+	"dir": "d-catrille/the-sharcks-were-hungry",
+	"title": "The Sharcks Were Hungry",
+	"creator": "D. Catrille",
+	"description": "It was a good day. John decided that now he could definitely go home. It was the best day in recent years for Dr. Perry. He was extremely pleased. John's bag was filled with a huge variety of seashells. There was enough material to study for months. John took his bag and sat on the reef that connected the mainland with the island. The man wanted to watch the sunset. It was a very beautiful sight, which was worth a few valuable minutes. After that he went to the shore. It was quickly becoming dark around, and John went faster. The next minute he fell. There was water all around. It covered him over his head. He could not understand where he was and what was happening. It was difficult, but John finally managed to climb onto the sand.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 619,
+		"uniqueWordsCount": 282,
+		"ranks": {
+			"highest": 15037,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 155,
+				"readability": 58
+			},
+			"A2": {
+				"count": 54,
+				"readability": 74
+			},
+			"B1": {
+				"count": 32,
+				"readability": 85
+			},
+			"B2": {
+				"count": 27,
+				"readability": 93
+			},
+			"C1": {
+				"count": 9,
+				"readability": 100
+			},
+			"C2": {
+				"count": 5,
+				"readability": 100
+			}
+		}
+	}
+}
