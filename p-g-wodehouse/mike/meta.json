@@ -1,1 +1,43 @@
-{"dir":"p-g-wodehouse/mike","title":"Mike","creator":"P. G. Wodehouse","description":"A boy’s adventures in public school are filled with cricket, colorful characters, and a great deal of fun at the expense of authoritarian school masters.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":52031,"uniqueWordsCount":5498,"ranks":{"highest":45152,"lowest":1},"levels":{"A1":{"count":464,"readability":56},"A2":{"count":465,"readability":68},"B1":{"count":817,"readability":78},"B2":{"count":1209,"readability":89},"C1":{"count":1204,"readability":95},"C2":{"count":906,"readability":99}}}}
+{
+	"dir": "p-g-wodehouse/mike",
+	"title": "Mike",
+	"creator": "P. G. Wodehouse",
+	"description": "A boy’s adventures in public school are filled with cricket, colorful characters, and a great deal of fun at the expense of authoritarian school masters.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 51893,
+		"uniqueWordsCount": 5751,
+		"ranks": {
+			"highest": 50855,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 55
+			},
+			"A2": {
+				"count": 470,
+				"readability": 66
+			},
+			"B1": {
+				"count": 830,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1246,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1248,
+				"readability": 95
+			},
+			"C2": {
+				"count": 968,
+				"readability": 99
+			}
+		}
+	}
+}
