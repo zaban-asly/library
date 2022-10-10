@@ -1,1 +1,43 @@
-{"dir":"apsley-cherry-garrard/the-worst-journey-in-the-world","title":"The Worst Journey in the World","creator":"Apsley Cherry-Garrard","description":"The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":121563,"uniqueWordsCount":7061,"ranks":{"highest":49973,"lowest":1},"levels":{"A1":{"count":467,"readability":53},"A2":{"count":479,"readability":65},"B1":{"count":864,"readability":77},"B2":{"count":1334,"readability":88},"C1":{"count":1604,"readability":95},"C2":{"count":1405,"readability":99}}}}
+{
+	"dir": "apsley-cherry-garrard/the-worst-journey-in-the-world",
+	"title": "The Worst Journey in the World",
+	"creator": "Apsley Cherry-Garrard",
+	"description": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 121112,
+		"uniqueWordsCount": 7391,
+		"ranks": {
+			"highest": 51891,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 51
+			},
+			"A2": {
+				"count": 481,
+				"readability": 64
+			},
+			"B1": {
+				"count": 874,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1361,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1693,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1479,
+				"readability": 99
+			}
+		}
+	}
+}
