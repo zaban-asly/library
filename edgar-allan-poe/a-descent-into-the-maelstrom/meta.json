@@ -1,1 +1,43 @@
-{"dir":"edgar-allan-poe/a-descent-into-the-maelstrom","title":"A Descent Into the Maelstrom","creator":"Edgar Allan Poe","description":"","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":995,"uniqueWordsCount":305,"ranks":{"highest":17865,"lowest":1},"levels":{"A1":{"count":185,"readability":65},"A2":{"count":51,"readability":83},"B1":{"count":31,"readability":90},"B2":{"count":27,"readability":96},"C1":{"count":7,"readability":97},"C2":{"count":3,"readability":99}}}}
+{
+	"dir": "edgar-allan-poe/a-descent-into-the-maelstrom",
+	"title": "A Descent Into the Maelstrom",
+	"creator": "Edgar Allan Poe",
+	"description": "",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 998,
+		"uniqueWordsCount": 332,
+		"ranks": {
+			"highest": 40452,
+			"lowest": 2
+		},
+		"levels": {
+			"A1": {
+				"count": 191,
+				"readability": 62
+			},
+			"A2": {
+				"count": 49,
+				"readability": 79
+			},
+			"B1": {
+				"count": 44,
+				"readability": 88
+			},
+			"B2": {
+				"count": 30,
+				"readability": 95
+			},
+			"C1": {
+				"count": 11,
+				"readability": 97
+			},
+			"C2": {
+				"count": 4,
+				"readability": 98
+			}
+		}
+	}
+}
