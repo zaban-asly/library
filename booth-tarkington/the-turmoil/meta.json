@@ -1,1 +1,43 @@
-{"dir":"booth-tarkington/the-turmoil","title":"The Turmoil","creator":"Booth Tarkington","description":"A dreamy and sensitive scion of a Midwestern businessman comes to terms with his legacy in a growing city.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":41831,"uniqueWordsCount":5151,"ranks":{"highest":49642,"lowest":1},"levels":{"A1":{"count":462,"readability":63},"A2":{"count":457,"readability":74},"B1":{"count":781,"readability":82},"B2":{"count":1074,"readability":89},"C1":{"count":1102,"readability":96},"C2":{"count":831,"readability":99}}}}
+{
+	"dir": "booth-tarkington/the-turmoil",
+	"title": "The Turmoil",
+	"creator": "Booth Tarkington",
+	"description": "A dreamy and sensitive scion of a Midwestern businessman comes to terms with his legacy in a growing city.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 41777,
+		"uniqueWordsCount": 5422,
+		"ranks": {
+			"highest": 51553,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 489,
+				"readability": 61
+			},
+			"A2": {
+				"count": 462,
+				"readability": 72
+			},
+			"B1": {
+				"count": 799,
+				"readability": 81
+			},
+			"B2": {
+				"count": 1106,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1174,
+				"readability": 95
+			},
+			"C2": {
+				"count": 889,
+				"readability": 99
+			}
+		}
+	}
+}
