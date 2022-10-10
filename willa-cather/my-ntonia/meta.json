@@ -1,1 +1,43 @@
-{"dir":"willa-cather/my-ntonia","title":"My Ántonia","creator":"Willa Cather","description":"Orphaned boy Jim meets Ántonia, the daughter of a Czech family who has immigrated to Nebraska.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":40355,"uniqueWordsCount":5058,"ranks":{"highest":49394,"lowest":1},"levels":{"A1":{"count":463,"readability":60},"A2":{"count":454,"readability":71},"B1":{"count":757,"readability":80},"B2":{"count":1078,"readability":89},"C1":{"count":1067,"readability":95},"C2":{"count":844,"readability":99}}}}
+{
+	"dir": "willa-cather/my-ntonia",
+	"title": "My Ántonia",
+	"creator": "Willa Cather",
+	"description": "Orphaned boy Jim meets Ántonia, the daughter of a Czech family who has immigrated to Nebraska.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 40316,
+		"uniqueWordsCount": 5303,
+		"ranks": {
+			"highest": 51292,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 489,
+				"readability": 58
+			},
+			"A2": {
+				"count": 459,
+				"readability": 69
+			},
+			"B1": {
+				"count": 781,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1099,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1132,
+				"readability": 95
+			},
+			"C2": {
+				"count": 895,
+				"readability": 99
+			}
+		}
+	}
+}
