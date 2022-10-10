@@ -1,1 +1,43 @@
-{"dir":"clemen-d-b-gina/the-vampire-s-tear","title":"The Vampire's Tear","creator":"Clemen D. B. Gina","description":"A young boy Nick finds a summer job in one of the museums in new York. He decides to invite his two best friends. Bill and Michelle are brothers. They gladly accept the invitation. At this time, there is an exhibition with one of the most expensive and rarest diamonds called Vampire Tear in the museum. At night, the diamond disappears and the security guard is killed under mysterious circumstances. People begin to believe that a vampire committed everything. All the citizens start panicking. They say the vampire wanders in search of another victim every night. The police have no evidence. In addition, three brave teenagers decide to initiate an investigation. They already have an access to the crime scene. This summer will be an unforgettable experience for them. They are going to make a terrible discovery.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":5459,"uniqueWordsCount":1085,"ranks":{"highest":41734,"lowest":1},"levels":{"A1":{"count":359,"readability":56},"A2":{"count":185,"readability":69},"B1":{"count":180,"readability":78},"B2":{"count":169,"readability":91},"C1":{"count":100,"readability":96},"C2":{"count":69,"readability":100}}}}
+{
+	"dir": "clemen-d-b-gina/the-vampire-s-tear",
+	"title": "The Vampire's Tear",
+	"creator": "Clemen D. B. Gina",
+	"description": "A young boy Nick finds a summer job in one of the museums in new York. He decides to invite his two best friends. Bill and Michelle are brothers. They gladly accept the invitation. At this time, there is an exhibition with one of the most expensive and rarest diamonds called Vampire Tear in the museum. At night, the diamond disappears and the security guard is killed under mysterious circumstances. People begin to believe that a vampire committed everything. All the citizens start panicking. They say the vampire wanders in search of another victim every night. The police have no evidence. In addition, three brave teenagers decide to initiate an investigation. They already have an access to the crime scene. This summer will be an unforgettable experience for them. They are going to make a terrible discovery.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 5475,
+		"uniqueWordsCount": 1160,
+		"ranks": {
+			"highest": 49711,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 379,
+				"readability": 54
+			},
+			"A2": {
+				"count": 184,
+				"readability": 67
+			},
+			"B1": {
+				"count": 205,
+				"readability": 77
+			},
+			"B2": {
+				"count": 174,
+				"readability": 90
+			},
+			"C1": {
+				"count": 114,
+				"readability": 96
+			},
+			"C2": {
+				"count": 70,
+				"readability": 99
+			}
+		}
+	}
+}
