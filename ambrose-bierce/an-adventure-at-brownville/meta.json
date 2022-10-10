@@ -1,1 +1,43 @@
-{"dir":"ambrose-bierce/an-adventure-at-brownville","title":"An Adventure at Brownville","creator":"Ambrose Bierce","description":"Brownville is a small provincial town in California. It is located between two hills covered with a dense forest. The air is fresh and clean here. Lots of people come to this town to relax. There is only one school in Brownville and the main character of the book works there as a teacher. He lives in a boarding house and the school is on the other side of the hill, about a mile and a half from there. There is  another and shorter way- a forest path through the hill. The school can be reached in fifteen minutes. Late at night the teacher is walking through the forest. He sits down on a log to rest and suddenly hears voices. Someone is cursing and threatening to kill another. Then he hears one of these voices in the boarding house. The teacher begins to realize that the city is too quiet and safe.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1298,"uniqueWordsCount":432,"ranks":{"highest":19012,"lowest":1},"levels":{"A1":{"count":236,"readability":71},"A2":{"count":87,"readability":86},"B1":{"count":48,"readability":93},"B2":{"count":44,"readability":98},"C1":{"count":10,"readability":99},"C2":{"count":5,"readability":100}}}}
+{
+	"dir": "ambrose-bierce/an-adventure-at-brownville",
+	"title": "An Adventure at Brownville",
+	"creator": "Ambrose Bierce",
+	"description": "Brownville is a small provincial town in California. It is located between two hills covered with a dense forest. The air is fresh and clean here. Lots of people come to this town to relax. There is only one school in Brownville and the main character of the book works there as a teacher. He lives in a boarding house and the school is on the other side of the hill, about a mile and a half from there. There is  another and shorter way- a forest path through the hill. The school can be reached in fifteen minutes. Late at night the teacher is walking through the forest. He sits down on a log to rest and suddenly hears voices. Someone is cursing and threatening to kill another. Then he hears one of these voices in the boarding house. The teacher begins to realize that the city is too quiet and safe.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1298,
+		"uniqueWordsCount": 474,
+		"ranks": {
+			"highest": 19684,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 260,
+				"readability": 69
+			},
+			"A2": {
+				"count": 81,
+				"readability": 84
+			},
+			"B1": {
+				"count": 63,
+				"readability": 92
+			},
+			"B2": {
+				"count": 48,
+				"readability": 97
+			},
+			"C1": {
+				"count": 15,
+				"readability": 99
+			},
+			"C2": {
+				"count": 5,
+				"readability": 100
+			}
+		}
+	}
+}
