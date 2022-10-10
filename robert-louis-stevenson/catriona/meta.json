@@ -1,1 +1,43 @@
-{"dir":"robert-louis-stevenson/catriona","title":"Catriona","creator":"Robert Louis Stevenson","description":"After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":42642,"uniqueWordsCount":4727,"ranks":{"highest":50194,"lowest":1},"levels":{"A1":{"count":468,"readability":63},"A2":{"count":465,"readability":74},"B1":{"count":798,"readability":84},"B2":{"count":1019,"readability":91},"C1":{"count":916,"readability":96},"C2":{"count":678,"readability":99}}}}
+{
+	"dir": "robert-louis-stevenson/catriona",
+	"title": "Catriona",
+	"creator": "Robert Louis Stevenson",
+	"description": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 42556,
+		"uniqueWordsCount": 4975,
+		"ranks": {
+			"highest": 52119,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 61
+			},
+			"A2": {
+				"count": 471,
+				"readability": 72
+			},
+			"B1": {
+				"count": 816,
+				"readability": 83
+			},
+			"B2": {
+				"count": 1062,
+				"readability": 90
+			},
+			"C1": {
+				"count": 971,
+				"readability": 95
+			},
+			"C2": {
+				"count": 721,
+				"readability": 99
+			}
+		}
+	}
+}
