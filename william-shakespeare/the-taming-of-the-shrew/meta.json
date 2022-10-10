@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/the-taming-of-the-shrew","title":"The Taming of the Shrew","creator":"William Shakespeare","description":"An unmarriageable shrew receives a marriage proposal.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":9674,"uniqueWordsCount":2180,"ranks":{"highest":47467,"lowest":1},"levels":{"A1":{"count":410,"readability":56},"A2":{"count":283,"readability":67},"B1":{"count":374,"readability":78},"B2":{"count":387,"readability":87},"C1":{"count":377,"readability":94},"C2":{"count":243,"readability":99}}}}
+{
+	"dir": "william-shakespeare/the-taming-of-the-shrew",
+	"title": "The Taming of the Shrew",
+	"creator": "William Shakespeare",
+	"description": "An unmarriageable shrew receives a marriage proposal.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 9658,
+		"uniqueWordsCount": 2305,
+		"ranks": {
+			"highest": 49253,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 428,
+				"readability": 54
+			},
+			"A2": {
+				"count": 293,
+				"readability": 65
+			},
+			"B1": {
+				"count": 384,
+				"readability": 76
+			},
+			"B2": {
+				"count": 406,
+				"readability": 85
+			},
+			"C1": {
+				"count": 391,
+				"readability": 93
+			},
+			"C2": {
+				"count": 278,
+				"readability": 99
+			}
+		}
+	}
+}
