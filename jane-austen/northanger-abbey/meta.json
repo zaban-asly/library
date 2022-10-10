@@ -1,1 +1,43 @@
-{"dir":"jane-austen/northanger-abbey","title":"Northanger Abbey","creator":"Jane Austen","description":"A young girl with an overactive imagination comes of age.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":36139,"uniqueWordsCount":4134,"ranks":{"highest":48365,"lowest":1},"levels":{"A1":{"count":460,"readability":60},"A2":{"count":445,"readability":72},"B1":{"count":721,"readability":83},"B2":{"count":908,"readability":92},"C1":{"count":850,"readability":97},"C2":{"count":563,"readability":100}}}}
+{
+	"dir": "jane-austen/northanger-abbey",
+	"title": "Northanger Abbey",
+	"creator": "Jane Austen",
+	"description": "A young girl with an overactive imagination comes of age.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 35964,
+		"uniqueWordsCount": 4365,
+		"ranks": {
+			"highest": 50187,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 486,
+				"readability": 58
+			},
+			"A2": {
+				"count": 450,
+				"readability": 70
+			},
+			"B1": {
+				"count": 745,
+				"readability": 81
+			},
+			"B2": {
+				"count": 944,
+				"readability": 91
+			},
+			"C1": {
+				"count": 893,
+				"readability": 97
+			},
+			"C2": {
+				"count": 622,
+				"readability": 100
+			}
+		}
+	}
+}
