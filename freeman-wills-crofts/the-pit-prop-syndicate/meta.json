@@ -1,1 +1,43 @@
-{"dir":"freeman-wills-crofts/the-pit-prop-syndicate","title":"The Pit-Prop Syndicate","creator":"Freeman Wills Crofts","description":"A British wine merchant on business in France stumbles across a syndicate with something to hide, and resolves to discover their secret.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":45989,"uniqueWordsCount":4622,"ranks":{"highest":47928,"lowest":1},"levels":{"A1":{"count":463,"readability":56},"A2":{"count":442,"readability":69},"B1":{"count":741,"readability":80},"B2":{"count":999,"readability":89},"C1":{"count":956,"readability":96},"C2":{"count":719,"readability":99}}}}
+{
+	"dir": "freeman-wills-crofts/the-pit-prop-syndicate",
+	"title": "The Pit-Prop Syndicate",
+	"creator": "Freeman Wills Crofts",
+	"description": "A British wine merchant on business in France stumbles across a syndicate with something to hide, and resolves to discover their secret.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 45876,
+		"uniqueWordsCount": 4816,
+		"ranks": {
+			"highest": 49733,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 486,
+				"readability": 54
+			},
+			"A2": {
+				"count": 451,
+				"readability": 67
+			},
+			"B1": {
+				"count": 754,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1018,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1009,
+				"readability": 95
+			},
+			"C2": {
+				"count": 756,
+				"readability": 99
+			}
+		}
+	}
+}
