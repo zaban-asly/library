@@ -1,1 +1,43 @@
-{"dir":"e-w-hornung/a-thief-in-the-night","title":"A Thief in the Night","creator":"E. W. Hornung","description":"The gentleman thief’s pal reminisces on past adventures in this third collection of A. J. Raffles stories.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":29343,"uniqueWordsCount":4787,"ranks":{"highest":50164,"lowest":1},"levels":{"A1":{"count":461,"readability":58},"A2":{"count":451,"readability":68},"B1":{"count":771,"readability":78},"B2":{"count":1043,"readability":89},"C1":{"count":977,"readability":95},"C2":{"count":767,"readability":99}}}}
+{
+	"dir": "e-w-hornung/a-thief-in-the-night",
+	"title": "A Thief in the Night",
+	"creator": "E. W. Hornung",
+	"description": "The gentleman thief’s pal reminisces on past adventures in this third collection of A. J. Raffles stories.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 29318,
+		"uniqueWordsCount": 5027,
+		"ranks": {
+			"highest": 52088,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 488,
+				"readability": 56
+			},
+			"A2": {
+				"count": 453,
+				"readability": 67
+			},
+			"B1": {
+				"count": 785,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1081,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1034,
+				"readability": 95
+			},
+			"C2": {
+				"count": 819,
+				"readability": 99
+			}
+		}
+	}
+}
