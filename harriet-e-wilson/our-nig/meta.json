@@ -1,1 +1,43 @@
-{"dir":"harriet-e-wilson/our-nig","title":"Our Nig","creator":"Harriet E. Wilson","description":"An autobiographical account of a young biracial girl abandoned by her parents and forced into servitude in the northern United States.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":12210,"uniqueWordsCount":2890,"ranks":{"highest":38569,"lowest":1},"levels":{"A1":{"count":445,"readability":55},"A2":{"count":373,"readability":67},"B1":{"count":545,"readability":81},"B2":{"count":597,"readability":90},"C1":{"count":533,"readability":96},"C2":{"count":320,"readability":100}}}}
+{
+	"dir": "harriet-e-wilson/our-nig",
+	"title": "Our Nig",
+	"creator": "Harriet E. Wilson",
+	"description": "An autobiographical account of a young biracial girl abandoned by her parents and forced into servitude in the northern United States.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 12187,
+		"uniqueWordsCount": 3030,
+		"ranks": {
+			"highest": 40051,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 470,
+				"readability": 53
+			},
+			"A2": {
+				"count": 381,
+				"readability": 65
+			},
+			"B1": {
+				"count": 558,
+				"readability": 79
+			},
+			"B2": {
+				"count": 627,
+				"readability": 89
+			},
+			"C1": {
+				"count": 554,
+				"readability": 96
+			},
+			"C2": {
+				"count": 348,
+				"readability": 100
+			}
+		}
+	}
+}
