@@ -1,1 +1,43 @@
-{"dir":"e-nesbit/the-phoenix-and-the-carpet","title":"The Phoenix and the Carpet","creator":"E. Nesbit","description":"Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":29909,"uniqueWordsCount":3707,"ranks":{"highest":49443,"lowest":1},"levels":{"A1":{"count":461,"readability":59},"A2":{"count":434,"readability":69},"B1":{"count":617,"readability":80},"B2":{"count":808,"readability":90},"C1":{"count":714,"readability":97},"C2":{"count":449,"readability":99}}}}
+{
+	"dir": "e-nesbit/the-phoenix-and-the-carpet",
+	"title": "The Phoenix and the Carpet",
+	"creator": "E. Nesbit",
+	"description": "Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 29850,
+		"uniqueWordsCount": 3935,
+		"ranks": {
+			"highest": 51343,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 488,
+				"readability": 57
+			},
+			"A2": {
+				"count": 439,
+				"readability": 68
+			},
+			"B1": {
+				"count": 642,
+				"readability": 79
+			},
+			"B2": {
+				"count": 836,
+				"readability": 89
+			},
+			"C1": {
+				"count": 781,
+				"readability": 96
+			},
+			"C2": {
+				"count": 498,
+				"readability": 99
+			}
+		}
+	}
+}
