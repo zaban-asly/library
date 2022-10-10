@@ -1,1 +1,43 @@
-{"dir":"thomas-hardy/the-mayor-of-casterbridge","title":"The Mayor of Casterbridge","creator":"Thomas Hardy","description":"Filled with remorse after abandoning his wife and baby daughter, Michael Henchard, an out-of-work hay-trusser, resolves to set his life on a better path.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":54824,"uniqueWordsCount":6842,"ranks":{"highest":50144,"lowest":1},"levels":{"A1":{"count":469,"readability":57},"A2":{"count":473,"readability":68},"B1":{"count":882,"readability":80},"B2":{"count":1321,"readability":88},"C1":{"count":1609,"readability":95},"C2":{"count":1395,"readability":99}}}}
+{
+	"dir": "thomas-hardy/the-mayor-of-casterbridge",
+	"title": "The Mayor of Casterbridge",
+	"creator": "Thomas Hardy",
+	"description": "Filled with remorse after abandoning his wife and baby daughter, Michael Henchard, an out-of-work hay-trusser, resolves to set his life on a better path.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 54653,
+		"uniqueWordsCount": 7150,
+		"ranks": {
+			"highest": 52068,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 55
+			},
+			"A2": {
+				"count": 474,
+				"readability": 66
+			},
+			"B1": {
+				"count": 898,
+				"readability": 78
+			},
+			"B2": {
+				"count": 1358,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1675,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1469,
+				"readability": 99
+			}
+		}
+	}
+}
