@@ -1,1 +1,43 @@
-{"dir":"h-g-wells/the-history-of-mr-polly","title":"The History of Mr. Polly","creator":"H. G. Wells","description":"A middle-aged man in early Edwardian England finds himself despairing at his failed business and marriage, and takes a drastic step to escape—with unexpected results.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":35006,"uniqueWordsCount":5861,"ranks":{"highest":50234,"lowest":1},"levels":{"A1":{"count":466,"readability":53},"A2":{"count":461,"readability":65},"B1":{"count":793,"readability":75},"B2":{"count":1216,"readability":85},"C1":{"count":1297,"readability":93},"C2":{"count":1033,"readability":98}}}}
+{
+	"dir": "h-g-wells/the-history-of-mr-polly",
+	"title": "The History of Mr. Polly",
+	"creator": "H. G. Wells",
+	"description": "A middle-aged man in early Edwardian England finds himself despairing at his failed business and marriage, and takes a drastic step to escape—with unexpected results.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 34963,
+		"uniqueWordsCount": 6115,
+		"ranks": {
+			"highest": 52159,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 52
+			},
+			"A2": {
+				"count": 463,
+				"readability": 63
+			},
+			"B1": {
+				"count": 810,
+				"readability": 74
+			},
+			"B2": {
+				"count": 1227,
+				"readability": 84
+			},
+			"C1": {
+				"count": 1368,
+				"readability": 93
+			},
+			"C2": {
+				"count": 1080,
+				"readability": 98
+			}
+		}
+	}
+}
