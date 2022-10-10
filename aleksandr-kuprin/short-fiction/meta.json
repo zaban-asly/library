@@ -1,1 +1,43 @@
-{"dir":"aleksandr-kuprin/short-fiction","title":"Short Fiction","creator":"Aleksandr Kuprin","description":"A collection of Aleksandr Kuprin’s translated short stories, ordered by date of publication.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":140201,"uniqueWordsCount":10248,"ranks":{"highest":50129,"lowest":1},"levels":{"A1":{"count":470,"readability":54},"A2":{"count":492,"readability":67},"B1":{"count":973,"readability":78},"B2":{"count":1768,"readability":88},"C1":{"count":2592,"readability":95},"C2":{"count":2548,"readability":99}}}}
+{
+	"dir": "aleksandr-kuprin/short-fiction",
+	"title": "Short Fiction",
+	"creator": "Aleksandr Kuprin",
+	"description": "A collection of Aleksandr Kuprin’s translated short stories, ordered by date of publication.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 140042,
+		"uniqueWordsCount": 10668,
+		"ranks": {
+			"highest": 52053,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 52
+			},
+			"A2": {
+				"count": 492,
+				"readability": 65
+			},
+			"B1": {
+				"count": 976,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1782,
+				"readability": 87
+			},
+			"C1": {
+				"count": 2674,
+				"readability": 95
+			},
+			"C2": {
+				"count": 2686,
+				"readability": 99
+			}
+		}
+	}
+}
