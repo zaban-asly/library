@@ -1,1 +1,43 @@
-{"dir":"thornton-w-burgess/green-meadow-stories","title":"Green Meadow Stories","creator":"Thornton W. Burgess","description":"A compilation of four distinct but entwined animal tales featuring the denizens of the Green Meadows.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":42923,"uniqueWordsCount":2201,"ranks":{"highest":43553,"lowest":1},"levels":{"A1":{"count":427,"readability":64},"A2":{"count":351,"readability":76},"B1":{"count":410,"readability":85},"B2":{"count":405,"readability":93},"C1":{"count":336,"readability":97},"C2":{"count":199,"readability":100}}}}
+{
+	"dir": "thornton-w-burgess/green-meadow-stories",
+	"title": "Green Meadow Stories",
+	"creator": "Thornton W. Burgess",
+	"description": "A compilation of four distinct but entwined animal tales featuring the denizens of the Green Meadows.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 42880,
+		"uniqueWordsCount": 2425,
+		"ranks": {
+			"highest": 45259,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 453,
+				"readability": 62
+			},
+			"A2": {
+				"count": 355,
+				"readability": 74
+			},
+			"B1": {
+				"count": 452,
+				"readability": 83
+			},
+			"B2": {
+				"count": 434,
+				"readability": 91
+			},
+			"C1": {
+				"count": 388,
+				"readability": 97
+			},
+			"C2": {
+				"count": 250,
+				"readability": 100
+			}
+		}
+	}
+}
