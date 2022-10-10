@@ -1,1 +1,43 @@
-{"dir":"maria-jack/the-time-trippers","title":"The Time Trippers","creator":"Maria Jack","description":"Matt Johnson woke up from the same nightmare again. He had not slept well for a month and a half. This dream haunting him is incredibly realistic. His parents are in the car. They look happy. They are talking about the upcoming vacation in the summer: two weeks in Florida - there they plan to visit Disney World. Suddenly the car loses control. The man is a very experienced driver, but even he cannot cope. Everything happens too fast. The big tree is ahead. Hit! One can hear the sound of crushing metal. After this, there is silence. Only the car is lying on its roof. Every night the boy wakes up screaming and cannot believe that this really happened. The parents died in that terrible accident. Now he is an orphan. The boy got out of the bed. He could not sleep anymore that night.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3911,"uniqueWordsCount":949,"ranks":{"highest":37488,"lowest":1},"levels":{"A1":{"count":323,"readability":60},"A2":{"count":159,"readability":75},"B1":{"count":153,"readability":83},"B2":{"count":147,"readability":91},"C1":{"count":91,"readability":96},"C2":{"count":51,"readability":99}}}}
+{
+	"dir": "maria-jack/the-time-trippers",
+	"title": "The Time Trippers",
+	"creator": "Maria Jack",
+	"description": "Matt Johnson woke up from the same nightmare again. He had not slept well for a month and a half. This dream haunting him is incredibly realistic. His parents are in the car. They look happy. They are talking about the upcoming vacation in the summer: two weeks in Florida - there they plan to visit Disney World. Suddenly the car loses control. The man is a very experienced driver, but even he cannot cope. Everything happens too fast. The big tree is ahead. Hit! One can hear the sound of crushing metal. After this, there is silence. Only the car is lying on its roof. Every night the boy wakes up screaming and cannot believe that this really happened. The parents died in that terrible accident. Now he is an orphan. The boy got out of the bed. He could not sleep anymore that night.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3944,
+		"uniqueWordsCount": 997,
+		"ranks": {
+			"highest": 38930,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 332,
+				"readability": 54
+			},
+			"A2": {
+				"count": 157,
+				"readability": 68
+			},
+			"B1": {
+				"count": 168,
+				"readability": 77
+			},
+			"B2": {
+				"count": 158,
+				"readability": 86
+			},
+			"C1": {
+				"count": 97,
+				"readability": 95
+			},
+			"C2": {
+				"count": 56,
+				"readability": 99
+			}
+		}
+	}
+}
