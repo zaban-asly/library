@@ -1,1 +1,43 @@
-{"dir":"phil-healey/stranger-than-fiction-urban-myths","title":"Stranger than Fiction Urban Myths","creator":"Phil Healey","description":"<p>The creators of this collection were just simple guys. They enjoyed collecting and retelling funny local tales. Later they started printing them in the \"Guardian\" - the famous London newspaper. The stories were quite strange and made the readers laugh. In ten years the authors chose the best tales and published a book \"Urban Myths\". The book became very popular. Nowadays you can hear these stories on the radio or TV. \"Urban Myths\" consists of many city stories. Their plot is similar to many stories which are in almost every city on the planet. But it's just a fiction. One can learn one and the same story in different countries. Only the characters will have absolutely various local names.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3609,"uniqueWordsCount":501,"ranks":{"highest":30952,"lowest":11},"levels":{"A1":{"count":248,"readability":70},"A2":{"count":85,"readability":84},"B1":{"count":74,"readability":92},"B2":{"count":52,"readability":97},"C1":{"count":24,"readability":99},"C2":{"count":10,"readability":100}}}}
+{
+	"dir": "phil-healey/stranger-than-fiction-urban-myths",
+	"title": "Stranger than Fiction Urban Myths",
+	"creator": "Phil Healey",
+	"description": "<p>The creators of this collection were just simple guys. They enjoyed collecting and retelling funny local tales. Later they started printing them in the \"Guardian\" - the famous London newspaper. The stories were quite strange and made the readers laugh. In ten years the authors chose the best tales and published a book \"Urban Myths\". The book became very popular. Nowadays you can hear these stories on the radio or TV. \"Urban Myths\" consists of many city stories. Their plot is similar to many stories which are in almost every city on the planet. But it's just a fiction. One can learn one and the same story in different countries. Only the characters will have absolutely various local names.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3610,
+		"uniqueWordsCount": 550,
+		"ranks": {
+			"highest": 33648,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 265,
+				"readability": 68
+			},
+			"A2": {
+				"count": 92,
+				"readability": 81
+			},
+			"B1": {
+				"count": 86,
+				"readability": 91
+			},
+			"B2": {
+				"count": 57,
+				"readability": 96
+			},
+			"C1": {
+				"count": 27,
+				"readability": 99
+			},
+			"C2": {
+				"count": 14,
+				"readability": 100
+			}
+		}
+	}
+}
