@@ -1,1 +1,43 @@
-{"dir":"m-r-james/rats","title":"Rats","creator":"M. R. James","description":"Everything happened in the city of Suffolk. The road went from the coast and climbed into the hills. A high mansion stood not far from the hill. It was built at the end of the eighteenth century. Behind the house there were other buildings and green gardens and in front of it there was a field of heather. Everybody could see the sea from it. Previously, this building was a popular hotel. And today it still accepts guests. Mr. Thomson came to this hotel. He was looking for a calm and pleasant environment to do his work. The man was the only guest, and the owner of the hotel and his wife kept the house clean. He was going to stay in the city for about a month: in the morning he would study, and in the evenings he would walk and communicate with the locals. During one of these walks, he saw something unusual.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":849,"uniqueWordsCount":375,"ranks":{"highest":24258,"lowest":11},"levels":{"A1":{"count":206,"readability":68},"A2":{"count":75,"readability":83},"B1":{"count":46,"readability":91},"B2":{"count":30,"readability":95},"C1":{"count":14,"readability":98},"C2":{"count":3,"readability":100}}}}
+{
+	"dir": "m-r-james/rats",
+	"title": "Rats",
+	"creator": "M. R. James",
+	"description": "Everything happened in the city of Suffolk. The road went from the coast and climbed into the hills. A high mansion stood not far from the hill. It was built at the end of the eighteenth century. Behind the house there were other buildings and green gardens and in front of it there was a field of heather. Everybody could see the sea from it. Previously, this building was a popular hotel. And today it still accepts guests. Mr. Thomson came to this hotel. He was looking for a calm and pleasant environment to do his work. The man was the only guest, and the owner of the hotel and his wife kept the house clean. He was going to stay in the city for about a month: in the morning he would study, and in the evenings he would walk and communicate with the locals. During one of these walks, he saw something unusual.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 849,
+		"uniqueWordsCount": 401,
+		"ranks": {
+			"highest": 25136,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 220,
+				"readability": 67
+			},
+			"A2": {
+				"count": 75,
+				"readability": 81
+			},
+			"B1": {
+				"count": 51,
+				"readability": 90
+			},
+			"B2": {
+				"count": 34,
+				"readability": 95
+			},
+			"C1": {
+				"count": 17,
+				"readability": 98
+			},
+			"C2": {
+				"count": 3,
+				"readability": 100
+			}
+		}
+	}
+}
