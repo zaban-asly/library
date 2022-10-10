@@ -1,1 +1,43 @@
-{"dir":"doris-lessing/the-grass-is-singing","title":"The Grass Is Singing","creator":"Doris Lessing","description":"<p>How had all this started? What sort of woman had Mary Turner been before she came to the farm and had been driven slowly crazy by heat, loneliness and poverty? He tried to think clearly, to get a picture of what had really happened.\nIn southern Africa in the 1940s, the whites are in control. They control through fear – and they must stay in control. So when a white woman is murdered by her black servant all the whites agree: the law must take its course. The case must be simple and quick – without too many questions.\nBut there are questions, and people are asking them. How did Mary Turner lose control? Why did the servant murder her? How could a servant even think of it?\nThe answers are not simple. They are as difficult and painful as Mary Turner’s life itself – a life in a place where she was never meant to be…</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":8127,"uniqueWordsCount":1207,"ranks":{"highest":39003,"lowest":1},"levels":{"A1":{"count":407,"readability":69},"A2":{"count":251,"readability":81},"B1":{"count":252,"readability":90},"B2":{"count":188,"readability":98},"C1":{"count":60,"readability":99},"C2":{"count":36,"readability":100}}}}
+{
+	"dir": "doris-lessing/the-grass-is-singing",
+	"title": "The Grass Is Singing",
+	"creator": "Doris Lessing",
+	"description": "<p>How had all this started? What sort of woman had Mary Turner been before she came to the farm and had been driven slowly crazy by heat, loneliness and poverty? He tried to think clearly, to get a picture of what had really happened.\nIn southern Africa in the 1940s, the whites are in control. They control through fear – and they must stay in control. So when a white woman is murdered by her black servant all the whites agree: the law must take its course. The case must be simple and quick – without too many questions.\nBut there are questions, and people are asking them. How did Mary Turner lose control? Why did the servant murder her? How could a servant even think of it?\nThe answers are not simple. They are as difficult and painful as Mary Turner’s life itself – a life in a place where she was never meant to be…</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 8117,
+		"uniqueWordsCount": 1308,
+		"ranks": {
+			"highest": 40494,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 438,
+				"readability": 67
+			},
+			"A2": {
+				"count": 255,
+				"readability": 79
+			},
+			"B1": {
+				"count": 285,
+				"readability": 90
+			},
+			"B2": {
+				"count": 205,
+				"readability": 97
+			},
+			"C1": {
+				"count": 74,
+				"readability": 99
+			},
+			"C2": {
+				"count": 38,
+				"readability": 100
+			}
+		}
+	}
+}
