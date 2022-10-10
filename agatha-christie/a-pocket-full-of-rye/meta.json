@@ -1,1 +1,43 @@
-{"dir":"agatha-christie/a-pocket-full-of-rye","title":"A Pocket Full of Rye","creator":"Agatha Christie","description":"A businessman dies while having a cup of traditional morning tea in his office. The results of the medical examination clearly indicate that he had been poisoned. Such kind of poison does not work right away, so according to the time of death the victim was poisoned at home during breakfast. The police found some rye grains in his pockets. The relatives did not love the businessman, so his death was beneficial to almost every member of this large family. The first suspect is his young wife. She is the main heiress of the fortune. The elder son recently quarreled with his father. His daughter-in-law could not stand him. The late businessman forbade his daughter to marry. And all at once, the youngest son arrives. Long time ago he broke the relationship with the father and lived in Africa with his wife. The youngest son says his father sent an unexpected letter with the intention of making peace.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":11925,"uniqueWordsCount":1552,"ranks":{"highest":36663,"lowest":1},"levels":{"A1":{"count":418,"readability":66},"A2":{"count":270,"readability":76},"B1":{"count":303,"readability":87},"B2":{"count":272,"readability":94},"C1":{"count":165,"readability":97},"C2":{"count":76,"readability":100}}}}
+{
+	"dir": "agatha-christie/a-pocket-full-of-rye",
+	"title": "A Pocket Full of Rye",
+	"creator": "Agatha Christie",
+	"description": "A businessman dies while having a cup of traditional morning tea in his office. The results of the medical examination clearly indicate that he had been poisoned. Such kind of poison does not work right away, so according to the time of death the victim was poisoned at home during breakfast. The police found some rye grains in his pockets. The relatives did not love the businessman, so his death was beneficial to almost every member of this large family. The first suspect is his young wife. She is the main heiress of the fortune. The elder son recently quarreled with his father. His daughter-in-law could not stand him. The late businessman forbade his daughter to marry. And all at once, the youngest son arrives. Long time ago he broke the relationship with the father and lived in Africa with his wife. The youngest son says his father sent an unexpected letter with the intention of making peace.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 11913,
+		"uniqueWordsCount": 1657,
+		"ranks": {
+			"highest": 38063,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 448,
+				"readability": 65
+			},
+			"A2": {
+				"count": 278,
+				"readability": 75
+			},
+			"B1": {
+				"count": 333,
+				"readability": 86
+			},
+			"B2": {
+				"count": 285,
+				"readability": 93
+			},
+			"C1": {
+				"count": 180,
+				"readability": 97
+			},
+			"C2": {
+				"count": 80,
+				"readability": 100
+			}
+		}
+	}
+}
