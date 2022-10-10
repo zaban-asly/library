@@ -1,1 +1,43 @@
-{"dir":"charlotte-bront/shirley","title":"Shirley","creator":"Charlotte Brontë","description":"In the early part of the 19th Century, two young women struggle in different ways for independence and love during turbulent times caused by the advent of mechanical looms in the textile industry.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":104356,"uniqueWordsCount":9355,"ranks":{"highest":49180,"lowest":1},"levels":{"A1":{"count":471,"readability":52},"A2":{"count":492,"readability":64},"B1":{"count":966,"readability":76},"B2":{"count":1680,"readability":88},"C1":{"count":2396,"readability":95},"C2":{"count":2301,"readability":99}}}}
+{
+	"dir": "charlotte-bront/shirley",
+	"title": "Shirley",
+	"creator": "Charlotte Brontë",
+	"description": "In the early part of the 19th Century, two young women struggle in different ways for independence and love during turbulent times caused by the advent of mechanical looms in the textile industry.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 104118,
+		"uniqueWordsCount": 9812,
+		"ranks": {
+			"highest": 51053,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 51
+			},
+			"A2": {
+				"count": 493,
+				"readability": 63
+			},
+			"B1": {
+				"count": 969,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1694,
+				"readability": 87
+			},
+			"C1": {
+				"count": 2476,
+				"readability": 94
+			},
+			"C2": {
+				"count": 2478,
+				"readability": 99
+			}
+		}
+	}
+}
