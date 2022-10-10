@@ -1,1 +1,43 @@
-{"dir":"gaston-leroux/the-phantom-of-the-opera","title":"The Phantom of the Opera","creator":"Gaston Leroux","description":"A mysterious presence terrorizes the Paris Opera.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":37510,"uniqueWordsCount":4239,"ranks":{"highest":45293,"lowest":1},"levels":{"A1":{"count":464,"readability":59},"A2":{"count":447,"readability":72},"B1":{"count":782,"readability":83},"B2":{"count":970,"readability":92},"C1":{"count":862,"readability":97},"C2":{"count":526,"readability":100}}}}
+{
+	"dir": "gaston-leroux/the-phantom-of-the-opera",
+	"title": "The Phantom of the Opera",
+	"creator": "Gaston Leroux",
+	"description": "A mysterious presence terrorizes the Paris Opera.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 37205,
+		"uniqueWordsCount": 4458,
+		"ranks": {
+			"highest": 46997,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 57
+			},
+			"A2": {
+				"count": 453,
+				"readability": 70
+			},
+			"B1": {
+				"count": 797,
+				"readability": 82
+			},
+			"B2": {
+				"count": 1009,
+				"readability": 92
+			},
+			"C1": {
+				"count": 917,
+				"readability": 97
+			},
+			"C2": {
+				"count": 575,
+				"readability": 99
+			}
+		}
+	}
+}
