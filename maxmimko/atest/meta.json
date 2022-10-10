@@ -1,1 +1,43 @@
-{"dir":"maxmimko/atest","title":"Atest","creator":"maxmimko","description":"","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":479,"uniqueWordsCount":207,"ranks":{"highest":22521,"lowest":11},"levels":{"A1":{"count":135,"readability":71},"A2":{"count":28,"readability":80},"B1":{"count":13,"readability":87},"B2":{"count":21,"readability":95},"C1":{"count":6,"readability":99},"C2":{"count":3,"readability":100}}}}
+{
+	"dir": "maxmimko/atest",
+	"title": "Atest",
+	"creator": "maxmimko",
+	"description": "",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 479,
+		"uniqueWordsCount": 208,
+		"ranks": {
+			"highest": 23308,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 134,
+				"readability": 70
+			},
+			"A2": {
+				"count": 25,
+				"readability": 79
+			},
+			"B1": {
+				"count": 18,
+				"readability": 87
+			},
+			"B2": {
+				"count": 20,
+				"readability": 94
+			},
+			"C1": {
+				"count": 6,
+				"readability": 98
+			},
+			"C2": {
+				"count": 4,
+				"readability": 100
+			}
+		}
+	}
+}
