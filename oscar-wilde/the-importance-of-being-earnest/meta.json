@@ -1,1 +1,43 @@
-{"dir":"oscar-wilde/the-importance-of-being-earnest","title":"The Importance of Being Earnest","creator":"Oscar Wilde","description":"The action of this comedy takes place in a large apartment in London and in a country estate. The reader meets a young man Algernon from an ancient aristocratic family. Now Algernon is sitting in the apartment and expecting his aunt, who is to come for tea soon. To kill time, he is talking with a footman named Lane. Both men are very fond of philosophizing without any reason. Suddenly his buddy Jack appears. This is a faithful opponent of Algernon in all disputes and endeavors, but at the same time a pleasant conversationalist. Both are tired of secular concerns and constant affairs. Algernon and Jack are extremely irresponsible egoists and like to accuse each other of infantility and frivolity. And these two gentlemen often gather together. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":8275,"uniqueWordsCount":1304,"ranks":{"highest":33157,"lowest":1},"levels":{"A1":{"count":397,"readability":65},"A2":{"count":230,"readability":76},"B1":{"count":233,"readability":87},"B2":{"count":229,"readability":93},"C1":{"count":137,"readability":97},"C2":{"count":55,"readability":99}}}}
+{
+	"dir": "oscar-wilde/the-importance-of-being-earnest",
+	"title": "The Importance of Being Earnest",
+	"creator": "Oscar Wilde",
+	"description": "The action of this comedy takes place in a large apartment in London and in a country estate. The reader meets a young man Algernon from an ancient aristocratic family. Now Algernon is sitting in the apartment and expecting his aunt, who is to come for tea soon. To kill time, he is talking with a footman named Lane. Both men are very fond of philosophizing without any reason. Suddenly his buddy Jack appears. This is a faithful opponent of Algernon in all disputes and endeavors, but at the same time a pleasant conversationalist. Both are tired of secular concerns and constant affairs. Algernon and Jack are extremely irresponsible egoists and like to accuse each other of infantility and frivolity. And these two gentlemen often gather together. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 8262,
+		"uniqueWordsCount": 1382,
+		"ranks": {
+			"highest": 47140,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 426,
+				"readability": 64
+			},
+			"A2": {
+				"count": 235,
+				"readability": 74
+			},
+			"B1": {
+				"count": 252,
+				"readability": 86
+			},
+			"B2": {
+				"count": 232,
+				"readability": 93
+			},
+			"C1": {
+				"count": 145,
+				"readability": 96
+			},
+			"C2": {
+				"count": 66,
+				"readability": 99
+			}
+		}
+	}
+}
