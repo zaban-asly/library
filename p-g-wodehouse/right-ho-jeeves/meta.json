@@ -1,1 +1,43 @@
-{"dir":"p-g-wodehouse/right-ho-jeeves","title":"Right Ho, Jeeves","creator":"P. G. Wodehouse","description":"Bertie Wooster and his valet Jeeves try their hand at matchmaking in upper-class England.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":34297,"uniqueWordsCount":5021,"ranks":{"highest":49831,"lowest":1},"levels":{"A1":{"count":462,"readability":57},"A2":{"count":449,"readability":68},"B1":{"count":752,"readability":78},"B2":{"count":1019,"readability":87},"C1":{"count":1017,"readability":94},"C2":{"count":805,"readability":98}}}}
+{
+	"dir": "p-g-wodehouse/right-ho-jeeves",
+	"title": "Right Ho, Jeeves",
+	"creator": "P. G. Wodehouse",
+	"description": "Bertie Wooster and his valet Jeeves try their hand at matchmaking in upper-class England.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 34220,
+		"uniqueWordsCount": 5259,
+		"ranks": {
+			"highest": 51745,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 488,
+				"readability": 55
+			},
+			"A2": {
+				"count": 450,
+				"readability": 67
+			},
+			"B1": {
+				"count": 771,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1048,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1060,
+				"readability": 93
+			},
+			"C2": {
+				"count": 860,
+				"readability": 98
+			}
+		}
+	}
+}

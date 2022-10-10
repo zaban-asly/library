@@ -1,5 +1,5 @@
 
-# Right Ho, Jeeves <kbd>v3.2.1</kbd>
+# Right Ho, Jeeves <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
