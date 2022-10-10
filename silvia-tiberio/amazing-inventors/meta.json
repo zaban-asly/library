@@ -1,1 +1,43 @@
-{"dir":"silvia-tiberio/amazing-inventors","title":"Amazing Inventors","creator":"SilviaTiberio","description":"Humanity is developing faster and faster. Technology does not stand still. But among millions of people, a few are always great. Those men who made the greatest discoveries of their time. Those men who changed the life of the entire planet. The stories of such people are in this book. Johannes Gutenberg invented the printing press. Louis Braille invented the typeface for the blind. It is still used today. Alexander Graham Bell designed the world's first telephone. Thomas Edison gave the world a light bulb. Thanks to Guglielmo Marconi we have wireless data transmission. John Logie Baird invented the first television. Now it is difficult to imagine our life without all these devices. Learn more about how the familiar modern world was created. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3360,"uniqueWordsCount":750,"ranks":{"highest":34267,"lowest":11},"levels":{"A1":{"count":270,"readability":56},"A2":{"count":124,"readability":68},"B1":{"count":112,"readability":79},"B2":{"count":105,"readability":89},"C1":{"count":64,"readability":94},"C2":{"count":48,"readability":98}}}}
+{
+	"dir": "silvia-tiberio/amazing-inventors",
+	"title": "Amazing Inventors",
+	"creator": "SilviaTiberio",
+	"description": "Humanity is developing faster and faster. Technology does not stand still. But among millions of people, a few are always great. Those men who made the greatest discoveries of their time. Those men who changed the life of the entire planet. The stories of such people are in this book. Johannes Gutenberg invented the printing press. Louis Braille invented the typeface for the blind. It is still used today. Alexander Graham Bell designed the world's first telephone. Thomas Edison gave the world a light bulb. Thanks to Guglielmo Marconi we have wireless data transmission. John Logie Baird invented the first television. Now it is difficult to imagine our life without all these devices. Learn more about how the familiar modern world was created. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3367,
+		"uniqueWordsCount": 804,
+		"ranks": {
+			"highest": 48711,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 289,
+				"readability": 54
+			},
+			"A2": {
+				"count": 125,
+				"readability": 65
+			},
+			"B1": {
+				"count": 125,
+				"readability": 77
+			},
+			"B2": {
+				"count": 112,
+				"readability": 88
+			},
+			"C1": {
+				"count": 67,
+				"readability": 94
+			},
+			"C2": {
+				"count": 51,
+				"readability": 98
+			}
+		}
+	}
+}
