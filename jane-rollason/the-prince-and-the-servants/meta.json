@@ -1,1 +1,43 @@
-{"dir":"jane-rollason/the-prince-and-the-servants","title":"The Prince and the Servants","creator":"Jane Rollason","description":"In olden times one far country was ruled by a lazy and greedy queen. She had a beautiful daughter. Many kings and princes wanted to marry her, but the queen always gave them difficult tasks. When the suitors for the princess were unable to cope with these ordeals - she killed them without mercy. This had been going on for a few years. She wanted her daughter to never get married. Prince Charles lived in a small poor country. When he heard about the princess, he told his father that he wanted to marry her. The king was against it.  In the world there were many other beautiful women. And the evil queen killed every groom. But the young prince got upset. He could not sleep and eat. Finally the King let him go on this dangerous mission.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":945,"uniqueWordsCount":253,"ranks":{"highest":8378,"lowest":11},"levels":{"A1":{"count":165,"readability":77},"A2":{"count":48,"readability":90},"B1":{"count":25,"readability":98},"B2":{"count":13,"readability":100},"C1":{"count":1,"readability":100},"C2":{"count":1,"readability":100}}}}
+{
+	"dir": "jane-rollason/the-prince-and-the-servants",
+	"title": "The Prince and the Servants",
+	"creator": "Jane Rollason",
+	"description": "In olden times one far country was ruled by a lazy and greedy queen. She had a beautiful daughter. Many kings and princes wanted to marry her, but the queen always gave them difficult tasks. When the suitors for the princess were unable to cope with these ordeals - she killed them without mercy. This had been going on for a few years. She wanted her daughter to never get married. Prince Charles lived in a small poor country. When he heard about the princess, he told his father that he wanted to marry her. The king was against it.  In the world there were many other beautiful women. And the evil queen killed every groom. But the young prince got upset. He could not sleep and eat. Finally the King let him go on this dangerous mission.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 945,
+		"uniqueWordsCount": 276,
+		"ranks": {
+			"highest": 15140,
+			"lowest": 2
+		},
+		"levels": {
+			"A1": {
+				"count": 174,
+				"readability": 76
+			},
+			"A2": {
+				"count": 45,
+				"readability": 87
+			},
+			"B1": {
+				"count": 37,
+				"readability": 97
+			},
+			"B2": {
+				"count": 14,
+				"readability": 100
+			},
+			"C1": {
+				"count": 3,
+				"readability": 100
+			},
+			"C2": {
+				"count": 3,
+				"readability": 100
+			}
+		}
+	}
+}
