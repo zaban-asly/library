@@ -1,1 +1,43 @@
-{"dir":"theodore-dreiser/an-american-tragedy","title":"An American Tragedy","creator":"Theodore Dreiser","description":"A young man in a relationship with a young woman decides he wants someone else, of a higher social class.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":161259,"uniqueWordsCount":8506,"ranks":{"highest":50307,"lowest":1},"levels":{"A1":{"count":467,"readability":59},"A2":{"count":480,"readability":70},"B1":{"count":925,"readability":81},"B2":{"count":1506,"readability":90},"C1":{"count":1923,"readability":96},"C2":{"count":1945,"readability":99}}}}
+{
+	"dir": "theodore-dreiser/an-american-tragedy",
+	"title": "An American Tragedy",
+	"creator": "Theodore Dreiser",
+	"description": "A young man in a relationship with a young woman decides he wants someone else, of a higher social class.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 160716,
+		"uniqueWordsCount": 8888,
+		"ranks": {
+			"highest": 52236,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 57
+			},
+			"A2": {
+				"count": 482,
+				"readability": 68
+			},
+			"B1": {
+				"count": 929,
+				"readability": 80
+			},
+			"B2": {
+				"count": 1537,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1999,
+				"readability": 96
+			},
+			"C2": {
+				"count": 2039,
+				"readability": 99
+			}
+		}
+	}
+}
