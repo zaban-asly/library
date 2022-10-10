@@ -1,1 +1,43 @@
-{"dir":"m-athar-tahir/the-inspector-of-schools","title":"The Inspector of Schools","creator":"M. Athar Tahir","description":"Every child has the right to education. He must have a big classroom where he can study. He must have good teachers and books. The government's duty is to take care of these necessary things. That is how it should be. But our world is not perfect and the inspector who checks schools knows about this. He arrived in this Pakistani village to check out the room and how the classes are being taught. He has to control the conditions and quality of the children's education. The Inspector has been holding this post for three years. He has been constantly travelling around the towns and villages of this region. Everywhere he faces the same problems: lack of books, lazy students, carefree people and teachers who work only for gifts and extra fees. But here he has one more difficult task. He cannot find the only school in this village. The Inspector wanders through the dirty streets and fields. The only local resident who he meets is also unable to help him.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1036,"uniqueWordsCount":413,"ranks":{"highest":26561,"lowest":1},"levels":{"A1":{"count":218,"readability":60},"A2":{"count":71,"readability":76},"B1":{"count":49,"readability":86},"B2":{"count":37,"readability":91},"C1":{"count":25,"readability":97},"C2":{"count":8,"readability":98}}}}
+{
+	"dir": "m-athar-tahir/the-inspector-of-schools",
+	"title": "The Inspector of Schools",
+	"creator": "M. Athar Tahir",
+	"description": "Every child has the right to education. He must have a big classroom where he can study. He must have good teachers and books. The government's duty is to take care of these necessary things. That is how it should be. But our world is not perfect and the inspector who checks schools knows about this. He arrived in this Pakistani village to check out the room and how the classes are being taught. He has to control the conditions and quality of the children's education. The Inspector has been holding this post for three years. He has been constantly travelling around the towns and villages of this region. Everywhere he faces the same problems: lack of books, lazy students, carefree people and teachers who work only for gifts and extra fees. But here he has one more difficult task. He cannot find the only school in this village. The Inspector wanders through the dirty streets and fields. The only local resident who he meets is also unable to help him.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1036,
+		"uniqueWordsCount": 442,
+		"ranks": {
+			"highest": 27538,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 230,
+				"readability": 58
+			},
+			"A2": {
+				"count": 69,
+				"readability": 74
+			},
+			"B1": {
+				"count": 61,
+				"readability": 86
+			},
+			"B2": {
+				"count": 41,
+				"readability": 90
+			},
+			"C1": {
+				"count": 28,
+				"readability": 97
+			},
+			"C2": {
+				"count": 8,
+				"readability": 98
+			}
+		}
+	}
+}
