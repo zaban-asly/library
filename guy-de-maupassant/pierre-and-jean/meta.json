@@ -1,1 +1,43 @@
-{"dir":"guy-de-maupassant/pierre-and-jean","title":"Pierre and Jean","creator":"Guy de Maupassant","description":"A doctor, jealous of his brother’s sudden wealth, starts questioning its provenance.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":22042,"uniqueWordsCount":3850,"ranks":{"highest":46581,"lowest":1},"levels":{"A1":{"count":460,"readability":59},"A2":{"count":427,"readability":70},"B1":{"count":697,"readability":80},"B2":{"count":868,"readability":91},"C1":{"count":755,"readability":96},"C2":{"count":486,"readability":99}}}}
+{
+	"dir": "guy-de-maupassant/pierre-and-jean",
+	"title": "Pierre and Jean",
+	"creator": "Guy de Maupassant",
+	"description": "A doctor, jealous of his brother’s sudden wealth, starts questioning its provenance.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 21989,
+		"uniqueWordsCount": 4039,
+		"ranks": {
+			"highest": 48336,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 488,
+				"readability": 57
+			},
+			"A2": {
+				"count": 432,
+				"readability": 68
+			},
+			"B1": {
+				"count": 721,
+				"readability": 79
+			},
+			"B2": {
+				"count": 897,
+				"readability": 90
+			},
+			"C1": {
+				"count": 820,
+				"readability": 96
+			},
+			"C2": {
+				"count": 504,
+				"readability": 99
+			}
+		}
+	}
+}
