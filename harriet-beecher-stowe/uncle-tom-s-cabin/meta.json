@@ -1,1 +1,43 @@
-{"dir":"harriet-beecher-stowe/uncle-tom-s-cabin","title":"Uncle Tom’s Cabin","creator":"Harriet Beecher Stowe","description":"The account of several slaves who are sold to new owners after their current owner experiences financial hardship.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":87613,"uniqueWordsCount":7229,"ranks":{"highest":48407,"lowest":1},"levels":{"A1":{"count":468,"readability":60},"A2":{"count":487,"readability":71},"B1":{"count":914,"readability":81},"B2":{"count":1516,"readability":90},"C1":{"count":1816,"readability":96},"C2":{"count":1465,"readability":100}}}}
+{
+	"dir": "harriet-beecher-stowe/uncle-tom-s-cabin",
+	"title": "Uncle Tom’s Cabin",
+	"creator": "Harriet Beecher Stowe",
+	"description": "The account of several slaves who are sold to new owners after their current owner experiences financial hardship.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 87506,
+		"uniqueWordsCount": 7595,
+		"ranks": {
+			"highest": 50233,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 58
+			},
+			"A2": {
+				"count": 487,
+				"readability": 69
+			},
+			"B1": {
+				"count": 923,
+				"readability": 80
+			},
+			"B2": {
+				"count": 1542,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1915,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1587,
+				"readability": 99
+			}
+		}
+	}
+}
