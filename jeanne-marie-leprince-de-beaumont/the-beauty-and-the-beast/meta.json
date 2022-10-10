@@ -1,1 +1,43 @@
-{"dir":"jeanne-marie-leprince-de-beaumont/the-beauty-and-the-beast","title":"The Beauty and the Beast","creator":"Jeanne Marie Leprince De Beaumont","description":"<p>It's a charming fairytale for the little ones. Once upon a time in the city by the sea lived a rich merchant with his big falimy. He had three sons and three daughters. One of the children, daughter Beauty, was very special. She had a kind heart and was so beautiful, that everybody loved her. One day when merchant went back home across the forest the weather got worse and he had lost his way. Suddenly the man had found a castle and hoped for survive there. The castle was empty, but he had found there a food, warm bed and clothes. The next day, when the weather got better, old merchant went out to the garden and took one most beautiful rose for his Beauty. It was a terrible mistake because it angered the owner of this castle. Now old man had to pay by his death.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1814,"uniqueWordsCount":358,"ranks":{"highest":32729,"lowest":11},"levels":{"A1":{"count":213,"readability":71},"A2":{"count":64,"readability":90},"B1":{"count":38,"readability":94},"B2":{"count":29,"readability":99},"C1":{"count":9,"readability":99},"C2":{"count":2,"readability":99}}}}
+{
+	"dir": "jeanne-marie-leprince-de-beaumont/the-beauty-and-the-beast",
+	"title": "The Beauty and the Beast",
+	"creator": "Jeanne Marie Leprince De Beaumont",
+	"description": "<p>It's a charming fairytale for the little ones. Once upon a time in the city by the sea lived a rich merchant with his big falimy. He had three sons and three daughters. One of the children, daughter Beauty, was very special. She had a kind heart and was so beautiful, that everybody loved her. One day when merchant went back home across the forest the weather got worse and he had lost his way. Suddenly the man had found a castle and hoped for survive there. The castle was empty, but he had found there a food, warm bed and clothes. The next day, when the weather got better, old merchant went out to the garden and took one most beautiful rose for his Beauty. It was a terrible mistake because it angered the owner of this castle. Now old man had to pay by his death.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1814,
+		"uniqueWordsCount": 366,
+		"ranks": {
+			"highest": 33976,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 215,
+				"readability": 70
+			},
+			"A2": {
+				"count": 58,
+				"readability": 89
+			},
+			"B1": {
+				"count": 49,
+				"readability": 95
+			},
+			"B2": {
+				"count": 27,
+				"readability": 99
+			},
+			"C1": {
+				"count": 12,
+				"readability": 99
+			},
+			"C2": {
+				"count": 2,
+				"readability": 99
+			}
+		}
+	}
+}
