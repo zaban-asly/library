@@ -1,1 +1,43 @@
-{"dir":"aldous-huxley/crome-yellow","title":"Crome Yellow","creator":"Aldous Huxley","description":"A young writer travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":29235,"uniqueWordsCount":5551,"ranks":{"highest":49212,"lowest":1},"levels":{"A1":{"count":463,"readability":51},"A2":{"count":460,"readability":63},"B1":{"count":803,"readability":75},"B2":{"count":1124,"readability":85},"C1":{"count":1211,"readability":93},"C2":{"count":930,"readability":98}}}}
+{
+	"dir": "aldous-huxley/crome-yellow",
+	"title": "Crome Yellow",
+	"creator": "Aldous Huxley",
+	"description": "A young writer travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 29195,
+		"uniqueWordsCount": 5776,
+		"ranks": {
+			"highest": 51091,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 50
+			},
+			"A2": {
+				"count": 465,
+				"readability": 62
+			},
+			"B1": {
+				"count": 815,
+				"readability": 74
+			},
+			"B2": {
+				"count": 1148,
+				"readability": 84
+			},
+			"C1": {
+				"count": 1264,
+				"readability": 93
+			},
+			"C2": {
+				"count": 972,
+				"readability": 98
+			}
+		}
+	}
+}
