@@ -1,1 +1,43 @@
-{"dir":"jenny-dooley/the-blue-scarab","title":"The Blue Scarab","creator":"Jenny Dooley","description":"Monica was walking down the streets in Cairo. She came to a fantastic place. It was a shop selling the presents. It had an exciting decor creating an Asian dream, some kind of an Arabian fairytale. The shop was full of different colourful things and perfect good. Strange, but the shop was empty. There were no customers and even salesmen. Monica found a necklace with a blue stone among the goods. A woman in red appeared from nowhere. She told Monica about the stone, which turned out to be an Egyptian scarab. The woman took the girl to another place outside the shop. She treated Monica to a cup of tea and told her the story of the stone. It was used for making the gods statues so it has a mystical strength. Monica felt tired. She fall asleep and saw her late father in a dream.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2579,"uniqueWordsCount":664,"ranks":{"highest":31967,"lowest":1},"levels":{"A1":{"count":309,"readability":67},"A2":{"count":120,"readability":79},"B1":{"count":100,"readability":87},"B2":{"count":76,"readability":92},"C1":{"count":27,"readability":96},"C2":{"count":17,"readability":99}}}}
+{
+	"dir": "jenny-dooley/the-blue-scarab",
+	"title": "The Blue Scarab",
+	"creator": "Jenny Dooley",
+	"description": "Monica was walking down the streets in Cairo. She came to a fantastic place. It was a shop selling the presents. It had an exciting decor creating an Asian dream, some kind of an Arabian fairytale. The shop was full of different colourful things and perfect good. Strange, but the shop was empty. There were no customers and even salesmen. Monica found a necklace with a blue stone among the goods. A woman in red appeared from nowhere. She told Monica about the stone, which turned out to be an Egyptian scarab. The woman took the girl to another place outside the shop. She treated Monica to a cup of tea and told her the story of the stone. It was used for making the gods statues so it has a mystical strength. Monica felt tired. She fall asleep and saw her late father in a dream.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2583,
+		"uniqueWordsCount": 720,
+		"ranks": {
+			"highest": 50502,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 330,
+				"readability": 66
+			},
+			"A2": {
+				"count": 123,
+				"readability": 77
+			},
+			"B1": {
+				"count": 117,
+				"readability": 86
+			},
+			"B2": {
+				"count": 82,
+				"readability": 92
+			},
+			"C1": {
+				"count": 28,
+				"readability": 94
+			},
+			"C2": {
+				"count": 20,
+				"readability": 99
+			}
+		}
+	}
+}
