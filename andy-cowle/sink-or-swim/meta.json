@@ -1,1 +1,43 @@
-{"dir":"andy-cowle/sink-or-swim","title":"Sink or Swim","creator":"Andy Cowle","description":"Eddie was slowly drinking champagne. He was standing on the deck of a cruise liner, looking at the waves overboard. The evening was wonderful. There were no more people around. Eddie admired how such a huge and massive ship could move at high speed. The vessel was comfortable and beautiful. Eddie looked at the outlines of the island, which dissolved in the dark. The man threw a glass into the sea. Soon his wife came to the deck. She looked great and the couple began to flirt, as at the beginning of dating. They agreed to go to a restaurant together. It was very crowded. It was hot, but the place turned out to be very pleasant and hospitable. The musicians were playing instruments in the corner, the lighting created a comfortable atmosphere. Several couples were dancing. The visitors were dressed in tuxedos and dresses.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":9752,"uniqueWordsCount":1740,"ranks":{"highest":42475,"lowest":1},"levels":{"A1":{"count":414,"readability":64},"A2":{"count":265,"readability":74},"B1":{"count":318,"readability":83},"B2":{"count":329,"readability":91},"C1":{"count":212,"readability":95},"C2":{"count":125,"readability":99}}}}
+{
+	"dir": "andy-cowle/sink-or-swim",
+	"title": "Sink or Swim",
+	"creator": "Andy Cowle",
+	"description": "Eddie was slowly drinking champagne. He was standing on the deck of a cruise liner, looking at the waves overboard. The evening was wonderful. There were no more people around. Eddie admired how such a huge and massive ship could move at high speed. The vessel was comfortable and beautiful. Eddie looked at the outlines of the island, which dissolved in the dark. The man threw a glass into the sea. Soon his wife came to the deck. She looked great and the couple began to flirt, as at the beginning of dating. They agreed to go to a restaurant together. It was very crowded. It was hot, but the place turned out to be very pleasant and hospitable. The musicians were playing instruments in the corner, the lighting created a comfortable atmosphere. Several couples were dancing. The visitors were dressed in tuxedos and dresses.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 9779,
+		"uniqueWordsCount": 1872,
+		"ranks": {
+			"highest": 47905,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 438,
+				"readability": 62
+			},
+			"A2": {
+				"count": 267,
+				"readability": 72
+			},
+			"B1": {
+				"count": 348,
+				"readability": 81
+			},
+			"B2": {
+				"count": 343,
+				"readability": 89
+			},
+			"C1": {
+				"count": 232,
+				"readability": 94
+			},
+			"C2": {
+				"count": 139,
+				"readability": 98
+			}
+		}
+	}
+}
