@@ -1,1 +1,43 @@
-{"dir":"clemen-d-b-gina/the-american-west","title":"The American West","creator":"Clemen D. B. Gina","description":"How did the history of America begin? Did it start from the settlers who came to the Indian tribes? No, everything started much earlier. The Indians arrived from another land about 40 000 years ago! They crossed  the sea and settled in America. The contacts with more civilized nations brought Indians weapons, new knowledge about agriculture and a lot of dangerous diseases from which the entire tribes died. Immerse yourself in this interesting time and learn more than can be seen in the films about the Wild West. In reality, everything was much more complicated. Find out the names of the most famous Indian leaders and ancient explorers, learn more about the key moments that have changed the history of the whole world.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1083,"uniqueWordsCount":390,"ranks":{"highest":37860,"lowest":11},"levels":{"A1":{"count":158,"readability":43},"A2":{"count":58,"readability":57},"B1":{"count":47,"readability":71},"B2":{"count":56,"readability":82},"C1":{"count":28,"readability":92},"C2":{"count":21,"readability":97}}}}
+{
+	"dir": "clemen-d-b-gina/the-american-west",
+	"title": "The American West",
+	"creator": "Clemen D. B. Gina",
+	"description": "How did the history of America begin? Did it start from the settlers who came to the Indian tribes? No, everything started much earlier. The Indians arrived from another land about 40 000 years ago! They crossed  the sea and settled in America. The contacts with more civilized nations brought Indians weapons, new knowledge about agriculture and a lot of dangerous diseases from which the entire tribes died. Immerse yourself in this interesting time and learn more than can be seen in the films about the Wild West. In reality, everything was much more complicated. Find out the names of the most famous Indian leaders and ancient explorers, learn more about the key moments that have changed the history of the whole world.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1090,
+		"uniqueWordsCount": 406,
+		"ranks": {
+			"highest": 42293,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 160,
+				"readability": 40
+			},
+			"A2": {
+				"count": 60,
+				"readability": 55
+			},
+			"B1": {
+				"count": 56,
+				"readability": 70
+			},
+			"B2": {
+				"count": 52,
+				"readability": 81
+			},
+			"C1": {
+				"count": 30,
+				"readability": 90
+			},
+			"C2": {
+				"count": 22,
+				"readability": 96
+			}
+		}
+	}
+}
