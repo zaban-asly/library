@@ -1,1 +1,43 @@
-{"dir":"upton-sinclair/the-jungle","title":"The Jungle","creator":"Upton Sinclair","description":"A working-class Lithuanian immigrant family’s struggle to make a living in the turn-of-the-century Chicago stockyards.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":69165,"uniqueWordsCount":6352,"ranks":{"highest":49690,"lowest":1},"levels":{"A1":{"count":470,"readability":59},"A2":{"count":482,"readability":70},"B1":{"count":873,"readability":80},"B2":{"count":1372,"readability":90},"C1":{"count":1452,"readability":96},"C2":{"count":1126,"readability":99}}}}
+{
+	"dir": "upton-sinclair/the-jungle",
+	"title": "The Jungle",
+	"creator": "Upton Sinclair",
+	"description": "A working-class Lithuanian immigrant family’s struggle to make a living in the turn-of-the-century Chicago stockyards.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 69008,
+		"uniqueWordsCount": 6650,
+		"ranks": {
+			"highest": 51603,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 56
+			},
+			"A2": {
+				"count": 481,
+				"readability": 68
+			},
+			"B1": {
+				"count": 890,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1394,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1543,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1201,
+				"readability": 99
+			}
+		}
+	}
+}
