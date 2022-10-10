@@ -1,1 +1,43 @@
-{"dir":"agatha-christie/poirot-investigates","title":"Poirot Investigates","creator":"Agatha Christie","description":"Poirot and his companion Hastings investigate and solve a series of mysteries.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":25157,"uniqueWordsCount":4067,"ranks":{"highest":49841,"lowest":1},"levels":{"A1":{"count":463,"readability":55},"A2":{"count":439,"readability":68},"B1":{"count":747,"readability":80},"B2":{"count":931,"readability":89},"C1":{"count":724,"readability":96},"C2":{"count":532,"readability":99}}}}
+{
+	"dir": "agatha-christie/poirot-investigates",
+	"title": "Poirot Investigates",
+	"creator": "Agatha Christie",
+	"description": "Poirot and his companion Hastings investigate and solve a series of mysteries.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 25104,
+		"uniqueWordsCount": 4232,
+		"ranks": {
+			"highest": 51755,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 53
+			},
+			"A2": {
+				"count": 446,
+				"readability": 66
+			},
+			"B1": {
+				"count": 758,
+				"readability": 79
+			},
+			"B2": {
+				"count": 961,
+				"readability": 89
+			},
+			"C1": {
+				"count": 750,
+				"readability": 95
+			},
+			"C2": {
+				"count": 562,
+				"readability": 99
+			}
+		}
+	}
+}
