@@ -1,1 +1,43 @@
-{"dir":"tod-collins/the-festive-season-in-a-part-of-africa","title":"The Festive Season in a Part of Africa","creator":"Tod Collins","description":"A poor African farmer has a very hard life. She has only one thin cow and is obliged to ensure that the cow is not ill and feels good. If it gets sick, she will have to call a vet for it. This will cost a lot of money. But the farmer still will have to call a vet, because the death of this cow will be a huge tragedy for a poor person. A few days after Christmas, the vet goes to the next call. The woman and her son are waiting for the doctor: their cow was to give birth to a calf two days ago, but this did not happen. So the doctor and the woman are driving along the broken roads to reach the farm on the outskirts of the town. They barely arrive at their destination place and get out of the car. Five minutes later, they walk out to the neat white house. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":422,"uniqueWordsCount":224,"ranks":{"highest":28352,"lowest":11},"levels":{"A1":{"count":135,"readability":64},"A2":{"count":30,"readability":75},"B1":{"count":18,"readability":81},"B2":{"count":20,"readability":90},"C1":{"count":10,"readability":96},"C2":{"count":8,"readability":99}}}}
+{
+	"dir": "tod-collins/the-festive-season-in-a-part-of-africa",
+	"title": "The Festive Season in a Part of Africa",
+	"creator": "Tod Collins",
+	"description": "A poor African farmer has a very hard life. She has only one thin cow and is obliged to ensure that the cow is not ill and feels good. If it gets sick, she will have to call a vet for it. This will cost a lot of money. But the farmer still will have to call a vet, because the death of this cow will be a huge tragedy for a poor person. A few days after Christmas, the vet goes to the next call. The woman and her son are waiting for the doctor: their cow was to give birth to a calf two days ago, but this did not happen. So the doctor and the woman are driving along the broken roads to reach the farm on the outskirts of the town. They barely arrive at their destination place and get out of the car. Five minutes later, they walk out to the neat white house. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 427,
+		"uniqueWordsCount": 241,
+		"ranks": {
+			"highest": 29402,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 141,
+				"readability": 61
+			},
+			"A2": {
+				"count": 32,
+				"readability": 71
+			},
+			"B1": {
+				"count": 26,
+				"readability": 80
+			},
+			"B2": {
+				"count": 20,
+				"readability": 89
+			},
+			"C1": {
+				"count": 11,
+				"readability": 96
+			},
+			"C2": {
+				"count": 7,
+				"readability": 99
+			}
+		}
+	}
+}
