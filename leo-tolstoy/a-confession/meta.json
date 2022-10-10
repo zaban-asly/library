@@ -1,1 +1,43 @@
-{"dir":"leo-tolstoy/a-confession","title":"A Confession","creator":"Leo Tolstoy","description":"A brief meditation on depression, philosophy, religion, and the meaning of life.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":11462,"uniqueWordsCount":2144,"ranks":{"highest":44032,"lowest":1},"levels":{"A1":{"count":404,"readability":57},"A2":{"count":298,"readability":70},"B1":{"count":417,"readability":82},"B2":{"count":377,"readability":90},"C1":{"count":343,"readability":96},"C2":{"count":227,"readability":99}}}}
+{
+	"dir": "leo-tolstoy/a-confession",
+	"title": "A Confession",
+	"creator": "Leo Tolstoy",
+	"description": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 11440,
+		"uniqueWordsCount": 2270,
+		"ranks": {
+			"highest": 45693,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 430,
+				"readability": 55
+			},
+			"A2": {
+				"count": 309,
+				"readability": 68
+			},
+			"B1": {
+				"count": 427,
+				"readability": 80
+			},
+			"B2": {
+				"count": 399,
+				"readability": 89
+			},
+			"C1": {
+				"count": 364,
+				"readability": 96
+			},
+			"C2": {
+				"count": 245,
+				"readability": 99
+			}
+		}
+	}
+}
