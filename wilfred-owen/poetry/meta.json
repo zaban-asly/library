@@ -1,1 +1,43 @@
-{"dir":"wilfred-owen/poetry","title":"Poetry","creator":"Wilfred Owen","description":"A collection of Wilfred Owen’s published poems.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3641,"uniqueWordsCount":1612,"ranks":{"highest":47377,"lowest":1},"levels":{"A1":{"count":358,"readability":50},"A2":{"count":204,"readability":62},"B1":{"count":267,"readability":73},"B2":{"count":280,"readability":84},"C1":{"count":266,"readability":93},"C2":{"count":155,"readability":98}}}}
+{
+	"dir": "wilfred-owen/poetry",
+	"title": "Poetry",
+	"creator": "Wilfred Owen",
+	"description": "A collection of Wilfred Owen’s published poems.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3636,
+		"uniqueWordsCount": 1706,
+		"ranks": {
+			"highest": 49158,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 380,
+				"readability": 48
+			},
+			"A2": {
+				"count": 204,
+				"readability": 59
+			},
+			"B1": {
+				"count": 280,
+				"readability": 71
+			},
+			"B2": {
+				"count": 299,
+				"readability": 83
+			},
+			"C1": {
+				"count": 282,
+				"readability": 92
+			},
+			"C2": {
+				"count": 172,
+				"readability": 98
+			}
+		}
+	}
+}
