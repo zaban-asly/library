@@ -1,1 +1,43 @@
-{"dir":"dewey-gram/dante-s-peak","title":"Dante's Peak","creator":"Dewey Gram","description":"<p>This is a catastrophe book with a very dynamic plot, which will keep you in suspense till the very end. The events take place in the city, which is situated near the volcano Dante`s Peak. The city has always been considered as one of the most safe and picturesque places. At least, the young mayor assured everybody in this. However, when Harry Dalton came to this city, she had to doubt about it. Harry Dalton is an experienced scientist-volcanologist. He lost his wife during the volcanic eruption. Nowadays volcanoes are his routine work. Harry Dalton came to this city with one aim – studying of the seismic activity. Gradually he finds the signs of the future volcanic eruption. It may lead to the end to the world. Unfortunately, nobody wants to listen to him…</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3991,"uniqueWordsCount":436,"ranks":{"highest":29709,"lowest":1},"levels":{"A1":{"count":238,"readability":65},"A2":{"count":66,"readability":74},"B1":{"count":53,"readability":80},"B2":{"count":33,"readability":90},"C1":{"count":25,"readability":97},"C2":{"count":15,"readability":99}}}}
+{
+	"dir": "dewey-gram/dante-s-peak",
+	"title": "Dante's Peak",
+	"creator": "Dewey Gram",
+	"description": "<p>This is a catastrophe book with a very dynamic plot, which will keep you in suspense till the very end. The events take place in the city, which is situated near the volcano Dante`s Peak. The city has always been considered as one of the most safe and picturesque places. At least, the young mayor assured everybody in this. However, when Harry Dalton came to this city, she had to doubt about it. Harry Dalton is an experienced scientist-volcanologist. He lost his wife during the volcanic eruption. Nowadays volcanoes are his routine work. Harry Dalton came to this city with one aim – studying of the seismic activity. Gradually he finds the signs of the future volcanic eruption. It may lead to the end to the world. Unfortunately, nobody wants to listen to him…</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3995,
+		"uniqueWordsCount": 485,
+		"ranks": {
+			"highest": 30822,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 257,
+				"readability": 63
+			},
+			"A2": {
+				"count": 68,
+				"readability": 72
+			},
+			"B1": {
+				"count": 69,
+				"readability": 80
+			},
+			"B2": {
+				"count": 37,
+				"readability": 90
+			},
+			"C1": {
+				"count": 31,
+				"readability": 97
+			},
+			"C2": {
+				"count": 15,
+				"readability": 99
+			}
+		}
+	}
+}
