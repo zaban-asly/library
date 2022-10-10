@@ -1,1 +1,43 @@
-{"dir":"andre-norton/star-born","title":"Star Born","creator":"Andre Norton","description":"Two human protagonists find themselves on opposite sides of an inter-species war.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":30217,"uniqueWordsCount":4131,"ranks":{"highest":50279,"lowest":1},"levels":{"A1":{"count":435,"readability":52},"A2":{"count":408,"readability":64},"B1":{"count":631,"readability":75},"B2":{"count":867,"readability":87},"C1":{"count":880,"readability":95},"C2":{"count":581,"readability":99}}}}
+{
+	"dir": "andre-norton/star-born",
+	"title": "Star Born",
+	"creator": "Andre Norton",
+	"description": "Two human protagonists find themselves on opposite sides of an inter-species war.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 30181,
+		"uniqueWordsCount": 4352,
+		"ranks": {
+			"highest": 52208,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 461,
+				"readability": 49
+			},
+			"A2": {
+				"count": 418,
+				"readability": 62
+			},
+			"B1": {
+				"count": 637,
+				"readability": 74
+			},
+			"B2": {
+				"count": 907,
+				"readability": 86
+			},
+			"C1": {
+				"count": 948,
+				"readability": 94
+			},
+			"C2": {
+				"count": 615,
+				"readability": 99
+			}
+		}
+	}
+}
