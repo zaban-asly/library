@@ -1,1 +1,43 @@
-{"dir":"thomas-paine/the-american-crisis","title":"The American Crisis","creator":"Thomas Paine","description":"A collection of articles written during the American Revolutionary War that outline Paine’s support for a self-governing America.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":37062,"uniqueWordsCount":4644,"ranks":{"highest":48800,"lowest":1},"levels":{"A1":{"count":452,"readability":46},"A2":{"count":413,"readability":60},"B1":{"count":733,"readability":75},"B2":{"count":976,"readability":88},"C1":{"count":1023,"readability":96},"C2":{"count":777,"readability":99}}}}
+{
+	"dir": "thomas-paine/the-american-crisis",
+	"title": "The American Crisis",
+	"creator": "Thomas Paine",
+	"description": "A collection of articles written during the American Revolutionary War that outline Paine’s support for a self-governing America.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 36965,
+		"uniqueWordsCount": 4851,
+		"ranks": {
+			"highest": 50648,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 476,
+				"readability": 45
+			},
+			"A2": {
+				"count": 414,
+				"readability": 59
+			},
+			"B1": {
+				"count": 739,
+				"readability": 74
+			},
+			"B2": {
+				"count": 1004,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1064,
+				"readability": 95
+			},
+			"C2": {
+				"count": 839,
+				"readability": 99
+			}
+		}
+	}
+}
