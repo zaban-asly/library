@@ -1,1 +1,43 @@
-{"dir":"stephen-king/the-method-of-breathing","title":"The Method of Breathing","creator":"Stephen King","description":"","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":12175,"uniqueWordsCount":2826,"ranks":{"highest":43626,"lowest":1},"levels":{"A1":{"count":437,"readability":59},"A2":{"count":348,"readability":68},"B1":{"count":470,"readability":80},"B2":{"count":568,"readability":88},"C1":{"count":453,"readability":94},"C2":{"count":327,"readability":98}}}}
+{
+	"dir": "stephen-king/the-method-of-breathing",
+	"title": "The Method of Breathing",
+	"creator": "Stephen King",
+	"description": "",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 12215,
+		"uniqueWordsCount": 2995,
+		"ranks": {
+			"highest": 52169,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 466,
+				"readability": 57
+			},
+			"A2": {
+				"count": 351,
+				"readability": 66
+			},
+			"B1": {
+				"count": 488,
+				"readability": 78
+			},
+			"B2": {
+				"count": 585,
+				"readability": 87
+			},
+			"C1": {
+				"count": 482,
+				"readability": 93
+			},
+			"C2": {
+				"count": 343,
+				"readability": 98
+			}
+		}
+	}
+}
