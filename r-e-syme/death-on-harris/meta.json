@@ -1,1 +1,43 @@
-{"dir":"r-e-syme/death-on-harris","title":"Death on Harris","creator":"R. E. Syme","description":"<p>Angus Flemming came back home because his mother asked him. He hardly ever visited her, though she had never complained. His elder brother and sister often visit their mother. That's why Angus felt guilty. Angus is the youngest child in his family. He used to get away with anything. He lives in Edinburgh now. Angus is a writer who is famous for his crime stories. His girlfriend Susi and best friend Ross are both police officers. They overcame some criminal adventure that changed Angus a lot. (You can read about it in the previous story about Angus \"Death in Edinburg\"). There, in Tarbet on Harris, the writer remembered his childhood, the school years and his friends. The town hadn't changed at all. But his friends left it looking for better life. Everybody, except Stuart – his schoolmate. Stuart's father died the day before Angus arrived. The writer decided to support his friend in such hard times. </p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":4148,"uniqueWordsCount":1152,"ranks":{"highest":43269,"lowest":1},"levels":{"A1":{"count":363,"readability":60},"A2":{"count":191,"readability":73},"B1":{"count":193,"readability":80},"B2":{"count":168,"readability":88},"C1":{"count":141,"readability":96},"C2":{"count":65,"readability":100}}}}
+{
+	"dir": "r-e-syme/death-on-harris",
+	"title": "Death on Harris",
+	"creator": "R. E. Syme",
+	"description": "<p>Angus Flemming came back home because his mother asked him. He hardly ever visited her, though she had never complained. His elder brother and sister often visit their mother. That's why Angus felt guilty. Angus is the youngest child in his family. He used to get away with anything. He lives in Edinburgh now. Angus is a writer who is famous for his crime stories. His girlfriend Susi and best friend Ross are both police officers. They overcame some criminal adventure that changed Angus a lot. (You can read about it in the previous story about Angus \"Death in Edinburg\"). There, in Tarbet on Harris, the writer remembered his childhood, the school years and his friends. The town hadn't changed at all. But his friends left it looking for better life. Everybody, except Stuart – his schoolmate. Stuart's father died the day before Angus arrived. The writer decided to support his friend in such hard times. </p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 4145,
+		"uniqueWordsCount": 1235,
+		"ranks": {
+			"highest": 48294,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 391,
+				"readability": 58
+			},
+			"A2": {
+				"count": 199,
+				"readability": 71
+			},
+			"B1": {
+				"count": 206,
+				"readability": 79
+			},
+			"B2": {
+				"count": 179,
+				"readability": 88
+			},
+			"C1": {
+				"count": 147,
+				"readability": 93
+			},
+			"C2": {
+				"count": 75,
+				"readability": 99
+			}
+		}
+	}
+}
