@@ -1,1 +1,43 @@
-{"dir":"arthur-conan-doyle/the-memoirs-of-sherlock-holmes","title":"The Memoirs of Sherlock Holmes","creator":"Arthur Conan Doyle","description":"The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":43516,"uniqueWordsCount":5159,"ranks":{"highest":48066,"lowest":1},"levels":{"A1":{"count":466,"readability":59},"A2":{"count":478,"readability":71},"B1":{"count":826,"readability":83},"B2":{"count":1181,"readability":92},"C1":{"count":1120,"readability":97},"C2":{"count":789,"readability":100}}}}
+{
+	"dir": "arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
+	"title": "The Memoirs of Sherlock Holmes",
+	"creator": "Arthur Conan Doyle",
+	"description": "The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 43447,
+		"uniqueWordsCount": 5406,
+		"ranks": {
+			"highest": 49873,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 57
+			},
+			"A2": {
+				"count": 481,
+				"readability": 69
+			},
+			"B1": {
+				"count": 848,
+				"readability": 82
+			},
+			"B2": {
+				"count": 1197,
+				"readability": 91
+			},
+			"C1": {
+				"count": 1181,
+				"readability": 96
+			},
+			"C2": {
+				"count": 864,
+				"readability": 99
+			}
+		}
+	}
+}
