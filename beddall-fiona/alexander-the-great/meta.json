@@ -1,1 +1,43 @@
-{"dir":"beddall-fiona/alexander-the-great","title":"Alexander the Great","creator":"Beddall Fiona","description":"<p>Alexander the Great is the greatest conqueror of all time. His father was king Philip II and his mother was Olympias, the daughter of king Neoptolemus I of Epirus. When Alexander was 13, Aristotle became his tutor. The philosopher awakened the idea of greatness, power and intellectual rigor in his pupil. Aristotle taught him how to demonstrate the force moderately and consciously. Alexander treated his teacher with admiration and respect. He often said that he owed life to his father and a decent life to Aristotle. Achilles – the hero of the Trojan War was the ideal for Alexander. Alexander had no equal rivals in all competitions. When he was a boy, he tamed a wild horse named Bucephalus, who later served him in many battles.  </p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":7745,"uniqueWordsCount":1333,"ranks":{"highest":48336,"lowest":1},"levels":{"A1":{"count":386,"readability":52},"A2":{"count":230,"readability":66},"B1":{"count":243,"readability":78},"B2":{"count":204,"readability":90},"C1":{"count":97,"readability":94},"C2":{"count":87,"readability":97}}}}
+{
+	"dir": "beddall-fiona/alexander-the-great",
+	"title": "Alexander the Great",
+	"creator": "Beddall Fiona",
+	"description": "<p>Alexander the Great is the greatest conqueror of all time. His father was king Philip II and his mother was Olympias, the daughter of king Neoptolemus I of Epirus. When Alexander was 13, Aristotle became his tutor. The philosopher awakened the idea of greatness, power and intellectual rigor in his pupil. Aristotle taught him how to demonstrate the force moderately and consciously. Alexander treated his teacher with admiration and respect. He often said that he owed life to his father and a decent life to Aristotle. Achilles – the hero of the Trojan War was the ideal for Alexander. Alexander had no equal rivals in all competitions. When he was a boy, he tamed a wild horse named Bucephalus, who later served him in many battles.  </p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 7741,
+		"uniqueWordsCount": 1435,
+		"ranks": {
+			"highest": 50159,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 406,
+				"readability": 49
+			},
+			"A2": {
+				"count": 236,
+				"readability": 64
+			},
+			"B1": {
+				"count": 274,
+				"readability": 77
+			},
+			"B2": {
+				"count": 219,
+				"readability": 89
+			},
+			"C1": {
+				"count": 115,
+				"readability": 94
+			},
+			"C2": {
+				"count": 96,
+				"readability": 97
+			}
+		}
+	}
+}
