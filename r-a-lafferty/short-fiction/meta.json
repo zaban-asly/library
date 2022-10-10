@@ -1,1 +1,43 @@
-{"dir":"r-a-lafferty/short-fiction","title":"Short Fiction","creator":"R. A. Lafferty","description":"A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":17437,"uniqueWordsCount":3711,"ranks":{"highest":50067,"lowest":1},"levels":{"A1":{"count":453,"readability":58},"A2":{"count":395,"readability":67},"B1":{"count":577,"readability":78},"B2":{"count":696,"readability":86},"C1":{"count":633,"readability":92},"C2":{"count":521,"readability":97}}}}
+{
+	"dir": "r-a-lafferty/short-fiction",
+	"title": "Short Fiction",
+	"creator": "R. A. Lafferty",
+	"description": "A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 17408,
+		"uniqueWordsCount": 3875,
+		"ranks": {
+			"highest": 51990,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 484,
+				"readability": 56
+			},
+			"A2": {
+				"count": 396,
+				"readability": 66
+			},
+			"B1": {
+				"count": 606,
+				"readability": 77
+			},
+			"B2": {
+				"count": 717,
+				"readability": 85
+			},
+			"C1": {
+				"count": 662,
+				"readability": 92
+			},
+			"C2": {
+				"count": 548,
+				"readability": 97
+			}
+		}
+	}
+}
