@@ -1,1 +1,43 @@
-{"dir":"auguste-comte/a-general-view-of-positivism","title":"A General View of Positivism","creator":"Auguste Comte","description":"A brief overview of the goals and methods of the Positivist philosophical movement.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":66955,"uniqueWordsCount":4423,"ranks":{"highest":48526,"lowest":1},"levels":{"A1":{"count":396,"readability":39},"A2":{"count":326,"readability":53},"B1":{"count":598,"readability":70},"B2":{"count":765,"readability":84},"C1":{"count":986,"readability":93},"C2":{"count":926,"readability":99}}}}
+{
+	"dir": "auguste-comte/a-general-view-of-positivism",
+	"title": "A General View of Positivism",
+	"creator": "Auguste Comte",
+	"description": "A brief overview of the goals and methods of the Positivist philosophical movement.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 66717,
+		"uniqueWordsCount": 4605,
+		"ranks": {
+			"highest": 50356,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 419,
+				"readability": 38
+			},
+			"A2": {
+				"count": 330,
+				"readability": 51
+			},
+			"B1": {
+				"count": 598,
+				"readability": 69
+			},
+			"B2": {
+				"count": 788,
+				"readability": 82
+			},
+			"C1": {
+				"count": 1012,
+				"readability": 92
+			},
+			"C2": {
+				"count": 967,
+				"readability": 99
+			}
+		}
+	}
+}
