@@ -1,1 +1,43 @@
-{"dir":"p-t-barnum/struggles-and-triumphs","title":"Struggles and Triumphs","creator":"P. T. Barnum","description":"The world’s greatest showman tells the story of his life.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":122047,"uniqueWordsCount":8930,"ranks":{"highest":49131,"lowest":1},"levels":{"A1":{"count":470,"readability":48},"A2":{"count":491,"readability":60},"B1":{"count":955,"readability":74},"B2":{"count":1681,"readability":86},"C1":{"count":2248,"readability":94},"C2":{"count":2073,"readability":99}}}}
+{
+	"dir": "p-t-barnum/struggles-and-triumphs",
+	"title": "Struggles and Triumphs",
+	"creator": "P. T. Barnum",
+	"description": "The world’s greatest showman tells the story of his life.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 121803,
+		"uniqueWordsCount": 9293,
+		"ranks": {
+			"highest": 50997,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 46
+			},
+			"A2": {
+				"count": 491,
+				"readability": 59
+			},
+			"B1": {
+				"count": 959,
+				"readability": 73
+			},
+			"B2": {
+				"count": 1692,
+				"readability": 85
+			},
+			"C1": {
+				"count": 2335,
+				"readability": 94
+			},
+			"C2": {
+				"count": 2191,
+				"readability": 99
+			}
+		}
+	}
+}
