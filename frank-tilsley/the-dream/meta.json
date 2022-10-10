@@ -1,1 +1,43 @@
-{"dir":"frank-tilsley/the-dream","title":"The Dream","creator":"Frank Tilsley","description":"Can a dream show us the events that will happen in the future? Can such dreams give us the opportunity to change them? It is hard to believe. If dreams really show us the future, then this future already exists. It means that we are not free in our decisions and actions. Are we able to act spontaneously, if the result is already known? Do people have choice? This is a difficult question. This story happened four years ago. It was summer. One family was returning by car from Italy. The father was driving the car. He was very tired. The family spent the night in a town. The father had a strange dream that night. He woke up and could not sleep again. The man was very worried. Later that dream began to change his life.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":824,"uniqueWordsCount":342,"ranks":{"highest":16489,"lowest":1},"levels":{"A1":{"count":197,"readability":65},"A2":{"count":71,"readability":83},"B1":{"count":36,"readability":91},"B2":{"count":24,"readability":95},"C1":{"count":10,"readability":100},"C2":{"count":3,"readability":100}}}}
+{
+	"dir": "frank-tilsley/the-dream",
+	"title": "The Dream",
+	"creator": "Frank Tilsley",
+	"description": "Can a dream show us the events that will happen in the future? Can such dreams give us the opportunity to change them? It is hard to believe. If dreams really show us the future, then this future already exists. It means that we are not free in our decisions and actions. Are we able to act spontaneously, if the result is already known? Do people have choice? This is a difficult question. This story happened four years ago. It was summer. One family was returning by car from Italy. The father was driving the car. He was very tired. The family spent the night in a town. The father had a strange dream that night. He woke up and could not sleep again. The man was very worried. Later that dream began to change his life.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 824,
+		"uniqueWordsCount": 358,
+		"ranks": {
+			"highest": 17075,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 205,
+				"readability": 63
+			},
+			"A2": {
+				"count": 71,
+				"readability": 81
+			},
+			"B1": {
+				"count": 40,
+				"readability": 89
+			},
+			"B2": {
+				"count": 28,
+				"readability": 95
+			},
+			"C1": {
+				"count": 10,
+				"readability": 100
+			},
+			"C2": {
+				"count": 3,
+				"readability": 100
+			}
+		}
+	}
+}
