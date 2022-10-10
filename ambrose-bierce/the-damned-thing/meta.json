@@ -1,1 +1,43 @@
-{"dir":"ambrose-bierce/the-damned-thing","title":"The Damned Thing","creator":"Ambrose Bierce","description":"It was a deep night. Eight people gathered in a small house. They were sitting around a simple wooden table. One man was reading a book under the light of an old desk lamp. There was also the ninth person - the owner of the house. He was laying under a white rag dead. It was quiet in the house. Only the birds were shouting outside the window. The men gathered in the house had an important job. They had to understand how the owner of the house died. It was up to them to reveal the truth. They were farmers with tanned faces and strong muscles from the work in the field. The man with the book was different from them. With a hat and a mustache, he looked like an important educated person. The coroner was reading a diary that belonged to the dead man.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":932,"uniqueWordsCount":342,"ranks":{"highest":16640,"lowest":1},"levels":{"A1":{"count":203,"readability":69},"A2":{"count":61,"readability":81},"B1":{"count":34,"readability":87},"B2":{"count":23,"readability":91},"C1":{"count":16,"readability":100},"C2":{"count":4,"readability":100}}}}
+{
+	"dir": "ambrose-bierce/the-damned-thing",
+	"title": "The Damned Thing",
+	"creator": "Ambrose Bierce",
+	"description": "It was a deep night. Eight people gathered in a small house. They were sitting around a simple wooden table. One man was reading a book under the light of an old desk lamp. There was also the ninth person - the owner of the house. He was laying under a white rag dead. It was quiet in the house. Only the birds were shouting outside the window. The men gathered in the house had an important job. They had to understand how the owner of the house died. It was up to them to reveal the truth. They were farmers with tanned faces and strong muscles from the work in the field. The man with the book was different from them. With a hat and a mustache, he looked like an important educated person. The coroner was reading a diary that belonged to the dead man.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 932,
+		"uniqueWordsCount": 367,
+		"ranks": {
+			"highest": 28259,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 219,
+				"readability": 67
+			},
+			"A2": {
+				"count": 59,
+				"readability": 79
+			},
+			"B1": {
+				"count": 40,
+				"readability": 87
+			},
+			"B2": {
+				"count": 26,
+				"readability": 90
+			},
+			"C1": {
+				"count": 17,
+				"readability": 99
+			},
+			"C2": {
+				"count": 5,
+				"readability": 100
+			}
+		}
+	}
+}
