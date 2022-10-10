@@ -1,1 +1,43 @@
-{"dir":"louis-de-bernieres/red-dog","title":"Red Dog","creator":"Louis De Bernieres","description":"This book is written on the basis of a real story that happened several decades ago. Everything happened in Australia. The protagonist of this story is an ordinary red dog, whose name is Blyui. This dog has become a real celebrity in the western part of the country. All the local residents love it. Blyui is very kind and incredibly smart. Everyone greets the red dog with sincere joy. He can appear in any city and live there for several months among local residents. Blyui can simply jump out onto the road, stop the car and go on a trip. This way he has been travelling for a long time. Once the dog meets that one special person, to whom he becomes attached. So Blyui makes a firm decision to stay with him. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":4057,"uniqueWordsCount":623,"ranks":{"highest":36809,"lowest":1},"levels":{"A1":{"count":293,"readability":71},"A2":{"count":126,"readability":83},"B1":{"count":81,"readability":89},"B2":{"count":63,"readability":94},"C1":{"count":29,"readability":97},"C2":{"count":18,"readability":98}}}}
+{
+	"dir": "louis-de-bernieres/red-dog",
+	"title": "Red Dog",
+	"creator": "Louis De Bernieres",
+	"description": "This book is written on the basis of a real story that happened several decades ago. Everything happened in Australia. The protagonist of this story is an ordinary red dog, whose name is Blyui. This dog has become a real celebrity in the western part of the country. All the local residents love it. Blyui is very kind and incredibly smart. Everyone greets the red dog with sincere joy. He can appear in any city and live there for several months among local residents. Blyui can simply jump out onto the road, stop the car and go on a trip. This way he has been travelling for a long time. Once the dog meets that one special person, to whom he becomes attached. So Blyui makes a firm decision to stay with him. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 4072,
+		"uniqueWordsCount": 690,
+		"ranks": {
+			"highest": 51246,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 322,
+				"readability": 69
+			},
+			"A2": {
+				"count": 126,
+				"readability": 81
+			},
+			"B1": {
+				"count": 99,
+				"readability": 88
+			},
+			"B2": {
+				"count": 73,
+				"readability": 93
+			},
+			"C1": {
+				"count": 32,
+				"readability": 96
+			},
+			"C2": {
+				"count": 21,
+				"readability": 98
+			}
+		}
+	}
+}
