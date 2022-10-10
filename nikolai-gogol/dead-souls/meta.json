@@ -1,1 +1,43 @@
-{"dir":"nikolai-gogol/dead-souls","title":"Dead Souls","creator":"Nikolai Gogol","description":"Pavel Chichikov travels through Russia buying the titles of dead serfs.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":67077,"uniqueWordsCount":7414,"ranks":{"highest":49490,"lowest":1},"levels":{"A1":{"count":466,"readability":51},"A2":{"count":481,"readability":64},"B1":{"count":908,"readability":77},"B2":{"count":1456,"readability":88},"C1":{"count":1794,"readability":95},"C2":{"count":1544,"readability":99}}}}
+{
+	"dir": "nikolai-gogol/dead-souls",
+	"title": "Dead Souls",
+	"creator": "Nikolai Gogol",
+	"description": "Pavel Chichikov travels through Russia buying the titles of dead serfs.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 66943,
+		"uniqueWordsCount": 7729,
+		"ranks": {
+			"highest": 51395,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 50
+			},
+			"A2": {
+				"count": 484,
+				"readability": 62
+			},
+			"B1": {
+				"count": 916,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1477,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1875,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1624,
+				"readability": 99
+			}
+		}
+	}
+}
