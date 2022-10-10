@@ -1,1 +1,43 @@
-{"dir":"dante-alighieri/the-divine-comedy","title":"The Divine Comedy","creator":"Dante Alighieri","description":"Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":145668,"uniqueWordsCount":10760,"ranks":{"highest":50276,"lowest":1},"levels":{"A1":{"count":471,"readability":48},"A2":{"count":480,"readability":59},"B1":{"count":945,"readability":72},"B2":{"count":1693,"readability":83},"C1":{"count":2517,"readability":92},"C2":{"count":2757,"readability":98}}}}
+{
+	"dir": "dante-alighieri/the-divine-comedy",
+	"title": "The Divine Comedy",
+	"creator": "Dante Alighieri",
+	"description": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 145288,
+		"uniqueWordsCount": 11224,
+		"ranks": {
+			"highest": 52205,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 46
+			},
+			"A2": {
+				"count": 482,
+				"readability": 57
+			},
+			"B1": {
+				"count": 950,
+				"readability": 70
+			},
+			"B2": {
+				"count": 1707,
+				"readability": 82
+			},
+			"C1": {
+				"count": 2581,
+				"readability": 92
+			},
+			"C2": {
+				"count": 2927,
+				"readability": 98
+			}
+		}
+	}
+}
