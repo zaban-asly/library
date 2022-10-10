@@ -1,1 +1,43 @@
-{"dir":"jules-verne/from-the-earth-to-the-moon","title":"From the Earth to the Moon","creator":"Jules Verne","description":"After the end of the Civil War, the Baltimore Gun Club decides to apply its engineering expertise to the design of a cannon capable of shooting a projectile to the Moon.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":25137,"uniqueWordsCount":4259,"ranks":{"highest":50236,"lowest":1},"levels":{"A1":{"count":456,"readability":44},"A2":{"count":415,"readability":58},"B1":{"count":664,"readability":72},"B2":{"count":869,"readability":84},"C1":{"count":845,"readability":93},"C2":{"count":655,"readability":98}}}}
+{
+	"dir": "jules-verne/from-the-earth-to-the-moon",
+	"title": "From the Earth to the Moon",
+	"creator": "Jules Verne",
+	"description": "After the end of the Civil War, the Baltimore Gun Club decides to apply its engineering expertise to the design of a cannon capable of shooting a projectile to the Moon.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 25061,
+		"uniqueWordsCount": 4424,
+		"ranks": {
+			"highest": 52161,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 477,
+				"readability": 42
+			},
+			"A2": {
+				"count": 423,
+				"readability": 56
+			},
+			"B1": {
+				"count": 675,
+				"readability": 70
+			},
+			"B2": {
+				"count": 890,
+				"readability": 83
+			},
+			"C1": {
+				"count": 884,
+				"readability": 92
+			},
+			"C2": {
+				"count": 677,
+				"readability": 98
+			}
+		}
+	}
+}
