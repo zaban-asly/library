@@ -1,1 +1,43 @@
-{"dir":"henry-james/the-turn-of-the-screw","title":"The Turn of the Screw","creator":"Henry James","description":"A governess moves in to a haunted manor.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":18757,"uniqueWordsCount":3236,"ranks":{"highest":48891,"lowest":1},"levels":{"A1":{"count":447,"readability":62},"A2":{"count":398,"readability":74},"B1":{"count":595,"readability":84},"B2":{"count":689,"readability":92},"C1":{"count":597,"readability":97},"C2":{"count":388,"readability":100}}}}
+{
+	"dir": "henry-james/the-turn-of-the-screw",
+	"title": "The Turn of the Screw",
+	"creator": "Henry James",
+	"description": "A governess moves in to a haunted manor.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 18733,
+		"uniqueWordsCount": 3400,
+		"ranks": {
+			"highest": 50740,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 475,
+				"readability": 60
+			},
+			"A2": {
+				"count": 406,
+				"readability": 73
+			},
+			"B1": {
+				"count": 614,
+				"readability": 83
+			},
+			"B2": {
+				"count": 716,
+				"readability": 91
+			},
+			"C1": {
+				"count": 628,
+				"readability": 97
+			},
+			"C2": {
+				"count": 424,
+				"readability": 100
+			}
+		}
+	}
+}
