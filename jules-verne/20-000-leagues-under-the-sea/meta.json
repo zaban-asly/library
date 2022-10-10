@@ -1,1 +1,43 @@
-{"dir":"jules-verne/20-000-leagues-under-the-sea","title":"20,000 Leagues Under the Sea","creator":"Jules Verne","description":"<p>It was in 1867 when first rumors about dangerous and horrible monster that lives somewhere in sea depths appeared. According to witnesses, this creature was enormous and could sink any ship. Many people claimed that it was just a very big whale, but this beast was twice bigger than the biggest known whale. When a Capitan of American ship named 'Abraham Lincoln' was gathering a team for monster hunting, he invited a famous writer and professor of sea world Aronnax to be an expert at expedition. Aronnax took his friend Conseil to be his assistant. Also on board was well-known whale killer Ned Land, who promised if they found the creature, only one of them would survive. Finally, after three months of sailing they have faced with their enemy in the middle of nowhere.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2722,"uniqueWordsCount":629,"ranks":{"highest":45829,"lowest":11},"levels":{"A1":{"count":306,"readability":70},"A2":{"count":121,"readability":81},"B1":{"count":92,"readability":90},"B2":{"count":51,"readability":94},"C1":{"count":31,"readability":96},"C2":{"count":17,"readability":99}}}}
+{
+	"dir": "jules-verne/20-000-leagues-under-the-sea",
+	"title": "20,000 Leagues Under the Sea",
+	"creator": "Jules Verne",
+	"description": "<p>It was in 1867 when first rumors about dangerous and horrible monster that lives somewhere in sea depths appeared. According to witnesses, this creature was enormous and could sink any ship. Many people claimed that it was just a very big whale, but this beast was twice bigger than the biggest known whale. When a Capitan of American ship named 'Abraham Lincoln' was gathering a team for monster hunting, he invited a famous writer and professor of sea world Aronnax to be an expert at expedition. Aronnax took his friend Conseil to be his assistant. Also on board was well-known whale killer Ned Land, who promised if they found the creature, only one of them would survive. Finally, after three months of sailing they have faced with their enemy in the middle of nowhere.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2722,
+		"uniqueWordsCount": 673,
+		"ranks": {
+			"highest": 47541,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 323,
+				"readability": 69
+			},
+			"A2": {
+				"count": 121,
+				"readability": 79
+			},
+			"B1": {
+				"count": 106,
+				"readability": 89
+			},
+			"B2": {
+				"count": 59,
+				"readability": 94
+			},
+			"C1": {
+				"count": 33,
+				"readability": 96
+			},
+			"C2": {
+				"count": 20,
+				"readability": 99
+			}
+		}
+	}
+}

@@ -1,5 +1,5 @@
 
-# 20,000 Leagues Under the Sea <kbd>v3.2.1</kbd>
+# 20,000 Leagues Under the Sea <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
