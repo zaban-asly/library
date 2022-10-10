@@ -1,1 +1,43 @@
-{"dir":"baroness-orczy/el-dorado","title":"El Dorado","creator":"Baroness Orczy","description":"Two separate interests want to free the imprisoned Dauphin of France.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":60086,"uniqueWordsCount":5891,"ranks":{"highest":48443,"lowest":1},"levels":{"A1":{"count":464,"readability":53},"A2":{"count":473,"readability":65},"B1":{"count":826,"readability":77},"B2":{"count":1209,"readability":88},"C1":{"count":1376,"readability":95},"C2":{"count":1102,"readability":99}}}}
+{
+	"dir": "baroness-orczy/el-dorado",
+	"title": "El Dorado",
+	"creator": "Baroness Orczy",
+	"description": "Two separate interests want to free the imprisoned Dauphin of France.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 59923,
+		"uniqueWordsCount": 6161,
+		"ranks": {
+			"highest": 50271,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 51
+			},
+			"A2": {
+				"count": 478,
+				"readability": 64
+			},
+			"B1": {
+				"count": 840,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1243,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1434,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1174,
+				"readability": 99
+			}
+		}
+	}
+}
