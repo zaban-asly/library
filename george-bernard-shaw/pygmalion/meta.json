@@ -1,1 +1,43 @@
-{"dir":"george-bernard-shaw/pygmalion","title":"Pygmalion","creator":"George Bernard Shaw","description":"An arrogant upper-class professor bets a colleague he can transform a simple flower girl into a “Duchess” in just six months.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":15291,"uniqueWordsCount":3105,"ranks":{"highest":49130,"lowest":1},"levels":{"A1":{"count":452,"readability":59},"A2":{"count":370,"readability":70},"B1":{"count":581,"readability":80},"B2":{"count":641,"readability":88},"C1":{"count":515,"readability":94},"C2":{"count":352,"readability":99}}}}
+{
+	"dir": "george-bernard-shaw/pygmalion",
+	"title": "Pygmalion",
+	"creator": "George Bernard Shaw",
+	"description": "An arrogant upper-class professor bets a colleague he can transform a simple flower girl into a “Duchess” in just six months.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 15250,
+		"uniqueWordsCount": 3248,
+		"ranks": {
+			"highest": 50996,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 476,
+				"readability": 57
+			},
+			"A2": {
+				"count": 380,
+				"readability": 68
+			},
+			"B1": {
+				"count": 590,
+				"readability": 79
+			},
+			"B2": {
+				"count": 676,
+				"readability": 87
+			},
+			"C1": {
+				"count": 545,
+				"readability": 94
+			},
+			"C2": {
+				"count": 367,
+				"readability": 98
+			}
+		}
+	}
+}
