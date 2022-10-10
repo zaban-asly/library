@@ -1,1 +1,43 @@
-{"dir":"john-w-campbell/invaders-from-the-infinite","title":"Invaders from the Infinite","creator":"John W. Campbell","description":"Three scientists join with an alien race to defeat an attacking force.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":32869,"uniqueWordsCount":3671,"ranks":{"highest":50161,"lowest":1},"levels":{"A1":{"count":433,"readability":51},"A2":{"count":380,"readability":62},"B1":{"count":607,"readability":77},"B2":{"count":694,"readability":87},"C1":{"count":697,"readability":94},"C2":{"count":534,"readability":99}}}}
+{
+	"dir": "john-w-campbell/invaders-from-the-infinite",
+	"title": "Invaders from the Infinite",
+	"creator": "John W. Campbell",
+	"description": "Three scientists join with an alien race to defeat an attacking force.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 32842,
+		"uniqueWordsCount": 3886,
+		"ranks": {
+			"highest": 52085,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 460,
+				"readability": 49
+			},
+			"A2": {
+				"count": 395,
+				"readability": 61
+			},
+			"B1": {
+				"count": 621,
+				"readability": 75
+			},
+			"B2": {
+				"count": 732,
+				"readability": 86
+			},
+			"C1": {
+				"count": 758,
+				"readability": 94
+			},
+			"C2": {
+				"count": 544,
+				"readability": 98
+			}
+		}
+	}
+}
