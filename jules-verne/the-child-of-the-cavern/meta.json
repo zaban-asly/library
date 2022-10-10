@@ -1,1 +1,43 @@
-{"dir":"jules-verne/the-child-of-the-cavern","title":"The Child of the Cavern","creator":"Jules Verne","description":"An engineer returns to a depleted coal mine at an old friend’s request and investigates mysterious happenings.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":21883,"uniqueWordsCount":3441,"ranks":{"highest":46729,"lowest":1},"levels":{"A1":{"count":455,"readability":52},"A2":{"count":409,"readability":63},"B1":{"count":675,"readability":76},"B2":{"count":766,"readability":90},"C1":{"count":642,"readability":95},"C2":{"count":338,"readability":99}}}}
+{
+	"dir": "jules-verne/the-child-of-the-cavern",
+	"title": "The Child of the Cavern",
+	"creator": "Jules Verne",
+	"description": "An engineer returns to a depleted coal mine at an old friend’s request and investigates mysterious happenings.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 21831,
+		"uniqueWordsCount": 3610,
+		"ranks": {
+			"highest": 48488,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 480,
+				"readability": 50
+			},
+			"A2": {
+				"count": 413,
+				"readability": 62
+			},
+			"B1": {
+				"count": 696,
+				"readability": 75
+			},
+			"B2": {
+				"count": 797,
+				"readability": 89
+			},
+			"C1": {
+				"count": 685,
+				"readability": 95
+			},
+			"C2": {
+				"count": 366,
+				"readability": 99
+			}
+		}
+	}
+}
