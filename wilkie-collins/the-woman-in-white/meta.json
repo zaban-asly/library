@@ -1,1 +1,43 @@
-{"dir":"wilkie-collins/the-woman-in-white","title":"The Woman in White","creator":"Wilkie Collins","description":"A young drawing teacher falls in love with his aristocratic pupil, who falls victim to a devious plot to acquire her considerable fortune.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":114310,"uniqueWordsCount":6679,"ranks":{"highest":45235,"lowest":1},"levels":{"A1":{"count":465,"readability":60},"A2":{"count":485,"readability":73},"B1":{"count":893,"readability":84},"B2":{"count":1445,"readability":92},"C1":{"count":1645,"readability":98},"C2":{"count":1324,"readability":100}}}}
+{
+	"dir": "wilkie-collins/the-woman-in-white",
+	"title": "The Woman in White",
+	"creator": "Wilkie Collins",
+	"description": "A young drawing teacher falls in love with his aristocratic pupil, who falls victim to a devious plot to acquire her considerable fortune.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 114120,
+		"uniqueWordsCount": 7059,
+		"ranks": {
+			"highest": 46937,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 58
+			},
+			"A2": {
+				"count": 485,
+				"readability": 71
+			},
+			"B1": {
+				"count": 905,
+				"readability": 83
+			},
+			"B2": {
+				"count": 1473,
+				"readability": 92
+			},
+			"C1": {
+				"count": 1734,
+				"readability": 97
+			},
+			"C2": {
+				"count": 1459,
+				"readability": 100
+			}
+		}
+	}
+}
