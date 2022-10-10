@@ -1,1 +1,43 @@
-{"dir":"anton-chekhov/three-sisters","title":"Three Sisters","creator":"Anton Chekhov","description":"Three sisters long to escape their provincial town and return to Moscow.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":9521,"uniqueWordsCount":1730,"ranks":{"highest":44725,"lowest":1},"levels":{"A1":{"count":428,"readability":66},"A2":{"count":287,"readability":79},"B1":{"count":334,"readability":87},"B2":{"count":340,"readability":95},"C1":{"count":198,"readability":98},"C2":{"count":85,"readability":100}}}}
+{
+	"dir": "anton-chekhov/three-sisters",
+	"title": "Three Sisters",
+	"creator": "Anton Chekhov",
+	"description": "Three sisters long to escape their provincial town and return to Moscow.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 9510,
+		"uniqueWordsCount": 1827,
+		"ranks": {
+			"highest": 46413,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 448,
+				"readability": 64
+			},
+			"A2": {
+				"count": 291,
+				"readability": 76
+			},
+			"B1": {
+				"count": 354,
+				"readability": 86
+			},
+			"B2": {
+				"count": 352,
+				"readability": 94
+			},
+			"C1": {
+				"count": 226,
+				"readability": 98
+			},
+			"C2": {
+				"count": 94,
+				"readability": 100
+			}
+		}
+	}
+}
