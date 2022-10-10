@@ -1,1 +1,43 @@
-{"dir":"p-g-wodehouse/golf-stories","title":"Golf Stories","creator":"P. G. Wodehouse","description":"A collection of Wodehouse’s golf stories featuring the Oldest Member.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":63978,"uniqueWordsCount":6822,"ranks":{"highest":50269,"lowest":1},"levels":{"A1":{"count":467,"readability":54},"A2":{"count":480,"readability":65},"B1":{"count":890,"readability":77},"B2":{"count":1366,"readability":86},"C1":{"count":1600,"readability":93},"C2":{"count":1300,"readability":98}}}}
+{
+	"dir": "p-g-wodehouse/golf-stories",
+	"title": "Golf Stories",
+	"creator": "P. G. Wodehouse",
+	"description": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 63890,
+		"uniqueWordsCount": 7115,
+		"ranks": {
+			"highest": 52199,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 52
+			},
+			"A2": {
+				"count": 480,
+				"readability": 63
+			},
+			"B1": {
+				"count": 906,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1390,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1650,
+				"readability": 93
+			},
+			"C2": {
+				"count": 1393,
+				"readability": 98
+			}
+		}
+	}
+}
