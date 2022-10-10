@@ -1,1 +1,43 @@
-{"dir":"william-carlos-williams/poetry","title":"Poetry","creator":"William Carlos Williams","description":"An anthology of William Carlos Williams’ poetry collections, combining The Tempers (1913), Al Que Quiere! (1917), and Sour Grapes (1921).","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":9565,"uniqueWordsCount":2684,"ranks":{"highest":49941,"lowest":1},"levels":{"A1":{"count":421,"readability":51},"A2":{"count":329,"readability":65},"B1":{"count":417,"readability":76},"B2":{"count":530,"readability":86},"C1":{"count":477,"readability":94},"C2":{"count":332,"readability":98}}}}
+{
+	"dir": "william-carlos-williams/poetry",
+	"title": "Poetry",
+	"creator": "William Carlos Williams",
+	"description": "An anthology of William Carlos Williams’ poetry collections, combining The Tempers (1913), Al Que Quiere! (1917), and Sour Grapes (1921).",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 9548,
+		"uniqueWordsCount": 2831,
+		"ranks": {
+			"highest": 51859,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 444,
+				"readability": 48
+			},
+			"A2": {
+				"count": 334,
+				"readability": 63
+			},
+			"B1": {
+				"count": 438,
+				"readability": 75
+			},
+			"B2": {
+				"count": 556,
+				"readability": 85
+			},
+			"C1": {
+				"count": 512,
+				"readability": 94
+			},
+			"C2": {
+				"count": 357,
+				"readability": 98
+			}
+		}
+	}
+}
