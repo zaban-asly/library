@@ -1,1 +1,43 @@
-{"dir":"a-a-milne/the-red-house-mystery","title":"The Red House Mystery","creator":"A. A. Milne","description":"An amateur sleuth visiting a country house solves the mystery of who shot the man in the locked room.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":28451,"uniqueWordsCount":2840,"ranks":{"highest":38676,"lowest":1},"levels":{"A1":{"count":452,"readability":64},"A2":{"count":388,"readability":78},"B1":{"count":556,"readability":87},"B2":{"count":616,"readability":95},"C1":{"count":455,"readability":98},"C2":{"count":263,"readability":100}}}}
+{
+	"dir": "a-a-milne/the-red-house-mystery",
+	"title": "The Red House Mystery",
+	"creator": "A. A. Milne",
+	"description": "An amateur sleuth visiting a country house solves the mystery of who shot the man in the locked room.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 28400,
+		"uniqueWordsCount": 2992,
+		"ranks": {
+			"highest": 40161,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 479,
+				"readability": 63
+			},
+			"A2": {
+				"count": 395,
+				"readability": 77
+			},
+			"B1": {
+				"count": 584,
+				"readability": 86
+			},
+			"B2": {
+				"count": 630,
+				"readability": 94
+			},
+			"C1": {
+				"count": 486,
+				"readability": 98
+			},
+			"C2": {
+				"count": 295,
+				"readability": 100
+			}
+		}
+	}
+}
