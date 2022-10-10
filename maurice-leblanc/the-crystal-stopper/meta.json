@@ -1,1 +1,43 @@
-{"dir":"maurice-leblanc/the-crystal-stopper","title":"The Crystal Stopper","creator":"Maurice Leblanc","description":"The gentleman-thief scrambles to save the lives of two of his accomplices.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":34209,"uniqueWordsCount":4283,"ranks":{"highest":48301,"lowest":1},"levels":{"A1":{"count":464,"readability":55},"A2":{"count":454,"readability":69},"B1":{"count":761,"readability":80},"B2":{"count":966,"readability":91},"C1":{"count":885,"readability":97},"C2":{"count":563,"readability":100}}}}
+{
+	"dir": "maurice-leblanc/the-crystal-stopper",
+	"title": "The Crystal Stopper",
+	"creator": "Maurice Leblanc",
+	"description": "The gentleman-thief scrambles to save the lives of two of his accomplices.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 34053,
+		"uniqueWordsCount": 4506,
+		"ranks": {
+			"highest": 50120,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 54
+			},
+			"A2": {
+				"count": 456,
+				"readability": 67
+			},
+			"B1": {
+				"count": 782,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1002,
+				"readability": 90
+			},
+			"C1": {
+				"count": 946,
+				"readability": 96
+			},
+			"C2": {
+				"count": 606,
+				"readability": 99
+			}
+		}
+	}
+}
