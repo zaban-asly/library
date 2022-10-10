@@ -1,1 +1,43 @@
-{"dir":"somerset-maugham/the-end-of-the-flight","title":"The End of the Flight","creator":"Somerset Maugham","description":"The skipper shook the hand of the man and wished him good luck. Then this man boarded the ship. On the lower deck, he saw many passengers of different nations: there were Chinese, Dayak and Malays. The man noticed that his luggage had already been loaded onto the ship. The vessel was quite large but not very attractive. It was really very clumsy. The man went down the ramp. The ship had already sailed for three miles away from the coast. A fresh breeze was blowing. Soon he saw a large white hut on the shore. One of the passengers - a Chinese who spoke English - explained that it was the house of the district officer. There was a recommendation letter in the pocket of the man. It meant that he was going to stay in this house. But after getting to the shore, he felt extremely lonely. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":964,"uniqueWordsCount":421,"ranks":{"highest":23115,"lowest":1},"levels":{"A1":{"count":222,"readability":70},"A2":{"count":64,"readability":80},"B1":{"count":59,"readability":89},"B2":{"count":45,"readability":95},"C1":{"count":20,"readability":98},"C2":{"count":8,"readability":100}}}}
+{
+	"dir": "somerset-maugham/the-end-of-the-flight",
+	"title": "The End of the Flight",
+	"creator": "Somerset Maugham",
+	"description": "The skipper shook the hand of the man and wished him good luck. Then this man boarded the ship. On the lower deck, he saw many passengers of different nations: there were Chinese, Dayak and Malays. The man noticed that his luggage had already been loaded onto the ship. The vessel was quite large but not very attractive. It was really very clumsy. The man went down the ramp. The ship had already sailed for three miles away from the coast. A fresh breeze was blowing. Soon he saw a large white hut on the shore. One of the passengers - a Chinese who spoke English - explained that it was the house of the district officer. There was a recommendation letter in the pocket of the man. It meant that he was going to stay in this house. But after getting to the shore, he felt extremely lonely. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 962,
+		"uniqueWordsCount": 453,
+		"ranks": {
+			"highest": 23942,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 234,
+				"readability": 67
+			},
+			"A2": {
+				"count": 69,
+				"readability": 78
+			},
+			"B1": {
+				"count": 71,
+				"readability": 88
+			},
+			"B2": {
+				"count": 44,
+				"readability": 94
+			},
+			"C1": {
+				"count": 23,
+				"readability": 97
+			},
+			"C2": {
+				"count": 9,
+				"readability": 100
+			}
+		}
+	}
+}
