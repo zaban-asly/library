@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/hamlet","title":"Hamlet","creator":"William Shakespeare","description":"The ghost of the King of Denmark tells his son, Hamlet, to avenge his death.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":15061,"uniqueWordsCount":3195,"ranks":{"highest":48402,"lowest":1},"levels":{"A1":{"count":438,"readability":54},"A2":{"count":354,"readability":65},"B1":{"count":547,"readability":75},"B2":{"count":609,"readability":84},"C1":{"count":576,"readability":94},"C2":{"count":434,"readability":99}}}}
+{
+	"dir": "william-shakespeare/hamlet",
+	"title": "Hamlet",
+	"creator": "William Shakespeare",
+	"description": "The ghost of the King of Denmark tells his son, Hamlet, to avenge his death.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 15045,
+		"uniqueWordsCount": 3339,
+		"ranks": {
+			"highest": 50596,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 460,
+				"readability": 52
+			},
+			"A2": {
+				"count": 357,
+				"readability": 63
+			},
+			"B1": {
+				"count": 555,
+				"readability": 74
+			},
+			"B2": {
+				"count": 631,
+				"readability": 84
+			},
+			"C1": {
+				"count": 607,
+				"readability": 93
+			},
+			"C2": {
+				"count": 461,
+				"readability": 98
+			}
+		}
+	}
+}
