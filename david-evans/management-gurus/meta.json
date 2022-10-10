@@ -1,1 +1,43 @@
-{"dir":"david-evans/management-gurus","title":"Management Gurus","creator":"David Evans","description":"<p>Manager is a profession that appeared not so long ago. But it developed in every sector of business, service and production very fast. Nowadays it's almost impossible to imagine any successful business without thoughtful management. The more different organizations developed, the less understanding among different departments in every area was left. And then managers came to help. They give different tasks, control their fulfillment in the different departments and take the main part in the organization development in general too. In this book you will read four stories about successful managers. They didn't only make amazing careers but also made their companies world leaders.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":7904,"uniqueWordsCount":1130,"ranks":{"highest":38998,"lowest":1},"levels":{"A1":{"count":366,"readability":61},"A2":{"count":207,"readability":73},"B1":{"count":202,"readability":83},"B2":{"count":179,"readability":94},"C1":{"count":90,"readability":98},"C2":{"count":52,"readability":99}}}}
+{
+	"dir": "david-evans/management-gurus",
+	"title": "Management Gurus",
+	"creator": "David Evans",
+	"description": "<p>Manager is a profession that appeared not so long ago. But it developed in every sector of business, service and production very fast. Nowadays it's almost impossible to imagine any successful business without thoughtful management. The more different organizations developed, the less understanding among different departments in every area was left. And then managers came to help. They give different tasks, control their fulfillment in the different departments and take the main part in the organization development in general too. In this book you will read four stories about successful managers. They didn't only make amazing careers but also made their companies world leaders.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 7942,
+		"uniqueWordsCount": 1233,
+		"ranks": {
+			"highest": 51927,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 389,
+				"readability": 58
+			},
+			"A2": {
+				"count": 218,
+				"readability": 71
+			},
+			"B1": {
+				"count": 225,
+				"readability": 82
+			},
+			"B2": {
+				"count": 185,
+				"readability": 92
+			},
+			"C1": {
+				"count": 109,
+				"readability": 97
+			},
+			"C2": {
+				"count": 63,
+				"readability": 99
+			}
+		}
+	}
+}
