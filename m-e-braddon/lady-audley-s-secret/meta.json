@@ -1,1 +1,43 @@
-{"dir":"m-e-braddon/lady-audley-s-secret","title":"Lady Audley’s Secret","creator":"M. E. Braddon","description":"When his friend disappears suddenly in mysterious circumstances, a young, idle barrister feels forced to investigate, even at the peril of destroying the happiness of his beloved uncle.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":72424,"uniqueWordsCount":6793,"ranks":{"highest":49855,"lowest":1},"levels":{"A1":{"count":468,"readability":56},"A2":{"count":485,"readability":68},"B1":{"count":908,"readability":80},"B2":{"count":1391,"readability":89},"C1":{"count":1692,"readability":96},"C2":{"count":1305,"readability":99}}}}
+{
+	"dir": "m-e-braddon/lady-audley-s-secret",
+	"title": "Lady Audley’s Secret",
+	"creator": "M. E. Braddon",
+	"description": "When his friend disappears suddenly in mysterious circumstances, a young, idle barrister feels forced to investigate, even at the peril of destroying the happiness of his beloved uncle.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 72358,
+		"uniqueWordsCount": 7104,
+		"ranks": {
+			"highest": 51770,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 54
+			},
+			"A2": {
+				"count": 485,
+				"readability": 67
+			},
+			"B1": {
+				"count": 923,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1417,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1751,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1420,
+				"readability": 99
+			}
+		}
+	}
+}
