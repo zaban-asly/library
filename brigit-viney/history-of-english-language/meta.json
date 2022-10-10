@@ -1,1 +1,43 @@
-{"dir":"brigit-viney/history-of-english-language","title":"History of English Language","creator":"Brigit Viney","description":"Nowadays English is spoken in many countries. It is the most common and convenient language for business. No less than twenty-five percent of the world population speaks it. That is why it is often called the world language. English is often used in science, cinema and music. Most of successful, popular films and songs are also in English. This language began to spread when the British tribes conquered new lands: North America and the Caribbean islands. In additin, this country was technically developed. Lots of new inventions were created in Britain. So residents of other countries had to learn English in order to use them. Later, the business became the main reason to teach English as the money is the main engine of progress. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":8703,"uniqueWordsCount":1403,"ranks":{"highest":42850,"lowest":1},"levels":{"A1":{"count":351,"readability":50},"A2":{"count":207,"readability":67},"B1":{"count":222,"readability":77},"B2":{"count":212,"readability":87},"C1":{"count":162,"readability":93},"C2":{"count":147,"readability":98}}}}
+{
+	"dir": "brigit-viney/history-of-english-language",
+	"title": "History of English Language",
+	"creator": "Brigit Viney",
+	"description": "Nowadays English is spoken in many countries. It is the most common and convenient language for business. No less than twenty-five percent of the world population speaks it. That is why it is often called the world language. English is often used in science, cinema and music. Most of successful, popular films and songs are also in English. This language began to spread when the British tribes conquered new lands: North America and the Caribbean islands. In additin, this country was technically developed. Lots of new inventions were created in Britain. So residents of other countries had to learn English in order to use them. Later, the business became the main reason to teach English as the money is the main engine of progress. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 8757,
+		"uniqueWordsCount": 1517,
+		"ranks": {
+			"highest": 52083,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 381,
+				"readability": 48
+			},
+			"A2": {
+				"count": 207,
+				"readability": 65
+			},
+			"B1": {
+				"count": 236,
+				"readability": 76
+			},
+			"B2": {
+				"count": 228,
+				"readability": 85
+			},
+			"C1": {
+				"count": 173,
+				"readability": 92
+			},
+			"C2": {
+				"count": 151,
+				"readability": 97
+			}
+		}
+	}
+}
