@@ -1,1 +1,43 @@
-{"dir":"aldous-huxley/those-barren-leaves","title":"Those Barren Leaves","creator":"Aldous Huxley","description":"An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":61660,"uniqueWordsCount":7952,"ranks":{"highest":50040,"lowest":1},"levels":{"A1":{"count":468,"readability":54},"A2":{"count":488,"readability":66},"B1":{"count":895,"readability":76},"B2":{"count":1468,"readability":86},"C1":{"count":1800,"readability":93},"C2":{"count":1655,"readability":98}}}}
+{
+	"dir": "aldous-huxley/those-barren-leaves",
+	"title": "Those Barren Leaves",
+	"creator": "Aldous Huxley",
+	"description": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 61505,
+		"uniqueWordsCount": 8265,
+		"ranks": {
+			"highest": 51962,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 52
+			},
+			"A2": {
+				"count": 489,
+				"readability": 64
+			},
+			"B1": {
+				"count": 906,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1481,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1839,
+				"readability": 92
+			},
+			"C2": {
+				"count": 1742,
+				"readability": 98
+			}
+		}
+	}
+}
