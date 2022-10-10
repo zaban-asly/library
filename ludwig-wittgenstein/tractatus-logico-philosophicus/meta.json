@@ -1,1 +1,43 @@
-{"dir":"ludwig-wittgenstein/tractatus-logico-philosophicus","title":"Tractatus Logico-Philosophicus","creator":"Ludwig Wittgenstein","description":"One of the most important texts of 20th century philosophy, in which the nature of the philosphy, language, understanding, and logical atomism are explored.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":11698,"uniqueWordsCount":1375,"ranks":{"highest":49795,"lowest":1},"levels":{"A1":{"count":291,"readability":46},"A2":{"count":172,"readability":59},"B1":{"count":217,"readability":70},"B2":{"count":207,"readability":83},"C1":{"count":202,"readability":92},"C2":{"count":170,"readability":98}}}}
+{
+	"dir": "ludwig-wittgenstein/tractatus-logico-philosophicus",
+	"title": "Tractatus Logico-Philosophicus",
+	"creator": "Ludwig Wittgenstein",
+	"description": "One of the most important texts of 20th century philosophy, in which the nature of the philosphy, language, understanding, and logical atomism are explored.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 11677,
+		"uniqueWordsCount": 1432,
+		"ranks": {
+			"highest": 51709,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 302,
+				"readability": 45
+			},
+			"A2": {
+				"count": 187,
+				"readability": 59
+			},
+			"B1": {
+				"count": 213,
+				"readability": 69
+			},
+			"B2": {
+				"count": 211,
+				"readability": 83
+			},
+			"C1": {
+				"count": 212,
+				"readability": 92
+			},
+			"C2": {
+				"count": 186,
+				"readability": 98
+			}
+		}
+	}
+}
