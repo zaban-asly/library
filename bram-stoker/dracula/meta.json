@@ -1,1 +1,43 @@
-{"dir":"bram-stoker/dracula","title":"Dracula","creator":"Bram Stoker","description":"An ancient undead monster terrorizes Victorian London.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":72860,"uniqueWordsCount":6068,"ranks":{"highest":49772,"lowest":1},"levels":{"A1":{"count":468,"readability":63},"A2":{"count":478,"readability":74},"B1":{"count":877,"readability":84},"B2":{"count":1320,"readability":92},"C1":{"count":1386,"readability":97},"C2":{"count":1036,"readability":99}}}}
+{
+	"dir": "bram-stoker/dracula",
+	"title": "Dracula",
+	"creator": "Bram Stoker",
+	"description": "An ancient undead monster terrorizes Victorian London.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 72722,
+		"uniqueWordsCount": 6391,
+		"ranks": {
+			"highest": 51686,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 61
+			},
+			"A2": {
+				"count": 479,
+				"readability": 72
+			},
+			"B1": {
+				"count": 889,
+				"readability": 83
+			},
+			"B2": {
+				"count": 1353,
+				"readability": 91
+			},
+			"C1": {
+				"count": 1487,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1109,
+				"readability": 99
+			}
+		}
+	}
+}
