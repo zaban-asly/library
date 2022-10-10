@@ -1,1 +1,43 @@
-{"dir":"r-h-tawney/the-acquisitive-society","title":"The Acquisitive Society","creator":"R. H. Tawney","description":"A discussion of the distinction between an Acquisitive Society, one guided by profits, and a Functional Society, one guided by service.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":23018,"uniqueWordsCount":3805,"ranks":{"highest":48463,"lowest":1},"levels":{"A1":{"count":418,"readability":35},"A2":{"count":321,"readability":50},"B1":{"count":552,"readability":65},"B2":{"count":733,"readability":81},"C1":{"count":763,"readability":92},"C2":{"count":663,"readability":98}}}}
+{
+	"dir": "r-h-tawney/the-acquisitive-society",
+	"title": "The Acquisitive Society",
+	"creator": "R. H. Tawney",
+	"description": "A discussion of the distinction between an Acquisitive Society, one guided by profits, and a Functional Society, one guided by service.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 22970,
+		"uniqueWordsCount": 3932,
+		"ranks": {
+			"highest": 50292,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 437,
+				"readability": 34
+			},
+			"A2": {
+				"count": 333,
+				"readability": 48
+			},
+			"B1": {
+				"count": 553,
+				"readability": 64
+			},
+			"B2": {
+				"count": 742,
+				"readability": 81
+			},
+			"C1": {
+				"count": 784,
+				"readability": 91
+			},
+			"C2": {
+				"count": 693,
+				"readability": 98
+			}
+		}
+	}
+}
