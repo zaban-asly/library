@@ -1,1 +1,43 @@
-{"dir":"john-stuart-mill/the-autobiography-of-john-stuart-mill","title":"The Autobiography of John Stuart Mill","creator":"John Stuart Mill","description":"The autobiography of English philosopher John Stuart Mill.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":35562,"uniqueWordsCount":4638,"ranks":{"highest":49920,"lowest":1},"levels":{"A1":{"count":434,"readability":47},"A2":{"count":363,"readability":59},"B1":{"count":650,"readability":73},"B2":{"count":897,"readability":86},"C1":{"count":992,"readability":94},"C2":{"count":868,"readability":99}}}}
+{
+	"dir": "john-stuart-mill/the-autobiography-of-john-stuart-mill",
+	"title": "The Autobiography of John Stuart Mill",
+	"creator": "John Stuart Mill",
+	"description": "The autobiography of English philosopher John Stuart Mill.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 35419,
+		"uniqueWordsCount": 4841,
+		"ranks": {
+			"highest": 51838,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 456,
+				"readability": 45
+			},
+			"A2": {
+				"count": 373,
+				"readability": 58
+			},
+			"B1": {
+				"count": 650,
+				"readability": 72
+			},
+			"B2": {
+				"count": 918,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1028,
+				"readability": 93
+			},
+			"C2": {
+				"count": 917,
+				"readability": 99
+			}
+		}
+	}
+}
