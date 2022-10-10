@@ -1,5 +1,5 @@
 
-# On a Chinese Screen <kbd>v3.2.1</kbd>
+# On a Chinese Screen <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
