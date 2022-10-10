@@ -1,1 +1,43 @@
-{"dir":"stanley-g-weinbaum/the-dark-other","title":"The Dark Other","creator":"Stanley G. Weinbaum","description":"A young woman seeks the reason behind her lover’s outbursts of cruelty.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":24649,"uniqueWordsCount":3983,"ranks":{"highest":49688,"lowest":1},"levels":{"A1":{"count":448,"readability":53},"A2":{"count":409,"readability":64},"B1":{"count":613,"readability":75},"B2":{"count":801,"readability":87},"C1":{"count":768,"readability":94},"C2":{"count":611,"readability":99}}}}
+{
+	"dir": "stanley-g-weinbaum/the-dark-other",
+	"title": "The Dark Other",
+	"creator": "Stanley G. Weinbaum",
+	"description": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 24606,
+		"uniqueWordsCount": 4143,
+		"ranks": {
+			"highest": 51601,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 476,
+				"readability": 51
+			},
+			"A2": {
+				"count": 416,
+				"readability": 63
+			},
+			"B1": {
+				"count": 622,
+				"readability": 73
+			},
+			"B2": {
+				"count": 828,
+				"readability": 87
+			},
+			"C1": {
+				"count": 816,
+				"readability": 94
+			},
+			"C2": {
+				"count": 627,
+				"readability": 98
+			}
+		}
+	}
+}
