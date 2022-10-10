@@ -1,1 +1,43 @@
-{"dir":"e-m-forster/howards-end","title":"Howards End","creator":"E. M. Forster","description":"The lives of three families of different classes intertwine in Edwardian England.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":51620,"uniqueWordsCount":6085,"ranks":{"highest":47168,"lowest":1},"levels":{"A1":{"count":466,"readability":59},"A2":{"count":475,"readability":70},"B1":{"count":864,"readability":81},"B2":{"count":1274,"readability":90},"C1":{"count":1372,"readability":96},"C2":{"count":1122,"readability":99}}}}
+{
+	"dir": "e-m-forster/howards-end",
+	"title": "Howards End",
+	"creator": "E. M. Forster",
+	"description": "The lives of three families of different classes intertwine in Edwardian England.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 51540,
+		"uniqueWordsCount": 6374,
+		"ranks": {
+			"highest": 48940,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 57
+			},
+			"A2": {
+				"count": 481,
+				"readability": 68
+			},
+			"B1": {
+				"count": 879,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1295,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1440,
+				"readability": 95
+			},
+			"C2": {
+				"count": 1197,
+				"readability": 99
+			}
+		}
+	}
+}
