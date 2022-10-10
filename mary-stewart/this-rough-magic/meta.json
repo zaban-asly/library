@@ -1,1 +1,43 @@
-{"dir":"mary-stewart/this-rough-magic","title":"This Rough Magic","creator":"Mary Stewart","description":"Lucy is a young girl who works as an actress. She has an elder sister named Phil, who married a rich man from Italy. Lucy went to the sea to rest and to visit her sister. Phil is going to have a baby soon and decides to have a pregnancy in a pleasant and warm climate. Lucy has problems with work. She did not become famous and being an actress is not very easy. She could not become a star and now wanted to think a little about continuing her career. Lucy enters a completely new world for herself. There are many interesting people and random encounters with unusual people. The girl even manages to get acquainted with the trained smart dolphin. A young actress gets into a criminal situation, where acting talent helps her to remain safe and sound.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":9725,"uniqueWordsCount":1131,"ranks":{"highest":35763,"lowest":1},"levels":{"A1":{"count":399,"readability":69},"A2":{"count":227,"readability":82},"B1":{"count":212,"readability":89},"B2":{"count":164,"readability":95},"C1":{"count":82,"readability":99},"C2":{"count":35,"readability":100}}}}
+{
+	"dir": "mary-stewart/this-rough-magic",
+	"title": "This Rough Magic",
+	"creator": "Mary Stewart",
+	"description": "Lucy is a young girl who works as an actress. She has an elder sister named Phil, who married a rich man from Italy. Lucy went to the sea to rest and to visit her sister. Phil is going to have a baby soon and decides to have a pregnancy in a pleasant and warm climate. Lucy has problems with work. She did not become famous and being an actress is not very easy. She could not become a star and now wanted to think a little about continuing her career. Lucy enters a completely new world for herself. There are many interesting people and random encounters with unusual people. The girl even manages to get acquainted with the trained smart dolphin. A young actress gets into a criminal situation, where acting talent helps her to remain safe and sound.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 9722,
+		"uniqueWordsCount": 1233,
+		"ranks": {
+			"highest": 51542,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 425,
+				"readability": 68
+			},
+			"A2": {
+				"count": 238,
+				"readability": 81
+			},
+			"B1": {
+				"count": 241,
+				"readability": 88
+			},
+			"B2": {
+				"count": 178,
+				"readability": 95
+			},
+			"C1": {
+				"count": 95,
+				"readability": 99
+			},
+			"C2": {
+				"count": 41,
+				"readability": 100
+			}
+		}
+	}
+}
