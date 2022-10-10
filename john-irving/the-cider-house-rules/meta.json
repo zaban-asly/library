@@ -1,1 +1,43 @@
-{"dir":"john-irving/the-cider-house-rules","title":"The Cider House Rules","creator":"John Irving","description":"This is the book on which the film was based on and a famous performance was staged. Everything happens during the Second World War. Homer Wells grows up in an orphanage, which could not but affect his character. The boy tries to be of service to others. Since childhood Homer has been trying to work as a medical assistant. He helps Dr. Wilbur Larch, the head of the orphanage. Wilbur does not believe in love and avoids romantic relationship. Instead, he prefers to help women with unwanted pregnancies. The man takes their children to his orphanage. After he tries to find foster families for them. But there is no foster family for Homer, so the doctor begins to perceive him as his own son. He teaches the boy medicine. But soon Homer finds out that Wilbur secretly does abortions upon his clients.    ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":35894,"uniqueWordsCount":3275,"ranks":{"highest":43428,"lowest":1},"levels":{"A1":{"count":460,"readability":58},"A2":{"count":400,"readability":67},"B1":{"count":585,"readability":77},"B2":{"count":692,"readability":86},"C1":{"count":521,"readability":96},"C2":{"count":361,"readability":99}}}}
+{
+	"dir": "john-irving/the-cider-house-rules",
+	"title": "The Cider House Rules",
+	"creator": "John Irving",
+	"description": "This is the book on which the film was based on and a famous performance was staged. Everything happens during the Second World War. Homer Wells grows up in an orphanage, which could not but affect his character. The boy tries to be of service to others. Since childhood Homer has been trying to work as a medical assistant. He helps Dr. Wilbur Larch, the head of the orphanage. Wilbur does not believe in love and avoids romantic relationship. Instead, he prefers to help women with unwanted pregnancies. The man takes their children to his orphanage. After he tries to find foster families for them. But there is no foster family for Homer, so the doctor begins to perceive him as his own son. He teaches the boy medicine. But soon Homer finds out that Wilbur secretly does abortions upon his clients.    ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 35978,
+		"uniqueWordsCount": 3512,
+		"ranks": {
+			"highest": 52107,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 56
+			},
+			"A2": {
+				"count": 407,
+				"readability": 65
+			},
+			"B1": {
+				"count": 624,
+				"readability": 75
+			},
+			"B2": {
+				"count": 717,
+				"readability": 86
+			},
+			"C1": {
+				"count": 562,
+				"readability": 95
+			},
+			"C2": {
+				"count": 394,
+				"readability": 99
+			}
+		}
+	}
+}
