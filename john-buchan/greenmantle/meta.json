@@ -1,1 +1,43 @@
-{"dir":"john-buchan/greenmantle","title":"Greenmantle","creator":"John Buchan","description":"The story of a chase through war-torn Europe to prevent an uprising during the First World War.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":46226,"uniqueWordsCount":5833,"ranks":{"highest":50218,"lowest":1},"levels":{"A1":{"count":465,"readability":57},"A2":{"count":473,"readability":69},"B1":{"count":836,"readability":80},"B2":{"count":1200,"readability":89},"C1":{"count":1257,"readability":95},"C2":{"count":1040,"readability":99}}}}
+{
+	"dir": "john-buchan/greenmantle",
+	"title": "Greenmantle",
+	"creator": "John Buchan",
+	"description": "The story of a chase through war-torn Europe to prevent an uprising during the First World War.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 46162,
+		"uniqueWordsCount": 6125,
+		"ranks": {
+			"highest": 52143,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 55
+			},
+			"A2": {
+				"count": 474,
+				"readability": 68
+			},
+			"B1": {
+				"count": 847,
+				"readability": 78
+			},
+			"B2": {
+				"count": 1242,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1317,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1108,
+				"readability": 98
+			}
+		}
+	}
+}
