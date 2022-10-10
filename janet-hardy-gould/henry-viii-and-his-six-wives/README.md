@@ -1,5 +1,5 @@
 
-# Henry VIII and His Six Wives <kbd>v3.2.1</kbd>
+# Henry VIII and His Six Wives <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
