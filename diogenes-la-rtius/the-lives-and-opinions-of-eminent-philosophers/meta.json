@@ -1,1 +1,43 @@
-{"dir":"diogenes-la-rtius/the-lives-and-opinions-of-eminent-philosophers","title":"The Lives and Opinions of Eminent Philosophers","creator":"Diogenes Laërtius","description":"Brief biographies of the prominent philosophers of ancient Greece.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":80598,"uniqueWordsCount":6137,"ranks":{"highest":50315,"lowest":1},"levels":{"A1":{"count":458,"readability":51},"A2":{"count":440,"readability":63},"B1":{"count":811,"readability":75},"B2":{"count":1153,"readability":86},"C1":{"count":1335,"readability":93},"C2":{"count":1193,"readability":98}}}}
+{
+	"dir": "diogenes-la-rtius/the-lives-and-opinions-of-eminent-philosophers",
+	"title": "The Lives and Opinions of Eminent Philosophers",
+	"creator": "Diogenes Laërtius",
+	"description": "Brief biographies of the prominent philosophers of ancient Greece.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 80220,
+		"uniqueWordsCount": 6411,
+		"ranks": {
+			"highest": 52244,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 50
+			},
+			"A2": {
+				"count": 438,
+				"readability": 62
+			},
+			"B1": {
+				"count": 816,
+				"readability": 74
+			},
+			"B2": {
+				"count": 1187,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1405,
+				"readability": 92
+			},
+			"C2": {
+				"count": 1244,
+				"readability": 98
+			}
+		}
+	}
+}
