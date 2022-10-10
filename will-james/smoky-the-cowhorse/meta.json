@@ -1,1 +1,43 @@
-{"dir":"will-james/smoky-the-cowhorse","title":"Smoky the Cowhorse","creator":"Will James","description":"Smoky, a gray-colored horse, grows into adulthood on the ranges of the American West.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":39482,"uniqueWordsCount":2359,"ranks":{"highest":49216,"lowest":1},"levels":{"A1":{"count":413,"readability":63},"A2":{"count":314,"readability":73},"B1":{"count":421,"readability":82},"B2":{"count":444,"readability":90},"C1":{"count":380,"readability":96},"C2":{"count":211,"readability":99}}}}
+{
+	"dir": "will-james/smoky-the-cowhorse",
+	"title": "Smoky the Cowhorse",
+	"creator": "Will James",
+	"description": "Smoky, a gray-colored horse, grows into adulthood on the ranges of the American West.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 39391,
+		"uniqueWordsCount": 2536,
+		"ranks": {
+			"highest": 51096,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 434,
+				"readability": 61
+			},
+			"A2": {
+				"count": 319,
+				"readability": 72
+			},
+			"B1": {
+				"count": 452,
+				"readability": 80
+			},
+			"B2": {
+				"count": 467,
+				"readability": 89
+			},
+			"C1": {
+				"count": 421,
+				"readability": 96
+			},
+			"C2": {
+				"count": 242,
+				"readability": 99
+			}
+		}
+	}
+}
