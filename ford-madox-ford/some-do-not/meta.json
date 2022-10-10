@@ -1,1 +1,43 @@
-{"dir":"ford-madox-ford/some-do-not","title":"Some Do Not …","creator":"Ford Madox Ford","description":"As World War I looms, a stiff English statistician and a suffragette fall in love.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":53913,"uniqueWordsCount":6619,"ranks":{"highest":50254,"lowest":1},"levels":{"A1":{"count":468,"readability":59},"A2":{"count":470,"readability":70},"B1":{"count":857,"readability":79},"B2":{"count":1293,"readability":88},"C1":{"count":1421,"readability":94},"C2":{"count":1249,"readability":98}}}}
+{
+	"dir": "ford-madox-ford/some-do-not",
+	"title": "Some Do Not …",
+	"creator": "Ford Madox Ford",
+	"description": "As World War I looms, a stiff English statistician and a suffragette fall in love.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 53784,
+		"uniqueWordsCount": 6861,
+		"ranks": {
+			"highest": 52181,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 57
+			},
+			"A2": {
+				"count": 472,
+				"readability": 68
+			},
+			"B1": {
+				"count": 871,
+				"readability": 78
+			},
+			"B2": {
+				"count": 1292,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1488,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1311,
+				"readability": 98
+			}
+		}
+	}
+}
