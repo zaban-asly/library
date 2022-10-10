@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/troilus-and-cressida","title":"Troilus and Cressida","creator":"William Shakespeare","description":"A Trojan prince falls in love with a woman amid the Trojan War, only to see her exchanged to the Greeks for a prisoner of war.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":13225,"uniqueWordsCount":2835,"ranks":{"highest":49503,"lowest":1},"levels":{"A1":{"count":421,"readability":49},"A2":{"count":325,"readability":60},"B1":{"count":448,"readability":71},"B2":{"count":557,"readability":83},"C1":{"count":512,"readability":94},"C2":{"count":359,"readability":99}}}}
+{
+	"dir": "william-shakespeare/troilus-and-cressida",
+	"title": "Troilus and Cressida",
+	"creator": "William Shakespeare",
+	"description": "A Trojan prince falls in love with a woman amid the Trojan War, only to see her exchanged to the Greeks for a prisoner of war.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 13210,
+		"uniqueWordsCount": 2974,
+		"ranks": {
+			"highest": 51408,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 442,
+				"readability": 47
+			},
+			"A2": {
+				"count": 319,
+				"readability": 58
+			},
+			"B1": {
+				"count": 451,
+				"readability": 69
+			},
+			"B2": {
+				"count": 589,
+				"readability": 82
+			},
+			"C1": {
+				"count": 543,
+				"readability": 93
+			},
+			"C2": {
+				"count": 389,
+				"readability": 98
+			}
+		}
+	}
+}
