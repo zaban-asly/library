@@ -1,1 +1,43 @@
-{"dir":"leo-tolstoy/the-kingdom-of-god-is-within-you","title":"The Kingdom of God Is Within You","creator":"Leo Tolstoy","description":"Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":57184,"uniqueWordsCount":5185,"ranks":{"highest":50037,"lowest":1},"levels":{"A1":{"count":457,"readability":49},"A2":{"count":419,"readability":63},"B1":{"count":736,"readability":76},"B2":{"count":1036,"readability":88},"C1":{"count":1138,"readability":95},"C2":{"count":907,"readability":99}}}}
+{
+	"dir": "leo-tolstoy/the-kingdom-of-god-is-within-you",
+	"title": "The Kingdom of God Is Within You",
+	"creator": "Leo Tolstoy",
+	"description": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 57049,
+		"uniqueWordsCount": 5396,
+		"ranks": {
+			"highest": 51959,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 483,
+				"readability": 47
+			},
+			"A2": {
+				"count": 423,
+				"readability": 61
+			},
+			"B1": {
+				"count": 749,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1047,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1189,
+				"readability": 95
+			},
+			"C2": {
+				"count": 951,
+				"readability": 99
+			}
+		}
+	}
+}
