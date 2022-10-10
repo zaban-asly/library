@@ -1,1 +1,43 @@
-{"dir":"edgar-rice-burroughs/the-son-of-tarzan","title":"The Son of Tarzan","creator":"Edgar Rice Burroughs","description":"Upon discovering his father’s past life in the jungles of Africa, Tarzan’s son sets out to follow in his footsteps.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":44022,"uniqueWordsCount":5056,"ranks":{"highest":50006,"lowest":1},"levels":{"A1":{"count":461,"readability":52},"A2":{"count":449,"readability":66},"B1":{"count":766,"readability":78},"B2":{"count":1063,"readability":89},"C1":{"count":1119,"readability":96},"C2":{"count":892,"readability":99}}}}
+{
+	"dir": "edgar-rice-burroughs/the-son-of-tarzan",
+	"title": "The Son of Tarzan",
+	"creator": "Edgar Rice Burroughs",
+	"description": "Upon discovering his father’s past life in the jungles of Africa, Tarzan’s son sets out to follow in his footsteps.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 43974,
+		"uniqueWordsCount": 5317,
+		"ranks": {
+			"highest": 51924,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 489,
+				"readability": 50
+			},
+			"A2": {
+				"count": 455,
+				"readability": 64
+			},
+			"B1": {
+				"count": 776,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1109,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1182,
+				"readability": 95
+			},
+			"C2": {
+				"count": 952,
+				"readability": 99
+			}
+		}
+	}
+}
