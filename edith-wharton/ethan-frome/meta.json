@@ -1,1 +1,43 @@
-{"dir":"edith-wharton/ethan-frome","title":"Ethan Frome","creator":"Edith Wharton","description":"A young man living a joyless life trapped in a loveless marriage gets a taste of true passion.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":16764,"uniqueWordsCount":3391,"ranks":{"highest":41189,"lowest":1},"levels":{"A1":{"count":446,"readability":58},"A2":{"count":379,"readability":70},"B1":{"count":582,"readability":81},"B2":{"count":703,"readability":89},"C1":{"count":671,"readability":95},"C2":{"count":441,"readability":99}}}}
+{
+	"dir": "edith-wharton/ethan-frome",
+	"title": "Ethan Frome",
+	"creator": "Edith Wharton",
+	"description": "A young man living a joyless life trapped in a loveless marriage gets a taste of true passion.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 16749,
+		"uniqueWordsCount": 3571,
+		"ranks": {
+			"highest": 42760,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 473,
+				"readability": 55
+			},
+			"A2": {
+				"count": 389,
+				"readability": 68
+			},
+			"B1": {
+				"count": 597,
+				"readability": 79
+			},
+			"B2": {
+				"count": 747,
+				"readability": 88
+			},
+			"C1": {
+				"count": 696,
+				"readability": 95
+			},
+			"C2": {
+				"count": 471,
+				"readability": 99
+			}
+		}
+	}
+}
