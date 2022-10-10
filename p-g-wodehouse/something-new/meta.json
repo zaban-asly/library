@@ -1,1 +1,43 @@
-{"dir":"p-g-wodehouse/something-new","title":"Something New","creator":"P. G. Wodehouse","description":"Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":35451,"uniqueWordsCount":5259,"ranks":{"highest":49752,"lowest":1},"levels":{"A1":{"count":466,"readability":54},"A2":{"count":467,"readability":66},"B1":{"count":812,"readability":77},"B2":{"count":1149,"readability":87},"C1":{"count":1152,"readability":95},"C2":{"count":854,"readability":99}}}}
+{
+	"dir": "p-g-wodehouse/something-new",
+	"title": "Something New",
+	"creator": "P. G. Wodehouse",
+	"description": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 35374,
+		"uniqueWordsCount": 5484,
+		"ranks": {
+			"highest": 51666,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 52
+			},
+			"A2": {
+				"count": 469,
+				"readability": 64
+			},
+			"B1": {
+				"count": 821,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1191,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1190,
+				"readability": 94
+			},
+			"C2": {
+				"count": 908,
+				"readability": 99
+			}
+		}
+	}
+}
