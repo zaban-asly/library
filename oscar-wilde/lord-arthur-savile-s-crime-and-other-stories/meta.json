@@ -1,1 +1,43 @@
-{"dir":"oscar-wilde/lord-arthur-savile-s-crime-and-other-stories","title":"Lord Arthur Savile’s Crime and Other Stories","creator":"Oscar Wilde","description":"A collection of Oscar Wilde’s short mysteries.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":19124,"uniqueWordsCount":3752,"ranks":{"highest":49238,"lowest":1},"levels":{"A1":{"count":463,"readability":56},"A2":{"count":434,"readability":68},"B1":{"count":685,"readability":80},"B2":{"count":835,"readability":89},"C1":{"count":658,"readability":95},"C2":{"count":456,"readability":99}}}}
+{
+	"dir": "oscar-wilde/lord-arthur-savile-s-crime-and-other-stories",
+	"title": "Lord Arthur Savile’s Crime and Other Stories",
+	"creator": "Oscar Wilde",
+	"description": "A collection of Oscar Wilde’s short mysteries.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 19087,
+		"uniqueWordsCount": 3917,
+		"ranks": {
+			"highest": 51125,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 54
+			},
+			"A2": {
+				"count": 439,
+				"readability": 66
+			},
+			"B1": {
+				"count": 696,
+				"readability": 78
+			},
+			"B2": {
+				"count": 864,
+				"readability": 88
+			},
+			"C1": {
+				"count": 684,
+				"readability": 95
+			},
+			"C2": {
+				"count": 494,
+				"readability": 99
+			}
+		}
+	}
+}
