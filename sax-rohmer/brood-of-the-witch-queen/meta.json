@@ -1,1 +1,43 @@
-{"dir":"sax-rohmer/brood-of-the-witch-queen","title":"Brood of the Witch-Queen","creator":"Sax Rohmer","description":"A father and son duo investigate a man who is wielding ancient Egyptian magic.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":32740,"uniqueWordsCount":4677,"ranks":{"highest":45859,"lowest":1},"levels":{"A1":{"count":462,"readability":51},"A2":{"count":451,"readability":64},"B1":{"count":736,"readability":75},"B2":{"count":981,"readability":86},"C1":{"count":1012,"readability":95},"C2":{"count":727,"readability":99}}}}
+{
+	"dir": "sax-rohmer/brood-of-the-witch-queen",
+	"title": "Brood of the Witch-Queen",
+	"creator": "Sax Rohmer",
+	"description": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 32699,
+		"uniqueWordsCount": 4876,
+		"ranks": {
+			"highest": 47574,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 49
+			},
+			"A2": {
+				"count": 453,
+				"readability": 62
+			},
+			"B1": {
+				"count": 748,
+				"readability": 74
+			},
+			"B2": {
+				"count": 1005,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1077,
+				"readability": 95
+			},
+			"C2": {
+				"count": 762,
+				"readability": 99
+			}
+		}
+	}
+}
