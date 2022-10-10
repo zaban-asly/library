@@ -1,1 +1,43 @@
-{"dir":"nicole-irving/hachiko","title":"Hachiko","creator":"Nicole Irving","description":"The story of Hachiko as the most loyal friend has spread all over the world a long time ago. It became known after the release of the British-American melodrama starring Richard Gere. This story is about loyalty, boundless love that can make children and even adults cry. The true life story of Hachiko begins in the 1920s in Japan. Professor Ueno comes to Tokyo with a young dog. Life is full of events and joy for this dog. But the most important thing is that its beloved owner is nearby. Ueno is the center of the dog's universe. It is ready to accompany him everywhere. In the morning the dog sees the professor off to the station. In the evening they meet again. Every day is filled with fun and important things for Hachiko. He makes friends. The world is beautiful until one day when everything changes.  ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2265,"uniqueWordsCount":344,"ranks":{"highest":21303,"lowest":11},"levels":{"A1":{"count":206,"readability":73},"A2":{"count":60,"readability":85},"B1":{"count":34,"readability":93},"B2":{"count":23,"readability":96},"C1":{"count":16,"readability":100},"C2":{"count":3,"readability":100}}}}
+{
+	"dir": "nicole-irving/hachiko",
+	"title": "Hachiko",
+	"creator": "Nicole Irving",
+	"description": "The story of Hachiko as the most loyal friend has spread all over the world a long time ago. It became known after the release of the British-American melodrama starring Richard Gere. This story is about loyalty, boundless love that can make children and even adults cry. The true life story of Hachiko begins in the 1920s in Japan. Professor Ueno comes to Tokyo with a young dog. Life is full of events and joy for this dog. But the most important thing is that its beloved owner is nearby. Ueno is the center of the dog's universe. It is ready to accompany him everywhere. In the morning the dog sees the professor off to the station. In the evening they meet again. Every day is filled with fun and important things for Hachiko. He makes friends. The world is beautiful until one day when everything changes.  ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2265,
+		"uniqueWordsCount": 380,
+		"ranks": {
+			"highest": 22049,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 221,
+				"readability": 71
+			},
+			"A2": {
+				"count": 59,
+				"readability": 83
+			},
+			"B1": {
+				"count": 49,
+				"readability": 93
+			},
+			"B2": {
+				"count": 24,
+				"readability": 96
+			},
+			"C1": {
+				"count": 21,
+				"readability": 100
+			},
+			"C2": {
+				"count": 4,
+				"readability": 100
+			}
+		}
+	}
+}
