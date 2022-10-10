@@ -1,1 +1,43 @@
-{"dir":"thorstein-veblen/the-theory-of-the-leisure-class","title":"The Theory of the Leisure Class","creator":"Thorstein Veblen","description":"Veblen outlines his theory of social stratification in an industrialized society, the paradoxical elevation of the leisure class, and conspicuous consumption.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":54598,"uniqueWordsCount":4695,"ranks":{"highest":50306,"lowest":1},"levels":{"A1":{"count":394,"readability":35},"A2":{"count":314,"readability":48},"B1":{"count":531,"readability":60},"B2":{"count":757,"readability":73},"C1":{"count":937,"readability":86},"C2":{"count":1034,"readability":96}}}}
+{
+	"dir": "thorstein-veblen/the-theory-of-the-leisure-class",
+	"title": "The Theory of the Leisure Class",
+	"creator": "Thorstein Veblen",
+	"description": "Veblen outlines his theory of social stratification in an industrialized society, the paradoxical elevation of the leisure class, and conspicuous consumption.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 54510,
+		"uniqueWordsCount": 4879,
+		"ranks": {
+			"highest": 52235,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 416,
+				"readability": 33
+			},
+			"A2": {
+				"count": 320,
+				"readability": 46
+			},
+			"B1": {
+				"count": 537,
+				"readability": 59
+			},
+			"B2": {
+				"count": 769,
+				"readability": 72
+			},
+			"C1": {
+				"count": 953,
+				"readability": 85
+			},
+			"C2": {
+				"count": 1076,
+				"readability": 96
+			}
+		}
+	}
+}
