@@ -1,1 +1,43 @@
-{"dir":"paul-shipton/the-beatles","title":"The Beatles","creator":"Paul Shipton","description":"This book tells about the story of the world famous group that has changed the world. Its heritage is millions of fans, a huge number of concerts and thousands of imitators. This group is listened to even today, despite the fact that it has not been performing for a long time. One of the musicians John Lennon died many years ago. All four band members were born during World War II in Liverpool. Life was hard at that time. But in Liverpool there was world news appearing. One day, rock and roll from the United States got there and four teenagers understood what they would do. It seemed to be a gateway to a new, more interesting life. Later they found each other and got such a success, which the musicians of that time could not even dream of. The beginning of a musical career was not easy, but they were able to leave a mark in history.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":4431,"uniqueWordsCount":755,"ranks":{"highest":43015,"lowest":1},"levels":{"A1":{"count":312,"readability":57},"A2":{"count":128,"readability":73},"B1":{"count":103,"readability":85},"B2":{"count":95,"readability":92},"C1":{"count":60,"readability":96},"C2":{"count":30,"readability":99}}}}
+{
+	"dir": "paul-shipton/the-beatles",
+	"title": "The Beatles",
+	"creator": "Paul Shipton",
+	"description": "This book tells about the story of the world famous group that has changed the world. Its heritage is millions of fans, a huge number of concerts and thousands of imitators. This group is listened to even today, despite the fact that it has not been performing for a long time. One of the musicians John Lennon died many years ago. All four band members were born during World War II in Liverpool. Life was hard at that time. But in Liverpool there was world news appearing. One day, rock and roll from the United States got there and four teenagers understood what they would do. It seemed to be a gateway to a new, more interesting life. Later they found each other and got such a success, which the musicians of that time could not even dream of. The beginning of a musical career was not easy, but they were able to leave a mark in history.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 4552,
+		"uniqueWordsCount": 838,
+		"ranks": {
+			"highest": 49539,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 333,
+				"readability": 54
+			},
+			"A2": {
+				"count": 135,
+				"readability": 69
+			},
+			"B1": {
+				"count": 122,
+				"readability": 82
+			},
+			"B2": {
+				"count": 106,
+				"readability": 89
+			},
+			"C1": {
+				"count": 62,
+				"readability": 93
+			},
+			"C2": {
+				"count": 39,
+				"readability": 99
+			}
+		}
+	}
+}
