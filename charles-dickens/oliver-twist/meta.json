@@ -1,1 +1,43 @@
-{"dir":"charles-dickens/oliver-twist","title":"Oliver Twist","creator":"Charles Dickens","description":"A poor boy, born and raised in a workhouse in Victorian England, falls into the control of a gang of heartless criminals.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":78979,"uniqueWordsCount":6594,"ranks":{"highest":49385,"lowest":1},"levels":{"A1":{"count":465,"readability":58},"A2":{"count":473,"readability":69},"B1":{"count":889,"readability":80},"B2":{"count":1404,"readability":90},"C1":{"count":1675,"readability":96},"C2":{"count":1267,"readability":100}}}}
+{
+	"dir": "charles-dickens/oliver-twist",
+	"title": "Oliver Twist",
+	"creator": "Charles Dickens",
+	"description": "A poor boy, born and raised in a workhouse in Victorian England, falls into the control of a gang of heartless criminals.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 78769,
+		"uniqueWordsCount": 6949,
+		"ranks": {
+			"highest": 51283,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 56
+			},
+			"A2": {
+				"count": 475,
+				"readability": 67
+			},
+			"B1": {
+				"count": 903,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1431,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1757,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1388,
+				"readability": 100
+			}
+		}
+	}
+}
