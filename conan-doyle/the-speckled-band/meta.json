@@ -1,1 +1,43 @@
-{"dir":"conan-doyle/the-speckled-band","title":"The Speckled Band","creator":"Conan Doyle","description":"<font class=\"Apple-style-span\" face=\"'MS Shell Dlg 2', sans-serif\"><span class=\"Apple-style-span\" style=\"font-size: 12px;\">A girl named Helen Stoner asked Sherlock Holmes  for help. She lived in an old estate near the village, along with her stepfather Dr. Grimesby Roylott who used to be a doctor when he lived in India. Two years ago she lost her sister Julia. She died two weeks before her wedding, under mysterious circumstances. Before his death, for several nights in the house she heard a strange whistling that very frightened her. The night Julie died, Helen had heard similar sounds. On her deathbed, Julia shouted : \"It was a speckled band !\"  Now Helen temporarily moved to her sister's room because her one is being repaired. At the first night Helen heard a strange whistling again and panicked.</span></font>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1081,"uniqueWordsCount":318,"ranks":{"highest":22882,"lowest":1},"levels":{"A1":{"count":203,"readability":68},"A2":{"count":54,"readability":78},"B1":{"count":35,"readability":90},"B2":{"count":17,"readability":95},"C1":{"count":6,"readability":98},"C2":{"count":2,"readability":99}}}}
+{
+	"dir": "conan-doyle/the-speckled-band",
+	"title": "The Speckled Band",
+	"creator": "Conan Doyle",
+	"description": "<font class=\"Apple-style-span\" face=\"'MS Shell Dlg 2', sans-serif\"><span class=\"Apple-style-span\" style=\"font-size: 12px;\">A girl named Helen Stoner asked Sherlock Holmes  for help. She lived in an old estate near the village, along with her stepfather Dr. Grimesby Roylott who used to be a doctor when he lived in India. Two years ago she lost her sister Julia. She died two weeks before her wedding, under mysterious circumstances. Before his death, for several nights in the house she heard a strange whistling that very frightened her. The night Julie died, Helen had heard similar sounds. On her deathbed, Julia shouted : \"It was a speckled band !\"  Now Helen temporarily moved to her sister's room because her one is being repaired. At the first night Helen heard a strange whistling again and panicked.</span></font>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1082,
+		"uniqueWordsCount": 337,
+		"ranks": {
+			"highest": 23697,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 211,
+				"readability": 67
+			},
+			"A2": {
+				"count": 57,
+				"readability": 77
+			},
+			"B1": {
+				"count": 41,
+				"readability": 89
+			},
+			"B2": {
+				"count": 17,
+				"readability": 95
+			},
+			"C1": {
+				"count": 7,
+				"readability": 98
+			},
+			"C2": {
+				"count": 2,
+				"readability": 99
+			}
+		}
+	}
+}
