@@ -1,1 +1,43 @@
-{"dir":"mark-twain/the-adventures-of-huckleberry-finn","title":"The Adventures of Huckleberry Finn","creator":"Mark Twain","description":"The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":50429,"uniqueWordsCount":3494,"ranks":{"highest":50007,"lowest":1},"levels":{"A1":{"count":446,"readability":67},"A2":{"count":387,"readability":77},"B1":{"count":540,"readability":85},"B2":{"count":707,"readability":92},"C1":{"count":617,"readability":97},"C2":{"count":453,"readability":99}}}}
+{
+	"dir": "mark-twain/the-adventures-of-huckleberry-finn",
+	"title": "The Adventures of Huckleberry Finn",
+	"creator": "Mark Twain",
+	"description": "The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 50335,
+		"uniqueWordsCount": 3691,
+		"ranks": {
+			"highest": 51925,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 469,
+				"readability": 65
+			},
+			"A2": {
+				"count": 387,
+				"readability": 75
+			},
+			"B1": {
+				"count": 568,
+				"readability": 84
+			},
+			"B2": {
+				"count": 706,
+				"readability": 91
+			},
+			"C1": {
+				"count": 677,
+				"readability": 96
+			},
+			"C2": {
+				"count": 494,
+				"readability": 99
+			}
+		}
+	}
+}
