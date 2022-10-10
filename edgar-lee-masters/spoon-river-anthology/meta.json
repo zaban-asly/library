@@ -1,1 +1,43 @@
-{"dir":"edgar-lee-masters/spoon-river-anthology","title":"Spoon River Anthology","creator":"Edgar Lee Masters","description":"A collection of short poems recounting the lives and deaths of the residents of a small Illinois town.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":18967,"uniqueWordsCount":4161,"ranks":{"highest":49433,"lowest":1},"levels":{"A1":{"count":456,"readability":53},"A2":{"count":395,"readability":64},"B1":{"count":624,"readability":75},"B2":{"count":853,"readability":85},"C1":{"count":878,"readability":93},"C2":{"count":631,"readability":98}}}}
+{
+	"dir": "edgar-lee-masters/spoon-river-anthology",
+	"title": "Spoon River Anthology",
+	"creator": "Edgar Lee Masters",
+	"description": "A collection of short poems recounting the lives and deaths of the residents of a small Illinois town.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 18935,
+		"uniqueWordsCount": 4380,
+		"ranks": {
+			"highest": 51332,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 482,
+				"readability": 50
+			},
+			"A2": {
+				"count": 400,
+				"readability": 62
+			},
+			"B1": {
+				"count": 639,
+				"readability": 73
+			},
+			"B2": {
+				"count": 887,
+				"readability": 84
+			},
+			"C1": {
+				"count": 949,
+				"readability": 93
+			},
+			"C2": {
+				"count": 673,
+				"readability": 98
+			}
+		}
+	}
+}
