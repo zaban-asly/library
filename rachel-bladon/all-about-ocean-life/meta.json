@@ -1,1 +1,43 @@
-{"dir":"rachel-bladon/all-about-ocean-life","title":"All About Ocean Life","creator":"Rachel Bladon","description":"More than half of our Earth is covered by water. There are five huge oceans on the planet. Humanity has studied the land for a long time. So there are practically no white spots on the map today. But it is different with the oceans. Like space, they still remain a mystery to many scientists. The thing is that there are very low temperatures and enormous pressure at a great depth. Bathyscaphes dive for several kilometres without problems, but they don't get deeper. It is impossible. Scientists assume that there is life at such depths too: microorganisms and other living beings. They are probably blind or have their own methods to illuminate the path. It the creature lives in such conditions, then the temperature and pressure on the surface will kill it immediately. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":994,"uniqueWordsCount":296,"ranks":{"highest":36672,"lowest":15},"levels":{"A1":{"count":135,"readability":49},"A2":{"count":38,"readability":64},"B1":{"count":34,"readability":78},"B2":{"count":32,"readability":85},"C1":{"count":21,"readability":90},"C2":{"count":21,"readability":96}}}}
+{
+	"dir": "rachel-bladon/all-about-ocean-life",
+	"title": "All About Ocean Life",
+	"creator": "Rachel Bladon",
+	"description": "More than half of our Earth is covered by water. There are five huge oceans on the planet. Humanity has studied the land for a long time. So there are practically no white spots on the map today. But it is different with the oceans. Like space, they still remain a mystery to many scientists. The thing is that there are very low temperatures and enormous pressure at a great depth. Bathyscaphes dive for several kilometres without problems, but they don't get deeper. It is impossible. Scientists assume that there is life at such depths too: microorganisms and other living beings. They are probably blind or have their own methods to illuminate the path. It the creature lives in such conditions, then the temperature and pressure on the surface will kill it immediately. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1001,
+		"uniqueWordsCount": 306,
+		"ranks": {
+			"highest": 43505,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 129,
+				"readability": 45
+			},
+			"A2": {
+				"count": 44,
+				"readability": 62
+			},
+			"B1": {
+				"count": 37,
+				"readability": 75
+			},
+			"B2": {
+				"count": 31,
+				"readability": 83
+			},
+			"C1": {
+				"count": 23,
+				"readability": 89
+			},
+			"C2": {
+				"count": 23,
+				"readability": 95
+			}
+		}
+	}
+}
