@@ -1,1 +1,43 @@
-{"dir":"vladimir-korolenko/short-fiction","title":"Short Fiction","creator":"Vladimir Korolenko","description":"A collection of Vladimir Korolenko’s translated short stories and novellas, ordered by date of translated publication.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":112430,"uniqueWordsCount":7910,"ranks":{"highest":49822,"lowest":1},"levels":{"A1":{"count":466,"readability":57},"A2":{"count":484,"readability":69},"B1":{"count":942,"readability":81},"B2":{"count":1637,"readability":90},"C1":{"count":2141,"readability":97},"C2":{"count":1658,"readability":100}}}}
+{
+	"dir": "vladimir-korolenko/short-fiction",
+	"title": "Short Fiction",
+	"creator": "Vladimir Korolenko",
+	"description": "A collection of Vladimir Korolenko’s translated short stories and novellas, ordered by date of translated publication.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 112202,
+		"uniqueWordsCount": 8284,
+		"ranks": {
+			"highest": 51736,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 54
+			},
+			"A2": {
+				"count": 485,
+				"readability": 67
+			},
+			"B1": {
+				"count": 952,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1660,
+				"readability": 90
+			},
+			"C1": {
+				"count": 2251,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1765,
+				"readability": 99
+			}
+		}
+	}
+}
