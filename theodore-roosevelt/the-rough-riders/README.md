@@ -1,5 +1,5 @@
 
-# The Rough Riders <kbd>v3.2.1</kbd>
+# The Rough Riders <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
