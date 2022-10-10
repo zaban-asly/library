@@ -1,1 +1,43 @@
-{"dir":"e-nesbit/the-story-of-the-amulet","title":"The Story of the Amulet","creator":"E. Nesbit","description":"Four children are reunited with an ancient, magical creature and go on adventures through time with a magic amulet.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":33311,"uniqueWordsCount":3794,"ranks":{"highest":50198,"lowest":1},"levels":{"A1":{"count":468,"readability":63},"A2":{"count":437,"readability":75},"B1":{"count":640,"readability":84},"B2":{"count":838,"readability":92},"C1":{"count":699,"readability":96},"C2":{"count":466,"readability":99}}}}
+{
+	"dir": "e-nesbit/the-story-of-the-amulet",
+	"title": "The Story of the Amulet",
+	"creator": "E. Nesbit",
+	"description": "Four children are reunited with an ancient, magical creature and go on adventures through time with a magic amulet.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 33266,
+		"uniqueWordsCount": 4006,
+		"ranks": {
+			"highest": 52123,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 61
+			},
+			"A2": {
+				"count": 440,
+				"readability": 73
+			},
+			"B1": {
+				"count": 669,
+				"readability": 83
+			},
+			"B2": {
+				"count": 880,
+				"readability": 91
+			},
+			"C1": {
+				"count": 750,
+				"readability": 96
+			},
+			"C2": {
+				"count": 501,
+				"readability": 99
+			}
+		}
+	}
+}
