@@ -1,1 +1,43 @@
-{"dir":"arnold-bennett/riceyman-steps","title":"Riceyman Steps","creator":"Arnold Bennett","description":"A London bookseller’s “grand passion” for hoarding money threatens his own happiness as well as those closest to him.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":45956,"uniqueWordsCount":5995,"ranks":{"highest":49842,"lowest":1},"levels":{"A1":{"count":467,"readability":53},"A2":{"count":469,"readability":65},"B1":{"count":829,"readability":77},"B2":{"count":1204,"readability":87},"C1":{"count":1344,"readability":94},"C2":{"count":1106,"readability":99}}}}
+{
+	"dir": "arnold-bennett/riceyman-steps",
+	"title": "Riceyman Steps",
+	"creator": "Arnold Bennett",
+	"description": "A London bookseller’s “grand passion” for hoarding money threatens his own happiness as well as those closest to him.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 45774,
+		"uniqueWordsCount": 6265,
+		"ranks": {
+			"highest": 51756,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 51
+			},
+			"A2": {
+				"count": 470,
+				"readability": 63
+			},
+			"B1": {
+				"count": 844,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1258,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1386,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1168,
+				"readability": 99
+			}
+		}
+	}
+}
