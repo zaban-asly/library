@@ -1,1 +1,43 @@
-{"dir":"g-k-chesterton/the-napoleon-of-notting-hill","title":"The Napoleon of Notting Hill","creator":"G. K. Chesterton","description":"A satire set in far-future London where the king, who was chosen at random, only cares about a good joke.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":27274,"uniqueWordsCount":4536,"ranks":{"highest":50169,"lowest":1},"levels":{"A1":{"count":459,"readability":54},"A2":{"count":462,"readability":66},"B1":{"count":747,"readability":77},"B2":{"count":972,"readability":87},"C1":{"count":953,"readability":94},"C2":{"count":641,"readability":99}}}}
+{
+	"dir": "g-k-chesterton/the-napoleon-of-notting-hill",
+	"title": "The Napoleon of Notting Hill",
+	"creator": "G. K. Chesterton",
+	"description": "A satire set in far-future London where the king, who was chosen at random, only cares about a good joke.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 27225,
+		"uniqueWordsCount": 4749,
+		"ranks": {
+			"highest": 52093,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 488,
+				"readability": 52
+			},
+			"A2": {
+				"count": 462,
+				"readability": 64
+			},
+			"B1": {
+				"count": 761,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1012,
+				"readability": 86
+			},
+			"C1": {
+				"count": 989,
+				"readability": 94
+			},
+			"C2": {
+				"count": 692,
+				"readability": 99
+			}
+		}
+	}
+}
