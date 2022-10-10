@@ -1,1 +1,43 @@
-{"dir":"william-congreve/the-way-of-the-world","title":"The Way of the World","creator":"William Congreve","description":"Two lovers are prevented from marrying due to a previous dalliance.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":13979,"uniqueWordsCount":3095,"ranks":{"highest":49000,"lowest":1},"levels":{"A1":{"count":436,"readability":53},"A2":{"count":354,"readability":63},"B1":{"count":516,"readability":76},"B2":{"count":588,"readability":85},"C1":{"count":586,"readability":93},"C2":{"count":409,"readability":98}}}}
+{
+	"dir": "william-congreve/the-way-of-the-world",
+	"title": "The Way of the World",
+	"creator": "William Congreve",
+	"description": "Two lovers are prevented from marrying due to a previous dalliance.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 13961,
+		"uniqueWordsCount": 3208,
+		"ranks": {
+			"highest": 50858,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 463,
+				"readability": 51
+			},
+			"A2": {
+				"count": 352,
+				"readability": 62
+			},
+			"B1": {
+				"count": 527,
+				"readability": 75
+			},
+			"B2": {
+				"count": 606,
+				"readability": 85
+			},
+			"C1": {
+				"count": 603,
+				"readability": 92
+			},
+			"C2": {
+				"count": 428,
+				"readability": 98
+			}
+		}
+	}
+}
