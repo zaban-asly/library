@@ -1,1 +1,43 @@
-{"dir":"selma-lagerl-f/the-wonderful-adventures-of-nils","title":"The Wonderful Adventures of Nils","creator":"Selma Lagerlöf","description":"Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":73826,"uniqueWordsCount":5264,"ranks":{"highest":49757,"lowest":1},"levels":{"A1":{"count":463,"readability":59},"A2":{"count":453,"readability":71},"B1":{"count":806,"readability":81},"B2":{"count":1159,"readability":91},"C1":{"count":1185,"readability":96},"C2":{"count":868,"readability":100}}}}
+{
+	"dir": "selma-lagerl-f/the-wonderful-adventures-of-nils",
+	"title": "The Wonderful Adventures of Nils",
+	"creator": "Selma Lagerlöf",
+	"description": "Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 73710,
+		"uniqueWordsCount": 5553,
+		"ranks": {
+			"highest": 51671,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 57
+			},
+			"A2": {
+				"count": 457,
+				"readability": 69
+			},
+			"B1": {
+				"count": 829,
+				"readability": 80
+			},
+			"B2": {
+				"count": 1196,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1256,
+				"readability": 95
+			},
+			"C2": {
+				"count": 940,
+				"readability": 99
+			}
+		}
+	}
+}
