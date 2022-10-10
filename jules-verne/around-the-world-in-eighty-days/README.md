@@ -1,5 +1,5 @@
 
-# Around the World in Eighty Days <kbd>v3.2.1</kbd>
+# Around the World in Eighty Days <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
