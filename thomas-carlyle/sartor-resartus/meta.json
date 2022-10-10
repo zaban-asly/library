@@ -1,1 +1,43 @@
-{"dir":"thomas-carlyle/sartor-resartus","title":"Sartor Resartus","creator":"Thomas Carlyle","description":"The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":42128,"uniqueWordsCount":7367,"ranks":{"highest":50322,"lowest":1},"levels":{"A1":{"count":468,"readability":46},"A2":{"count":460,"readability":56},"B1":{"count":854,"readability":70},"B2":{"count":1311,"readability":81},"C1":{"count":1639,"readability":91},"C2":{"count":1558,"readability":97}}}}
+{
+	"dir": "thomas-carlyle/sartor-resartus",
+	"title": "Sartor Resartus",
+	"creator": "Thomas Carlyle",
+	"description": "The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 42065,
+		"uniqueWordsCount": 7701,
+		"ranks": {
+			"highest": 52251,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 44
+			},
+			"A2": {
+				"count": 461,
+				"readability": 54
+			},
+			"B1": {
+				"count": 856,
+				"readability": 68
+			},
+			"B2": {
+				"count": 1330,
+				"readability": 80
+			},
+			"C1": {
+				"count": 1696,
+				"readability": 90
+			},
+			"C2": {
+				"count": 1670,
+				"readability": 97
+			}
+		}
+	}
+}
