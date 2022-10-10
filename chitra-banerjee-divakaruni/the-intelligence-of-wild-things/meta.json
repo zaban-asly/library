@@ -1,1 +1,43 @@
-{"dir":"chitra-banerjee-divakaruni/the-intelligence-of-wild-things","title":"The Intelligence of Wild Things","creator":"Chitra Banerjee Divakaruni","description":"This book tells the story of one family. They all lived in India. The main character moved to America and began to live in California. His sister Tarun stayed to live with his mother. The girl was very attached to her. Later the reader discovers that the mother made her son leave the country and go to the college.  The political situation in India was very tense, and the woman wanted her son to be safe. Many men in the country died at that time. He refused for a long time, but was forced to agree. The disputes were very long. Finally, the woman convinced her son at the cost of great difficulties. Mom often sends letters to the young man, but he never answers. At the end, the mother confesses why her son left the country. The book is about the great love of a mother for her children. The author shows how far she would go in order to protect them.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1610,"uniqueWordsCount":656,"ranks":{"highest":26440,"lowest":1},"levels":{"A1":{"count":305,"readability":67},"A2":{"count":124,"readability":79},"B1":{"count":102,"readability":89},"B2":{"count":75,"readability":96},"C1":{"count":26,"readability":98},"C2":{"count":18,"readability":100}}}}
+{
+	"dir": "chitra-banerjee-divakaruni/the-intelligence-of-wild-things",
+	"title": "The Intelligence of Wild Things",
+	"creator": "Chitra Banerjee Divakaruni",
+	"description": "This book tells the story of one family. They all lived in India. The main character moved to America and began to live in California. His sister Tarun stayed to live with his mother. The girl was very attached to her. Later the reader discovers that the mother made her son leave the country and go to the college.  The political situation in India was very tense, and the woman wanted her son to be safe. Many men in the country died at that time. He refused for a long time, but was forced to agree. The disputes were very long. Finally, the woman convinced her son at the cost of great difficulties. Mom often sends letters to the young man, but he never answers. At the end, the mother confesses why her son left the country. The book is about the great love of a mother for her children. The author shows how far she would go in order to protect them.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1611,
+		"uniqueWordsCount": 706,
+		"ranks": {
+			"highest": 50521,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 324,
+				"readability": 64
+			},
+			"A2": {
+				"count": 133,
+				"readability": 77
+			},
+			"B1": {
+				"count": 111,
+				"readability": 88
+			},
+			"B2": {
+				"count": 78,
+				"readability": 95
+			},
+			"C1": {
+				"count": 28,
+				"readability": 97
+			},
+			"C2": {
+				"count": 20,
+				"readability": 100
+			}
+		}
+	}
+}
