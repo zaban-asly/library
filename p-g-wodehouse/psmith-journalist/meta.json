@@ -1,1 +1,43 @@
-{"dir":"p-g-wodehouse/psmith-journalist","title":"Psmith, Journalist","creator":"P. G. Wodehouse","description":"Psmith, visiting New York with Mike on a cricket tour, finds entertainment and trouble for himself in the newspaper business, stirring up trouble with New York’s notorious gangs.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":28233,"uniqueWordsCount":4546,"ranks":{"highest":49302,"lowest":1},"levels":{"A1":{"count":453,"readability":52},"A2":{"count":441,"readability":64},"B1":{"count":733,"readability":75},"B2":{"count":953,"readability":85},"C1":{"count":933,"readability":94},"C2":{"count":693,"readability":99}}}}
+{
+	"dir": "p-g-wodehouse/psmith-journalist",
+	"title": "Psmith, Journalist",
+	"creator": "P. G. Wodehouse",
+	"description": "Psmith, visiting New York with Mike on a cricket tour, finds entertainment and trouble for himself in the newspaper business, stirring up trouble with New York’s notorious gangs.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 28183,
+		"uniqueWordsCount": 4738,
+		"ranks": {
+			"highest": 51198,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 483,
+				"readability": 51
+			},
+			"A2": {
+				"count": 444,
+				"readability": 62
+			},
+			"B1": {
+				"count": 737,
+				"readability": 74
+			},
+			"B2": {
+				"count": 989,
+				"readability": 84
+			},
+			"C1": {
+				"count": 968,
+				"readability": 93
+			},
+			"C2": {
+				"count": 735,
+				"readability": 98
+			}
+		}
+	}
+}
