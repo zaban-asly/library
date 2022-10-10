@@ -1,1 +1,43 @@
-{"dir":"vsevolod-garshin/short-fiction","title":"Short Fiction","creator":"Vsevolod Garshin","description":"A collection of Garshin’s translated short stories and novellas ordered by date of publication.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":54249,"uniqueWordsCount":5610,"ranks":{"highest":47900,"lowest":1},"levels":{"A1":{"count":465,"readability":58},"A2":{"count":472,"readability":71},"B1":{"count":836,"readability":81},"B2":{"count":1224,"readability":90},"C1":{"count":1308,"readability":96},"C2":{"count":915,"readability":99}}}}
+{
+	"dir": "vsevolod-garshin/short-fiction",
+	"title": "Short Fiction",
+	"creator": "Vsevolod Garshin",
+	"description": "A collection of Garshin’s translated short stories and novellas ordered by date of publication.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 54177,
+		"uniqueWordsCount": 5875,
+		"ranks": {
+			"highest": 49705,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 56
+			},
+			"A2": {
+				"count": 475,
+				"readability": 69
+			},
+			"B1": {
+				"count": 858,
+				"readability": 80
+			},
+			"B2": {
+				"count": 1250,
+				"readability": 90
+			},
+			"C1": {
+				"count": 1373,
+				"readability": 96
+			},
+			"C2": {
+				"count": 983,
+				"readability": 99
+			}
+		}
+	}
+}
