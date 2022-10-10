@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/titus-andronicus","title":"Titus Andronicus","creator":"William Shakespeare","description":"A blood feud erupts between a famous Roman general and the Queen of the Goths.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":10138,"uniqueWordsCount":2276,"ranks":{"highest":50050,"lowest":1},"levels":{"A1":{"count":411,"readability":50},"A2":{"count":287,"readability":61},"B1":{"count":399,"readability":74},"B2":{"count":446,"readability":84},"C1":{"count":402,"readability":94},"C2":{"count":235,"readability":99}}}}
+{
+	"dir": "william-shakespeare/titus-andronicus",
+	"title": "Titus Andronicus",
+	"creator": "William Shakespeare",
+	"description": "A blood feud erupts between a famous Roman general and the Queen of the Goths.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 10126,
+		"uniqueWordsCount": 2393,
+		"ranks": {
+			"highest": 51972,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 428,
+				"readability": 48
+			},
+			"A2": {
+				"count": 292,
+				"readability": 58
+			},
+			"B1": {
+				"count": 411,
+				"readability": 72
+			},
+			"B2": {
+				"count": 466,
+				"readability": 84
+			},
+			"C1": {
+				"count": 422,
+				"readability": 93
+			},
+			"C2": {
+				"count": 262,
+				"readability": 99
+			}
+		}
+	}
+}
