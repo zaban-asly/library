@@ -1,1 +1,43 @@
-{"dir":"john-w-campbell/islands-of-space","title":"Islands of Space","creator":"John W. Campbell","description":"Four men become the first humans to travel to other galaxies.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":31245,"uniqueWordsCount":3790,"ranks":{"highest":49716,"lowest":1},"levels":{"A1":{"count":443,"readability":54},"A2":{"count":399,"readability":66},"B1":{"count":605,"readability":78},"B2":{"count":754,"readability":87},"C1":{"count":689,"readability":94},"C2":{"count":541,"readability":98}}}}
+{
+	"dir": "john-w-campbell/islands-of-space",
+	"title": "Islands of Space",
+	"creator": "John W. Campbell",
+	"description": "Four men become the first humans to travel to other galaxies.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 31222,
+		"uniqueWordsCount": 3985,
+		"ranks": {
+			"highest": 51629,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 471,
+				"readability": 51
+			},
+			"A2": {
+				"count": 407,
+				"readability": 64
+			},
+			"B1": {
+				"count": 625,
+				"readability": 76
+			},
+			"B2": {
+				"count": 780,
+				"readability": 85
+			},
+			"C1": {
+				"count": 731,
+				"readability": 93
+			},
+			"C2": {
+				"count": 570,
+				"readability": 98
+			}
+		}
+	}
+}
