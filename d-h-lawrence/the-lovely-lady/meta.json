@@ -1,1 +1,43 @@
-{"dir":"d-h-lawrence/the-lovely-lady","title":"The Lovely Lady","creator":"D. H. Lawrence","description":"Pauline was an old woman. She turned seventy-two. But she looked much better at her age. And under a particularly successful light she could be taken for a young woman of thirty. She had beautiful features and a good figure. Only big sad eyes gave out this age. She left her husband many years ago. Pauline lived with her son Robert in a big house in the suburbs of London. Pauline's niece named Siss lived together with them. The girl was young and very modest. The three of them often had dinner by candlelight. Pauline loved candles, because by their light she looked especially young and beautiful. After that, they usually drank coffee in a cozy living room. There were a lot of expensive furniture and beautiful paintings. Pauline felt happy at such moments. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1624,"uniqueWordsCount":481,"ranks":{"highest":29311,"lowest":1},"levels":{"A1":{"count":263,"readability":65},"A2":{"count":92,"readability":78},"B1":{"count":68,"readability":91},"B2":{"count":43,"readability":96},"C1":{"count":8,"readability":96},"C2":{"count":5,"readability":100}}}}
+{
+	"dir": "d-h-lawrence/the-lovely-lady",
+	"title": "The Lovely Lady",
+	"creator": "D. H. Lawrence",
+	"description": "Pauline was an old woman. She turned seventy-two. But she looked much better at her age. And under a particularly successful light she could be taken for a young woman of thirty. She had beautiful features and a good figure. Only big sad eyes gave out this age. She left her husband many years ago. Pauline lived with her son Robert in a big house in the suburbs of London. Pauline's niece named Siss lived together with them. The girl was young and very modest. The three of them often had dinner by candlelight. Pauline loved candles, because by their light she looked especially young and beautiful. After that, they usually drank coffee in a cozy living room. There were a lot of expensive furniture and beautiful paintings. Pauline felt happy at such moments. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1701,
+		"uniqueWordsCount": 524,
+		"ranks": {
+			"highest": 30410,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 282,
+				"readability": 61
+			},
+			"A2": {
+				"count": 96,
+				"readability": 73
+			},
+			"B1": {
+				"count": 80,
+				"readability": 86
+			},
+			"B2": {
+				"count": 45,
+				"readability": 91
+			},
+			"C1": {
+				"count": 11,
+				"readability": 92
+			},
+			"C2": {
+				"count": 7,
+				"readability": 96
+			}
+		}
+	}
+}
