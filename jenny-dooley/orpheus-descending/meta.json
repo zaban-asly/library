@@ -1,1 +1,43 @@
-{"dir":"jenny-dooley/orpheus-descending","title":"Orpheus Descending","creator":"Jenny Dooley","description":"<p>This book tells us about the myth of Orpheus - the legendary singer and musician of ancient Greece. He was the son of Calliope - muse of the epic poetry and king Oeagrus. When Orpheus was born, his parents made a great celebration. All their relatives and friends came to congratulate the happy family with the gifts. The most welcome guest was Apollo - god of music and light. He prepared something special for the newborn. Apollo gave Orpheus the most valuable thing he had - his lyre. The god of music also predicted Orpheus' future. Kissing Orpheus' forehead, Apollo filled the baby's body by special power. This power gave the opportunity to combine father's music and mother's poetry. And the lyre would open people's hearts and exalt their souls. The masterpiece is adopted poetically and the narration will give real pleasure to the readers.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3173,"uniqueWordsCount":835,"ranks":{"highest":48117,"lowest":1},"levels":{"A1":{"count":338,"readability":62},"A2":{"count":168,"readability":75},"B1":{"count":137,"readability":83},"B2":{"count":93,"readability":87},"C1":{"count":42,"readability":89},"C2":{"count":36,"readability":97}}}}
+{
+	"dir": "jenny-dooley/orpheus-descending",
+	"title": "Orpheus Descending",
+	"creator": "Jenny Dooley",
+	"description": "<p>This book tells us about the myth of Orpheus - the legendary singer and musician of ancient Greece. He was the son of Calliope - muse of the epic poetry and king Oeagrus. When Orpheus was born, his parents made a great celebration. All their relatives and friends came to congratulate the happy family with the gifts. The most welcome guest was Apollo - god of music and light. He prepared something special for the newborn. Apollo gave Orpheus the most valuable thing he had - his lyre. The god of music also predicted Orpheus' future. Kissing Orpheus' forehead, Apollo filled the baby's body by special power. This power gave the opportunity to combine father's music and mother's poetry. And the lyre would open people's hearts and exalt their souls. The masterpiece is adopted poetically and the narration will give real pleasure to the readers.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3169,
+		"uniqueWordsCount": 904,
+		"ranks": {
+			"highest": 49928,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 364,
+				"readability": 59
+			},
+			"A2": {
+				"count": 175,
+				"readability": 72
+			},
+			"B1": {
+				"count": 159,
+				"readability": 82
+			},
+			"B2": {
+				"count": 101,
+				"readability": 87
+			},
+			"C1": {
+				"count": 46,
+				"readability": 89
+			},
+			"C2": {
+				"count": 37,
+				"readability": 97
+			}
+		}
+	}
+}
