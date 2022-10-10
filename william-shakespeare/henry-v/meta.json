@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/henry-v","title":"Henry V","creator":"William Shakespeare","description":"Shakespeare’s 1599 play chronicling the history of King Henry the Fifth and his famous victory over the French at the Battle of Agincourt.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":13085,"uniqueWordsCount":2921,"ranks":{"highest":49939,"lowest":1},"levels":{"A1":{"count":426,"readability":49},"A2":{"count":348,"readability":62},"B1":{"count":498,"readability":75},"B2":{"count":575,"readability":86},"C1":{"count":508,"readability":94},"C2":{"count":360,"readability":98}}}}
+{
+	"dir": "william-shakespeare/henry-v",
+	"title": "Henry V",
+	"creator": "William Shakespeare",
+	"description": "Shakespeare’s 1599 play chronicling the history of King Henry the Fifth and his famous victory over the French at the Battle of Agincourt.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 13054,
+		"uniqueWordsCount": 3051,
+		"ranks": {
+			"highest": 51857,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 448,
+				"readability": 48
+			},
+			"A2": {
+				"count": 347,
+				"readability": 60
+			},
+			"B1": {
+				"count": 515,
+				"readability": 74
+			},
+			"B2": {
+				"count": 582,
+				"readability": 85
+			},
+			"C1": {
+				"count": 541,
+				"readability": 93
+			},
+			"C2": {
+				"count": 389,
+				"readability": 98
+			}
+		}
+	}
+}
