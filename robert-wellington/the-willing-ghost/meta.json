@@ -1,1 +1,43 @@
-{"dir":"robert-wellington/the-willing-ghost","title":"The Willing Ghost","creator":"Robert Wellington","description":"<p>A young woman came to the office of a private detective. He recognized her almost immediately. She was an heiress of one of the richest people in England. Her photos were almost in all newspapers. He father died a year ago. Everything he owned he bequeathed to her, including a big old house. It was built in the second half of the 17th century. Its age was over three hundred years old. Actually, the house was the reason to contact the investigator. The client was sure there were ghosts in it. It started three months ago. Every midnight a strange noise happened in the house. As soon as the property owner started looking for the reason, the noise stopped. The woman looked exhausted due to the lack of regular sleep and fear. The detective promised to investigate this case. The noise turned out to be not of the some supernatural origin. It was something more real and unexpected.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3668,"uniqueWordsCount":938,"ranks":{"highest":34763,"lowest":1},"levels":{"A1":{"count":330,"readability":64},"A2":{"count":148,"readability":75},"B1":{"count":170,"readability":85},"B2":{"count":137,"readability":93},"C1":{"count":77,"readability":97},"C2":{"count":51,"readability":99}}}}
+{
+	"dir": "robert-wellington/the-willing-ghost",
+	"title": "The Willing Ghost",
+	"creator": "Robert Wellington",
+	"description": "<p>A young woman came to the office of a private detective. He recognized her almost immediately. She was an heiress of one of the richest people in England. Her photos were almost in all newspapers. He father died a year ago. Everything he owned he bequeathed to her, including a big old house. It was built in the second half of the 17th century. Its age was over three hundred years old. Actually, the house was the reason to contact the investigator. The client was sure there were ghosts in it. It started three months ago. Every midnight a strange noise happened in the house. As soon as the property owner started looking for the reason, the noise stopped. The woman looked exhausted due to the lack of regular sleep and fear. The detective promised to investigate this case. The noise turned out to be not of the some supernatural origin. It was something more real and unexpected.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3664,
+		"uniqueWordsCount": 996,
+		"ranks": {
+			"highest": 45206,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 348,
+				"readability": 63
+			},
+			"A2": {
+				"count": 147,
+				"readability": 74
+			},
+			"B1": {
+				"count": 190,
+				"readability": 84
+			},
+			"B2": {
+				"count": 144,
+				"readability": 92
+			},
+			"C1": {
+				"count": 84,
+				"readability": 97
+			},
+			"C2": {
+				"count": 54,
+				"readability": 99
+			}
+		}
+	}
+}
