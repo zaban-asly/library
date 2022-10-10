@@ -1,1 +1,43 @@
-{"dir":"james-watson/double-helix","title":"Double Helix","creator":"James Watson","description":"This is an autobiographical book by James Watson. He tells about his work on DNA. The author helps the reader to plunge into the days of his youth, when he enthusiastically worked and rested at the local pub in the evenings. This pub called Eagle was located on the campus of Cambridge. The pub has been popular among academics. It was cozy, inexpensive and with a good choice of drinks. It was a real pleasure for the researches. Francis and James have been working on DNA structure for a long time and have already made some interesting promising discoveries. They proved that DNA transmits information from parent to child. Some even have stated it to be the most global contribution to science over the entire period of its existence.  In this place, you could relax and unwind after a hard day.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":15979,"uniqueWordsCount":2210,"ranks":{"highest":39945,"lowest":1},"levels":{"A1":{"count":422,"readability":51},"A2":{"count":326,"readability":63},"B1":{"count":449,"readability":76},"B2":{"count":421,"readability":86},"C1":{"count":280,"readability":92},"C2":{"count":195,"readability":97}}}}
+{
+	"dir": "james-watson/double-helix",
+	"title": "Double Helix",
+	"creator": "James Watson",
+	"description": "This is an autobiographical book by James Watson. He tells about his work on DNA. The author helps the reader to plunge into the days of his youth, when he enthusiastically worked and rested at the local pub in the evenings. This pub called Eagle was located on the campus of Cambridge. The pub has been popular among academics. It was cozy, inexpensive and with a good choice of drinks. It was a real pleasure for the researches. Francis and James have been working on DNA structure for a long time and have already made some interesting promising discoveries. They proved that DNA transmits information from parent to child. Some even have stated it to be the most global contribution to science over the entire period of its existence.  In this place, you could relax and unwind after a hard day.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 16126,
+		"uniqueWordsCount": 2371,
+		"ranks": {
+			"highest": 52102,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 450,
+				"readability": 49
+			},
+			"A2": {
+				"count": 332,
+				"readability": 61
+			},
+			"B1": {
+				"count": 469,
+				"readability": 74
+			},
+			"B2": {
+				"count": 443,
+				"readability": 84
+			},
+			"C1": {
+				"count": 302,
+				"readability": 90
+			},
+			"C2": {
+				"count": 216,
+				"readability": 96
+			}
+		}
+	}
+}
