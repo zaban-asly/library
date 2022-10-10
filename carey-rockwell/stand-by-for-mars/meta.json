@@ -1,1 +1,43 @@
-{"dir":"carey-rockwell/stand-by-for-mars","title":"Stand by for Mars!","creator":"Carey Rockwell","description":"Young Tom Corbett finally realizes his dream of becoming a Space Cadet but soon he and his classmates find themselves fighting to stay alive in the harsh Martian desert.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":30358,"uniqueWordsCount":3300,"ranks":{"highest":47060,"lowest":1},"levels":{"A1":{"count":444,"readability":54},"A2":{"count":385,"readability":68},"B1":{"count":543,"readability":78},"B2":{"count":663,"readability":86},"C1":{"count":627,"readability":95},"C2":{"count":418,"readability":99}}}}
+{
+	"dir": "carey-rockwell/stand-by-for-mars",
+	"title": "Stand by for Mars!",
+	"creator": "Carey Rockwell",
+	"description": "Young Tom Corbett finally realizes his dream of becoming a Space Cadet but soon he and his classmates find themselves fighting to stay alive in the harsh Martian desert.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 30298,
+		"uniqueWordsCount": 3477,
+		"ranks": {
+			"highest": 50847,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 469,
+				"readability": 53
+			},
+			"A2": {
+				"count": 396,
+				"readability": 67
+			},
+			"B1": {
+				"count": 564,
+				"readability": 76
+			},
+			"B2": {
+				"count": 696,
+				"readability": 85
+			},
+			"C1": {
+				"count": 661,
+				"readability": 94
+			},
+			"C2": {
+				"count": 450,
+				"readability": 99
+			}
+		}
+	}
+}
