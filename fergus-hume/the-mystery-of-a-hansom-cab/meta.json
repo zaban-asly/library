@@ -1,1 +1,43 @@
-{"dir":"fergus-hume/the-mystery-of-a-hansom-cab","title":"The Mystery of a Hansom Cab","creator":"Fergus Hume","description":"A man is found dead in a hansom cab in the city of Melbourne, Australia, and a young man is accused of his murder.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":41071,"uniqueWordsCount":4772,"ranks":{"highest":46082,"lowest":1},"levels":{"A1":{"count":467,"readability":60},"A2":{"count":466,"readability":72},"B1":{"count":790,"readability":81},"B2":{"count":1043,"readability":90},"C1":{"count":1019,"readability":96},"C2":{"count":706,"readability":99}}}}
+{
+	"dir": "fergus-hume/the-mystery-of-a-hansom-cab",
+	"title": "The Mystery of a Hansom Cab",
+	"creator": "Fergus Hume",
+	"description": "A man is found dead in a hansom cab in the city of Melbourne, Australia, and a young man is accused of his murder.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 40958,
+		"uniqueWordsCount": 4985,
+		"ranks": {
+			"highest": 47812,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 57
+			},
+			"A2": {
+				"count": 470,
+				"readability": 70
+			},
+			"B1": {
+				"count": 812,
+				"readability": 81
+			},
+			"B2": {
+				"count": 1070,
+				"readability": 90
+			},
+			"C1": {
+				"count": 1067,
+				"readability": 96
+			},
+			"C2": {
+				"count": 750,
+				"readability": 99
+			}
+		}
+	}
+}
