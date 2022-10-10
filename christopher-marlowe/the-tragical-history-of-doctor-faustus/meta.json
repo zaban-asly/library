@@ -1,1 +1,43 @@
-{"dir":"christopher-marlowe/the-tragical-history-of-doctor-faustus","title":"The Tragical History of Doctor Faustus","creator":"Christopher Marlowe","description":"Dr. Faustus sells his soul to Lucifer in return for magical powers.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":7344,"uniqueWordsCount":2023,"ranks":{"highest":48478,"lowest":1},"levels":{"A1":{"count":389,"readability":47},"A2":{"count":278,"readability":58},"B1":{"count":357,"readability":70},"B2":{"count":377,"readability":80},"C1":{"count":289,"readability":87},"C2":{"count":220,"readability":98}}}}
+{
+	"dir": "christopher-marlowe/the-tragical-history-of-doctor-faustus",
+	"title": "The Tragical History of Doctor Faustus",
+	"creator": "Christopher Marlowe",
+	"description": "Dr. Faustus sells his soul to Lucifer in return for magical powers.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 7328,
+		"uniqueWordsCount": 2114,
+		"ranks": {
+			"highest": 50307,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 407,
+				"readability": 45
+			},
+			"A2": {
+				"count": 282,
+				"readability": 56
+			},
+			"B1": {
+				"count": 360,
+				"readability": 69
+			},
+			"B2": {
+				"count": 396,
+				"readability": 79
+			},
+			"C1": {
+				"count": 313,
+				"readability": 87
+			},
+			"C2": {
+				"count": 225,
+				"readability": 98
+			}
+		}
+	}
+}
