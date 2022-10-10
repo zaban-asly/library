@@ -1,1 +1,43 @@
-{"dir":"arnold-bennett/stories-from-the-five-towns","title":"Stories from the Five Towns","creator":"Arnold Bennett","description":"This book by an English writer and journalist published in 1905. There are four short stories about people from five cities, stories are filled irony, satire and easy reading. The cycle opens the 'News of the Engagement' story about a son who tries to tell his mother about his engagement, but does not know how to do it better, because she's a widow, and he's her only child. In the story 'The Burglary', the judge arranges a burglary at his home to get rid of a strange portrait of himself. 'Beginning the New Year' is a story about a man who returned home on New Year's Eve after absence of 23 years. 'The Silent Brothers' is a story about two brothers who have not spoken to each other for ten years. And in order to receive money, they make a marriage proposal to the same girl.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2460,"uniqueWordsCount":516,"ranks":{"highest":29063,"lowest":1},"levels":{"A1":{"count":265,"readability":73},"A2":{"count":100,"readability":85},"B1":{"count":64,"readability":92},"B2":{"count":46,"readability":97},"C1":{"count":17,"readability":98},"C2":{"count":16,"readability":100}}}}
+{
+	"dir": "arnold-bennett/stories-from-the-five-towns",
+	"title": "Stories from the Five Towns",
+	"creator": "Arnold Bennett",
+	"description": "This book by an English writer and journalist published in 1905. There are four short stories about people from five cities, stories are filled irony, satire and easy reading. The cycle opens the 'News of the Engagement' story about a son who tries to tell his mother about his engagement, but does not know how to do it better, because she's a widow, and he's her only child. In the story 'The Burglary', the judge arranges a burglary at his home to get rid of a strange portrait of himself. 'Beginning the New Year' is a story about a man who returned home on New Year's Eve after absence of 23 years. 'The Silent Brothers' is a story about two brothers who have not spoken to each other for ten years. And in order to receive money, they make a marriage proposal to the same girl.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2461,
+		"uniqueWordsCount": 564,
+		"ranks": {
+			"highest": 34757,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 288,
+				"readability": 72
+			},
+			"A2": {
+				"count": 94,
+				"readability": 83
+			},
+			"B1": {
+				"count": 81,
+				"readability": 92
+			},
+			"B2": {
+				"count": 52,
+				"readability": 97
+			},
+			"C1": {
+				"count": 17,
+				"readability": 98
+			},
+			"C2": {
+				"count": 20,
+				"readability": 99
+			}
+		}
+	}
+}
