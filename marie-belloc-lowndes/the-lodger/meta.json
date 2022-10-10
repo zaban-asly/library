@@ -1,1 +1,43 @@
-{"dir":"marie-belloc-lowndes/the-lodger","title":"The Lodger","creator":"Marie Belloc Lowndes","description":"A maid and butler take in a mysterious, eccentric gentleman lodger around the time of the Jack the Ripper murders.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":39481,"uniqueWordsCount":3854,"ranks":{"highest":47862,"lowest":1},"levels":{"A1":{"count":458,"readability":63},"A2":{"count":434,"readability":74},"B1":{"count":684,"readability":83},"B2":{"count":803,"readability":89},"C1":{"count":733,"readability":97},"C2":{"count":542,"readability":100}}}}
+{
+	"dir": "marie-belloc-lowndes/the-lodger",
+	"title": "The Lodger",
+	"creator": "Marie Belloc Lowndes",
+	"description": "A maid and butler take in a mysterious, eccentric gentleman lodger around the time of the Jack the Ripper murders.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 39422,
+		"uniqueWordsCount": 4058,
+		"ranks": {
+			"highest": 49666,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 484,
+				"readability": 62
+			},
+			"A2": {
+				"count": 441,
+				"readability": 72
+			},
+			"B1": {
+				"count": 704,
+				"readability": 82
+			},
+			"B2": {
+				"count": 841,
+				"readability": 89
+			},
+			"C1": {
+				"count": 756,
+				"readability": 96
+			},
+			"C2": {
+				"count": 598,
+				"readability": 100
+			}
+		}
+	}
+}
