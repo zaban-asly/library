@@ -1,1 +1,43 @@
-{"dir":"irene-trimble/the-curse-of-the-black-pearl","title":"The Curse of the Black Pearl","creator":"Irene Trimble","description":"<p>The big black pirate ship sailed in the Caribbean Sea. There were ghosts of pirates on it. They never left their ship because of the old curse. It was just a sailor’s story. Or wasn't it? One rich little girl stood on the big ship owned her father and sang a song which called the pirates. Twelve-year-old Elizabeth Swann dreamed to meet them. In that day the Dauntless ship got out from the dark water a boy Will Turner. When he was asleep Elizabeth had taken from his shirt a gold medallion with skull and crossbones. The big black ship with the same skull and crossbones on it was sailing past them at that moment. She understood that boy was a pirate. Elizabeth was very afraid, but she hid the medallion under her dress and kept this secret for eight years.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3515,"uniqueWordsCount":389,"ranks":{"highest":46700,"lowest":11},"levels":{"A1":{"count":224,"readability":65},"A2":{"count":66,"readability":75},"B1":{"count":55,"readability":90},"B2":{"count":23,"readability":95},"C1":{"count":9,"readability":97},"C2":{"count":4,"readability":99}}}}
+{
+	"dir": "irene-trimble/the-curse-of-the-black-pearl",
+	"title": "The Curse of the Black Pearl",
+	"creator": "Irene Trimble",
+	"description": "<p>The big black pirate ship sailed in the Caribbean Sea. There were ghosts of pirates on it. They never left their ship because of the old curse. It was just a sailor’s story. Or wasn't it? One rich little girl stood on the big ship owned her father and sang a song which called the pirates. Twelve-year-old Elizabeth Swann dreamed to meet them. In that day the Dauntless ship got out from the dark water a boy Will Turner. When he was asleep Elizabeth had taken from his shirt a gold medallion with skull and crossbones. The big black ship with the same skull and crossbones on it was sailing past them at that moment. She understood that boy was a pirate. Elizabeth was very afraid, but she hid the medallion under her dress and kept this secret for eight years.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3515,
+		"uniqueWordsCount": 432,
+		"ranks": {
+			"highest": 48459,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 243,
+				"readability": 64
+			},
+			"A2": {
+				"count": 65,
+				"readability": 73
+			},
+			"B1": {
+				"count": 66,
+				"readability": 86
+			},
+			"B2": {
+				"count": 31,
+				"readability": 94
+			},
+			"C1": {
+				"count": 14,
+				"readability": 97
+			},
+			"C2": {
+				"count": 4,
+				"readability": 98
+			}
+		}
+	}
+}
