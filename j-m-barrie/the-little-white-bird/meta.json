@@ -1,1 +1,43 @@
-{"dir":"j-m-barrie/the-little-white-bird","title":"The Little White Bird","creator":"J. M. Barrie","description":"A series of adventures in London, including those of the narrator and a little boy named David, and Peter Pan.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":29876,"uniqueWordsCount":4325,"ranks":{"highest":50202,"lowest":1},"levels":{"A1":{"count":467,"readability":61},"A2":{"count":437,"readability":72},"B1":{"count":706,"readability":81},"B2":{"count":915,"readability":90},"C1":{"count":892,"readability":96},"C2":{"count":637,"readability":99}}}}
+{
+	"dir": "j-m-barrie/the-little-white-bird",
+	"title": "The Little White Bird",
+	"creator": "J. M. Barrie",
+	"description": "A series of adventures in London, including those of the narrator and a little boy named David, and Peter Pan.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 29817,
+		"uniqueWordsCount": 4556,
+		"ranks": {
+			"highest": 52127,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 59
+			},
+			"A2": {
+				"count": 438,
+				"readability": 70
+			},
+			"B1": {
+				"count": 734,
+				"readability": 80
+			},
+			"B2": {
+				"count": 947,
+				"readability": 90
+			},
+			"C1": {
+				"count": 937,
+				"readability": 96
+			},
+			"C2": {
+				"count": 693,
+				"readability": 99
+			}
+		}
+	}
+}
