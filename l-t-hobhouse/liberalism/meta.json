@@ -1,1 +1,43 @@
-{"dir":"l-t-hobhouse/liberalism","title":"Liberalism","creator":"L. T. Hobhouse","description":"An early twentieth century description of the philosophy of liberal socialism.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":23694,"uniqueWordsCount":3584,"ranks":{"highest":49844,"lowest":1},"levels":{"A1":{"count":409,"readability":41},"A2":{"count":311,"readability":54},"B1":{"count":524,"readability":71},"B2":{"count":678,"readability":84},"C1":{"count":735,"readability":93},"C2":{"count":584,"readability":98}}}}
+{
+	"dir": "l-t-hobhouse/liberalism",
+	"title": "Liberalism",
+	"creator": "L. T. Hobhouse",
+	"description": "An early twentieth century description of the philosophy of liberal socialism.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 23648,
+		"uniqueWordsCount": 3737,
+		"ranks": {
+			"highest": 51759,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 430,
+				"readability": 40
+			},
+			"A2": {
+				"count": 322,
+				"readability": 53
+			},
+			"B1": {
+				"count": 531,
+				"readability": 70
+			},
+			"B2": {
+				"count": 690,
+				"readability": 83
+			},
+			"C1": {
+				"count": 767,
+				"readability": 92
+			},
+			"C2": {
+				"count": 621,
+				"readability": 98
+			}
+		}
+	}
+}
