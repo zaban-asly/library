@@ -1,1 +1,43 @@
-{"dir":"william-trevor/the-third-party","title":"The Third Party","creator":"William Trevor","description":"The law is: a third person is a person who was involved in the situation by the first two people. Often, a third party is necessary for divorce. But there are other situations. And it is not always possible to immediately understand who the third person is. The two men agreed to meet at the bar at noon. One of them said that the other should recognize him. After all, his appearance was already told: he was tall with blond hair, which was just beginning to become grey. The other person was short, slouching, and wore glasses. The second man's name was Lairdman. The tall old man answered to Boland. The old man took out his wallet and offered to pay for the drinks. He took a stack of whiskey for himself and a glass of lemonade for another man. Boland took out a cigarette. Then he started the conversation.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1596,"uniqueWordsCount":606,"ranks":{"highest":41061,"lowest":1},"levels":{"A1":{"count":291,"readability":69},"A2":{"count":111,"readability":81},"B1":{"count":93,"readability":90},"B2":{"count":61,"readability":95},"C1":{"count":26,"readability":98},"C2":{"count":17,"readability":100}}}}
+{
+	"dir": "william-trevor/the-third-party",
+	"title": "The Third Party",
+	"creator": "William Trevor",
+	"description": "The law is: a third person is a person who was involved in the situation by the first two people. Often, a third party is necessary for divorce. But there are other situations. And it is not always possible to immediately understand who the third person is. The two men agreed to meet at the bar at noon. One of them said that the other should recognize him. After all, his appearance was already told: he was tall with blond hair, which was just beginning to become grey. The other person was short, slouching, and wore glasses. The second man's name was Lairdman. The tall old man answered to Boland. The old man took out his wallet and offered to pay for the drinks. He took a stack of whiskey for himself and a glass of lemonade for another man. Boland took out a cigarette. Then he started the conversation.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1591,
+		"uniqueWordsCount": 656,
+		"ranks": {
+			"highest": 42627,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 306,
+				"readability": 66
+			},
+			"A2": {
+				"count": 121,
+				"readability": 79
+			},
+			"B1": {
+				"count": 105,
+				"readability": 89
+			},
+			"B2": {
+				"count": 69,
+				"readability": 95
+			},
+			"C1": {
+				"count": 29,
+				"readability": 98
+			},
+			"C2": {
+				"count": 16,
+				"readability": 100
+			}
+		}
+	}
+}
