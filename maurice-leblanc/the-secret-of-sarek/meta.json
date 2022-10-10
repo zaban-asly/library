@@ -1,1 +1,43 @@
-{"dir":"maurice-leblanc/the-secret-of-sarek","title":"The Secret of Sarek","creator":"Maurice Leblanc","description":"After seeing her name in an unrelated film, a woman traces the clues that lead her to a terrifying secret.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":41637,"uniqueWordsCount":4946,"ranks":{"highest":49149,"lowest":1},"levels":{"A1":{"count":463,"readability":57},"A2":{"count":458,"readability":70},"B1":{"count":799,"readability":81},"B2":{"count":1094,"readability":90},"C1":{"count":1123,"readability":96},"C2":{"count":763,"readability":100}}}}
+{
+	"dir": "maurice-leblanc/the-secret-of-sarek",
+	"title": "The Secret of Sarek",
+	"creator": "Maurice Leblanc",
+	"description": "After seeing her name in an unrelated film, a woman traces the clues that lead her to a terrifying secret.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 41527,
+		"uniqueWordsCount": 5199,
+		"ranks": {
+			"highest": 51018,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 55
+			},
+			"A2": {
+				"count": 463,
+				"readability": 68
+			},
+			"B1": {
+				"count": 821,
+				"readability": 80
+			},
+			"B2": {
+				"count": 1135,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1184,
+				"readability": 96
+			},
+			"C2": {
+				"count": 822,
+				"readability": 99
+			}
+		}
+	}
+}
