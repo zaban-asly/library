@@ -1,1 +1,43 @@
-{"dir":"charles-dickens/nicholas-nickleby","title":"Nicholas Nickleby","creator":"Charles Dickens","description":"<p>A boy named Nicholas Nickleby was a happy carefree kid. Unfortunately, some time later his father passed away. After the tragedy Nicholas, his mother and sister went to London to ask their rich uncle Ralph Nickleby for help. The uncle sends Nicholas to a private school in Yorkshire. Nicholas discovers that this school is a terrible place. The pupil has to bear teachers' bullying until he meets a strange boy. His name is Smike. After many cruel punishments and endless hunger two inseparable friends decide to drop out of school. They manage to find a job in the theater. Many years pass filled with lots of exciting adventures. But later, when nothing can be changed, Nicholas finds out the awful truth about his best friend.  </p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":9118,"uniqueWordsCount":1130,"ranks":{"highest":29923,"lowest":1},"levels":{"A1":{"count":398,"readability":67},"A2":{"count":238,"readability":81},"B1":{"count":230,"readability":90},"B2":{"count":160,"readability":94},"C1":{"count":70,"readability":99},"C2":{"count":27,"readability":100}}}}
+{
+	"dir": "charles-dickens/nicholas-nickleby",
+	"title": "Nicholas Nickleby",
+	"creator": "Charles Dickens",
+	"description": "<p>A boy named Nicholas Nickleby was a happy carefree kid. Unfortunately, some time later his father passed away. After the tragedy Nicholas, his mother and sister went to London to ask their rich uncle Ralph Nickleby for help. The uncle sends Nicholas to a private school in Yorkshire. Nicholas discovers that this school is a terrible place. The pupil has to bear teachers' bullying until he meets a strange boy. His name is Smike. After many cruel punishments and endless hunger two inseparable friends decide to drop out of school. They manage to find a job in the theater. Many years pass filled with lots of exciting adventures. But later, when nothing can be changed, Nicholas finds out the awful truth about his best friend.  </p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 9116,
+		"uniqueWordsCount": 1237,
+		"ranks": {
+			"highest": 31049,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 424,
+				"readability": 66
+			},
+			"A2": {
+				"count": 245,
+				"readability": 80
+			},
+			"B1": {
+				"count": 262,
+				"readability": 89
+			},
+			"B2": {
+				"count": 180,
+				"readability": 94
+			},
+			"C1": {
+				"count": 76,
+				"readability": 98
+			},
+			"C2": {
+				"count": 38,
+				"readability": 100
+			}
+		}
+	}
+}
