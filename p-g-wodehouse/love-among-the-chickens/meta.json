@@ -1,1 +1,43 @@
-{"dir":"p-g-wodehouse/love-among-the-chickens","title":"Love Among the Chickens","creator":"P. G. Wodehouse","description":"Stanley Ukridge ensnares the narrator in another one of his schemes: running a chicken farm in the English countryside.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":24033,"uniqueWordsCount":4291,"ranks":{"highest":46304,"lowest":1},"levels":{"A1":{"count":462,"readability":56},"A2":{"count":448,"readability":67},"B1":{"count":711,"readability":78},"B2":{"count":930,"readability":88},"C1":{"count":861,"readability":95},"C2":{"count":600,"readability":99}}}}
+{
+	"dir": "p-g-wodehouse/love-among-the-chickens",
+	"title": "Love Among the Chickens",
+	"creator": "P. G. Wodehouse",
+	"description": "Stanley Ukridge ensnares the narrator in another one of his schemes: running a chicken farm in the English countryside.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 23994,
+		"uniqueWordsCount": 4482,
+		"ranks": {
+			"highest": 48049,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 489,
+				"readability": 54
+			},
+			"A2": {
+				"count": 454,
+				"readability": 66
+			},
+			"B1": {
+				"count": 727,
+				"readability": 77
+			},
+			"B2": {
+				"count": 960,
+				"readability": 87
+			},
+			"C1": {
+				"count": 908,
+				"readability": 94
+			},
+			"C2": {
+				"count": 632,
+				"readability": 99
+			}
+		}
+	}
+}
