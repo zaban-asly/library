@@ -1,1 +1,43 @@
-{"dir":"karel-apek/r-u-r","title":"R.U.R.","creator":"Karel Čapek","description":"The development of artificial beings in huge quantities to act as workers and soldiers leads to disaster for mankind.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":9601,"uniqueWordsCount":1810,"ranks":{"highest":46557,"lowest":1},"levels":{"A1":{"count":423,"readability":56},"A2":{"count":269,"readability":64},"B1":{"count":337,"readability":73},"B2":{"count":353,"readability":87},"C1":{"count":214,"readability":95},"C2":{"count":156,"readability":100}}}}
+{
+	"dir": "karel-apek/r-u-r",
+	"title": "R.U.R.",
+	"creator": "Karel Čapek",
+	"description": "The development of artificial beings in huge quantities to act as workers and soldiers leads to disaster for mankind.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 9585,
+		"uniqueWordsCount": 1901,
+		"ranks": {
+			"highest": 48312,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 450,
+				"readability": 54
+			},
+			"A2": {
+				"count": 272,
+				"readability": 63
+			},
+			"B1": {
+				"count": 342,
+				"readability": 72
+			},
+			"B2": {
+				"count": 370,
+				"readability": 86
+			},
+			"C1": {
+				"count": 235,
+				"readability": 94
+			},
+			"C2": {
+				"count": 165,
+				"readability": 100
+			}
+		}
+	}
+}
