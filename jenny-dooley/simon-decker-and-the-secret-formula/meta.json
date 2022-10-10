@@ -1,1 +1,43 @@
-{"dir":"jenny-dooley/simon-decker-and-the-secret-formula","title":"Simon Decker and the Secret Formula","creator":"Jenny Dooley","description":"A thirty-year-old man Simon Decker was sitting in his room and trying to start writing a detective novel. He had been worked as an expert of the bombs for the army for a long time. But then he understood, that this work wasn't his cup of tea and quitted. He got enough time for his passion тАУ creating detective stories. Inspiration didn't want to come to him and the writer stuck on the first paragraph. Suddenly, Simon heard a gunshot, woman's scream and his dog barking. Our hero chased after his dog. The dog led him to the neighbor's house. The window was broken and Simon saw a bloody body through it. The neighbor was still alive. Simon gave him first aid and called to the police. He discovered a telephone bug there. They used such bugs in the army. Who and why wanted to kill his neighbor? This man was just a simple scientist.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2851,"uniqueWordsCount":597,"ranks":{"highest":31697,"lowest":1},"levels":{"A1":{"count":297,"readability":65},"A2":{"count":112,"readability":77},"B1":{"count":71,"readability":83},"B2":{"count":58,"readability":91},"C1":{"count":28,"readability":96},"C2":{"count":19,"readability":99}}}}
+{
+	"dir": "jenny-dooley/simon-decker-and-the-secret-formula",
+	"title": "Simon Decker and the Secret Formula",
+	"creator": "Jenny Dooley",
+	"description": "A thirty-year-old man Simon Decker was sitting in his room and trying to start writing a detective novel. He had been worked as an expert of the bombs for the army for a long time. But then he understood, that this work wasn't his cup of tea and quitted. He got enough time for his passion тАУ creating detective stories. Inspiration didn't want to come to him and the writer stuck on the first paragraph. Suddenly, Simon heard a gunshot, woman's scream and his dog barking. Our hero chased after his dog. The dog led him to the neighbor's house. The window was broken and Simon saw a bloody body through it. The neighbor was still alive. Simon gave him first aid and called to the police. He discovered a telephone bug there. They used such bugs in the army. Who and why wanted to kill his neighbor? This man was just a simple scientist.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2854,
+		"uniqueWordsCount": 645,
+		"ranks": {
+			"highest": 32895,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 319,
+				"readability": 63
+			},
+			"A2": {
+				"count": 109,
+				"readability": 75
+			},
+			"B1": {
+				"count": 88,
+				"readability": 82
+			},
+			"B2": {
+				"count": 63,
+				"readability": 90
+			},
+			"C1": {
+				"count": 31,
+				"readability": 96
+			},
+			"C2": {
+				"count": 20,
+				"readability": 99
+			}
+		}
+	}
+}
