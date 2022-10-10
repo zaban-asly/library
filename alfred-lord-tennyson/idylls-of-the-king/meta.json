@@ -1,1 +1,43 @@
-{"dir":"alfred-lord-tennyson/idylls-of-the-king","title":"Idylls of the King","creator":"Alfred, Lord Tennyson","description":"Twelve poems detailing the adventures of Arthur’s round table.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":42058,"uniqueWordsCount":4116,"ranks":{"highest":50163,"lowest":1},"levels":{"A1":{"count":438,"readability":55},"A2":{"count":378,"readability":68},"B1":{"count":552,"readability":79},"B2":{"count":803,"readability":88},"C1":{"count":913,"readability":95},"C2":{"count":665,"readability":99}}}}
+{
+	"dir": "alfred-lord-tennyson/idylls-of-the-king",
+	"title": "Idylls of the King",
+	"creator": "Alfred, Lord Tennyson",
+	"description": "Twelve poems detailing the adventures of Arthur’s round table.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 41970,
+		"uniqueWordsCount": 4466,
+		"ranks": {
+			"highest": 52087,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 466,
+				"readability": 52
+			},
+			"A2": {
+				"count": 384,
+				"readability": 65
+			},
+			"B1": {
+				"count": 576,
+				"readability": 76
+			},
+			"B2": {
+				"count": 841,
+				"readability": 86
+			},
+			"C1": {
+				"count": 984,
+				"readability": 94
+			},
+			"C2": {
+				"count": 763,
+				"readability": 99
+			}
+		}
+	}
+}
