@@ -1,5 +1,5 @@
 
-# The Second Voyage of Sindbad the Sailor <kbd>v3.2.1</kbd>
+# The Second Voyage of Sindbad the Sailor <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
