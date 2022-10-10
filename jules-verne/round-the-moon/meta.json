@@ -1,1 +1,43 @@
-{"dir":"jules-verne/round-the-moon","title":"Round the Moon","creator":"Jules Verne","description":"The giant rocket Columbiad travels to the Moon, engaging in discoveries and misadventures along the way.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":26581,"uniqueWordsCount":3724,"ranks":{"highest":48839,"lowest":1},"levels":{"A1":{"count":440,"readability":46},"A2":{"count":398,"readability":59},"B1":{"count":611,"readability":71},"B2":{"count":706,"readability":83},"C1":{"count":699,"readability":92},"C2":{"count":547,"readability":98}}}}
+{
+	"dir": "jules-verne/round-the-moon",
+	"title": "Round the Moon",
+	"creator": "Jules Verne",
+	"description": "The giant rocket Columbiad travels to the Moon, engaging in discoveries and misadventures along the way.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 26479,
+		"uniqueWordsCount": 3887,
+		"ranks": {
+			"highest": 50688,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 466,
+				"readability": 44
+			},
+			"A2": {
+				"count": 403,
+				"readability": 58
+			},
+			"B1": {
+				"count": 627,
+				"readability": 70
+			},
+			"B2": {
+				"count": 728,
+				"readability": 82
+			},
+			"C1": {
+				"count": 723,
+				"readability": 92
+			},
+			"C2": {
+				"count": 580,
+				"readability": 98
+			}
+		}
+	}
+}
