@@ -1,5 +1,5 @@
 
-# Some Thoughts Concerning Education <kbd>v3.2.1</kbd>
+# Some Thoughts Concerning Education <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
