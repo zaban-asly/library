@@ -1,1 +1,43 @@
-{"dir":"horace-walpole/the-castle-of-otranto","title":"The Castle of Otranto","creator":"Horace Walpole","description":"A Gothic tale of chivalry, romance, and horror.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":16756,"uniqueWordsCount":3060,"ranks":{"highest":40461,"lowest":1},"levels":{"A1":{"count":434,"readability":49},"A2":{"count":361,"readability":62},"B1":{"count":565,"readability":77},"B2":{"count":660,"readability":88},"C1":{"count":576,"readability":97},"C2":{"count":374,"readability":100}}}}
+{
+	"dir": "horace-walpole/the-castle-of-otranto",
+	"title": "The Castle of Otranto",
+	"creator": "Horace Walpole",
+	"description": "A Gothic tale of chivalry, romance, and horror.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 16731,
+		"uniqueWordsCount": 3219,
+		"ranks": {
+			"highest": 42000,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 464,
+				"readability": 48
+			},
+			"A2": {
+				"count": 369,
+				"readability": 61
+			},
+			"B1": {
+				"count": 578,
+				"readability": 76
+			},
+			"B2": {
+				"count": 686,
+				"readability": 87
+			},
+			"C1": {
+				"count": 606,
+				"readability": 96
+			},
+			"C2": {
+				"count": 410,
+				"readability": 100
+			}
+		}
+	}
+}
