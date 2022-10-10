@@ -1,1 +1,43 @@
-{"dir":"aldous-huxley/antic-hay","title":"Antic Hay","creator":"Aldous Huxley","description":"A group of 1920s London socialites struggle with their futures.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":44163,"uniqueWordsCount":6534,"ranks":{"highest":49893,"lowest":1},"levels":{"A1":{"count":468,"readability":55},"A2":{"count":471,"readability":66},"B1":{"count":842,"readability":76},"B2":{"count":1233,"readability":85},"C1":{"count":1404,"readability":93},"C2":{"count":1222,"readability":98}}}}
+{
+	"dir": "aldous-huxley/antic-hay",
+	"title": "Antic Hay",
+	"creator": "Aldous Huxley",
+	"description": "A group of 1920s London socialites struggle with their futures.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 44092,
+		"uniqueWordsCount": 6809,
+		"ranks": {
+			"highest": 51811,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 53
+			},
+			"A2": {
+				"count": 476,
+				"readability": 65
+			},
+			"B1": {
+				"count": 863,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1256,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1453,
+				"readability": 92
+			},
+			"C2": {
+				"count": 1293,
+				"readability": 97
+			}
+		}
+	}
+}
