@@ -1,1 +1,43 @@
-{"dir":"chris-rose/thor-and-the-giants","title":"Thor and the Giants","creator":"Chris Rose","description":"It was a quiet and sunny day in the early summer. Thor and Loki were strolling around Asgard. Thor was bored. Thor did not like to rest and laze, he adored only one thing - fighting with the giants. He told Loki about that. Loki tried to convince Thor that Asgard was the most beautiful place in the universe and it was a great opportunity just to relax and enjoy the views. All his words were for nothing. Thor was not very interested. He was ready to harness the goats into the cart and fly to fight with the giants. His soul demanded something militant. After all, the giants themselves could appear in the land of Gods at any time and cause a lot of problems. Loki was not too convincing and he had to go on this dangerous journey with Thor.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1709,"uniqueWordsCount":330,"ranks":{"highest":34531,"lowest":11},"levels":{"A1":{"count":203,"readability":64},"A2":{"count":57,"readability":75},"B1":{"count":30,"readability":85},"B2":{"count":23,"readability":89},"C1":{"count":9,"readability":96},"C2":{"count":3,"readability":100}}}}
+{
+	"dir": "chris-rose/thor-and-the-giants",
+	"title": "Thor and the Giants",
+	"creator": "Chris Rose",
+	"description": "It was a quiet and sunny day in the early summer. Thor and Loki were strolling around Asgard. Thor was bored. Thor did not like to rest and laze, he adored only one thing - fighting with the giants. He told Loki about that. Loki tried to convince Thor that Asgard was the most beautiful place in the universe and it was a great opportunity just to relax and enjoy the views. All his words were for nothing. Thor was not very interested. He was ready to harness the goats into the cart and fly to fight with the giants. His soul demanded something militant. After all, the giants themselves could appear in the land of Gods at any time and cause a lot of problems. Loki was not too convincing and he had to go on this dangerous journey with Thor.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1709,
+		"uniqueWordsCount": 372,
+		"ranks": {
+			"highest": 35859,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 226,
+				"readability": 62
+			},
+			"A2": {
+				"count": 54,
+				"readability": 71
+			},
+			"B1": {
+				"count": 41,
+				"readability": 84
+			},
+			"B2": {
+				"count": 30,
+				"readability": 88
+			},
+			"C1": {
+				"count": 11,
+				"readability": 95
+			},
+			"C2": {
+				"count": 5,
+				"readability": 100
+			}
+		}
+	}
+}
