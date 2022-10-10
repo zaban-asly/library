@@ -1,1 +1,43 @@
-{"dir":"e-e-smith/first-lensman","title":"First Lensman","creator":"E. E. Smith","description":"Virgil Samms, the first individual to receive a Lens from the mysterious and powerful Arisians, works to create the Galatic Patrol to protect all adherents of Civilization from the threat of the Boskonians and their masters, the Eddorians.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":48771,"uniqueWordsCount":6425,"ranks":{"highest":50166,"lowest":1},"levels":{"A1":{"count":460,"readability":51},"A2":{"count":445,"readability":62},"B1":{"count":766,"readability":73},"B2":{"count":1090,"readability":83},"C1":{"count":1302,"readability":91},"C2":{"count":1243,"readability":97}}}}
+{
+	"dir": "e-e-smith/first-lensman",
+	"title": "First Lensman",
+	"creator": "E. E. Smith",
+	"description": "Virgil Samms, the first individual to receive a Lens from the mysterious and powerful Arisians, works to create the Galatic Patrol to protect all adherents of Civilization from the threat of the Boskonians and their masters, the Eddorians.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 48653,
+		"uniqueWordsCount": 6712,
+		"ranks": {
+			"highest": 52090,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 49
+			},
+			"A2": {
+				"count": 451,
+				"readability": 60
+			},
+			"B1": {
+				"count": 784,
+				"readability": 72
+			},
+			"B2": {
+				"count": 1118,
+				"readability": 82
+			},
+			"C1": {
+				"count": 1351,
+				"readability": 90
+			},
+			"C2": {
+				"count": 1300,
+				"readability": 96
+			}
+		}
+	}
+}
