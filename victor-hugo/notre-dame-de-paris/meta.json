@@ -1,1 +1,43 @@
-{"dir":"victor-hugo/notre-dame-de-paris","title":"Notre-Dame de Paris","creator":"Victor Hugo","description":"An archdeacon of Notre-Dame and his bellringer fall in love with the same gypsy, with tragic results.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":89647,"uniqueWordsCount":8097,"ranks":{"highest":49084,"lowest":1},"levels":{"A1":{"count":468,"readability":48},"A2":{"count":478,"readability":60},"B1":{"count":913,"readability":73},"B2":{"count":1531,"readability":85},"C1":{"count":1939,"readability":94},"C2":{"count":1760,"readability":99}}}}
+{
+	"dir": "victor-hugo/notre-dame-de-paris",
+	"title": "Notre-Dame de Paris",
+	"creator": "Victor Hugo",
+	"description": "An archdeacon of Notre-Dame and his bellringer fall in love with the same gypsy, with tragic results.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 89497,
+		"uniqueWordsCount": 8406,
+		"ranks": {
+			"highest": 50947,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 46
+			},
+			"A2": {
+				"count": 481,
+				"readability": 58
+			},
+			"B1": {
+				"count": 920,
+				"readability": 71
+			},
+			"B2": {
+				"count": 1551,
+				"readability": 84
+			},
+			"C1": {
+				"count": 2025,
+				"readability": 93
+			},
+			"C2": {
+				"count": 1822,
+				"readability": 98
+			}
+		}
+	}
+}
