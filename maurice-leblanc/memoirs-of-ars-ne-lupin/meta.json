@@ -1,1 +1,43 @@
-{"dir":"maurice-leblanc/memoirs-of-ars-ne-lupin","title":"Memoirs of Arsène Lupin","creator":"Maurice Leblanc","description":"The gentleman-thief recounts the tale of his first major caper.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":37685,"uniqueWordsCount":4656,"ranks":{"highest":49523,"lowest":1},"levels":{"A1":{"count":462,"readability":55},"A2":{"count":465,"readability":69},"B1":{"count":797,"readability":80},"B2":{"count":1076,"readability":90},"C1":{"count":1022,"readability":97},"C2":{"count":638,"readability":100}}}}
+{
+	"dir": "maurice-leblanc/memoirs-of-ars-ne-lupin",
+	"title": "Memoirs of Arsène Lupin",
+	"creator": "Maurice Leblanc",
+	"description": "The gentleman-thief recounts the tale of his first major caper.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 37633,
+		"uniqueWordsCount": 4884,
+		"ranks": {
+			"highest": 51429,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 489,
+				"readability": 53
+			},
+			"A2": {
+				"count": 468,
+				"readability": 67
+			},
+			"B1": {
+				"count": 809,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1121,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1083,
+				"readability": 96
+			},
+			"C2": {
+				"count": 691,
+				"readability": 100
+			}
+		}
+	}
+}
