@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/richard-iii","title":"Richard III","creator":"William Shakespeare","description":"King Edward IV’s brother, Richard of Gloucester, ascends to the English throne through deadly machinations.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":15159,"uniqueWordsCount":2697,"ranks":{"highest":44554,"lowest":1},"levels":{"A1":{"count":426,"readability":50},"A2":{"count":312,"readability":62},"B1":{"count":485,"readability":76},"B2":{"count":508,"readability":86},"C1":{"count":485,"readability":95},"C2":{"count":339,"readability":99}}}}
+{
+	"dir": "william-shakespeare/richard-iii",
+	"title": "Richard III",
+	"creator": "William Shakespeare",
+	"description": "King Edward IV’s brother, Richard of Gloucester, ascends to the English throne through deadly machinations.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 15132,
+		"uniqueWordsCount": 2842,
+		"ranks": {
+			"highest": 46235,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 447,
+				"readability": 49
+			},
+			"A2": {
+				"count": 319,
+				"readability": 60
+			},
+			"B1": {
+				"count": 492,
+				"readability": 74
+			},
+			"B2": {
+				"count": 540,
+				"readability": 86
+			},
+			"C1": {
+				"count": 515,
+				"readability": 95
+			},
+			"C2": {
+				"count": 368,
+				"readability": 99
+			}
+		}
+	}
+}
