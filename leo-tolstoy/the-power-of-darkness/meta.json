@@ -1,1 +1,43 @@
-{"dir":"leo-tolstoy/the-power-of-darkness","title":"The Power of Darkness","creator":"Leo Tolstoy","description":"Two Russian peasants tragically succumb to selfish, immoral temptations.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":11992,"uniqueWordsCount":1646,"ranks":{"highest":47493,"lowest":1},"levels":{"A1":{"count":408,"readability":69},"A2":{"count":261,"readability":78},"B1":{"count":282,"readability":86},"B2":{"count":291,"readability":92},"C1":{"count":223,"readability":97},"C2":{"count":139,"readability":100}}}}
+{
+	"dir": "leo-tolstoy/the-power-of-darkness",
+	"title": "The Power of Darkness",
+	"creator": "Leo Tolstoy",
+	"description": "Two Russian peasants tragically succumb to selfish, immoral temptations.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 11976,
+		"uniqueWordsCount": 1750,
+		"ranks": {
+			"highest": 49279,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 427,
+				"readability": 67
+			},
+			"A2": {
+				"count": 261,
+				"readability": 77
+			},
+			"B1": {
+				"count": 311,
+				"readability": 85
+			},
+			"B2": {
+				"count": 303,
+				"readability": 92
+			},
+			"C1": {
+				"count": 247,
+				"readability": 96
+			},
+			"C2": {
+				"count": 149,
+				"readability": 100
+			}
+		}
+	}
+}
