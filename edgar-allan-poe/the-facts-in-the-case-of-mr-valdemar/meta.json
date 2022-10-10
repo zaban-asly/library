@@ -1,0 +1,43 @@
+{
+	"dir": "edgar-allan-poe/the-facts-in-the-case-of-mr-valdemar",
+	"title": "The Facts in The Case of Mr Valdemar",
+	"creator": "Edgar Allan Poe",
+	"description": "<p>A doctor has become fascinated by hypnosis. He was curious to see what would happen to an individual under hypnosis during his dying. Would it stave off death? Would dying make hypnosis impossible? His friend has agreed to be the subject of this experiment.\nSeven months later, the doctor was called to the dying man's bedside. As the patient's breath and heartbeat were slow, the doctor has successfully hypnotized him. The dying man felt no pain and has responded to questions without rising from his trance. He asked the doctor not to wake him, but let him die without pain. The next day, the patient's eyes have rolled upward, his cheeks have lost their color, and his mouth has opened. The man had been apparently dead.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-10",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 547,
+		"uniqueWordsCount": 235,
+		"ranks": {
+			"highest": 18379,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 152,
+				"readability": 73
+			},
+			"A2": {
+				"count": 26,
+				"readability": 80
+			},
+			"B1": {
+				"count": 30,
+				"readability": 91
+			},
+			"B2": {
+				"count": 18,
+				"readability": 95
+			},
+			"C1": {
+				"count": 6,
+				"readability": 97
+			},
+			"C2": {
+				"count": 1,
+				"readability": 99
+			}
+		}
+	}
+}
