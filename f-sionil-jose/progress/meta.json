@@ -1,1 +1,43 @@
-{"dir":"f-sionil-jose/progress","title":"Progress","creator":"F. Sionil Jose","description":"Government agencies are similar in many cities and countries. There are good and nice officials who can help solve your problems quickly and easily. And there are other officials who want money for their assistance. These are the majority. This method is very popular. Bribes have always been given. These things already became normal. Marina Salcedo is a senior lieutenant. She is preparing to go to Manila. The woman has been working for the goverment for twenty years. In recent years, life has risen in price and she needs extra money for her youngest son. He is getting ready to go to college. Marina is not the person who got rich on bribes and built herself a huge house with other people's money. She has to work hard. Then in Manila she will receive an award that can make life easier. But what price it would cost?","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1777,"uniqueWordsCount":595,"ranks":{"highest":26992,"lowest":1},"levels":{"A1":{"count":289,"readability":64},"A2":{"count":113,"readability":77},"B1":{"count":91,"readability":88},"B2":{"count":59,"readability":93},"C1":{"count":23,"readability":96},"C2":{"count":10,"readability":98}}}}
+{
+	"dir": "f-sionil-jose/progress",
+	"title": "Progress",
+	"creator": "F. Sionil Jose",
+	"description": "Government agencies are similar in many cities and countries. There are good and nice officials who can help solve your problems quickly and easily. And there are other officials who want money for their assistance. These are the majority. This method is very popular. Bribes have always been given. These things already became normal. Marina Salcedo is a senior lieutenant. She is preparing to go to Manila. The woman has been working for the goverment for twenty years. In recent years, life has risen in price and she needs extra money for her youngest son. He is getting ready to go to college. Marina is not the person who got rich on bribes and built herself a huge house with other people's money. She has to work hard. Then in Manila she will receive an award that can make life easier. But what price it would cost?",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1777,
+		"uniqueWordsCount": 638,
+		"ranks": {
+			"highest": 27985,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 306,
+				"readability": 61
+			},
+			"A2": {
+				"count": 114,
+				"readability": 75
+			},
+			"B1": {
+				"count": 106,
+				"readability": 87
+			},
+			"B2": {
+				"count": 62,
+				"readability": 92
+			},
+			"C1": {
+				"count": 28,
+				"readability": 95
+			},
+			"C2": {
+				"count": 11,
+				"readability": 98
+			}
+		}
+	}
+}
