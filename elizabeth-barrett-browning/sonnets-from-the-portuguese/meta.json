@@ -1,1 +1,43 @@
-{"dir":"elizabeth-barrett-browning/sonnets-from-the-portuguese","title":"Sonnets from the Portuguese","creator":"Elizabeth Barrett Browning","description":"A collection of 44 love sonnets.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2630,"uniqueWordsCount":1078,"ranks":{"highest":42696,"lowest":1},"levels":{"A1":{"count":309,"readability":57},"A2":{"count":171,"readability":71},"B1":{"count":174,"readability":82},"B2":{"count":152,"readability":89},"C1":{"count":146,"readability":95},"C2":{"count":90,"readability":99}}}}
+{
+	"dir": "elizabeth-barrett-browning/sonnets-from-the-portuguese",
+	"title": "Sonnets from the Portuguese",
+	"creator": "Elizabeth Barrett Browning",
+	"description": "A collection of 44 love sonnets.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2624,
+		"uniqueWordsCount": 1146,
+		"ranks": {
+			"highest": 44314,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 318,
+				"readability": 55
+			},
+			"A2": {
+				"count": 177,
+				"readability": 68
+			},
+			"B1": {
+				"count": 189,
+				"readability": 80
+			},
+			"B2": {
+				"count": 165,
+				"readability": 88
+			},
+			"C1": {
+				"count": 159,
+				"readability": 95
+			},
+			"C2": {
+				"count": 98,
+				"readability": 99
+			}
+		}
+	}
+}
