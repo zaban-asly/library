@@ -1,1 +1,43 @@
-{"dir":"niccol-machiavelli/the-prince","title":"The Prince","creator":"Niccolò Machiavelli","description":"Machiavelli’s classic treatise on how to tyrannize one’s subjects.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":16158,"uniqueWordsCount":2731,"ranks":{"highest":44462,"lowest":1},"levels":{"A1":{"count":407,"readability":52},"A2":{"count":287,"readability":64},"B1":{"count":505,"readability":77},"B2":{"count":574,"readability":88},"C1":{"count":491,"readability":95},"C2":{"count":352,"readability":99}}}}
+{
+	"dir": "niccol-machiavelli/the-prince",
+	"title": "The Prince",
+	"creator": "Niccolò Machiavelli",
+	"description": "Machiavelli’s classic treatise on how to tyrannize one’s subjects.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 16055,
+		"uniqueWordsCount": 2851,
+		"ranks": {
+			"highest": 46135,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 433,
+				"readability": 50
+			},
+			"A2": {
+				"count": 302,
+				"readability": 63
+			},
+			"B1": {
+				"count": 495,
+				"readability": 76
+			},
+			"B2": {
+				"count": 598,
+				"readability": 87
+			},
+			"C1": {
+				"count": 509,
+				"readability": 94
+			},
+			"C2": {
+				"count": 392,
+				"readability": 99
+			}
+		}
+	}
+}
