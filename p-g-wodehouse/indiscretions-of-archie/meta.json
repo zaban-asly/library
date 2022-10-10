@@ -1,1 +1,43 @@
-{"dir":"p-g-wodehouse/indiscretions-of-archie","title":"Indiscretions of Archie","creator":"P. G. Wodehouse","description":"When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":35518,"uniqueWordsCount":5115,"ranks":{"highest":48848,"lowest":1},"levels":{"A1":{"count":463,"readability":57},"A2":{"count":460,"readability":68},"B1":{"count":789,"readability":78},"B2":{"count":1104,"readability":88},"C1":{"count":1053,"readability":95},"C2":{"count":827,"readability":99}}}}
+{
+	"dir": "p-g-wodehouse/indiscretions-of-archie",
+	"title": "Indiscretions of Archie",
+	"creator": "P. G. Wodehouse",
+	"description": "When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 35477,
+		"uniqueWordsCount": 5337,
+		"ranks": {
+			"highest": 50697,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 55
+			},
+			"A2": {
+				"count": 462,
+				"readability": 66
+			},
+			"B1": {
+				"count": 805,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1131,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1104,
+				"readability": 94
+			},
+			"C2": {
+				"count": 879,
+				"readability": 98
+			}
+		}
+	}
+}
