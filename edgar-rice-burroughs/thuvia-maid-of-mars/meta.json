@@ -1,1 +1,43 @@
-{"dir":"edgar-rice-burroughs/thuvia-maid-of-mars","title":"Thuvia, Maid of Mars","creator":"Edgar Rice Burroughs","description":"When the beautiful Princess Thuvia of Ptarth is kidnapped, suspicion falls on John Carter’s son Carthoris, who sets out to rescue the woman he loves.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":20991,"uniqueWordsCount":3481,"ranks":{"highest":48719,"lowest":1},"levels":{"A1":{"count":431,"readability":51},"A2":{"count":396,"readability":65},"B1":{"count":628,"readability":78},"B2":{"count":721,"readability":87},"C1":{"count":705,"readability":95},"C2":{"count":449,"readability":99}}}}
+{
+	"dir": "edgar-rice-burroughs/thuvia-maid-of-mars",
+	"title": "Thuvia, Maid of Mars",
+	"creator": "Edgar Rice Burroughs",
+	"description": "When the beautiful Princess Thuvia of Ptarth is kidnapped, suspicion falls on John Carter’s son Carthoris, who sets out to rescue the woman he loves.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 20972,
+		"uniqueWordsCount": 3667,
+		"ranks": {
+			"highest": 50559,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 458,
+				"readability": 49
+			},
+			"A2": {
+				"count": 402,
+				"readability": 63
+			},
+			"B1": {
+				"count": 633,
+				"readability": 76
+			},
+			"B2": {
+				"count": 773,
+				"readability": 87
+			},
+			"C1": {
+				"count": 742,
+				"readability": 94
+			},
+			"C2": {
+				"count": 475,
+				"readability": 99
+			}
+		}
+	}
+}
