@@ -1,1 +1,43 @@
-{"dir":"tim-vicary/the-visit","title":"The Visit","creator":"Tim Vicary","description":"The day did not foretell anything unusual. Police officer Harry Evans is driving along an abandoned country road in a private car and is thinking about some urgent matters. Everything is  familiar and too boring.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1917,"uniqueWordsCount":391,"ranks":{"highest":22531,"lowest":1},"levels":{"A1":{"count":224,"readability":69},"A2":{"count":78,"readability":82},"B1":{"count":43,"readability":87},"B2":{"count":24,"readability":95},"C1":{"count":14,"readability":98},"C2":{"count":4,"readability":100}}}}
+{
+	"dir": "tim-vicary/the-visit",
+	"title": "The Visit",
+	"creator": "Tim Vicary",
+	"description": "The day did not foretell anything unusual. Police officer Harry Evans is driving along an abandoned country road in a private car and is thinking about some urgent matters. Everything is  familiar and too boring.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1916,
+		"uniqueWordsCount": 424,
+		"ranks": {
+			"highest": 23318,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 244,
+				"readability": 68
+			},
+			"A2": {
+				"count": 73,
+				"readability": 79
+			},
+			"B1": {
+				"count": 52,
+				"readability": 87
+			},
+			"B2": {
+				"count": 27,
+				"readability": 94
+			},
+			"C1": {
+				"count": 20,
+				"readability": 98
+			},
+			"C2": {
+				"count": 4,
+				"readability": 100
+			}
+		}
+	}
+}
