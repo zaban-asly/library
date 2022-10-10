@@ -1,1 +1,43 @@
-{"dir":"jackee-budesta-batanda/dora-s-turn","title":"Dora's Turn","creator":"Jackee Budesta Batanda","description":"War is a terrible thing. In any country, city and at any time - it is bad anyway. There were no occasions when it made people happier. A person does not want to kill another person, but he has to do it. In Uganda, Dora and her friend are forced to fight at the war. They have reliable AK-47 assault rifles and heavy pistols. They had time to learn a lot about pain, death and murder. They are only twelve years old, still children. Their commander is called Mad Tiger. He is already fourteen. The cries of a little boy are getting fainter. The Tiger is screaming louder and louder. He orders to go on beating this boy. He shouts that they have to kill bad people, because they are soldiers and this is their job. Other commanders are smoking and smiling not far away.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":395,"uniqueWordsCount":212,"ranks":{"highest":28794,"lowest":1},"levels":{"A1":{"count":146,"readability":73},"A2":{"count":37,"readability":89},"B1":{"count":13,"readability":94},"B2":{"count":11,"readability":99},"C1":{"count":2,"readability":99},"C2":{"count":0,"readability":99}}}}
+{
+	"dir": "jackee-budesta-batanda/dora-s-turn",
+	"title": "Dora's Turn",
+	"creator": "Jackee Budesta Batanda",
+	"description": "War is a terrible thing. In any country, city and at any time - it is bad anyway. There were no occasions when it made people happier. A person does not want to kill another person, but he has to do it. In Uganda, Dora and her friend are forced to fight at the war. They have reliable AK-47 assault rifles and heavy pistols. They had time to learn a lot about pain, death and murder. They are only twelve years old, still children. Their commander is called Mad Tiger. He is already fourteen. The cries of a little boy are getting fainter. The Tiger is screaming louder and louder. He orders to go on beating this boy. He shouts that they have to kill bad people, because they are soldiers and this is their job. Other commanders are smoking and smiling not far away.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 395,
+		"uniqueWordsCount": 217,
+		"ranks": {
+			"highest": 29866,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 144,
+				"readability": 71
+			},
+			"A2": {
+				"count": 35,
+				"readability": 86
+			},
+			"B1": {
+				"count": 16,
+				"readability": 91
+			},
+			"B2": {
+				"count": 15,
+				"readability": 98
+			},
+			"C1": {
+				"count": 3,
+				"readability": 99
+			},
+			"C2": {
+				"count": 1,
+				"readability": 99
+			}
+		}
+	}
+}
