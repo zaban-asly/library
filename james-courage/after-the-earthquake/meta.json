@@ -1,1 +1,43 @@
-{"dir":"james-courage/after-the-earthquake","title":"After the Earthquake","creator":"James Courage","description":"New Zealand has always been a small and not too populated country. A few hundred years ago, the people from Britain began to move there to start a new life and become farmers. Also, the new land was in need of good doctors and teachers. People settled in small towns where each person knew the other. So everyone knows the stories of each other's family and no one can keep their problems in secret. Children usually do not notice too much. But Walter is different. He is only six years old, but he has already started asking questions. At the end of the week there is a strong earthquake. Walter's father wakes in the middle of the night from the jolts of the earth. The man looks around, but noticed that the house is in order and nothing in the yard is destroyed. His wife wonders if little Walter woke up in his room.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1574,"uniqueWordsCount":479,"ranks":{"highest":32200,"lowest":1},"levels":{"A1":{"count":272,"readability":72},"A2":{"count":90,"readability":83},"B1":{"count":59,"readability":90},"B2":{"count":31,"readability":96},"C1":{"count":15,"readability":99},"C2":{"count":8,"readability":100}}}}
+{
+	"dir": "james-courage/after-the-earthquake",
+	"title": "After the Earthquake",
+	"creator": "James Courage",
+	"description": "New Zealand has always been a small and not too populated country. A few hundred years ago, the people from Britain began to move there to start a new life and become farmers. Also, the new land was in need of good doctors and teachers. People settled in small towns where each person knew the other. So everyone knows the stories of each other's family and no one can keep their problems in secret. Children usually do not notice too much. But Walter is different. He is only six years old, but he has already started asking questions. At the end of the week there is a strong earthquake. Walter's father wakes in the middle of the night from the jolts of the earth. The man looks around, but noticed that the house is in order and nothing in the yard is destroyed. His wife wonders if little Walter woke up in his room.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1573,
+		"uniqueWordsCount": 518,
+		"ranks": {
+			"highest": 33425,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 283,
+				"readability": 70
+			},
+			"A2": {
+				"count": 90,
+				"readability": 81
+			},
+			"B1": {
+				"count": 77,
+				"readability": 89
+			},
+			"B2": {
+				"count": 39,
+				"readability": 95
+			},
+			"C1": {
+				"count": 15,
+				"readability": 99
+			},
+			"C2": {
+				"count": 10,
+				"readability": 100
+			}
+		}
+	}
+}
