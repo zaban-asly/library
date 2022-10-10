@@ -1,1 +1,43 @@
-{"dir":"cheryl-palin/amazing-minibeasts","title":"Amazing Minibeasts","creator":"Cheryl Palin","description":"There are huge varieties of miniature animals in the world. They are in lots of sizes and shapes. Some of them have wings, bright colors or many limbs. These animals can live in many different places on the planet. These are small invertebrates. In fact, there are many more of them than the familiar mammals, but they are so small that it is too hard to notice them. Among invertebrates, there are most arthropods. This is a creature with six or more limbs. Some of them are insects, others are not. There are a lot of insects on the Earth, more than a million types. Insects have no bones. They are replaced by a hard chitinous cover. Also among the arthropods there are many arachnids - these species include spiders and scorpions. There are clams, slugs and many other species. What kind of miniature animals do you know?","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":745,"uniqueWordsCount":251,"ranks":{"highest":34594,"lowest":15},"levels":{"A1":{"count":111,"readability":47},"A2":{"count":28,"readability":57},"B1":{"count":36,"readability":70},"B2":{"count":21,"readability":82},"C1":{"count":21,"readability":90},"C2":{"count":15,"readability":96}}}}
+{
+	"dir": "cheryl-palin/amazing-minibeasts",
+	"title": "Amazing Minibeasts",
+	"creator": "Cheryl Palin",
+	"description": "There are huge varieties of miniature animals in the world. They are in lots of sizes and shapes. Some of them have wings, bright colors or many limbs. These animals can live in many different places on the planet. These are small invertebrates. In fact, there are many more of them than the familiar mammals, but they are so small that it is too hard to notice them. Among invertebrates, there are most arthropods. This is a creature with six or more limbs. Some of them are insects, others are not. There are a lot of insects on the Earth, more than a million types. Insects have no bones. They are replaced by a hard chitinous cover. Also among the arthropods there are many arachnids - these species include spiders and scorpions. There are clams, slugs and many other species. What kind of miniature animals do you know?",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 756,
+		"uniqueWordsCount": 261,
+		"ranks": {
+			"highest": 49950,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 107,
+				"readability": 43
+			},
+			"A2": {
+				"count": 26,
+				"readability": 54
+			},
+			"B1": {
+				"count": 41,
+				"readability": 67
+			},
+			"B2": {
+				"count": 23,
+				"readability": 80
+			},
+			"C1": {
+				"count": 22,
+				"readability": 88
+			},
+			"C2": {
+				"count": 16,
+				"readability": 94
+			}
+		}
+	}
+}
