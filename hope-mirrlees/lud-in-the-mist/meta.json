@@ -1,1 +1,43 @@
-{"dir":"hope-mirrlees/lud-in-the-mist","title":"Lud-in-the-Mist","creator":"Hope Mirrlees","description":"After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":42887,"uniqueWordsCount":5645,"ranks":{"highest":50239,"lowest":1},"levels":{"A1":{"count":462,"readability":54},"A2":{"count":455,"readability":65},"B1":{"count":799,"readability":75},"B2":{"count":1151,"readability":85},"C1":{"count":1256,"readability":93},"C2":{"count":1071,"readability":98}}}}
+{
+	"dir": "hope-mirrlees/lud-in-the-mist",
+	"title": "Lud-in-the-Mist",
+	"creator": "Hope Mirrlees",
+	"description": "After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 42811,
+		"uniqueWordsCount": 5909,
+		"ranks": {
+			"highest": 52164,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 52
+			},
+			"A2": {
+				"count": 457,
+				"readability": 63
+			},
+			"B1": {
+				"count": 814,
+				"readability": 74
+			},
+			"B2": {
+				"count": 1170,
+				"readability": 84
+			},
+			"C1": {
+				"count": 1331,
+				"readability": 93
+			},
+			"C2": {
+				"count": 1134,
+				"readability": 98
+			}
+		}
+	}
+}
