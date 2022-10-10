@@ -1,1 +1,43 @@
-{"dir":"thomas-hardy/far-from-the-madding-crowd","title":"Far from the Madding Crowd","creator":"Thomas Hardy","description":"A young shepherd falls in love with a young, seemingly independent and strong-willed lady farmer.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":67690,"uniqueWordsCount":7540,"ranks":{"highest":50075,"lowest":1},"levels":{"A1":{"count":467,"readability":55},"A2":{"count":481,"readability":66},"B1":{"count":885,"readability":77},"B2":{"count":1462,"readability":87},"C1":{"count":1847,"readability":95},"C2":{"count":1644,"readability":99}}}}
+{
+	"dir": "thomas-hardy/far-from-the-madding-crowd",
+	"title": "Far from the Madding Crowd",
+	"creator": "Thomas Hardy",
+	"description": "A young shepherd falls in love with a young, seemingly independent and strong-willed lady farmer.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 67442,
+		"uniqueWordsCount": 7897,
+		"ranks": {
+			"highest": 51998,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 53
+			},
+			"A2": {
+				"count": 482,
+				"readability": 64
+			},
+			"B1": {
+				"count": 894,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1484,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1934,
+				"readability": 95
+			},
+			"C2": {
+				"count": 1735,
+				"readability": 99
+			}
+		}
+	}
+}
