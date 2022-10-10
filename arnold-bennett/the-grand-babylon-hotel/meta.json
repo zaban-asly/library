@@ -1,1 +1,43 @@
-{"dir":"arnold-bennett/the-grand-babylon-hotel","title":"The Grand Babylon Hotel","creator":"Arnold Bennett","description":"An American millionaire’s spur-of-the-moment purchase of a hotel leads to the uncovering of a secret plot.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":31962,"uniqueWordsCount":4667,"ranks":{"highest":48825,"lowest":1},"levels":{"A1":{"count":461,"readability":54},"A2":{"count":462,"readability":67},"B1":{"count":785,"readability":79},"B2":{"count":1026,"readability":89},"C1":{"count":970,"readability":96},"C2":{"count":671,"readability":99}}}}
+{
+	"dir": "arnold-bennett/the-grand-babylon-hotel",
+	"title": "The Grand Babylon Hotel",
+	"creator": "Arnold Bennett",
+	"description": "An American millionaire’s spur-of-the-moment purchase of a hotel leads to the uncovering of a secret plot.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 31902,
+		"uniqueWordsCount": 4871,
+		"ranks": {
+			"highest": 50674,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 52
+			},
+			"A2": {
+				"count": 463,
+				"readability": 65
+			},
+			"B1": {
+				"count": 803,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1054,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1020,
+				"readability": 95
+			},
+			"C2": {
+				"count": 709,
+				"readability": 99
+			}
+		}
+	}
+}
