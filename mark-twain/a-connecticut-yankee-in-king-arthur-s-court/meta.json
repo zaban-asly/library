@@ -1,1 +1,43 @@
-{"dir":"mark-twain/a-connecticut-yankee-in-king-arthur-s-court","title":"A Connecticut Yankee In King Arthur's Court","creator":"Mark Twain","description":"The protagonist of this story is a typical Yankee. He is smart and businesslike. Once in a fight someone hits him in the head. Then he wakes up in the days of King Arthur. The man is taken as a prisoner by a knight whom he initially considers to be an ordinary madman. Now the Yankee is in the castle, where aristocrats and knights are feasting. He learns that it is 528 AD. The knights sentence the Yankee to death. The poor man remembers that there must be a solar eclipse on this day. Using this natural phenomenon, the Yankee pretends to be a powerful magician. The medieval knights are very impressed. They promise him a post of minister. Gradually, the Yankee begins to use his knowledge from the future to strengthen his power. Gunpower, lightning rod and other devices terrify the inhabitants of the castle. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2399,"uniqueWordsCount":777,"ranks":{"highest":26963,"lowest":1},"levels":{"A1":{"count":303,"readability":62},"A2":{"count":137,"readability":75},"B1":{"count":143,"readability":86},"B2":{"count":113,"readability":94},"C1":{"count":57,"readability":99},"C2":{"count":22,"readability":100}}}}
+{
+	"dir": "mark-twain/a-connecticut-yankee-in-king-arthur-s-court",
+	"title": "A Connecticut Yankee In King Arthur's Court",
+	"creator": "Mark Twain",
+	"description": "The protagonist of this story is a typical Yankee. He is smart and businesslike. Once in a fight someone hits him in the head. Then he wakes up in the days of King Arthur. The man is taken as a prisoner by a knight whom he initially considers to be an ordinary madman. Now the Yankee is in the castle, where aristocrats and knights are feasting. He learns that it is 528 AD. The knights sentence the Yankee to death. The poor man remembers that there must be a solar eclipse on this day. Using this natural phenomenon, the Yankee pretends to be a powerful magician. The medieval knights are very impressed. They promise him a post of minister. Gradually, the Yankee begins to use his knowledge from the future to strengthen his power. Gunpower, lightning rod and other devices terrify the inhabitants of the castle. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2399,
+		"uniqueWordsCount": 823,
+		"ranks": {
+			"highest": 27956,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 325,
+				"readability": 60
+			},
+			"A2": {
+				"count": 136,
+				"readability": 73
+			},
+			"B1": {
+				"count": 152,
+				"readability": 85
+			},
+			"B2": {
+				"count": 120,
+				"readability": 93
+			},
+			"C1": {
+				"count": 62,
+				"readability": 99
+			},
+			"C2": {
+				"count": 24,
+				"readability": 100
+			}
+		}
+	}
+}
