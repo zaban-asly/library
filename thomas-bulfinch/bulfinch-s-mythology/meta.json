@@ -1,1 +1,43 @@
-{"dir":"thomas-bulfinch/bulfinch-s-mythology","title":"Bulfinch’s Mythology","creator":"Thomas Bulfinch","description":"An American classicist collects and explains myths and legends ranging from those of the ancient Greeks and Romans, through stories of King Arthur, to the legends of Charlemagne.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":158439,"uniqueWordsCount":9622,"ranks":{"highest":50262,"lowest":1},"levels":{"A1":{"count":470,"readability":46},"A2":{"count":487,"readability":59},"B1":{"count":947,"readability":73},"B2":{"count":1646,"readability":85},"C1":{"count":2376,"readability":93},"C2":{"count":2334,"readability":98}}}}
+{
+	"dir": "thomas-bulfinch/bulfinch-s-mythology",
+	"title": "Bulfinch’s Mythology",
+	"creator": "Thomas Bulfinch",
+	"description": "An American classicist collects and explains myths and legends ranging from those of the ancient Greeks and Romans, through stories of King Arthur, to the legends of Charlemagne.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 158193,
+		"uniqueWordsCount": 10072,
+		"ranks": {
+			"highest": 52190,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 44
+			},
+			"A2": {
+				"count": 487,
+				"readability": 57
+			},
+			"B1": {
+				"count": 955,
+				"readability": 71
+			},
+			"B2": {
+				"count": 1669,
+				"readability": 84
+			},
+			"C1": {
+				"count": 2466,
+				"readability": 93
+			},
+			"C2": {
+				"count": 2478,
+				"readability": 98
+			}
+		}
+	}
+}
