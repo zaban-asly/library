@@ -1,1 +1,43 @@
-{"dir":"emma-goldman/my-disillusionment-in-russia","title":"My Disillusionment in Russia","creator":"Emma Goldman","description":"Emma Goldman recounts her experiences living in the early Soviet Union.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":43112,"uniqueWordsCount":5303,"ranks":{"highest":49729,"lowest":1},"levels":{"A1":{"count":454,"readability":42},"A2":{"count":446,"readability":54},"B1":{"count":789,"readability":70},"B2":{"count":1058,"readability":82},"C1":{"count":1112,"readability":92},"C2":{"count":943,"readability":98}}}}
+{
+	"dir": "emma-goldman/my-disillusionment-in-russia",
+	"title": "My Disillusionment in Russia",
+	"creator": "Emma Goldman",
+	"description": "Emma Goldman recounts her experiences living in the early Soviet Union.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 42995,
+		"uniqueWordsCount": 5511,
+		"ranks": {
+			"highest": 51642,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 482,
+				"readability": 40
+			},
+			"A2": {
+				"count": 443,
+				"readability": 52
+			},
+			"B1": {
+				"count": 803,
+				"readability": 69
+			},
+			"B2": {
+				"count": 1082,
+				"readability": 82
+			},
+			"C1": {
+				"count": 1171,
+				"readability": 91
+			},
+			"C2": {
+				"count": 980,
+				"readability": 97
+			}
+		}
+	}
+}
