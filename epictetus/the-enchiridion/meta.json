@@ -1,1 +1,43 @@
-{"dir":"epictetus/the-enchiridion","title":"The Enchiridion","creator":"Epictetus","description":"A brief handbook of advice for day-to-day living in the Stoic philosophical tradition.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3641,"uniqueWordsCount":1259,"ranks":{"highest":38193,"lowest":1},"levels":{"A1":{"count":325,"readability":53},"A2":{"count":167,"readability":66},"B1":{"count":243,"readability":79},"B2":{"count":213,"readability":88},"C1":{"count":155,"readability":95},"C2":{"count":117,"readability":99}}}}
+{
+	"dir": "epictetus/the-enchiridion",
+	"title": "The Enchiridion",
+	"creator": "Epictetus",
+	"description": "A brief handbook of advice for day-to-day living in the Stoic philosophical tradition.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3630,
+		"uniqueWordsCount": 1313,
+		"ranks": {
+			"highest": 39660,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 344,
+				"readability": 52
+			},
+			"A2": {
+				"count": 170,
+				"readability": 64
+			},
+			"B1": {
+				"count": 249,
+				"readability": 78
+			},
+			"B2": {
+				"count": 223,
+				"readability": 88
+			},
+			"C1": {
+				"count": 162,
+				"readability": 94
+			},
+			"C2": {
+				"count": 124,
+				"readability": 99
+			}
+		}
+	}
+}
