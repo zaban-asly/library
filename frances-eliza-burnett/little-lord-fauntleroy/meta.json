@@ -1,1 +1,43 @@
-{"dir":"frances-eliza-burnett/little-lord-fauntleroy","title":"Little Lord Fauntleroy","creator":"Frances Eliza Burnett","description":"Cedric is only seven years old. He lives with his mother on the outskirts of New York. Their family is not very wealthy. But one strange day everything changes. Cedric becomes the sole heir to the famous English aristocrat. This is his grandfather. The earl of Dorincourt hates the boy's mother for her American origin. This old man is a misanthrope and hates lots of people. Still Cedric manages to find a common language with him. The boy firmly believes that deep inside his grandfather is kind. Gradually, the old man makes contact with Cedric. Now the earl does not want to lose this bond with his grandson. Perhaps he has become sentimental. Or perhaps, a seven-year-old boy is the only one who can awaken something human in the old aristocrat. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":7199,"uniqueWordsCount":1497,"ranks":{"highest":37115,"lowest":1},"levels":{"A1":{"count":405,"readability":67},"A2":{"count":284,"readability":78},"B1":{"count":293,"readability":86},"B2":{"count":263,"readability":94},"C1":{"count":157,"readability":98},"C2":{"count":74,"readability":100}}}}
+{
+	"dir": "frances-eliza-burnett/little-lord-fauntleroy",
+	"title": "Little Lord Fauntleroy",
+	"creator": "Frances Eliza Burnett",
+	"description": "Cedric is only seven years old. He lives with his mother on the outskirts of New York. Their family is not very wealthy. But one strange day everything changes. Cedric becomes the sole heir to the famous English aristocrat. This is his grandfather. The earl of Dorincourt hates the boy's mother for her American origin. This old man is a misanthrope and hates lots of people. Still Cedric manages to find a common language with him. The boy firmly believes that deep inside his grandfather is kind. Gradually, the old man makes contact with Cedric. Now the earl does not want to lose this bond with his grandson. Perhaps he has become sentimental. Or perhaps, a seven-year-old boy is the only one who can awaken something human in the old aristocrat. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 7181,
+		"uniqueWordsCount": 1610,
+		"ranks": {
+			"highest": 38541,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 437,
+				"readability": 65
+			},
+			"A2": {
+				"count": 285,
+				"readability": 75
+			},
+			"B1": {
+				"count": 320,
+				"readability": 84
+			},
+			"B2": {
+				"count": 278,
+				"readability": 93
+			},
+			"C1": {
+				"count": 176,
+				"readability": 98
+			},
+			"C2": {
+				"count": 90,
+				"readability": 100
+			}
+		}
+	}
+}
