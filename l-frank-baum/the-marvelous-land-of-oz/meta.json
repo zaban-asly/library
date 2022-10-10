@@ -1,1 +1,43 @@
-{"dir":"l-frank-baum/the-marvelous-land-of-oz","title":"The Marvelous Land of Oz","creator":"L. Frank Baum","description":"A boy named Tip embarks on adventures in the magical land of Oz after he runs away from a witch.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":20460,"uniqueWordsCount":3015,"ranks":{"highest":48008,"lowest":1},"levels":{"A1":{"count":447,"readability":51},"A2":{"count":407,"readability":65},"B1":{"count":624,"readability":77},"B2":{"count":676,"readability":89},"C1":{"count":504,"readability":97},"C2":{"count":288,"readability":100}}}}
+{
+	"dir": "l-frank-baum/the-marvelous-land-of-oz",
+	"title": "The Marvelous Land of Oz",
+	"creator": "L. Frank Baum",
+	"description": "A boy named Tip embarks on adventures in the magical land of Oz after he runs away from a witch.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 20404,
+		"uniqueWordsCount": 3176,
+		"ranks": {
+			"highest": 49813,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 474,
+				"readability": 49
+			},
+			"A2": {
+				"count": 413,
+				"readability": 63
+			},
+			"B1": {
+				"count": 644,
+				"readability": 76
+			},
+			"B2": {
+				"count": 714,
+				"readability": 88
+			},
+			"C1": {
+				"count": 535,
+				"readability": 96
+			},
+			"C2": {
+				"count": 308,
+				"readability": 100
+			}
+		}
+	}
+}
