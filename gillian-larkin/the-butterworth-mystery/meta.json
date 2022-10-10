@@ -1,1 +1,43 @@
-{"dir":"gillian-larkin/the-butterworth-mystery","title":"The Butterworth Mystery","creator":"Gillian Larkin","description":"The plot takes place in the village Pendle Lee in Lancashire. This village is so small that all villagers know each other by name. Pendle Lee has an old history with a valuable ancient architecture. The legends say witches used to live there. There are very few crimes in this area. Sergeant Michael Rose has made only five arrests for the last seven years. Basically, the sergeant has to solve problems with some teenagers. Out of such boredom, they often arrange various troubles for him. Sometimes Michael Rose looks for the missing animals. And one day a phone call comes in the police station. The reason is the art gallery robbery. One of the pictures of a local but famous throughout the UK artist Butterworth was stolen.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":4270,"uniqueWordsCount":815,"ranks":{"highest":40885,"lowest":1},"levels":{"A1":{"count":335,"readability":62},"A2":{"count":158,"readability":79},"B1":{"count":122,"readability":86},"B2":{"count":99,"readability":93},"C1":{"count":53,"readability":97},"C2":{"count":31,"readability":99}}}}
+{
+	"dir": "gillian-larkin/the-butterworth-mystery",
+	"title": "The Butterworth Mystery",
+	"creator": "Gillian Larkin",
+	"description": "The plot takes place in the village Pendle Lee in Lancashire. This village is so small that all villagers know each other by name. Pendle Lee has an old history with a valuable ancient architecture. The legends say witches used to live there. There are very few crimes in this area. Sergeant Michael Rose has made only five arrests for the last seven years. Basically, the sergeant has to solve problems with some teenagers. Out of such boredom, they often arrange various troubles for him. Sometimes Michael Rose looks for the missing animals. And one day a phone call comes in the police station. The reason is the art gallery robbery. One of the pictures of a local but famous throughout the UK artist Butterworth was stolen.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 4275,
+		"uniqueWordsCount": 888,
+		"ranks": {
+			"highest": 42445,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 360,
+				"readability": 59
+			},
+			"A2": {
+				"count": 162,
+				"readability": 76
+			},
+			"B1": {
+				"count": 147,
+				"readability": 85
+			},
+			"B2": {
+				"count": 105,
+				"readability": 92
+			},
+			"C1": {
+				"count": 58,
+				"readability": 97
+			},
+			"C2": {
+				"count": 35,
+				"readability": 99
+			}
+		}
+	}
+}
