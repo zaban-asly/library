@@ -1,1 +1,43 @@
-{"dir":"l-frank-baum/the-wonderful-wizard-of-oz","title":"The Wonderful Wizard of Oz","creator":"L. Frank Baum","description":"The adventures of a young farm girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are swept away from their Kansas home by a cyclone.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":18197,"uniqueWordsCount":1969,"ranks":{"highest":34647,"lowest":1},"levels":{"A1":{"count":434,"readability":62},"A2":{"count":334,"readability":75},"B1":{"count":381,"readability":84},"B2":{"count":416,"readability":93},"C1":{"count":265,"readability":99},"C2":{"count":109,"readability":100}}}}
+{
+	"dir": "l-frank-baum/the-wonderful-wizard-of-oz",
+	"title": "The Wonderful Wizard of Oz",
+	"creator": "L. Frank Baum",
+	"description": "The adventures of a young farm girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are swept away from their Kansas home by a cyclone.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 18169,
+		"uniqueWordsCount": 2128,
+		"ranks": {
+			"highest": 35977,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 460,
+				"readability": 60
+			},
+			"A2": {
+				"count": 344,
+				"readability": 72
+			},
+			"B1": {
+				"count": 412,
+				"readability": 83
+			},
+			"B2": {
+				"count": 435,
+				"readability": 92
+			},
+			"C1": {
+				"count": 314,
+				"readability": 99
+			},
+			"C2": {
+				"count": 128,
+				"readability": 100
+			}
+		}
+	}
+}
