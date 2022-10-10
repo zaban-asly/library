@@ -1,5 +1,5 @@
 
-# Man and Superman <kbd>v3.2.1</kbd>
+# Man and Superman <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>

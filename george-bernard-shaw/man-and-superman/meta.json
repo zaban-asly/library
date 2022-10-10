@@ -1,1 +1,43 @@
-{"dir":"george-bernard-shaw/man-and-superman","title":"Man and Superman","creator":"George Bernard Shaw","description":"Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":39793,"uniqueWordsCount":6490,"ranks":{"highest":49730,"lowest":1},"levels":{"A1":{"count":468,"readability":48},"A2":{"count":475,"readability":60},"B1":{"count":861,"readability":72},"B2":{"count":1271,"readability":84},"C1":{"count":1438,"readability":92},"C2":{"count":1256,"readability":98}}}}
+{
+	"dir": "george-bernard-shaw/man-and-superman",
+	"title": "Man and Superman",
+	"creator": "George Bernard Shaw",
+	"description": "Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 39713,
+		"uniqueWordsCount": 6772,
+		"ranks": {
+			"highest": 51643,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 47
+			},
+			"A2": {
+				"count": 477,
+				"readability": 59
+			},
+			"B1": {
+				"count": 863,
+				"readability": 71
+			},
+			"B2": {
+				"count": 1299,
+				"readability": 82
+			},
+			"C1": {
+				"count": 1489,
+				"readability": 92
+			},
+			"C2": {
+				"count": 1325,
+				"readability": 98
+			}
+		}
+	}
+}
