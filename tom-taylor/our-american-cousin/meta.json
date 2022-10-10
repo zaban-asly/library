@@ -1,1 +1,43 @@
-{"dir":"tom-taylor/our-american-cousin","title":"Our American Cousin","creator":"Tom Taylor","description":"A rough American from a distant branch of the Trenchard family returns to England and quickly becomes embroiled in the family’s affairs.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":9365,"uniqueWordsCount":1922,"ranks":{"highest":37711,"lowest":1},"levels":{"A1":{"count":419,"readability":59},"A2":{"count":285,"readability":69},"B1":{"count":358,"readability":80},"B2":{"count":351,"readability":90},"C1":{"count":273,"readability":96},"C2":{"count":164,"readability":99}}}}
+{
+	"dir": "tom-taylor/our-american-cousin",
+	"title": "Our American Cousin",
+	"creator": "Tom Taylor",
+	"description": "A rough American from a distant branch of the Trenchard family returns to England and quickly becomes embroiled in the family’s affairs.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 9353,
+		"uniqueWordsCount": 2005,
+		"ranks": {
+			"highest": 47774,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 442,
+				"readability": 57
+			},
+			"A2": {
+				"count": 291,
+				"readability": 67
+			},
+			"B1": {
+				"count": 372,
+				"readability": 79
+			},
+			"B2": {
+				"count": 354,
+				"readability": 89
+			},
+			"C1": {
+				"count": 288,
+				"readability": 95
+			},
+			"C2": {
+				"count": 178,
+				"readability": 99
+			}
+		}
+	}
+}
