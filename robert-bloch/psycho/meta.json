@@ -1,1 +1,43 @@
-{"dir":"robert-bloch/psycho","title":"Psycho","creator":"Robert Bloch","description":"The young woman Marion Crane has stolen 40 thousand dollars, which she was entrusted by her chief. She didn't plane this crime, the theft was happened spontaneously. Marion just wanted to get out from town and started a new life with her lover. During the flight, tired of the stress and driving, she decided to turn off the highway and spent the night in a secluded motel, where the police wouldn't find her in any way. This motel was run by a young guy Norman Bates who lived nearby with his mother. Norman immediately has felt in love with Marion, but his mother was against this girl. After this meeting and talking with such unusual man, Marion decided to return the money and continue to live the previous life, but suddenly her plans were destroyed by the hotel's manager mother.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":4516,"uniqueWordsCount":685,"ranks":{"highest":34246,"lowest":1},"levels":{"A1":{"count":321,"readability":71},"A2":{"count":144,"readability":83},"B1":{"count":95,"readability":89},"B2":{"count":68,"readability":94},"C1":{"count":40,"readability":99},"C2":{"count":11,"readability":100}}}}
+{
+	"dir": "robert-bloch/psycho",
+	"title": "Psycho",
+	"creator": "Robert Bloch",
+	"description": "The young woman Marion Crane has stolen 40 thousand dollars, which she was entrusted by her chief. She didn't plane this crime, the theft was happened spontaneously. Marion just wanted to get out from town and started a new life with her lover. During the flight, tired of the stress and driving, she decided to turn off the highway and spent the night in a secluded motel, where the police wouldn't find her in any way. This motel was run by a young guy Norman Bates who lived nearby with his mother. Norman immediately has felt in love with Marion, but his mother was against this girl. After this meeting and talking with such unusual man, Marion decided to return the money and continue to live the previous life, but suddenly her plans were destroyed by the hotel's manager mother.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 4515,
+		"uniqueWordsCount": 746,
+		"ranks": {
+			"highest": 35562,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 346,
+				"readability": 69
+			},
+			"A2": {
+				"count": 139,
+				"readability": 81
+			},
+			"B1": {
+				"count": 124,
+				"readability": 88
+			},
+			"B2": {
+				"count": 71,
+				"readability": 94
+			},
+			"C1": {
+				"count": 46,
+				"readability": 99
+			},
+			"C2": {
+				"count": 14,
+				"readability": 100
+			}
+		}
+	}
+}
