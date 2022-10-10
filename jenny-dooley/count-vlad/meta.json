@@ -1,1 +1,43 @@
-{"dir":"jenny-dooley/count-vlad","title":"Count Vlad","creator":"Jenny Dooley","description":"<p>This exciting story will admire those readers, who like mythical stories about vampires. Mysterious creatures, which hypnotize their victims and drink blood. One autumn evening two friends Alfred and Elliot were sitting near the fire and having an interesting conversation about their thrilling adventures. Alfred is a journalist and he often has to deal with supernatural. His best friend Elliot helps him in his investigations. They have just come from an exciting but scaring travel in Norway, where they had a case with a ghost. An unexpected note interrupted their dinner. It seems that friends are going to face a new case: the note was from count Dracula. The next day Alfred and Elliot are meeting at the station and leaving for Romania.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":7104,"uniqueWordsCount":1399,"ranks":{"highest":35279,"lowest":1},"levels":{"A1":{"count":406,"readability":64},"A2":{"count":275,"readability":78},"B1":{"count":266,"readability":86},"B2":{"count":226,"readability":92},"C1":{"count":140,"readability":98},"C2":{"count":64,"readability":99}}}}
+{
+	"dir": "jenny-dooley/count-vlad",
+	"title": "Count Vlad",
+	"creator": "Jenny Dooley",
+	"description": "<p>This exciting story will admire those readers, who like mythical stories about vampires. Mysterious creatures, which hypnotize their victims and drink blood. One autumn evening two friends Alfred and Elliot were sitting near the fire and having an interesting conversation about their thrilling adventures. Alfred is a journalist and he often has to deal with supernatural. His best friend Elliot helps him in his investigations. They have just come from an exciting but scaring travel in Norway, where they had a case with a ghost. An unexpected note interrupted their dinner. It seems that friends are going to face a new case: the note was from count Dracula. The next day Alfred and Elliot are meeting at the station and leaving for Romania.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 7096,
+		"uniqueWordsCount": 1517,
+		"ranks": {
+			"highest": 43185,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 430,
+				"readability": 63
+			},
+			"A2": {
+				"count": 288,
+				"readability": 76
+			},
+			"B1": {
+				"count": 295,
+				"readability": 85
+			},
+			"B2": {
+				"count": 233,
+				"readability": 91
+			},
+			"C1": {
+				"count": 170,
+				"readability": 98
+			},
+			"C2": {
+				"count": 73,
+				"readability": 99
+			}
+		}
+	}
+}
