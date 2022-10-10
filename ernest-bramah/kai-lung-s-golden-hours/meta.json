@@ -1,1 +1,43 @@
-{"dir":"ernest-bramah/kai-lung-s-golden-hours","title":"Kai Lung’s Golden Hours","creator":"Ernest Bramah","description":"An ancient Chinese storyteller charged with treason uses his beguiling tales to avoid conviction.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":42295,"uniqueWordsCount":5712,"ranks":{"highest":49921,"lowest":1},"levels":{"A1":{"count":450,"readability":42},"A2":{"count":431,"readability":55},"B1":{"count":757,"readability":68},"B2":{"count":1127,"readability":81},"C1":{"count":1278,"readability":91},"C2":{"count":1192,"readability":99}}}}
+{
+	"dir": "ernest-bramah/kai-lung-s-golden-hours",
+	"title": "Kai Lung’s Golden Hours",
+	"creator": "Ernest Bramah",
+	"description": "An ancient Chinese storyteller charged with treason uses his beguiling tales to avoid conviction.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 42146,
+		"uniqueWordsCount": 5972,
+		"ranks": {
+			"highest": 51839,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 476,
+				"readability": 40
+			},
+			"A2": {
+				"count": 433,
+				"readability": 53
+			},
+			"B1": {
+				"count": 768,
+				"readability": 67
+			},
+			"B2": {
+				"count": 1154,
+				"readability": 79
+			},
+			"C1": {
+				"count": 1332,
+				"readability": 90
+			},
+			"C2": {
+				"count": 1266,
+				"readability": 98
+			}
+		}
+	}
+}
