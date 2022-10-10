@@ -1,1 +1,43 @@
-{"dir":"mark-twain/the-californian-s-tale","title":"The Californian's Tale","creator":"Mark Twain","description":"In his youth, the protagonist of this story decided to get rich quickly and went looking for gold in California. He really became rich, but it was not the most important accomplishment. He also discovered beautiful lands that looked like a real paradise. There were green fresh forests, hills and clean rivers. Cool air and wonderful climate. This place was found by other gold seekers earlier; he was not the first. These people built a small cozy town. There were real schools and banks. Also there were many shops and comfortable family houses for residents. It was a very nice place. At first everything was fine, but then the gold reserves became less and less. The natural goldmine dried up. By the time the main character of the story reached this city, the inhabitants had left it.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":720,"uniqueWordsCount":345,"ranks":{"highest":7034,"lowest":1},"levels":{"A1":{"count":214,"readability":72},"A2":{"count":60,"readability":86},"B1":{"count":33,"readability":93},"B2":{"count":23,"readability":97},"C1":{"count":15,"readability":100},"C2":{"count":0,"readability":100}}}}
+{
+	"dir": "mark-twain/the-californian-s-tale",
+	"title": "The Californian's Tale",
+	"creator": "Mark Twain",
+	"description": "In his youth, the protagonist of this story decided to get rich quickly and went looking for gold in California. He really became rich, but it was not the most important accomplishment. He also discovered beautiful lands that looked like a real paradise. There were green fresh forests, hills and clean rivers. Cool air and wonderful climate. This place was found by other gold seekers earlier; he was not the first. These people built a small cozy town. There were real schools and banks. Also there were many shops and comfortable family houses for residents. It was a very nice place. At first everything was fine, but then the gold reserves became less and less. The natural goldmine dried up. By the time the main character of the story reached this city, the inhabitants had left it.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 719,
+		"uniqueWordsCount": 365,
+		"ranks": {
+			"highest": 9427,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 224,
+				"readability": 70
+			},
+			"A2": {
+				"count": 60,
+				"readability": 84
+			},
+			"B1": {
+				"count": 40,
+				"readability": 92
+			},
+			"B2": {
+				"count": 24,
+				"readability": 96
+			},
+			"C1": {
+				"count": 16,
+				"readability": 100
+			},
+			"C2": {
+				"count": 1,
+				"readability": 100
+			}
+		}
+	}
+}
