@@ -1,1 +1,43 @@
-{"dir":"freeman-wills-crofts/the-cask","title":"The Cask","creator":"Freeman Wills Crofts","description":"A cask dropped during the unloading of a ship sets detectives on the trail of a murderer.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":52041,"uniqueWordsCount":4312,"ranks":{"highest":47803,"lowest":1},"levels":{"A1":{"count":466,"readability":59},"A2":{"count":444,"readability":72},"B1":{"count":738,"readability":83},"B2":{"count":910,"readability":92},"C1":{"count":883,"readability":97},"C2":{"count":633,"readability":100}}}}
+{
+	"dir": "freeman-wills-crofts/the-cask",
+	"title": "The Cask",
+	"creator": "Freeman Wills Crofts",
+	"description": "A cask dropped during the unloading of a ship sets detectives on the trail of a murderer.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 51527,
+		"uniqueWordsCount": 4524,
+		"ranks": {
+			"highest": 49604,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 57
+			},
+			"A2": {
+				"count": 452,
+				"readability": 71
+			},
+			"B1": {
+				"count": 759,
+				"readability": 82
+			},
+			"B2": {
+				"count": 932,
+				"readability": 91
+			},
+			"C1": {
+				"count": 936,
+				"readability": 96
+			},
+			"C2": {
+				"count": 678,
+				"readability": 100
+			}
+		}
+	}
+}
