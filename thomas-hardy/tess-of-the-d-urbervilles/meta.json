@@ -1,1 +1,43 @@
-{"dir":"thomas-hardy/tess-of-the-d-urbervilles","title":"Tess of the d’Urbervilles","creator":"Thomas Hardy","description":"A young woman of poor and uneducated parents is driven by guilt to try to redeem her family’s fortunes.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":70233,"uniqueWordsCount":8010,"ranks":{"highest":50314,"lowest":1},"levels":{"A1":{"count":468,"readability":56},"A2":{"count":476,"readability":67},"B1":{"count":913,"readability":78},"B2":{"count":1457,"readability":87},"C1":{"count":1862,"readability":94},"C2":{"count":1792,"readability":99}}}}
+{
+	"dir": "thomas-hardy/tess-of-the-d-urbervilles",
+	"title": "Tess of the d’Urbervilles",
+	"creator": "Thomas Hardy",
+	"description": "A young woman of poor and uneducated parents is driven by guilt to try to redeem her family’s fortunes.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 70001,
+		"uniqueWordsCount": 8378,
+		"ranks": {
+			"highest": 52243,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 54
+			},
+			"A2": {
+				"count": 478,
+				"readability": 65
+			},
+			"B1": {
+				"count": 927,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1487,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1956,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1867,
+				"readability": 98
+			}
+		}
+	}
+}
