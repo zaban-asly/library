@@ -1,1 +1,43 @@
-{"dir":"ray-bradbury/short-fiction","title":"Short Fiction","creator":"Ray Bradbury","description":"A collection of science fiction and fantasy stories by Ray Bradbury ordered by date of publication.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":38413,"uniqueWordsCount":4767,"ranks":{"highest":50251,"lowest":1},"levels":{"A1":{"count":460,"readability":56},"A2":{"count":425,"readability":68},"B1":{"count":659,"readability":77},"B2":{"count":929,"readability":86},"C1":{"count":981,"readability":94},"C2":{"count":779,"readability":98}}}}
+{
+	"dir": "ray-bradbury/short-fiction",
+	"title": "Short Fiction",
+	"creator": "Ray Bradbury",
+	"description": "A collection of science fiction and fantasy stories by Ray Bradbury ordered by date of publication.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 38379,
+		"uniqueWordsCount": 4991,
+		"ranks": {
+			"highest": 52178,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 54
+			},
+			"A2": {
+				"count": 432,
+				"readability": 66
+			},
+			"B1": {
+				"count": 685,
+				"readability": 76
+			},
+			"B2": {
+				"count": 963,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1027,
+				"readability": 93
+			},
+			"C2": {
+				"count": 815,
+				"readability": 98
+			}
+		}
+	}
+}
