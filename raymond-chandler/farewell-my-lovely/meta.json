@@ -1,1 +1,43 @@
-{"dir":"raymond-chandler/farewell-my-lovely","title":"Farewell my lovely","creator":"Raymond Chandler","description":"If anyone could rob a bank on his own, it's Moose Malloy. He's as hard as stone and as big as a bus. Now he's out of prison, and he wants two things: to know who gave his name to the police eight years ago, and to find his girlfriend.<br> Moose means trouble, and it's the sort of trouble a private detective should stay away from. So of course Philip Marlowe runs straight into it: trouble with the police, trouble with women, trouble with almost every criminal in California. And trouble with murder. Even when he tries to walk away from it, this sort of trouble just follows him aroundтАж","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":6598,"uniqueWordsCount":925,"ranks":{"highest":43196,"lowest":1},"levels":{"A1":{"count":359,"readability":71},"A2":{"count":191,"readability":84},"B1":{"count":160,"readability":92},"B2":{"count":116,"readability":96},"C1":{"count":51,"readability":98},"C2":{"count":29,"readability":100}}}}
+{
+	"dir": "raymond-chandler/farewell-my-lovely",
+	"title": "Farewell my lovely",
+	"creator": "Raymond Chandler",
+	"description": "If anyone could rob a bank on his own, it's Moose Malloy. He's as hard as stone and as big as a bus. Now he's out of prison, and he wants two things: to know who gave his name to the police eight years ago, and to find his girlfriend.<br> Moose means trouble, and it's the sort of trouble a private detective should stay away from. So of course Philip Marlowe runs straight into it: trouble with the police, trouble with women, trouble with almost every criminal in California. And trouble with murder. Even when he tries to walk away from it, this sort of trouble just follows him aroundтАж",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 6596,
+		"uniqueWordsCount": 1026,
+		"ranks": {
+			"highest": 44837,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 383,
+				"readability": 68
+			},
+			"A2": {
+				"count": 199,
+				"readability": 81
+			},
+			"B1": {
+				"count": 200,
+				"readability": 91
+			},
+			"B2": {
+				"count": 126,
+				"readability": 96
+			},
+			"C1": {
+				"count": 66,
+				"readability": 98
+			},
+			"C2": {
+				"count": 32,
+				"readability": 100
+			}
+		}
+	}
+}
