@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/henry-iv-part-i","title":"Henry IV, Part I","creator":"William Shakespeare","description":"King Henry IV faces Welsh and Scottish rebels while English royals plot to betray their own king.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":12487,"uniqueWordsCount":2618,"ranks":{"highest":47090,"lowest":1},"levels":{"A1":{"count":425,"readability":53},"A2":{"count":308,"readability":64},"B1":{"count":430,"readability":74},"B2":{"count":491,"readability":84},"C1":{"count":469,"readability":93},"C2":{"count":345,"readability":99}}}}
+{
+	"dir": "william-shakespeare/henry-iv-part-i",
+	"title": "Henry IV, Part I",
+	"creator": "William Shakespeare",
+	"description": "King Henry IV faces Welsh and Scottish rebels while English royals plot to betray their own king.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 12461,
+		"uniqueWordsCount": 2752,
+		"ranks": {
+			"highest": 48859,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 447,
+				"readability": 51
+			},
+			"A2": {
+				"count": 314,
+				"readability": 62
+			},
+			"B1": {
+				"count": 444,
+				"readability": 72
+			},
+			"B2": {
+				"count": 521,
+				"readability": 83
+			},
+			"C1": {
+				"count": 492,
+				"readability": 92
+			},
+			"C2": {
+				"count": 361,
+				"readability": 98
+			}
+		}
+	}
+}
