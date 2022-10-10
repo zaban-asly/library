@@ -1,1 +1,43 @@
-{"dir":"john-webster/the-duchess-of-malfi","title":"The Duchess of Malfi","creator":"John Webster","description":"A widow marries beneath her station and against her brothers’ orders and, enraged, they take their revenge.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":12308,"uniqueWordsCount":2763,"ranks":{"highest":50270,"lowest":1},"levels":{"A1":{"count":438,"readability":52},"A2":{"count":334,"readability":64},"B1":{"count":508,"readability":76},"B2":{"count":556,"readability":88},"C1":{"count":466,"readability":96},"C2":{"count":293,"readability":99}}}}
+{
+	"dir": "john-webster/the-duchess-of-malfi",
+	"title": "The Duchess of Malfi",
+	"creator": "John Webster",
+	"description": "A widow marries beneath her station and against her brothers’ orders and, enraged, they take their revenge.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 12290,
+		"uniqueWordsCount": 2917,
+		"ranks": {
+			"highest": 52200,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 462,
+				"readability": 50
+			},
+			"A2": {
+				"count": 337,
+				"readability": 62
+			},
+			"B1": {
+				"count": 522,
+				"readability": 74
+			},
+			"B2": {
+				"count": 584,
+				"readability": 87
+			},
+			"C1": {
+				"count": 497,
+				"readability": 95
+			},
+			"C2": {
+				"count": 327,
+				"readability": 99
+			}
+		}
+	}
+}
