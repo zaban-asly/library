@@ -1,1 +1,43 @@
-{"dir":"robert-louis-stevenson/kidnapped","title":"Kidnapped","creator":"Robert Louis Stevenson","description":"After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":35953,"uniqueWordsCount":4204,"ranks":{"highest":47485,"lowest":1},"levels":{"A1":{"count":465,"readability":64},"A2":{"count":450,"readability":75},"B1":{"count":717,"readability":84},"B2":{"count":907,"readability":91},"C1":{"count":815,"readability":96},"C2":{"count":555,"readability":99}}}}
+{
+	"dir": "robert-louis-stevenson/kidnapped",
+	"title": "Kidnapped",
+	"creator": "Robert Louis Stevenson",
+	"description": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 35885,
+		"uniqueWordsCount": 4460,
+		"ranks": {
+			"highest": 49271,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 62
+			},
+			"A2": {
+				"count": 454,
+				"readability": 73
+			},
+			"B1": {
+				"count": 746,
+				"readability": 83
+			},
+			"B2": {
+				"count": 951,
+				"readability": 90
+			},
+			"C1": {
+				"count": 874,
+				"readability": 95
+			},
+			"C2": {
+				"count": 604,
+				"readability": 99
+			}
+		}
+	}
+}
