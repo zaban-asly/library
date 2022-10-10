@@ -1,1 +1,43 @@
-{"dir":"roald-dahl/the-landlady","title":"The Landlady","creator":"Roald Dahl","description":"Billy was going from London by a slow train. It was in the afternoon. By evening, he had reached his destination. It was dark around, and the air was very cold. Billy stopped a lonely passer-by and asked if there was a cheap hotel nearby. He was advised to go to the nearest pub. There he could rent a room. The pub was about a kilometer from here. Billy had never been to this city before; he had no acquaintances there. But he arrived upon the instructions of the chief. The chief ordered to find a house and report back after that. Billy was less than eighteen years old, but he tried to act like an adult. He wanted to become a successful businessman, and they are all serious and always peppy. When he got to the pub, he saw that it was a very cozy place. The fire was burning in the fireplace. A dog was sleeping on the floor.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1409,"uniqueWordsCount":569,"ranks":{"highest":27443,"lowest":1},"levels":{"A1":{"count":278,"readability":67},"A2":{"count":92,"readability":78},"B1":{"count":86,"readability":87},"B2":{"count":64,"readability":93},"C1":{"count":35,"readability":99},"C2":{"count":10,"readability":100}}}}
+{
+	"dir": "roald-dahl/the-landlady",
+	"title": "The Landlady",
+	"creator": "Roald Dahl",
+	"description": "Billy was going from London by a slow train. It was in the afternoon. By evening, he had reached his destination. It was dark around, and the air was very cold. Billy stopped a lonely passer-by and asked if there was a cheap hotel nearby. He was advised to go to the nearest pub. There he could rent a room. The pub was about a kilometer from here. Billy had never been to this city before; he had no acquaintances there. But he arrived upon the instructions of the chief. The chief ordered to find a house and report back after that. Billy was less than eighteen years old, but he tried to act like an adult. He wanted to become a successful businessman, and they are all serious and always peppy. When he got to the pub, he saw that it was a very cozy place. The fire was burning in the fireplace. A dog was sleeping on the floor.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1409,
+		"uniqueWordsCount": 594,
+		"ranks": {
+			"highest": 28450,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 285,
+				"readability": 66
+			},
+			"A2": {
+				"count": 97,
+				"readability": 77
+			},
+			"B1": {
+				"count": 94,
+				"readability": 87
+			},
+			"B2": {
+				"count": 64,
+				"readability": 93
+			},
+			"C1": {
+				"count": 39,
+				"readability": 99
+			},
+			"C2": {
+				"count": 10,
+				"readability": 100
+			}
+		}
+	}
+}
