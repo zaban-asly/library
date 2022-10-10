@@ -1,1 +1,43 @@
-{"dir":"dorothy-m-richardson/pointed-roofs","title":"Pointed Roofs","creator":"Dorothy M. Richardson","description":"Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":28855,"uniqueWordsCount":4344,"ranks":{"highest":49030,"lowest":1},"levels":{"A1":{"count":454,"readability":55},"A2":{"count":425,"readability":68},"B1":{"count":673,"readability":78},"B2":{"count":886,"readability":88},"C1":{"count":924,"readability":95},"C2":{"count":644,"readability":99}}}}
+{
+	"dir": "dorothy-m-richardson/pointed-roofs",
+	"title": "Pointed Roofs",
+	"creator": "Dorothy M. Richardson",
+	"description": "Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 28798,
+		"uniqueWordsCount": 4544,
+		"ranks": {
+			"highest": 50889,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 481,
+				"readability": 54
+			},
+			"A2": {
+				"count": 425,
+				"readability": 66
+			},
+			"B1": {
+				"count": 710,
+				"readability": 77
+			},
+			"B2": {
+				"count": 891,
+				"readability": 87
+			},
+			"C1": {
+				"count": 992,
+				"readability": 95
+			},
+			"C2": {
+				"count": 678,
+				"readability": 99
+			}
+		}
+	}
+}
