@@ -1,1 +1,43 @@
-{"dir":"nathaniel-hawthorne/the-birthmark","title":"The Birthmark","creator":"Nathaniel Hawthorne","description":"It was the end of the eighteenth century. One man of science lived in the world. One day he left his laboratory and met a young beautiful woman. Later she became his wife. Aylmer sincerely loved his spouse, but still science remained the main passion of the young man. One day, he looked at his wife and asked if she knew that he could remove the birthmark from her cheek. The wife said this birthmark only gave her a special charm. Aylmer kept standing on his own. He said the mole was very annoying. But these words only made his wife sad and the woman started crying. This mole looked like a small handprint. Her parents said that the fairy stroked her cheek in the childhood. Even after this Aylmer did not calm down. He became obsessed with the birthmark.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":990,"uniqueWordsCount":405,"ranks":{"highest":20383,"lowest":1},"levels":{"A1":{"count":205,"readability":62},"A2":{"count":66,"readability":76},"B1":{"count":60,"readability":87},"B2":{"count":44,"readability":94},"C1":{"count":20,"readability":96},"C2":{"count":8,"readability":99}}}}
+{
+	"dir": "nathaniel-hawthorne/the-birthmark",
+	"title": "The Birthmark",
+	"creator": "Nathaniel Hawthorne",
+	"description": "It was the end of the eighteenth century. One man of science lived in the world. One day he left his laboratory and met a young beautiful woman. Later she became his wife. Aylmer sincerely loved his spouse, but still science remained the main passion of the young man. One day, he looked at his wife and asked if she knew that he could remove the birthmark from her cheek. The wife said this birthmark only gave her a special charm. Aylmer kept standing on his own. He said the mole was very annoying. But these words only made his wife sad and the woman started crying. This mole looked like a small handprint. Her parents said that the fairy stroked her cheek in the childhood. Even after this Aylmer did not calm down. He became obsessed with the birthmark.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 990,
+		"uniqueWordsCount": 432,
+		"ranks": {
+			"highest": 21099,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 218,
+				"readability": 60
+			},
+			"A2": {
+				"count": 65,
+				"readability": 73
+			},
+			"B1": {
+				"count": 63,
+				"readability": 84
+			},
+			"B2": {
+				"count": 54,
+				"readability": 93
+			},
+			"C1": {
+				"count": 21,
+				"readability": 96
+			},
+			"C2": {
+				"count": 9,
+				"readability": 99
+			}
+		}
+	}
+}
