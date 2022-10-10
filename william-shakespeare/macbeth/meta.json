@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/macbeth","title":"Macbeth","creator":"William Shakespeare","description":"An ambitious general murders the King of Scotland and takes the throne for himself—and then he must deal with the consequences.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":8977,"uniqueWordsCount":2232,"ranks":{"highest":49205,"lowest":1},"levels":{"A1":{"count":404,"readability":54},"A2":{"count":294,"readability":65},"B1":{"count":405,"readability":75},"B2":{"count":417,"readability":86},"C1":{"count":362,"readability":95},"C2":{"count":235,"readability":99}}}}
+{
+	"dir": "william-shakespeare/macbeth",
+	"title": "Macbeth",
+	"creator": "William Shakespeare",
+	"description": "An ambitious general murders the King of Scotland and takes the throne for himself—and then he must deal with the consequences.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 8962,
+		"uniqueWordsCount": 2360,
+		"ranks": {
+			"highest": 51083,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 428,
+				"readability": 51
+			},
+			"A2": {
+				"count": 296,
+				"readability": 62
+			},
+			"B1": {
+				"count": 419,
+				"readability": 74
+			},
+			"B2": {
+				"count": 447,
+				"readability": 85
+			},
+			"C1": {
+				"count": 379,
+				"readability": 95
+			},
+			"C2": {
+				"count": 256,
+				"readability": 99
+			}
+		}
+	}
+}
