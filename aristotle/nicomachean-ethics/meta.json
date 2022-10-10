@@ -1,1 +1,43 @@
-{"dir":"aristotle/nicomachean-ethics","title":"Nicomachean Ethics","creator":"Aristotle","description":"Aristotle examines how one may live in the most thriving, excellent manner.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":44515,"uniqueWordsCount":3483,"ranks":{"highest":48498,"lowest":1},"levels":{"A1":{"count":423,"readability":55},"A2":{"count":339,"readability":69},"B1":{"count":582,"readability":80},"B2":{"count":675,"readability":90},"C1":{"count":684,"readability":96},"C2":{"count":538,"readability":99}}}}
+{
+	"dir": "aristotle/nicomachean-ethics",
+	"title": "Nicomachean Ethics",
+	"creator": "Aristotle",
+	"description": "Aristotle examines how one may live in the most thriving, excellent manner.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 44310,
+		"uniqueWordsCount": 3647,
+		"ranks": {
+			"highest": 50328,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 441,
+				"readability": 54
+			},
+			"A2": {
+				"count": 342,
+				"readability": 67
+			},
+			"B1": {
+				"count": 584,
+				"readability": 79
+			},
+			"B2": {
+				"count": 697,
+				"readability": 89
+			},
+			"C1": {
+				"count": 711,
+				"readability": 96
+			},
+			"C2": {
+				"count": 588,
+				"readability": 99
+			}
+		}
+	}
+}
