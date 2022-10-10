@@ -1,1 +1,43 @@
-{"dir":"joseph-conrad/nostromo","title":"Nostromo","creator":"Joseph Conrad","description":"The fictitious South American republic of Costaguana is in the midst of a civil war and the citizens of the coastal town of Sulaco turn to Nostromo for help.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":83789,"uniqueWordsCount":8053,"ranks":{"highest":49933,"lowest":1},"levels":{"A1":{"count":468,"readability":51},"A2":{"count":482,"readability":64},"B1":{"count":917,"readability":75},"B2":{"count":1548,"readability":86},"C1":{"count":1984,"readability":94},"C2":{"count":1819,"readability":99}}}}
+{
+	"dir": "joseph-conrad/nostromo",
+	"title": "Nostromo",
+	"creator": "Joseph Conrad",
+	"description": "The fictitious South American republic of Costaguana is in the midst of a civil war and the citizens of the coastal town of Sulaco turn to Nostromo for help.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 83672,
+		"uniqueWordsCount": 8371,
+		"ranks": {
+			"highest": 51851,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 49
+			},
+			"A2": {
+				"count": 483,
+				"readability": 62
+			},
+			"B1": {
+				"count": 929,
+				"readability": 74
+			},
+			"B2": {
+				"count": 1563,
+				"readability": 85
+			},
+			"C1": {
+				"count": 2058,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1914,
+				"readability": 99
+			}
+		}
+	}
+}
