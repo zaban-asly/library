@@ -1,1 +1,43 @@
-{"dir":"elizabeth-gaskell/cranford","title":"Cranford","creator":"Elizabeth Gaskell","description":"A series of sketches about small town life in a changing mid-Victorian England.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":33397,"uniqueWordsCount":4527,"ranks":{"highest":46973,"lowest":1},"levels":{"A1":{"count":465,"readability":63},"A2":{"count":462,"readability":73},"B1":{"count":776,"readability":84},"B2":{"count":1013,"readability":92},"C1":{"count":925,"readability":97},"C2":{"count":627,"readability":100}}}}
+{
+	"dir": "elizabeth-gaskell/cranford",
+	"title": "Cranford",
+	"creator": "Elizabeth Gaskell",
+	"description": "A series of sketches about small town life in a changing mid-Victorian England.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 33314,
+		"uniqueWordsCount": 4730,
+		"ranks": {
+			"highest": 48738,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 61
+			},
+			"A2": {
+				"count": 468,
+				"readability": 72
+			},
+			"B1": {
+				"count": 789,
+				"readability": 83
+			},
+			"B2": {
+				"count": 1049,
+				"readability": 91
+			},
+			"C1": {
+				"count": 960,
+				"readability": 96
+			},
+			"C2": {
+				"count": 675,
+				"readability": 99
+			}
+		}
+	}
+}
