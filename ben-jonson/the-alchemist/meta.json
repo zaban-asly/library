@@ -1,1 +1,43 @@
-{"dir":"ben-jonson/the-alchemist","title":"The Alchemist","creator":"Ben Jonson","description":"A rollicking Elizabethan comedy in which two con men and their female compatriot gull a series of unfortunate victims out of their money.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":15181,"uniqueWordsCount":2926,"ranks":{"highest":50116,"lowest":1},"levels":{"A1":{"count":439,"readability":52},"A2":{"count":333,"readability":62},"B1":{"count":513,"readability":72},"B2":{"count":524,"readability":83},"C1":{"count":496,"readability":89},"C2":{"count":369,"readability":98}}}}
+{
+	"dir": "ben-jonson/the-alchemist",
+	"title": "The Alchemist",
+	"creator": "Ben Jonson",
+	"description": "A rollicking Elizabethan comedy in which two con men and their female compatriot gull a series of unfortunate victims out of their money.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 15165,
+		"uniqueWordsCount": 3055,
+		"ranks": {
+			"highest": 52040,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 459,
+				"readability": 51
+			},
+			"A2": {
+				"count": 336,
+				"readability": 60
+			},
+			"B1": {
+				"count": 525,
+				"readability": 70
+			},
+			"B2": {
+				"count": 547,
+				"readability": 82
+			},
+			"C1": {
+				"count": 518,
+				"readability": 88
+			},
+			"C2": {
+				"count": 395,
+				"readability": 98
+			}
+		}
+	}
+}
