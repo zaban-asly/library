@@ -1,1 +1,43 @@
-{"dir":"p-g-wodehouse/ukridge-stories","title":"Ukridge Stories","creator":"P. G. Wodehouse","description":"A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":46200,"uniqueWordsCount":6045,"ranks":{"highest":49076,"lowest":1},"levels":{"A1":{"count":467,"readability":56},"A2":{"count":464,"readability":67},"B1":{"count":832,"readability":77},"B2":{"count":1251,"readability":86},"C1":{"count":1302,"readability":93},"C2":{"count":1093,"readability":98}}}}
+{
+	"dir": "p-g-wodehouse/ukridge-stories",
+	"title": "Ukridge Stories",
+	"creator": "P. G. Wodehouse",
+	"description": "A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 46121,
+		"uniqueWordsCount": 6300,
+		"ranks": {
+			"highest": 50939,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 54
+			},
+			"A2": {
+				"count": 463,
+				"readability": 65
+			},
+			"B1": {
+				"count": 849,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1268,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1357,
+				"readability": 92
+			},
+			"C2": {
+				"count": 1160,
+				"readability": 98
+			}
+		}
+	}
+}
