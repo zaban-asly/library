@@ -1,5 +1,5 @@
 
-# The Ransom of Red Chief <kbd>v3.2.1</kbd>
+# The Ransom of Red Chief <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
