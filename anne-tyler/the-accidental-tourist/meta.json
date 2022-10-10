@@ -1,1 +1,43 @@
-{"dir":"anne-tyler/the-accidental-tourist","title":"The Accidental Tourist","creator":"Anne Tyler","description":"Here is one of the most popular novels of this writer. This is a family story about relationship problems and conflicts between men and women in the family. The book tells the reader about the eternal attempts to find your way in life and the fact that it often turns out to be a meaningless exercise. One of the ain characters is Macon. He is a little over forty. He is very pedantic and keeps things under control, even at home. He writes guides but he hates travelling. His books have detailed instructions on how to feel comfortable in any trip. How to protect your inner world from the intervention of strangers. His son died long ago. This changed the life of the man greatly. His marriage gradually falls apart and turns into nothing. The drama of one person will not leave the reader indifferent.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":11415,"uniqueWordsCount":1687,"ranks":{"highest":42798,"lowest":1},"levels":{"A1":{"count":421,"readability":62},"A2":{"count":290,"readability":73},"B1":{"count":345,"readability":83},"B2":{"count":289,"readability":91},"C1":{"count":161,"readability":97},"C2":{"count":115,"readability":99}}}}
+{
+	"dir": "anne-tyler/the-accidental-tourist",
+	"title": "The Accidental Tourist",
+	"creator": "Anne Tyler",
+	"description": "Here is one of the most popular novels of this writer. This is a family story about relationship problems and conflicts between men and women in the family. The book tells the reader about the eternal attempts to find your way in life and the fact that it often turns out to be a meaningless exercise. One of the ain characters is Macon. He is a little over forty. He is very pedantic and keeps things under control, even at home. He writes guides but he hates travelling. His books have detailed instructions on how to feel comfortable in any trip. How to protect your inner world from the intervention of strangers. His son died long ago. This changed the life of the man greatly. His marriage gradually falls apart and turns into nothing. The drama of one person will not leave the reader indifferent.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 11426,
+		"uniqueWordsCount": 1821,
+		"ranks": {
+			"highest": 51817,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 450,
+				"readability": 60
+			},
+			"A2": {
+				"count": 300,
+				"readability": 71
+			},
+			"B1": {
+				"count": 375,
+				"readability": 82
+			},
+			"B2": {
+				"count": 304,
+				"readability": 91
+			},
+			"C1": {
+				"count": 186,
+				"readability": 97
+			},
+			"C2": {
+				"count": 115,
+				"readability": 99
+			}
+		}
+	}
+}
