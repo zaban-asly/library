@@ -1,1 +1,43 @@
-{"dir":"george-eliot/daniel-deronda","title":"Daniel Deronda","creator":"George Eliot","description":"An orphaned young man raised as an aristocrat’s nephew feels a moral obligation to assist others, and in doing so eventually discovers his true parentage and culture.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":142691,"uniqueWordsCount":9437,"ranks":{"highest":50068,"lowest":1},"levels":{"A1":{"count":470,"readability":57},"A2":{"count":486,"readability":69},"B1":{"count":951,"readability":80},"B2":{"count":1658,"readability":89},"C1":{"count":2323,"readability":95},"C2":{"count":2270,"readability":99}}}}
+{
+	"dir": "george-eliot/daniel-deronda",
+	"title": "Daniel Deronda",
+	"creator": "George Eliot",
+	"description": "An orphaned young man raised as an aristocrat’s nephew feels a moral obligation to assist others, and in doing so eventually discovers his true parentage and culture.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 142213,
+		"uniqueWordsCount": 9895,
+		"ranks": {
+			"highest": 51991,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 498,
+				"readability": 55
+			},
+			"A2": {
+				"count": 486,
+				"readability": 67
+			},
+			"B1": {
+				"count": 962,
+				"readability": 78
+			},
+			"B2": {
+				"count": 1673,
+				"readability": 88
+			},
+			"C1": {
+				"count": 2391,
+				"readability": 95
+			},
+			"C2": {
+				"count": 2429,
+				"readability": 99
+			}
+		}
+	}
+}
