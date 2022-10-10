@@ -1,1 +1,43 @@
-{"dir":"james-branch-cabell/the-cream-of-the-jest","title":"The Cream of the Jest","creator":"James Branch Cabell","description":"The lines between reality and fantasy begin to blur in the life of an author of fantasy books.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":21846,"uniqueWordsCount":5094,"ranks":{"highest":49055,"lowest":1},"levels":{"A1":{"count":464,"readability":50},"A2":{"count":444,"readability":61},"B1":{"count":720,"readability":73},"B2":{"count":947,"readability":83},"C1":{"count":1016,"readability":91},"C2":{"count":941,"readability":97}}}}
+{
+	"dir": "james-branch-cabell/the-cream-of-the-jest",
+	"title": "The Cream of the Jest",
+	"creator": "James Branch Cabell",
+	"description": "The lines between reality and fantasy begin to blur in the life of an author of fantasy books.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 21798,
+		"uniqueWordsCount": 5280,
+		"ranks": {
+			"highest": 50916,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 49
+			},
+			"A2": {
+				"count": 446,
+				"readability": 59
+			},
+			"B1": {
+				"count": 740,
+				"readability": 71
+			},
+			"B2": {
+				"count": 946,
+				"readability": 82
+			},
+			"C1": {
+				"count": 1048,
+				"readability": 90
+			},
+			"C2": {
+				"count": 1003,
+				"readability": 97
+			}
+		}
+	}
+}
