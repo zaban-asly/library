@@ -1,1 +1,43 @@
-{"dir":"h-g-wells/short-fiction","title":"Short Fiction","creator":"H. G. Wells","description":"A collection of short stories by H. G. Wells in a variety of genres ordered by date of publication.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":146315,"uniqueWordsCount":10447,"ranks":{"highest":50268,"lowest":1},"levels":{"A1":{"count":471,"readability":55},"A2":{"count":492,"readability":67},"B1":{"count":954,"readability":77},"B2":{"count":1715,"readability":87},"C1":{"count":2524,"readability":94},"C2":{"count":2606,"readability":99}}}}
+{
+	"dir": "h-g-wells/short-fiction",
+	"title": "Short Fiction",
+	"creator": "H. G. Wells",
+	"description": "A collection of short stories by H. G. Wells in a variety of genres ordered by date of publication.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 146107,
+		"uniqueWordsCount": 10903,
+		"ranks": {
+			"highest": 52198,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 498,
+				"readability": 53
+			},
+			"A2": {
+				"count": 493,
+				"readability": 65
+			},
+			"B1": {
+				"count": 959,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1738,
+				"readability": 86
+			},
+			"C1": {
+				"count": 2602,
+				"readability": 94
+			},
+			"C2": {
+				"count": 2716,
+				"readability": 98
+			}
+		}
+	}
+}
