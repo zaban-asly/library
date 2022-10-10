@@ -1,1 +1,43 @@
-{"dir":"george-mac-donald/the-princess-and-the-goblin","title":"The Princess and the Goblin","creator":"George MacDonald","description":"A princess and her young friend valiantly fend off a goblin attack with help from a ghostly relative.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":23405,"uniqueWordsCount":2721,"ranks":{"highest":49598,"lowest":1},"levels":{"A1":{"count":449,"readability":66},"A2":{"count":402,"readability":78},"B1":{"count":576,"readability":88},"B2":{"count":589,"readability":95},"C1":{"count":427,"readability":99},"C2":{"count":218,"readability":100}}}}
+{
+	"dir": "george-mac-donald/the-princess-and-the-goblin",
+	"title": "The Princess and the Goblin",
+	"creator": "George MacDonald",
+	"description": "A princess and her young friend valiantly fend off a goblin attack with help from a ghostly relative.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 23372,
+		"uniqueWordsCount": 2934,
+		"ranks": {
+			"highest": 51507,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 476,
+				"readability": 63
+			},
+			"A2": {
+				"count": 407,
+				"readability": 76
+			},
+			"B1": {
+				"count": 594,
+				"readability": 87
+			},
+			"B2": {
+				"count": 635,
+				"readability": 94
+			},
+			"C1": {
+				"count": 479,
+				"readability": 98
+			},
+			"C2": {
+				"count": 265,
+				"readability": 100
+			}
+		}
+	}
+}
