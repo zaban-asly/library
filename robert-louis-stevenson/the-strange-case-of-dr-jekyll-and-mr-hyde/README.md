@@ -1,5 +1,5 @@
 
-# The Strange Case of Dr. Jekyll and Mr. Hyde <kbd>v3.2.1</kbd>
+# The Strange Case of Dr. Jekyll and Mr. Hyde <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
