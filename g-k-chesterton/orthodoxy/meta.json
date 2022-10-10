@@ -1,1 +1,43 @@
-{"dir":"g-k-chesterton/orthodoxy","title":"Orthodoxy","creator":"G. K. Chesterton","description":"G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":30747,"uniqueWordsCount":4686,"ranks":{"highest":50256,"lowest":1},"levels":{"A1":{"count":459,"readability":50},"A2":{"count":434,"readability":61},"B1":{"count":707,"readability":74},"B2":{"count":954,"readability":85},"C1":{"count":946,"readability":93},"C2":{"count":767,"readability":98}}}}
+{
+	"dir": "g-k-chesterton/orthodoxy",
+	"title": "Orthodoxy",
+	"creator": "G. K. Chesterton",
+	"description": "G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 30638,
+		"uniqueWordsCount": 4919,
+		"ranks": {
+			"highest": 52183,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 485,
+				"readability": 48
+			},
+			"A2": {
+				"count": 439,
+				"readability": 60
+			},
+			"B1": {
+				"count": 713,
+				"readability": 73
+			},
+			"B2": {
+				"count": 985,
+				"readability": 84
+			},
+			"C1": {
+				"count": 980,
+				"readability": 92
+			},
+			"C2": {
+				"count": 845,
+				"readability": 98
+			}
+		}
+	}
+}
