@@ -1,1 +1,43 @@
-{"dir":"e-nesbit/harding-s-luck","title":"Harding’s Luck","creator":"E. Nesbit","description":"A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":32257,"uniqueWordsCount":3600,"ranks":{"highest":48732,"lowest":1},"levels":{"A1":{"count":460,"readability":64},"A2":{"count":420,"readability":75},"B1":{"count":619,"readability":83},"B2":{"count":777,"readability":90},"C1":{"count":665,"readability":97},"C2":{"count":450,"readability":99}}}}
+{
+	"dir": "e-nesbit/harding-s-luck",
+	"title": "Harding’s Luck",
+	"creator": "E. Nesbit",
+	"description": "A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 32204,
+		"uniqueWordsCount": 3811,
+		"ranks": {
+			"highest": 50573,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 62
+			},
+			"A2": {
+				"count": 424,
+				"readability": 73
+			},
+			"B1": {
+				"count": 645,
+				"readability": 82
+			},
+			"B2": {
+				"count": 814,
+				"readability": 89
+			},
+			"C1": {
+				"count": 709,
+				"readability": 97
+			},
+			"C2": {
+				"count": 494,
+				"readability": 99
+			}
+		}
+	}
+}
