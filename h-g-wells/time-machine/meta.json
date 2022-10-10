@@ -1,1 +1,43 @@
-{"dir":"h-g-wells/time-machine","title":"Time Machine","creator":"H. G. Wells","description":"<p>The story starts with a time traveller telling to his friends about geometry. He had invited his friends to the dinner where he shared his ideas with them. The time traveller is sure that the geometry they learnt at school is completely wrong. It says there are only 3 dimensions. The traveller explains to his friends that time is the fourth dimension. He uses the reading of the barometer to show it is not measuring length, width or depth. Next time the traveller showed a time machine. He has been working for two years to make it. He claims that as soon he pressed the lever, the time machine would disappear into the future. Certainly, nobody believed him. However, the traveller seriously claimed that he would go to the future with the help of his invention.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":10456,"uniqueWordsCount":1297,"ranks":{"highest":41564,"lowest":1},"levels":{"A1":{"count":403,"readability":69},"A2":{"count":278,"readability":83},"B1":{"count":257,"readability":93},"B2":{"count":183,"readability":97},"C1":{"count":101,"readability":99},"C2":{"count":52,"readability":100}}}}
+{
+	"dir": "h-g-wells/time-machine",
+	"title": "Time Machine",
+	"creator": "H. G. Wells",
+	"description": "<p>The story starts with a time traveller telling to his friends about geometry. He had invited his friends to the dinner where he shared his ideas with them. The time traveller is sure that the geometry they learnt at school is completely wrong. It says there are only 3 dimensions. The traveller explains to his friends that time is the fourth dimension. He uses the reading of the barometer to show it is not measuring length, width or depth. Next time the traveller showed a time machine. He has been working for two years to make it. He claims that as soon he pressed the lever, the time machine would disappear into the future. Certainly, nobody believed him. However, the traveller seriously claimed that he would go to the future with the help of his invention.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 10452,
+		"uniqueWordsCount": 1429,
+		"ranks": {
+			"highest": 43150,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 433,
+				"readability": 66
+			},
+			"A2": {
+				"count": 285,
+				"readability": 81
+			},
+			"B1": {
+				"count": 296,
+				"readability": 91
+			},
+			"B2": {
+				"count": 207,
+				"readability": 96
+			},
+			"C1": {
+				"count": 119,
+				"readability": 99
+			},
+			"C2": {
+				"count": 61,
+				"readability": 100
+			}
+		}
+	}
+}
