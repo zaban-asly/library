@@ -1,1 +1,43 @@
-{"dir":"richard-brinsley-sheridan/the-school-for-scandal","title":"The School for Scandal","creator":"Richard Brinsley Sheridan","description":"Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":18495,"uniqueWordsCount":3261,"ranks":{"highest":47565,"lowest":1},"levels":{"A1":{"count":447,"readability":51},"A2":{"count":382,"readability":62},"B1":{"count":580,"readability":77},"B2":{"count":672,"readability":89},"C1":{"count":570,"readability":95},"C2":{"count":430,"readability":99}}}}
+{
+	"dir": "richard-brinsley-sheridan/the-school-for-scandal",
+	"title": "The School for Scandal",
+	"creator": "Richard Brinsley Sheridan",
+	"description": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 18468,
+		"uniqueWordsCount": 3397,
+		"ranks": {
+			"highest": 49355,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 472,
+				"readability": 50
+			},
+			"A2": {
+				"count": 389,
+				"readability": 61
+			},
+			"B1": {
+				"count": 588,
+				"readability": 76
+			},
+			"B2": {
+				"count": 699,
+				"readability": 88
+			},
+			"C1": {
+				"count": 591,
+				"readability": 95
+			},
+			"C2": {
+				"count": 452,
+				"readability": 99
+			}
+		}
+	}
+}
