@@ -1,1 +1,43 @@
-{"dir":"john-henry-newman/verses-on-various-occasions","title":"Verses on Various Occasions","creator":"John Henry Newman","description":"A collection of poems by John Henry Newman.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":18167,"uniqueWordsCount":3595,"ranks":{"highest":49817,"lowest":1},"levels":{"A1":{"count":427,"readability":45},"A2":{"count":360,"readability":57},"B1":{"count":552,"readability":73},"B2":{"count":674,"readability":85},"C1":{"count":763,"readability":94},"C2":{"count":533,"readability":98}}}}
+{
+	"dir": "john-henry-newman/verses-on-various-occasions",
+	"title": "Verses on Various Occasions",
+	"creator": "John Henry Newman",
+	"description": "A collection of poems by John Henry Newman.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 18132,
+		"uniqueWordsCount": 3794,
+		"ranks": {
+			"highest": 51731,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 447,
+				"readability": 43
+			},
+			"A2": {
+				"count": 358,
+				"readability": 55
+			},
+			"B1": {
+				"count": 565,
+				"readability": 71
+			},
+			"B2": {
+				"count": 716,
+				"readability": 84
+			},
+			"C1": {
+				"count": 764,
+				"readability": 93
+			},
+			"C2": {
+				"count": 610,
+				"readability": 98
+			}
+		}
+	}
+}
