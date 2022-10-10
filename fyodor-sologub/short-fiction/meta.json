@@ -1,1 +1,43 @@
-{"dir":"fyodor-sologub/short-fiction","title":"Short Fiction","creator":"Fyodor Sologub","description":"A collection of Fyodor Sologub’s translated short stories, ordered by date of the publication of their translation.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":47456,"uniqueWordsCount":5453,"ranks":{"highest":49803,"lowest":1},"levels":{"A1":{"count":463,"readability":57},"A2":{"count":465,"readability":70},"B1":{"count":831,"readability":81},"B2":{"count":1147,"readability":90},"C1":{"count":1269,"readability":96},"C2":{"count":953,"readability":99}}}}
+{
+	"dir": "fyodor-sologub/short-fiction",
+	"title": "Short Fiction",
+	"creator": "Fyodor Sologub",
+	"description": "A collection of Fyodor Sologub’s translated short stories, ordered by date of the publication of their translation.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 47414,
+		"uniqueWordsCount": 5728,
+		"ranks": {
+			"highest": 51717,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 55
+			},
+			"A2": {
+				"count": 466,
+				"readability": 68
+			},
+			"B1": {
+				"count": 850,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1189,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1345,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1005,
+				"readability": 99
+			}
+		}
+	}
+}
