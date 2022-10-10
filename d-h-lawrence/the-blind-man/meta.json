@@ -1,1 +1,43 @@
-{"dir":"d-h-lawrence/the-blind-man","title":"The Blind Man","creator":"D. H. Lawrence","description":"Isabel Pervin sat in the house. She was listening to two sounds: to the noise of cars outside the window and to her husband's footsteps in the hall. They were once a happy couple. But this happiness disappeared. Her husband had been blinded in the war in France. He was totally blind. Isabel did everything to help him but sometimes her husband was obnoxious. She was going to have a baby. Isabel was happy. But she was also worried. The woman decided to give all her love and attention to her future child. But what about her husband? But something made Isabel happy - her old friend Bertie wrote to her. Bertie was like a brother to her, even closer than her own brothers. And now she was waiting for him to arrive. But her husband and Bertie didn't love each other. Isabel couldn't imagine how this meeting would happen. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1198,"uniqueWordsCount":451,"ranks":{"highest":22850,"lowest":1},"levels":{"A1":{"count":240,"readability":73},"A2":{"count":82,"readability":84},"B1":{"count":59,"readability":93},"B2":{"count":45,"readability":98},"C1":{"count":21,"readability":100},"C2":{"count":3,"readability":100}}}}
+{
+	"dir": "d-h-lawrence/the-blind-man",
+	"title": "The Blind Man",
+	"creator": "D. H. Lawrence",
+	"description": "Isabel Pervin sat in the house. She was listening to two sounds: to the noise of cars outside the window and to her husband's footsteps in the hall. They were once a happy couple. But this happiness disappeared. Her husband had been blinded in the war in France. He was totally blind. Isabel did everything to help him but sometimes her husband was obnoxious. She was going to have a baby. Isabel was happy. But she was also worried. The woman decided to give all her love and attention to her future child. But what about her husband? But something made Isabel happy - her old friend Bertie wrote to her. Bertie was like a brother to her, even closer than her own brothers. And now she was waiting for him to arrive. But her husband and Bertie didn't love each other. Isabel couldn't imagine how this meeting would happen. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1198,
+		"uniqueWordsCount": 484,
+		"ranks": {
+			"highest": 23663,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 254,
+				"readability": 71
+			},
+			"A2": {
+				"count": 82,
+				"readability": 83
+			},
+			"B1": {
+				"count": 67,
+				"readability": 92
+			},
+			"B2": {
+				"count": 50,
+				"readability": 98
+			},
+			"C1": {
+				"count": 24,
+				"readability": 100
+			},
+			"C2": {
+				"count": 6,
+				"readability": 100
+			}
+		}
+	}
+}
