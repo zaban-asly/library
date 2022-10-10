@@ -1,1 +1,43 @@
-{"dir":"ambrose-bierce/the-devil-s-dictionary","title":"The Devil’s Dictionary","creator":"Ambrose Bierce","description":"A witty, sharp collection of sardonic word definitions from the 1800s and early 1900s that provide a snapshot into the irreverent humor of early American culture.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":30747,"uniqueWordsCount":7392,"ranks":{"highest":50252,"lowest":1},"levels":{"A1":{"count":466,"readability":38},"A2":{"count":472,"readability":49},"B1":{"count":866,"readability":64},"B2":{"count":1370,"readability":77},"C1":{"count":1647,"readability":88},"C2":{"count":1518,"readability":96}}}}
+{
+	"dir": "ambrose-bierce/the-devil-s-dictionary",
+	"title": "The Devil’s Dictionary",
+	"creator": "Ambrose Bierce",
+	"description": "A witty, sharp collection of sardonic word definitions from the 1800s and early 1900s that provide a snapshot into the irreverent humor of early American culture.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 30654,
+		"uniqueWordsCount": 7660,
+		"ranks": {
+			"highest": 52179,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 37
+			},
+			"A2": {
+				"count": 472,
+				"readability": 48
+			},
+			"B1": {
+				"count": 876,
+				"readability": 63
+			},
+			"B2": {
+				"count": 1379,
+				"readability": 76
+			},
+			"C1": {
+				"count": 1686,
+				"readability": 88
+			},
+			"C2": {
+				"count": 1604,
+				"readability": 96
+			}
+		}
+	}
+}
