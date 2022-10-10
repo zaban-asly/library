@@ -1,1 +1,43 @@
-{"dir":"yevgeny-zamyatin/we","title":"We","creator":"Yevgeny Zamyatin","description":"A thousand years in the future, the builder of a spaceship discovers his emotions.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":31437,"uniqueWordsCount":3890,"ranks":{"highest":49533,"lowest":1},"levels":{"A1":{"count":443,"readability":55},"A2":{"count":422,"readability":69},"B1":{"count":634,"readability":80},"B2":{"count":791,"readability":89},"C1":{"count":762,"readability":95},"C2":{"count":526,"readability":99}}}}
+{
+	"dir": "yevgeny-zamyatin/we",
+	"title": "We",
+	"creator": "Yevgeny Zamyatin",
+	"description": "A thousand years in the future, the builder of a spaceship discovers his emotions.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 31381,
+		"uniqueWordsCount": 4080,
+		"ranks": {
+			"highest": 51439,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 471,
+				"readability": 54
+			},
+			"A2": {
+				"count": 421,
+				"readability": 67
+			},
+			"B1": {
+				"count": 653,
+				"readability": 79
+			},
+			"B2": {
+				"count": 826,
+				"readability": 89
+			},
+			"C1": {
+				"count": 808,
+				"readability": 95
+			},
+			"C2": {
+				"count": 554,
+				"readability": 99
+			}
+		}
+	}
+}
