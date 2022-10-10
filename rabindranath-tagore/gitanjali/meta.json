@@ -1,1 +1,43 @@
-{"dir":"rabindranath-tagore/gitanjali","title":"Gitanjali","creator":"Rabindranath Tagore","description":"Prose poems of offering translated by the author from the original Bengali.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":6915,"uniqueWordsCount":1773,"ranks":{"highest":39153,"lowest":1},"levels":{"A1":{"count":375,"readability":57},"A2":{"count":227,"readability":71},"B1":{"count":295,"readability":81},"B2":{"count":319,"readability":90},"C1":{"count":299,"readability":96},"C2":{"count":173,"readability":99}}}}
+{
+	"dir": "rabindranath-tagore/gitanjali",
+	"title": "Gitanjali",
+	"creator": "Rabindranath Tagore",
+	"description": "Prose poems of offering translated by the author from the original Bengali.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 6907,
+		"uniqueWordsCount": 1874,
+		"ranks": {
+			"highest": 40649,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 397,
+				"readability": 55
+			},
+			"A2": {
+				"count": 236,
+				"readability": 69
+			},
+			"B1": {
+				"count": 310,
+				"readability": 80
+			},
+			"B2": {
+				"count": 337,
+				"readability": 89
+			},
+			"C1": {
+				"count": 315,
+				"readability": 95
+			},
+			"C2": {
+				"count": 181,
+				"readability": 99
+			}
+		}
+	}
+}
