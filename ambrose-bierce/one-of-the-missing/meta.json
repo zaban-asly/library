@@ -1,1 +1,43 @@
-{"dir":"ambrose-bierce/one-of-the-missing","title":"One of the Missing","creator":"Ambrose Bierce","description":"Jerome was a scout for the Yankees. He often went to spy on the enemy soldiers. Once a group of officers housed on the hill. They were a blue Yankee uniform. The Confederation army moved farther to the other side of the forest. One of the officers asked about the enemy's actions: whether they were moving forward or retreating. They decided to send a scout to check it out. A few minutes later, Jerome set to work. Jerome was a very brave man and always worked alone. His hearing and sight were very keen. He heard what other people could not hear. The scout was walking through the forest with a heavy rifle. Jerome knew how to shoot very accurately. Reaching the edge of the forest, he disappeared in the shadows and started observing.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":842,"uniqueWordsCount":311,"ranks":{"highest":17907,"lowest":1},"levels":{"A1":{"count":172,"readability":55},"A2":{"count":59,"readability":71},"B1":{"count":38,"readability":80},"B2":{"count":28,"readability":90},"C1":{"count":10,"readability":95},"C2":{"count":3,"readability":100}}}}
+{
+	"dir": "ambrose-bierce/one-of-the-missing",
+	"title": "One of the Missing",
+	"creator": "Ambrose Bierce",
+	"description": "Jerome was a scout for the Yankees. He often went to spy on the enemy soldiers. Once a group of officers housed on the hill. They were a blue Yankee uniform. The Confederation army moved farther to the other side of the forest. One of the officers asked about the enemy's actions: whether they were moving forward or retreating. They decided to send a scout to check it out. A few minutes later, Jerome set to work. Jerome was a very brave man and always worked alone. His hearing and sight were very keen. He heard what other people could not hear. The scout was walking through the forest with a heavy rifle. Jerome knew how to shoot very accurately. Reaching the edge of the forest, he disappeared in the shadows and started observing.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 842,
+		"uniqueWordsCount": 332,
+		"ranks": {
+			"highest": 18534,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 184,
+				"readability": 55
+			},
+			"A2": {
+				"count": 55,
+				"readability": 69
+			},
+			"B1": {
+				"count": 45,
+				"readability": 79
+			},
+			"B2": {
+				"count": 32,
+				"readability": 89
+			},
+			"C1": {
+				"count": 10,
+				"readability": 94
+			},
+			"C2": {
+				"count": 5,
+				"readability": 100
+			}
+		}
+	}
+}
