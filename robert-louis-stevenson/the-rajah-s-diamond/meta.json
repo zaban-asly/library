@@ -1,1 +1,43 @@
-{"dir":"robert-louis-stevenson/the-rajah-s-diamond","title":"The Rajah’s Diamond","creator":"Robert Louis Stevenson","description":"<p>Sir Thomas started his career in India. He did some secret favor for Rajar of Kashgar. In acknowledgment Rajah presented Thomas a valuable thing - his famous diamond. In his homeland this English soldier became one of the most richest and famous people. After returning to England he married to a rich and noble woman. Harry Hartley was a sixteen-year-old orphan and worked as a private secretary for Sir Thomas. This work was no pleasure. His master was a difficult person. He always shouted and was angry with Harry. Unlike Sir Thomas his wife Lady Vandeleur was kind and friendly. The young servant often carried out many different private errands for her. Unfortunately, the next errand led Harry to the bad consequences. </p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3401,"uniqueWordsCount":706,"ranks":{"highest":20107,"lowest":11},"levels":{"A1":{"count":327,"readability":69},"A2":{"count":144,"readability":82},"B1":{"count":107,"readability":89},"B2":{"count":86,"readability":97},"C1":{"count":26,"readability":99},"C2":{"count":14,"readability":100}}}}
+{
+	"dir": "robert-louis-stevenson/the-rajah-s-diamond",
+	"title": "The Rajah’s Diamond",
+	"creator": "Robert Louis Stevenson",
+	"description": "<p>Sir Thomas started his career in India. He did some secret favor for Rajar of Kashgar. In acknowledgment Rajah presented Thomas a valuable thing - his famous diamond. In his homeland this English soldier became one of the most richest and famous people. After returning to England he married to a rich and noble woman. Harry Hartley was a sixteen-year-old orphan and worked as a private secretary for Sir Thomas. This work was no pleasure. His master was a difficult person. He always shouted and was angry with Harry. Unlike Sir Thomas his wife Lady Vandeleur was kind and friendly. The young servant often carried out many different private errands for her. Unfortunately, the next errand led Harry to the bad consequences. </p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3403,
+		"uniqueWordsCount": 768,
+		"ranks": {
+			"highest": 20814,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 358,
+				"readability": 68
+			},
+			"A2": {
+				"count": 138,
+				"readability": 80
+			},
+			"B1": {
+				"count": 121,
+				"readability": 88
+			},
+			"B2": {
+				"count": 94,
+				"readability": 97
+			},
+			"C1": {
+				"count": 38,
+				"readability": 99
+			},
+			"C2": {
+				"count": 16,
+				"readability": 100
+			}
+		}
+	}
+}
