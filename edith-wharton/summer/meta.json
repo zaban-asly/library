@@ -1,1 +1,43 @@
-{"dir":"edith-wharton/summer","title":"Summer","creator":"Edith Wharton","description":"A young woman has resigned to life in a stifling small town until a visiting stranger hints at a wider world of possibilities.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":27585,"uniqueWordsCount":4292,"ranks":{"highest":49295,"lowest":1},"levels":{"A1":{"count":457,"readability":58},"A2":{"count":431,"readability":71},"B1":{"count":677,"readability":80},"B2":{"count":925,"readability":90},"C1":{"count":900,"readability":96},"C2":{"count":642,"readability":99}}}}
+{
+	"dir": "edith-wharton/summer",
+	"title": "Summer",
+	"creator": "Edith Wharton",
+	"description": "A young woman has resigned to life in a stifling small town until a visiting stranger hints at a wider world of possibilities.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 27541,
+		"uniqueWordsCount": 4499,
+		"ranks": {
+			"highest": 51191,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 56
+			},
+			"A2": {
+				"count": 436,
+				"readability": 69
+			},
+			"B1": {
+				"count": 696,
+				"readability": 79
+			},
+			"B2": {
+				"count": 952,
+				"readability": 89
+			},
+			"C1": {
+				"count": 944,
+				"readability": 95
+			},
+			"C2": {
+				"count": 686,
+				"readability": 99
+			}
+		}
+	}
+}
