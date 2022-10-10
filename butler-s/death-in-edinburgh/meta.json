@@ -1,1 +1,43 @@
-{"dir":"butler-s/death-in-edinburgh","title":"Death in Edinburgh","creator":"Butler S.","description":"<p>Angus returned from England to Edinburgh. He was very happy. The fact is that nine months ago, he published a book and it brought him unprecedented success. His life turned upside down. He had 15 years of uncertainty before the publication. Now Angus is a very popular person. Twenty publishers are fighting for the right to work with him. They want him to start writing a new crime story. But the writer wants to have a short break at home. A new crime happened in Edinburgh and Angus was one of the first people to learn about it. Many police officers were his friends. Angus was even in love with a woman, who was from this area. After visiting the crime place, the writer understood that he had already started a new book. He has to investigate this case on his own and find the murderer. </p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3240,"uniqueWordsCount":1077,"ranks":{"highest":48761,"lowest":1},"levels":{"A1":{"count":341,"readability":61},"A2":{"count":185,"readability":72},"B1":{"count":171,"readability":81},"B2":{"count":165,"readability":90},"C1":{"count":119,"readability":97},"C2":{"count":58,"readability":99}}}}
+{
+	"dir": "butler-s/death-in-edinburgh",
+	"title": "Death in Edinburgh",
+	"creator": "Butler S.",
+	"description": "<p>Angus returned from England to Edinburgh. He was very happy. The fact is that nine months ago, he published a book and it brought him unprecedented success. His life turned upside down. He had 15 years of uncertainty before the publication. Now Angus is a very popular person. Twenty publishers are fighting for the right to work with him. They want him to start writing a new crime story. But the writer wants to have a short break at home. A new crime happened in Edinburgh and Angus was one of the first people to learn about it. Many police officers were his friends. Angus was even in love with a woman, who was from this area. After visiting the crime place, the writer understood that he had already started a new book. He has to investigate this case on his own and find the murderer. </p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3244,
+		"uniqueWordsCount": 1138,
+		"ranks": {
+			"highest": 50607,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 361,
+				"readability": 59
+			},
+			"A2": {
+				"count": 195,
+				"readability": 71
+			},
+			"B1": {
+				"count": 173,
+				"readability": 80
+			},
+			"B2": {
+				"count": 175,
+				"readability": 89
+			},
+			"C1": {
+				"count": 123,
+				"readability": 94
+			},
+			"C2": {
+				"count": 65,
+				"readability": 99
+			}
+		}
+	}
+}
