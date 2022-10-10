@@ -1,1 +1,43 @@
-{"dir":"joseph-conrad/lord-jim","title":"Lord Jim","creator":"Joseph Conrad","description":"Haunted by the part he played in a shipping disaster, young British seaman Jim escapes to an island in the South Seas to build his future.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":63419,"uniqueWordsCount":7214,"ranks":{"highest":49829,"lowest":1},"levels":{"A1":{"count":468,"readability":56},"A2":{"count":473,"readability":68},"B1":{"count":875,"readability":78},"B2":{"count":1420,"readability":88},"C1":{"count":1792,"readability":95},"C2":{"count":1509,"readability":99}}}}
+{
+	"dir": "joseph-conrad/lord-jim",
+	"title": "Lord Jim",
+	"creator": "Joseph Conrad",
+	"description": "Haunted by the part he played in a shipping disaster, young British seaman Jim escapes to an island in the South Seas to build his future.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 63281,
+		"uniqueWordsCount": 7475,
+		"ranks": {
+			"highest": 51743,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 54
+			},
+			"A2": {
+				"count": 475,
+				"readability": 66
+			},
+			"B1": {
+				"count": 886,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1443,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1849,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1581,
+				"readability": 99
+			}
+		}
+	}
+}
