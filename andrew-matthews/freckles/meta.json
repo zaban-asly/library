@@ -1,1 +1,43 @@
-{"dir":"andrew-matthews/freckles","title":"Freckles","creator":"Andrew Matthews","description":"Susie has freckles on her face. This is very disturbing for her. She thinks that with age there will be only more of them. And she has problems with boys. She likes boys, but they don't like her freckles. Her best friend's name is Donna. Donna has never had problems with boys. She looks great. She has soft hair, bright big eyes and the main thing - no freckles. When a new boy appears at school, Donna gets interested in him. Will Jack reciprocate? And wouldn't he laugh at Susie's freckles like other boys? The girl looks at her face in the mirror every day. She waits with horror for the freckles to start growing. The girl considers them her main problem in life. But soon the girl learns that freckles are not so terrible. And a teenager may have lot of other problems. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1557,"uniqueWordsCount":304,"ranks":{"highest":24411,"lowest":11},"levels":{"A1":{"count":174,"readability":70},"A2":{"count":56,"readability":78},"B1":{"count":35,"readability":86},"B2":{"count":20,"readability":91},"C1":{"count":8,"readability":93},"C2":{"count":7,"readability":99}}}}
+{
+	"dir": "andrew-matthews/freckles",
+	"title": "Freckles",
+	"creator": "Andrew Matthews",
+	"description": "Susie has freckles on her face. This is very disturbing for her. She thinks that with age there will be only more of them. And she has problems with boys. She likes boys, but they don't like her freckles. Her best friend's name is Donna. Donna has never had problems with boys. She looks great. She has soft hair, bright big eyes and the main thing - no freckles. When a new boy appears at school, Donna gets interested in him. Will Jack reciprocate? And wouldn't he laugh at Susie's freckles like other boys? The girl looks at her face in the mirror every day. She waits with horror for the freckles to start growing. The girl considers them her main problem in life. But soon the girl learns that freckles are not so terrible. And a teenager may have lot of other problems. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1557,
+		"uniqueWordsCount": 334,
+		"ranks": {
+			"highest": 25291,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 193,
+				"readability": 69
+			},
+			"A2": {
+				"count": 55,
+				"readability": 77
+			},
+			"B1": {
+				"count": 44,
+				"readability": 86
+			},
+			"B2": {
+				"count": 20,
+				"readability": 90
+			},
+			"C1": {
+				"count": 11,
+				"readability": 93
+			},
+			"C2": {
+				"count": 7,
+				"readability": 99
+			}
+		}
+	}
+}
