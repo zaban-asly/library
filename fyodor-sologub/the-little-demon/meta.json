@@ -1,1 +1,43 @@
-{"dir":"fyodor-sologub/the-little-demon","title":"The Little Demon","creator":"Fyodor Sologub","description":"A banal and paranoid school teacher falls slowly into madness.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":45611,"uniqueWordsCount":5099,"ranks":{"highest":48484,"lowest":1},"levels":{"A1":{"count":464,"readability":57},"A2":{"count":454,"readability":69},"B1":{"count":788,"readability":80},"B2":{"count":1090,"readability":89},"C1":{"count":1080,"readability":95},"C2":{"count":824,"readability":99}}}}
+{
+	"dir": "fyodor-sologub/the-little-demon",
+	"title": "The Little Demon",
+	"creator": "Fyodor Sologub",
+	"description": "A banal and paranoid school teacher falls slowly into madness.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 45561,
+		"uniqueWordsCount": 5349,
+		"ranks": {
+			"highest": 50313,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 55
+			},
+			"A2": {
+				"count": 459,
+				"readability": 67
+			},
+			"B1": {
+				"count": 806,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1115,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1165,
+				"readability": 95
+			},
+			"C2": {
+				"count": 873,
+				"readability": 99
+			}
+		}
+	}
+}
