@@ -1,1 +1,43 @@
-{"dir":"clare-gray/prisoner-for-peace","title":"Prisoner for Peace","creator":"Clare Gray","description":"Aung San Su was born in Burma in a rich respected family. Su's father was killed when the girl was only two years old. But despite this, her childhood was happy. When the girl was fifteen, the whole family mo moved to India. Su was a very smart girl and became interested in politics. This occupation was very easy for her. She got into Oxford, where she met one Englishman. It turned out to be her destiny. Later the couple married. Su and her husband lived happily, but Su did not forget her father. She remembered that he died for his country - Burma. Aung San Su did not choose the simple life of a quiet and inconspicuous housewife. Her youthful interest in politics was not in vain. It changed her life. And also other people's lives.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":482,"uniqueWordsCount":224,"ranks":{"highest":26256,"lowest":17},"levels":{"A1":{"count":127,"readability":62},"A2":{"count":33,"readability":79},"B1":{"count":28,"readability":90},"B2":{"count":18,"readability":96},"C1":{"count":9,"readability":98},"C2":{"count":4,"readability":99}}}}
+{
+	"dir": "clare-gray/prisoner-for-peace",
+	"title": "Prisoner for Peace",
+	"creator": "Clare Gray",
+	"description": "Aung San Su was born in Burma in a rich respected family. Su's father was killed when the girl was only two years old. But despite this, her childhood was happy. When the girl was fifteen, the whole family mo moved to India. Su was a very smart girl and became interested in politics. This occupation was very easy for her. She got into Oxford, where she met one Englishman. It turned out to be her destiny. Later the couple married. Su and her husband lived happily, but Su did not forget her father. She remembered that he died for his country - Burma. Aung San Su did not choose the simple life of a quiet and inconspicuous housewife. Her youthful interest in politics was not in vain. It changed her life. And also other people's lives.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 485,
+		"uniqueWordsCount": 236,
+		"ranks": {
+			"highest": 38386,
+			"lowest": 3
+		},
+		"levels": {
+			"A1": {
+				"count": 126,
+				"readability": 58
+			},
+			"A2": {
+				"count": 38,
+				"readability": 77
+			},
+			"B1": {
+				"count": 31,
+				"readability": 89
+			},
+			"B2": {
+				"count": 20,
+				"readability": 95
+			},
+			"C1": {
+				"count": 9,
+				"readability": 97
+			},
+			"C2": {
+				"count": 5,
+				"readability": 98
+			}
+		}
+	}
+}
