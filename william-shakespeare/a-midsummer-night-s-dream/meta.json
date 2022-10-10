@@ -1,1 +1,43 @@
-{"dir":"william-shakespeare/a-midsummer-night-s-dream","title":"A Midsummer Night’s Dream","creator":"William Shakespeare","description":"This comedy follows four lovers and a thespian who become bewitched by fairies.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":8458,"uniqueWordsCount":2104,"ranks":{"highest":49185,"lowest":1},"levels":{"A1":{"count":397,"readability":50},"A2":{"count":264,"readability":61},"B1":{"count":350,"readability":71},"B2":{"count":388,"readability":82},"C1":{"count":357,"readability":90},"C2":{"count":243,"readability":99}}}}
+{
+	"dir": "william-shakespeare/a-midsummer-night-s-dream",
+	"title": "A Midsummer Night’s Dream",
+	"creator": "William Shakespeare",
+	"description": "This comedy follows four lovers and a thespian who become bewitched by fairies.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 8446,
+		"uniqueWordsCount": 2210,
+		"ranks": {
+			"highest": 51060,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 418,
+				"readability": 48
+			},
+			"A2": {
+				"count": 266,
+				"readability": 59
+			},
+			"B1": {
+				"count": 358,
+				"readability": 70
+			},
+			"B2": {
+				"count": 395,
+				"readability": 81
+			},
+			"C1": {
+				"count": 380,
+				"readability": 89
+			},
+			"C2": {
+				"count": 272,
+				"readability": 98
+			}
+		}
+	}
+}
