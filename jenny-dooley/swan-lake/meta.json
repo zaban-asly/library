@@ -1,1 +1,43 @@
-{"dir":"jenny-dooley/swan-lake","title":"Swan lake","creator":"Jenny Dooley","description":"<p>This is a fairytale, which became known thanks to a famous Pyotr Tchaikovsky’s ballet. It is a love story between Prince Zigfried and a swan. It all has began when the Prince’s father died. The Prince was in a deep sorrow for a long time. His loyal servant Ozlowe tried very hard to cheer him but he failed every time. During his other attempt, he proposed his master to leave their castle for a walk. While they were wandering around a forest, they found a lake. A beautiful white swan with a gold crown on its head was swimming there. Ozlowe decided to kill the animal for Prince’s pleasure and shot an arrow. Prince Zigfried tried to stop his servant but it was too late. Fortunately, the arrow missed its target. Ozlowe became a stone, and the swan disappeared mysteriously…</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2324,"uniqueWordsCount":523,"ranks":{"highest":14639,"lowest":1},"levels":{"A1":{"count":286,"readability":73},"A2":{"count":97,"readability":84},"B1":{"count":71,"readability":93},"B2":{"count":43,"readability":96},"C1":{"count":18,"readability":100},"C2":{"count":8,"readability":100}}}}
+{
+	"dir": "jenny-dooley/swan-lake",
+	"title": "Swan lake",
+	"creator": "Jenny Dooley",
+	"description": "<p>This is a fairytale, which became known thanks to a famous Pyotr Tchaikovsky’s ballet. It is a love story between Prince Zigfried and a swan. It all has began when the Prince’s father died. The Prince was in a deep sorrow for a long time. His loyal servant Ozlowe tried very hard to cheer him but he failed every time. During his other attempt, he proposed his master to leave their castle for a walk. While they were wandering around a forest, they found a lake. A beautiful white swan with a gold crown on its head was swimming there. Ozlowe decided to kill the animal for Prince’s pleasure and shot an arrow. Prince Zigfried tried to stop his servant but it was too late. Fortunately, the arrow missed its target. Ozlowe became a stone, and the swan disappeared mysteriously…</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2323,
+		"uniqueWordsCount": 578,
+		"ranks": {
+			"highest": 15454,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 310,
+				"readability": 70
+			},
+			"A2": {
+				"count": 97,
+				"readability": 81
+			},
+			"B1": {
+				"count": 93,
+				"readability": 92
+			},
+			"B2": {
+				"count": 47,
+				"readability": 96
+			},
+			"C1": {
+				"count": 20,
+				"readability": 100
+			},
+			"C2": {
+				"count": 11,
+				"readability": 100
+			}
+		}
+	}
+}
