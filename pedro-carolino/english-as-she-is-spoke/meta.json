@@ -1,1 +1,43 @@
-{"dir":"pedro-carolino/english-as-she-is-spoke","title":"English as She Is Spoke","creator":"Pedro Carolino","description":"A phrasebook of unintentionally hilarious English.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3713,"uniqueWordsCount":1483,"ranks":{"highest":50273,"lowest":1},"levels":{"A1":{"count":349,"readability":52},"A2":{"count":189,"readability":64},"B1":{"count":252,"readability":75},"B2":{"count":246,"readability":84},"C1":{"count":188,"readability":92},"C2":{"count":156,"readability":97}}}}
+{
+	"dir": "pedro-carolino/english-as-she-is-spoke",
+	"title": "English as She Is Spoke",
+	"creator": "Pedro Carolino",
+	"description": "A phrasebook of unintentionally hilarious English.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3706,
+		"uniqueWordsCount": 1522,
+		"ranks": {
+			"highest": 52202,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 359,
+				"readability": 50
+			},
+			"A2": {
+				"count": 193,
+				"readability": 62
+			},
+			"B1": {
+				"count": 251,
+				"readability": 74
+			},
+			"B2": {
+				"count": 250,
+				"readability": 83
+			},
+			"C1": {
+				"count": 192,
+				"readability": 91
+			},
+			"C2": {
+				"count": 169,
+				"readability": 97
+			}
+		}
+	}
+}
