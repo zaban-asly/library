@@ -1,1 +1,43 @@
-{"dir":"jonathan-mantle/benetton","title":"Benetton","creator":"Jonathan Mantle","description":"<p>Benetton is the real-life story of an extraordinary Italian family and the organization they have built. Faced with poverty in a country ruined by the Second World War, the Benetton family started one of the most successful and large businesses in the whole world. Today they supply 8,000 stores in 120 countries. They also always made one of the most shocking advertising images ever seen. This is all about of hard work and success, discovery and risk-taking and of terrorism, public anger, and court cases.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":12211,"uniqueWordsCount":1892,"ranks":{"highest":47835,"lowest":1},"levels":{"A1":{"count":419,"readability":52},"A2":{"count":305,"readability":64},"B1":{"count":364,"readability":80},"B2":{"count":357,"readability":91},"C1":{"count":211,"readability":95},"C2":{"count":125,"readability":99}}}}
+{
+	"dir": "jonathan-mantle/benetton",
+	"title": "Benetton",
+	"creator": "Jonathan Mantle",
+	"description": "<p>Benetton is the real-life story of an extraordinary Italian family and the organization they have built. Faced with poverty in a country ruined by the Second World War, the Benetton family started one of the most successful and large businesses in the whole world. Today they supply 8,000 stores in 120 countries. They also always made one of the most shocking advertising images ever seen. This is all about of hard work and success, discovery and risk-taking and of terrorism, public anger, and court cases.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 12221,
+		"uniqueWordsCount": 2030,
+		"ranks": {
+			"highest": 49638,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 447,
+				"readability": 49
+			},
+			"A2": {
+				"count": 315,
+				"readability": 61
+			},
+			"B1": {
+				"count": 388,
+				"readability": 78
+			},
+			"B2": {
+				"count": 378,
+				"readability": 89
+			},
+			"C1": {
+				"count": 233,
+				"readability": 95
+			},
+			"C2": {
+				"count": 139,
+				"readability": 98
+			}
+		}
+	}
+}
