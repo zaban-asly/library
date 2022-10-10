@@ -1,1 +1,43 @@
-{"dir":"jan-carew/lost-love","title":"Lost Love","creator":"Jan Carew","description":"Everything happened in the summer. The protagonist of the book thought that it was very hot in the city. He wanted to take a walk in the forest, look at the mountains or the river, travel around the country and see it completely. The young man had a small red car and a good map. He went on a journey. Everything was great and he felt happy. The hot city was replaced by wide roads and green trees outside the car window. But one day the car broke down. The young man realized that he got lost in a completely unknown place. But then he saw a very beautiful long-haired girl in a dress. He decided to talk to her and got out of the car. He greeted this beautiful girl and said that he was lost. At first the girl was frightened by a stranger, but then she smiled and invited him to go with her to the village, where she would try to help.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":503,"uniqueWordsCount":187,"ranks":{"highest":26924,"lowest":11},"levels":{"A1":{"count":138,"readability":81},"A2":{"count":25,"readability":93},"B1":{"count":9,"readability":96},"B2":{"count":8,"readability":98},"C1":{"count":5,"readability":99},"C2":{"count":1,"readability":100}}}}
+{
+	"dir": "jan-carew/lost-love",
+	"title": "Lost Love",
+	"creator": "Jan Carew",
+	"description": "Everything happened in the summer. The protagonist of the book thought that it was very hot in the city. He wanted to take a walk in the forest, look at the mountains or the river, travel around the country and see it completely. The young man had a small red car and a good map. He went on a journey. Everything was great and he felt happy. The hot city was replaced by wide roads and green trees outside the car window. But one day the car broke down. The young man realized that he got lost in a completely unknown place. But then he saw a very beautiful long-haired girl in a dress. He decided to talk to her and got out of the car. He greeted this beautiful girl and said that he was lost. At first the girl was frightened by a stranger, but then she smiled and invited him to go with her to the village, where she would try to help.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 503,
+		"uniqueWordsCount": 194,
+		"ranks": {
+			"highest": 27915,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 139,
+				"readability": 79
+			},
+			"A2": {
+				"count": 24,
+				"readability": 91
+			},
+			"B1": {
+				"count": 16,
+				"readability": 96
+			},
+			"B2": {
+				"count": 8,
+				"readability": 98
+			},
+			"C1": {
+				"count": 5,
+				"readability": 99
+			},
+			"C2": {
+				"count": 1,
+				"readability": 100
+			}
+		}
+	}
+}
