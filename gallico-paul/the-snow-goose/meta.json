@@ -1,1 +1,43 @@
-{"dir":"gallico-paul/the-snow-goose","title":"The Snow Goose","creator":"Gallico Paul","description":"<p>Very often God gives a man a nice appearance. But the man’s heart becomes coarse apart of this generous gift. Beauty is not the same as inner world. An external ugliness can hide a heart, which holds love to the whole world without any borders. The author of this story introduces such a human to us. His name is Phillip. He has a hunchback with mutilated limbs. The man lives in a quite location. He is an artist. He paints the pictures of nature. Especially he likes painting birds. He learned all of them. Phillip lives in a lighthouse and he often chases down the hunters, who are looking for the birds. The local people are not very fond of Phillip because of his ugliness. But he is said to be a good healer. One day somebody knocked on his door. There was a girl covered with blood. She was holding an injured goose in her hands.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2551,"uniqueWordsCount":512,"ranks":{"highest":26759,"lowest":1},"levels":{"A1":{"count":279,"readability":65},"A2":{"count":105,"readability":81},"B1":{"count":62,"readability":90},"B2":{"count":36,"readability":95},"C1":{"count":12,"readability":97},"C2":{"count":13,"readability":99}}}}
+{
+	"dir": "gallico-paul/the-snow-goose",
+	"title": "The Snow Goose",
+	"creator": "Gallico Paul",
+	"description": "<p>Very often God gives a man a nice appearance. But the man’s heart becomes coarse apart of this generous gift. Beauty is not the same as inner world. An external ugliness can hide a heart, which holds love to the whole world without any borders. The author of this story introduces such a human to us. His name is Phillip. He has a hunchback with mutilated limbs. The man lives in a quite location. He is an artist. He paints the pictures of nature. Especially he likes painting birds. He learned all of them. Phillip lives in a lighthouse and he often chases down the hunters, who are looking for the birds. The local people are not very fond of Phillip because of his ugliness. But he is said to be a good healer. One day somebody knocked on his door. There was a girl covered with blood. She was holding an injured goose in her hands.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2550,
+		"uniqueWordsCount": 560,
+		"ranks": {
+			"highest": 27746,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 294,
+				"readability": 62
+			},
+			"A2": {
+				"count": 102,
+				"readability": 77
+			},
+			"B1": {
+				"count": 84,
+				"readability": 89
+			},
+			"B2": {
+				"count": 44,
+				"readability": 93
+			},
+			"C1": {
+				"count": 18,
+				"readability": 97
+			},
+			"C2": {
+				"count": 13,
+				"readability": 99
+			}
+		}
+	}
+}
