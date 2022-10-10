@@ -1,1 +1,43 @@
-{"dir":"james-joyce/poetry","title":"Poetry","creator":"James Joyce","description":"A collection of James Joyce’s poetry, ordered by date of first publication.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1771,"uniqueWordsCount":804,"ranks":{"highest":48386,"lowest":11},"levels":{"A1":{"count":234,"readability":50},"A2":{"count":111,"readability":65},"B1":{"count":126,"readability":76},"B2":{"count":109,"readability":85},"C1":{"count":117,"readability":94},"C2":{"count":67,"readability":98}}}}
+{
+	"dir": "james-joyce/poetry",
+	"title": "Poetry",
+	"creator": "James Joyce",
+	"description": "A collection of James Joyce’s poetry, ordered by date of first publication.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1771,
+		"uniqueWordsCount": 842,
+		"ranks": {
+			"highest": 50209,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 248,
+				"readability": 49
+			},
+			"A2": {
+				"count": 108,
+				"readability": 62
+			},
+			"B1": {
+				"count": 135,
+				"readability": 74
+			},
+			"B2": {
+				"count": 112,
+				"readability": 84
+			},
+			"C1": {
+				"count": 119,
+				"readability": 93
+			},
+			"C2": {
+				"count": 71,
+				"readability": 98
+			}
+		}
+	}
+}
