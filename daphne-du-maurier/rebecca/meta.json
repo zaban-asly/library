@@ -1,1 +1,43 @@
-{"dir":"daphne-du-maurier/rebecca","title":"Rebecca","creator":"Daphne Du Maurier","description":"<p>A young woman who is serving to a rich American Madame, going with her on the Cote d'Azur and accidentally meets there a British aristocrat named Maximilian de Winter. He is the owner of amazingly beautiful estate Manderley. After a brief romance, she agrees to marry him. They return to Manderley together. Almost immediately, the bride realizes how difficult it will be to erase the memory of her husband's image of his ex-wife, Rebecca. She died about a year ago, sailing on a yacht. Rebecca is rumoured to be not only has outstanding beauty, but also was an excellent hostess, who was able to stay in the community, went sailing on a yacht and was completely perfect. New wife suffers from her own embarrassment, shyness, inability to meet people and afraid of the servants that compares it with the previous mistress. </p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":14917,"uniqueWordsCount":1201,"ranks":{"highest":23242,"lowest":1},"levels":{"A1":{"count":407,"readability":71},"A2":{"count":248,"readability":82},"B1":{"count":241,"readability":90},"B2":{"count":198,"readability":95},"C1":{"count":75,"readability":100},"C2":{"count":26,"readability":100}}}}
+{
+	"dir": "daphne-du-maurier/rebecca",
+	"title": "Rebecca",
+	"creator": "Daphne Du Maurier",
+	"description": "<p>A young woman who is serving to a rich American Madame, going with her on the Cote d'Azur and accidentally meets there a British aristocrat named Maximilian de Winter. He is the owner of amazingly beautiful estate Manderley. After a brief romance, she agrees to marry him. They return to Manderley together. Almost immediately, the bride realizes how difficult it will be to erase the memory of her husband's image of his ex-wife, Rebecca. She died about a year ago, sailing on a yacht. Rebecca is rumoured to be not only has outstanding beauty, but also was an excellent hostess, who was able to stay in the community, went sailing on a yacht and was completely perfect. New wife suffers from her own embarrassment, shyness, inability to meet people and afraid of the servants that compares it with the previous mistress. </p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 14908,
+		"uniqueWordsCount": 1322,
+		"ranks": {
+			"highest": 24066,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 436,
+				"readability": 70
+			},
+			"A2": {
+				"count": 254,
+				"readability": 81
+			},
+			"B1": {
+				"count": 283,
+				"readability": 89
+			},
+			"B2": {
+				"count": 214,
+				"readability": 94
+			},
+			"C1": {
+				"count": 93,
+				"readability": 100
+			},
+			"C2": {
+				"count": 33,
+				"readability": 100
+			}
+		}
+	}
+}
