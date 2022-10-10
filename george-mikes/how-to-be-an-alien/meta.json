@@ -1,1 +1,43 @@
-{"dir":"george-mikes/how-to-be-an-alien","title":"How to be an Alien","creator":"George Mikes","description":"Great Britain is very different from the rest of the world. It consists of four countries and each of them has its own unique and ancient culture. Irish and British differ very much and do not love each other. And Scotland and Wales are two more countries that donated kilt, bagpipes and many other interesting items to the world. They say that poor people put on their best clothes and go to the city at the weekend in Europe. In England, it is the opposite - the rich dress poorly. In Europe, people rarely talk about the weather, but in England this is a tradition. Real Englishmen talk about the weather a few dozen times a day. In Europe, people value their friends. In England, people communicate politely, but maintain distance. The Englishman has very few close friends.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":4053,"uniqueWordsCount":800,"ranks":{"highest":27193,"lowest":1},"levels":{"A1":{"count":324,"readability":63},"A2":{"count":146,"readability":78},"B1":{"count":119,"readability":88},"B2":{"count":97,"readability":95},"C1":{"count":57,"readability":98},"C2":{"count":36,"readability":100}}}}
+{
+	"dir": "george-mikes/how-to-be-an-alien",
+	"title": "How to be an Alien",
+	"creator": "George Mikes",
+	"description": "Great Britain is very different from the rest of the world. It consists of four countries and each of them has its own unique and ancient culture. Irish and British differ very much and do not love each other. And Scotland and Wales are two more countries that donated kilt, bagpipes and many other interesting items to the world. They say that poor people put on their best clothes and go to the city at the weekend in Europe. In England, it is the opposite - the rich dress poorly. In Europe, people rarely talk about the weather, but in England this is a tradition. Real Englishmen talk about the weather a few dozen times a day. In Europe, people value their friends. In England, people communicate politely, but maintain distance. The Englishman has very few close friends.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 4057,
+		"uniqueWordsCount": 851,
+		"ranks": {
+			"highest": 34757,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 338,
+				"readability": 61
+			},
+			"A2": {
+				"count": 144,
+				"readability": 76
+			},
+			"B1": {
+				"count": 137,
+				"readability": 87
+			},
+			"B2": {
+				"count": 96,
+				"readability": 94
+			},
+			"C1": {
+				"count": 66,
+				"readability": 97
+			},
+			"C2": {
+				"count": 38,
+				"readability": 99
+			}
+		}
+	}
+}
