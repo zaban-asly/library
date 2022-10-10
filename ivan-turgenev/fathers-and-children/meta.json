@@ -1,1 +1,43 @@
-{"dir":"ivan-turgenev/fathers-and-children","title":"Fathers and Children","creator":"Ivan Turgenev","description":"Arkady returns to his father’s estate accompanied by his friend from university—a nihilist.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":34281,"uniqueWordsCount":4896,"ranks":{"highest":50111,"lowest":1},"levels":{"A1":{"count":464,"readability":59},"A2":{"count":454,"readability":71},"B1":{"count":810,"readability":82},"B2":{"count":1121,"readability":91},"C1":{"count":1053,"readability":96},"C2":{"count":710,"readability":99}}}}
+{
+	"dir": "ivan-turgenev/fathers-and-children",
+	"title": "Fathers and Children",
+	"creator": "Ivan Turgenev",
+	"description": "Arkady returns to his father’s estate accompanied by his friend from university—a nihilist.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 34242,
+		"uniqueWordsCount": 5118,
+		"ranks": {
+			"highest": 52035,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 57
+			},
+			"A2": {
+				"count": 459,
+				"readability": 69
+			},
+			"B1": {
+				"count": 830,
+				"readability": 81
+			},
+			"B2": {
+				"count": 1144,
+				"readability": 90
+			},
+			"C1": {
+				"count": 1124,
+				"readability": 96
+			},
+			"C2": {
+				"count": 759,
+				"readability": 99
+			}
+		}
+	}
+}
