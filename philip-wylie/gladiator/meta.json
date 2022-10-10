@@ -1,1 +1,43 @@
-{"dir":"philip-wylie/gladiator","title":"Gladiator","creator":"Philip Wylie","description":"A young man, given superhuman abilities by his scientist father, tries to find purpose and use for his powers.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":37478,"uniqueWordsCount":6097,"ranks":{"highest":50181,"lowest":1},"levels":{"A1":{"count":466,"readability":52},"A2":{"count":471,"readability":64},"B1":{"count":851,"readability":75},"B2":{"count":1226,"readability":87},"C1":{"count":1386,"readability":94},"C2":{"count":1079,"readability":98}}}}
+{
+	"dir": "philip-wylie/gladiator",
+	"title": "Gladiator",
+	"creator": "Philip Wylie",
+	"description": "A young man, given superhuman abilities by his scientist father, tries to find purpose and use for his powers.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 37437,
+		"uniqueWordsCount": 6352,
+		"ranks": {
+			"highest": 52106,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 50
+			},
+			"A2": {
+				"count": 473,
+				"readability": 62
+			},
+			"B1": {
+				"count": 858,
+				"readability": 73
+			},
+			"B2": {
+				"count": 1260,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1440,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1149,
+				"readability": 98
+			}
+		}
+	}
+}
