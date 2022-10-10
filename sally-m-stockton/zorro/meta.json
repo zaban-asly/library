@@ -1,1 +1,43 @@
-{"dir":"sally-m-stockton/zorro","title":"Zorro","creator":"Sally M. Stockton","description":"<p>Zorro is a popular super hero from Spanish California. He was a foxy and clever revenger, who fought for justice. He wore a mask and a hat, was dressed in black clothes, and was armed with a sword and a whip. Zorro travelled by a black horse and wherever he was, he left a mark by three hits of the sword. Of course, his friends were honest poor natives, and his enemies were dishonest rich men. Sergeant Pedro Gonzales and his soldiers considered Zorro as a criminal and a bandit and wanted to catch him. Once at the February stormy night, the soldiers sat in a tavern and Sergeant Pedro talked to Don Diego that he could easily kill a terrorist Zorro in a fight. When Don Diego went home, Zorro came into the tavern and gave a chance to Sergeant to show that his words cost something.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1899,"uniqueWordsCount":435,"ranks":{"highest":17261,"lowest":1},"levels":{"A1":{"count":233,"readability":62},"A2":{"count":77,"readability":75},"B1":{"count":57,"readability":84},"B2":{"count":43,"readability":91},"C1":{"count":15,"readability":95},"C2":{"count":7,"readability":100}}}}
+{
+	"dir": "sally-m-stockton/zorro",
+	"title": "Zorro",
+	"creator": "Sally M. Stockton",
+	"description": "<p>Zorro is a popular super hero from Spanish California. He was a foxy and clever revenger, who fought for justice. He wore a mask and a hat, was dressed in black clothes, and was armed with a sword and a whip. Zorro travelled by a black horse and wherever he was, he left a mark by three hits of the sword. Of course, his friends were honest poor natives, and his enemies were dishonest rich men. Sergeant Pedro Gonzales and his soldiers considered Zorro as a criminal and a bandit and wanted to catch him. Once at the February stormy night, the soldiers sat in a tavern and Sergeant Pedro talked to Don Diego that he could easily kill a terrorist Zorro in a fight. When Don Diego went home, Zorro came into the tavern and gave a chance to Sergeant to show that his words cost something.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1894,
+		"uniqueWordsCount": 436,
+		"ranks": {
+			"highest": 17862,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 231,
+				"readability": 62
+			},
+			"A2": {
+				"count": 73,
+				"readability": 75
+			},
+			"B1": {
+				"count": 62,
+				"readability": 83
+			},
+			"B2": {
+				"count": 43,
+				"readability": 91
+			},
+			"C1": {
+				"count": 16,
+				"readability": 95
+			},
+			"C2": {
+				"count": 8,
+				"readability": 100
+			}
+		}
+	}
+}
