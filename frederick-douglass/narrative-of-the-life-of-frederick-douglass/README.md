@@ -1,5 +1,5 @@
 
-# Narrative of the Life of Frederick Douglass <kbd>v3.2.1</kbd>
+# Narrative of the Life of Frederick Douglass <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
