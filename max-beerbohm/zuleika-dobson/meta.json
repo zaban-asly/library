@@ -1,1 +1,43 @@
-{"dir":"max-beerbohm/zuleika-dobson","title":"Zuleika Dobson","creator":"Max Beerbohm","description":"A beautiful magician unsuspectingly casts her charms on quiet Oxford.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":37716,"uniqueWordsCount":6331,"ranks":{"highest":50162,"lowest":1},"levels":{"A1":{"count":469,"readability":53},"A2":{"count":477,"readability":65},"B1":{"count":847,"readability":75},"B2":{"count":1234,"readability":85},"C1":{"count":1441,"readability":93},"C2":{"count":1246,"readability":98}}}}
+{
+	"dir": "max-beerbohm/zuleika-dobson",
+	"title": "Zuleika Dobson",
+	"creator": "Max Beerbohm",
+	"description": "A beautiful magician unsuspectingly casts her charms on quiet Oxford.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 37635,
+		"uniqueWordsCount": 6605,
+		"ranks": {
+			"highest": 52086,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 51
+			},
+			"A2": {
+				"count": 477,
+				"readability": 63
+			},
+			"B1": {
+				"count": 862,
+				"readability": 74
+			},
+			"B2": {
+				"count": 1262,
+				"readability": 84
+			},
+			"C1": {
+				"count": 1495,
+				"readability": 92
+			},
+			"C2": {
+				"count": 1306,
+				"readability": 98
+			}
+		}
+	}
+}
