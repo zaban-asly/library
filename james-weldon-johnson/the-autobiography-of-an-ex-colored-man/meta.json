@@ -1,1 +1,43 @@
-{"dir":"james-weldon-johnson/the-autobiography-of-an-ex-colored-man","title":"The Autobiography of an Ex-Colored Man","creator":"James Weldon Johnson","description":"A man wrestles with his racial identity and must decide whether it is worth the risks to identify with the culture that he loves.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":25074,"uniqueWordsCount":4246,"ranks":{"highest":48219,"lowest":1},"levels":{"A1":{"count":463,"readability":56},"A2":{"count":452,"readability":69},"B1":{"count":736,"readability":81},"B2":{"count":950,"readability":90},"C1":{"count":847,"readability":96},"C2":{"count":588,"readability":99}}}}
+{
+	"dir": "james-weldon-johnson/the-autobiography-of-an-ex-colored-man",
+	"title": "The Autobiography of an Ex-Colored Man",
+	"creator": "James Weldon Johnson",
+	"description": "A man wrestles with his racial identity and must decide whether it is worth the risks to identify with the culture that he loves.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 25001,
+		"uniqueWordsCount": 4436,
+		"ranks": {
+			"highest": 50034,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 54
+			},
+			"A2": {
+				"count": 453,
+				"readability": 67
+			},
+			"B1": {
+				"count": 758,
+				"readability": 80
+			},
+			"B2": {
+				"count": 958,
+				"readability": 89
+			},
+			"C1": {
+				"count": 914,
+				"readability": 96
+			},
+			"C2": {
+				"count": 623,
+				"readability": 99
+			}
+		}
+	}
+}
