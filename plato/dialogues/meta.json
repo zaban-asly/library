@@ -1,1 +1,43 @@
-{"dir":"plato/dialogues","title":"Dialogues","creator":"Plato","description":"A collection of Plato’s dialogues.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":531287,"uniqueWordsCount":11268,"ranks":{"highest":50127,"lowest":1},"levels":{"A1":{"count":469,"readability":54},"A2":{"count":469,"readability":67},"B1":{"count":918,"readability":79},"B2":{"count":1615,"readability":89},"C1":{"count":2484,"readability":95},"C2":{"count":3061,"readability":99}}}}
+{
+	"dir": "plato/dialogues",
+	"title": "Dialogues",
+	"creator": "Plato",
+	"description": "A collection of Plato’s dialogues.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 528937,
+		"uniqueWordsCount": 11850,
+		"ranks": {
+			"highest": 52051,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 52
+			},
+			"A2": {
+				"count": 471,
+				"readability": 66
+			},
+			"B1": {
+				"count": 924,
+				"readability": 78
+			},
+			"B2": {
+				"count": 1633,
+				"readability": 88
+			},
+			"C1": {
+				"count": 2549,
+				"readability": 95
+			},
+			"C2": {
+				"count": 3220,
+				"readability": 99
+			}
+		}
+	}
+}
