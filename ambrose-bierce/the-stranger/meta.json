@@ -1,1 +1,43 @@
-{"dir":"ambrose-bierce/the-stranger","title":"The Stranger","creator":"Ambrose Bierce","description":"It was a dark cold night and the main characters were sitting around a fire in Arizona. Only snakes and birds were found in this dry and deserted rolling hills. No other people were visible, and the darkness outside the camp looked like a black wall. But all of a sudden a stranger appear near the fire. He calmly walked over and sat next to the others. The travellers raised their weapons, but the stranger was not afraid at all. He said that people had come to this desert before to explore it. He named the names of those four people who were able to pass this desert without a map. This man looked a little crazy. Perhaps he was lost, he had traveled for a long time alone and was happy to talk to other people. Or everything was not so simple.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":665,"uniqueWordsCount":258,"ranks":{"highest":35840,"lowest":1},"levels":{"A1":{"count":151,"readability":65},"A2":{"count":45,"readability":80},"B1":{"count":28,"readability":87},"B2":{"count":18,"readability":91},"C1":{"count":9,"readability":95},"C2":{"count":5,"readability":98}}}}
+{
+	"dir": "ambrose-bierce/the-stranger",
+	"title": "The Stranger",
+	"creator": "Ambrose Bierce",
+	"description": "It was a dark cold night and the main characters were sitting around a fire in Arizona. Only snakes and birds were found in this dry and deserted rolling hills. No other people were visible, and the darkness outside the camp looked like a black wall. But all of a sudden a stranger appear near the fire. He calmly walked over and sat next to the others. The travellers raised their weapons, but the stranger was not afraid at all. He said that people had come to this desert before to explore it. He named the names of those four people who were able to pass this desert without a map. This man looked a little crazy. Perhaps he was lost, he had traveled for a long time alone and was happy to talk to other people. Or everything was not so simple.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 665,
+		"uniqueWordsCount": 272,
+		"ranks": {
+			"highest": 37208,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 157,
+				"readability": 61
+			},
+			"A2": {
+				"count": 45,
+				"readability": 77
+			},
+			"B1": {
+				"count": 35,
+				"readability": 87
+			},
+			"B2": {
+				"count": 19,
+				"readability": 91
+			},
+			"C1": {
+				"count": 9,
+				"readability": 95
+			},
+			"C2": {
+				"count": 5,
+				"readability": 98
+			}
+		}
+	}
+}
