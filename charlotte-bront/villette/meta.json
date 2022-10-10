@@ -1,1 +1,43 @@
-{"dir":"charlotte-bront/villette","title":"Villette","creator":"Charlotte Brontë","description":"A young woman travels from England to the fictional town of Villette where she makes new connections and encounters people from her past.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":96079,"uniqueWordsCount":9192,"ranks":{"highest":49785,"lowest":1},"levels":{"A1":{"count":469,"readability":51},"A2":{"count":482,"readability":64},"B1":{"count":934,"readability":76},"B2":{"count":1615,"readability":87},"C1":{"count":2261,"readability":94},"C2":{"count":2287,"readability":99}}}}
+{
+	"dir": "charlotte-bront/villette",
+	"title": "Villette",
+	"creator": "Charlotte Brontë",
+	"description": "A young woman travels from England to the fictional town of Villette where she makes new connections and encounters people from her past.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 95514,
+		"uniqueWordsCount": 9656,
+		"ranks": {
+			"highest": 51699,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 50
+			},
+			"A2": {
+				"count": 485,
+				"readability": 62
+			},
+			"B1": {
+				"count": 936,
+				"readability": 74
+			},
+			"B2": {
+				"count": 1642,
+				"readability": 86
+			},
+			"C1": {
+				"count": 2334,
+				"readability": 93
+			},
+			"C2": {
+				"count": 2421,
+				"readability": 99
+			}
+		}
+	}
+}
