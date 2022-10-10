@@ -1,1 +1,43 @@
-{"dir":"h-beam-piper/little-fuzzy","title":"Little Fuzzy","creator":"H. Beam Piper","description":"On a planet being exploited for its resources, the discovery of a possibly-sentient native species creates consternation and conflict.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":28624,"uniqueWordsCount":4068,"ranks":{"highest":49405,"lowest":1},"levels":{"A1":{"count":455,"readability":54},"A2":{"count":404,"readability":64},"B1":{"count":614,"readability":75},"B2":{"count":788,"readability":84},"C1":{"count":734,"readability":92},"C2":{"count":587,"readability":97}}}}
+{
+	"dir": "h-beam-piper/little-fuzzy",
+	"title": "Little Fuzzy",
+	"creator": "H. Beam Piper",
+	"description": "On a planet being exploited for its resources, the discovery of a possibly-sentient native species creates consternation and conflict.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 28556,
+		"uniqueWordsCount": 4231,
+		"ranks": {
+			"highest": 51303,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 482,
+				"readability": 52
+			},
+			"A2": {
+				"count": 413,
+				"readability": 63
+			},
+			"B1": {
+				"count": 633,
+				"readability": 74
+			},
+			"B2": {
+				"count": 808,
+				"readability": 83
+			},
+			"C1": {
+				"count": 762,
+				"readability": 91
+			},
+			"C2": {
+				"count": 606,
+				"readability": 97
+			}
+		}
+	}
+}
