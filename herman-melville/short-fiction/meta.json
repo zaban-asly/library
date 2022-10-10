@@ -1,1 +1,43 @@
-{"dir":"herman-melville/short-fiction","title":"Short Fiction","creator":"Herman Melville","description":"A collection of Herman Melville’s short stories, ordered by date of publication.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":69354,"uniqueWordsCount":9052,"ranks":{"highest":49353,"lowest":1},"levels":{"A1":{"count":469,"readability":48},"A2":{"count":488,"readability":59},"B1":{"count":922,"readability":71},"B2":{"count":1599,"readability":83},"C1":{"count":2174,"readability":92},"C2":{"count":2110,"readability":98}}}}
+{
+	"dir": "herman-melville/short-fiction",
+	"title": "Short Fiction",
+	"creator": "Herman Melville",
+	"description": "A collection of Herman Melville’s short stories, ordered by date of publication.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 69189,
+		"uniqueWordsCount": 9419,
+		"ranks": {
+			"highest": 51250,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 47
+			},
+			"A2": {
+				"count": 488,
+				"readability": 58
+			},
+			"B1": {
+				"count": 926,
+				"readability": 69
+			},
+			"B2": {
+				"count": 1618,
+				"readability": 82
+			},
+			"C1": {
+				"count": 2238,
+				"readability": 91
+			},
+			"C2": {
+				"count": 2207,
+				"readability": 97
+			}
+		}
+	}
+}
