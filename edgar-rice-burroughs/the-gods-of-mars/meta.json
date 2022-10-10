@@ -1,1 +1,43 @@
-{"dir":"edgar-rice-burroughs/the-gods-of-mars","title":"The Gods of Mars","creator":"Edgar Rice Burroughs","description":"John Carter returns to Mars to try and determine the fate of his lost love Dejah Thoris.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":38899,"uniqueWordsCount":4583,"ranks":{"highest":50108,"lowest":1},"levels":{"A1":{"count":458,"readability":52},"A2":{"count":434,"readability":65},"B1":{"count":721,"readability":78},"B2":{"count":989,"readability":88},"C1":{"count":1031,"readability":95},"C2":{"count":739,"readability":100}}}}
+{
+	"dir": "edgar-rice-burroughs/the-gods-of-mars",
+	"title": "The Gods of Mars",
+	"creator": "Edgar Rice Burroughs",
+	"description": "John Carter returns to Mars to try and determine the fate of his lost love Dejah Thoris.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 38877,
+		"uniqueWordsCount": 4828,
+		"ranks": {
+			"highest": 52031,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 486,
+				"readability": 50
+			},
+			"A2": {
+				"count": 438,
+				"readability": 64
+			},
+			"B1": {
+				"count": 728,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1020,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1099,
+				"readability": 95
+			},
+			"C2": {
+				"count": 798,
+				"readability": 100
+			}
+		}
+	}
+}
