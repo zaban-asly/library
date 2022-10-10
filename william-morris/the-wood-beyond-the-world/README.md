@@ -1,5 +1,5 @@
 
-# The Wood Beyond the World <kbd>v3.2.1</kbd>
+# The Wood Beyond the World <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
