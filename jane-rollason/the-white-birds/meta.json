@@ -1,1 +1,43 @@
-{"dir":"jane-rollason/the-white-birds","title":"The White Birds","creator":"Jane Rollason","description":"One king had nine sons and a daughter. His wife died while giving birth to Eliza - the youngest child. The children were beautiful, smart and happy. Soon the king fell in love with another woman and married her. The new queen was a wicked and envious woman. She hated the king's children. But he always believed his wife. Love deprived his mind, as it happens to many people. Once the queen decided to get rid of the children. She took them outside the city wall and turned them into birds. The queen ordered them to fly to other lands and find a new home. The enchanted princes flew away and made nests in the trees near the sea. When Eliza found out about this - she ran away from home. The youngest sister firmly decided to find her brothers.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":891,"uniqueWordsCount":247,"ranks":{"highest":17024,"lowest":11},"levels":{"A1":{"count":180,"readability":79},"A2":{"count":41,"readability":94},"B1":{"count":12,"readability":96},"B2":{"count":11,"readability":98},"C1":{"count":1,"readability":98},"C2":{"count":1,"readability":98}}}}
+{
+	"dir": "jane-rollason/the-white-birds",
+	"title": "The White Birds",
+	"creator": "Jane Rollason",
+	"description": "One king had nine sons and a daughter. His wife died while giving birth to Eliza - the youngest child. The children were beautiful, smart and happy. Soon the king fell in love with another woman and married her. The new queen was a wicked and envious woman. She hated the king's children. But he always believed his wife. Love deprived his mind, as it happens to many people. Once the queen decided to get rid of the children. She took them outside the city wall and turned them into birds. The queen ordered them to fly to other lands and find a new home. The enchanted princes flew away and made nests in the trees near the sea. When Eliza found out about this - she ran away from home. The youngest sister firmly decided to find her brothers.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 891,
+		"uniqueWordsCount": 268,
+		"ranks": {
+			"highest": 17619,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 191,
+				"readability": 77
+			},
+			"A2": {
+				"count": 40,
+				"readability": 91
+			},
+			"B1": {
+				"count": 21,
+				"readability": 96
+			},
+			"B2": {
+				"count": 13,
+				"readability": 98
+			},
+			"C1": {
+				"count": 1,
+				"readability": 98
+			},
+			"C2": {
+				"count": 1,
+				"readability": 98
+			}
+		}
+	}
+}
