@@ -1,1 +1,43 @@
-{"dir":"charles-dickens/hard-times","title":"Hard Times","creator":"Charles Dickens","description":"A wealthy man in the industrial north of England raises his children on purely rational principles, with unfortunate results.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":47473,"uniqueWordsCount":5828,"ranks":{"highest":46961,"lowest":1},"levels":{"A1":{"count":465,"readability":62},"A2":{"count":470,"readability":73},"B1":{"count":862,"readability":82},"B2":{"count":1277,"readability":91},"C1":{"count":1388,"readability":96},"C2":{"count":999,"readability":99}}}}
+{
+	"dir": "charles-dickens/hard-times",
+	"title": "Hard Times",
+	"creator": "Charles Dickens",
+	"description": "A wealthy man in the industrial north of England raises his children on purely rational principles, with unfortunate results.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 47309,
+		"uniqueWordsCount": 6131,
+		"ranks": {
+			"highest": 48726,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 60
+			},
+			"A2": {
+				"count": 473,
+				"readability": 71
+			},
+			"B1": {
+				"count": 873,
+				"readability": 81
+			},
+			"B2": {
+				"count": 1300,
+				"readability": 90
+			},
+			"C1": {
+				"count": 1467,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1091,
+				"readability": 99
+			}
+		}
+	}
+}
