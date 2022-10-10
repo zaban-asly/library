@@ -1,1 +1,43 @@
-{"dir":"f-h-cornish/amazing-aviators","title":"Amazing Aviators","creator":"F.H. Cornish","description":"This book is a collection of stories about the most famous aviators in history. These people literally helped humanity to conquer the skies. Probably, it is thanks to them we can use regular air transportation nowadays. The history of aviation begins with Joseph-Michel Montgolfier. He was the man who pioneered aviation. Louis Bleriot, first to cross the sea in an aeroplane. He covered the distance from France to England. Charles Lindbergh, Amelia Earhart, Amy Johnson are no less famous. They also had outstanding achievements. All of them made an invaluable contribution into the development of aviation.The life stories of such people are extremely interesting and definitely deserve attention. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":4768,"uniqueWordsCount":914,"ranks":{"highest":43607,"lowest":1},"levels":{"A1":{"count":309,"readability":55},"A2":{"count":152,"readability":67},"B1":{"count":141,"readability":79},"B2":{"count":136,"readability":89},"C1":{"count":66,"readability":93},"C2":{"count":62,"readability":98}}}}
+{
+	"dir": "f-h-cornish/amazing-aviators",
+	"title": "Amazing Aviators",
+	"creator": "F.H. Cornish",
+	"description": "This book is a collection of stories about the most famous aviators in history. These people literally helped humanity to conquer the skies. Probably, it is thanks to them we can use regular air transportation nowadays. The history of aviation begins with Joseph-Michel Montgolfier. He was the man who pioneered aviation. Louis Bleriot, first to cross the sea in an aeroplane. He covered the distance from France to England. Charles Lindbergh, Amelia Earhart, Amy Johnson are no less famous. They also had outstanding achievements. All of them made an invaluable contribution into the development of aviation.The life stories of such people are extremely interesting and definitely deserve attention. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 4780,
+		"uniqueWordsCount": 975,
+		"ranks": {
+			"highest": 49546,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 322,
+				"readability": 50
+			},
+			"A2": {
+				"count": 151,
+				"readability": 62
+			},
+			"B1": {
+				"count": 158,
+				"readability": 77
+			},
+			"B2": {
+				"count": 146,
+				"readability": 87
+			},
+			"C1": {
+				"count": 75,
+				"readability": 93
+			},
+			"C2": {
+				"count": 65,
+				"readability": 97
+			}
+		}
+	}
+}
