@@ -1,1 +1,43 @@
-{"dir":"laurence-sterne/the-life-and-opinions-of-tristram-shandy-gentleman","title":"The Life and Opinions of Tristram Shandy, Gentleman","creator":"Laurence Sterne","description":"A man describes his birth and upbringing through the adventures of his family.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":89542,"uniqueWordsCount":8110,"ranks":{"highest":50240,"lowest":1},"levels":{"A1":{"count":469,"readability":55},"A2":{"count":489,"readability":66},"B1":{"count":907,"readability":77},"B2":{"count":1473,"readability":87},"C1":{"count":1800,"readability":94},"C2":{"count":1728,"readability":98}}}}
+{
+	"dir": "laurence-sterne/the-life-and-opinions-of-tristram-shandy-gentleman",
+	"title": "The Life and Opinions of Tristram Shandy, Gentleman",
+	"creator": "Laurence Sterne",
+	"description": "A man describes his birth and upbringing through the adventures of his family.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 89319,
+		"uniqueWordsCount": 8462,
+		"ranks": {
+			"highest": 52166,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 54
+			},
+			"A2": {
+				"count": 489,
+				"readability": 65
+			},
+			"B1": {
+				"count": 918,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1489,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1867,
+				"readability": 93
+			},
+			"C2": {
+				"count": 1836,
+				"readability": 98
+			}
+		}
+	}
+}
