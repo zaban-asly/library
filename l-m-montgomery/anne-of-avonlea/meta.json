@@ -1,1 +1,43 @@
-{"dir":"l-m-montgomery/anne-of-avonlea","title":"Anne of Avonlea","creator":"L. M. Montgomery","description":"A young woman enters adulthood as she works as a schoolteacher in a country village.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":43763,"uniqueWordsCount":4979,"ranks":{"highest":49990,"lowest":1},"levels":{"A1":{"count":460,"readability":58},"A2":{"count":464,"readability":69},"B1":{"count":779,"readability":80},"B2":{"count":1068,"readability":89},"C1":{"count":1107,"readability":96},"C2":{"count":785,"readability":99}}}}
+{
+	"dir": "l-m-montgomery/anne-of-avonlea",
+	"title": "Anne of Avonlea",
+	"creator": "L. M. Montgomery",
+	"description": "A young woman enters adulthood as she works as a schoolteacher in a country village.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 43680,
+		"uniqueWordsCount": 5216,
+		"ranks": {
+			"highest": 51908,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 57
+			},
+			"A2": {
+				"count": 465,
+				"readability": 67
+			},
+			"B1": {
+				"count": 805,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1083,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1169,
+				"readability": 96
+			},
+			"C2": {
+				"count": 846,
+				"readability": 99
+			}
+		}
+	}
+}
