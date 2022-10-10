@@ -1,1 +1,43 @@
-{"dir":"alex-raynham/future-energy","title":"Future Energy","creator":"Alex Raynham","description":"Many kilometres of gas pipes run across the planet. The whole world buys and sells oil and coal. Most of the mechanisms in the modern world work on this fuel. Huge ships loaded with these important resources travel from continent to continent every day. The whole world needs fuel. It needs energy for life. The  work of many factories and the creation of things depend on it. But time passes. The resources of our planet are limited. Sooner or later, the day will come when coal and oil are gone. Scientists are working to find reliable alternative energy resources. There is already a lot of research. We can get energy in unexpected places. Such future is near and this book will allow you to look into it today. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":5759,"uniqueWordsCount":808,"ranks":{"highest":42356,"lowest":11},"levels":{"A1":{"count":289,"readability":55},"A2":{"count":134,"readability":68},"B1":{"count":117,"readability":79},"B2":{"count":90,"readability":87},"C1":{"count":69,"readability":94},"C2":{"count":57,"readability":98}}}}
+{
+	"dir": "alex-raynham/future-energy",
+	"title": "Future Energy",
+	"creator": "Alex Raynham",
+	"description": "Many kilometres of gas pipes run across the planet. The whole world buys and sells oil and coal. Most of the mechanisms in the modern world work on this fuel. Huge ships loaded with these important resources travel from continent to continent every day. The whole world needs fuel. It needs energy for life. The  work of many factories and the creation of things depend on it. But time passes. The resources of our planet are limited. Sooner or later, the day will come when coal and oil are gone. Scientists are working to find reliable alternative energy resources. There is already a lot of research. We can get energy in unexpected places. Such future is near and this book will allow you to look into it today. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 5810,
+		"uniqueWordsCount": 889,
+		"ranks": {
+			"highest": 50728,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 298,
+				"readability": 52
+			},
+			"A2": {
+				"count": 136,
+				"readability": 65
+			},
+			"B1": {
+				"count": 132,
+				"readability": 77
+			},
+			"B2": {
+				"count": 100,
+				"readability": 85
+			},
+			"C1": {
+				"count": 77,
+				"readability": 92
+			},
+			"C2": {
+				"count": 68,
+				"readability": 97
+			}
+		}
+	}
+}
