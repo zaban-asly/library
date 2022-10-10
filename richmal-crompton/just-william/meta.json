@@ -1,1 +1,43 @@
-{"dir":"richmal-crompton/just-william","title":"Just William","creator":"Richmal Crompton","description":"An eleven-year old English boy gets involved in a continuous series of amusing adventures to the exasperation of his long-suffering family.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":23556,"uniqueWordsCount":3705,"ranks":{"highest":49812,"lowest":1},"levels":{"A1":{"count":454,"readability":56},"A2":{"count":411,"readability":68},"B1":{"count":640,"readability":79},"B2":{"count":769,"readability":89},"C1":{"count":719,"readability":95},"C2":{"count":499,"readability":99}}}}
+{
+	"dir": "richmal-crompton/just-william",
+	"title": "Just William",
+	"creator": "Richmal Crompton",
+	"description": "An eleven-year old English boy gets involved in a continuous series of amusing adventures to the exasperation of his long-suffering family.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 23535,
+		"uniqueWordsCount": 3887,
+		"ranks": {
+			"highest": 51726,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 482,
+				"readability": 54
+			},
+			"A2": {
+				"count": 416,
+				"readability": 66
+			},
+			"B1": {
+				"count": 664,
+				"readability": 78
+			},
+			"B2": {
+				"count": 809,
+				"readability": 88
+			},
+			"C1": {
+				"count": 756,
+				"readability": 95
+			},
+			"C2": {
+				"count": 517,
+				"readability": 99
+			}
+		}
+	}
+}
