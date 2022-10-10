@@ -1,1 +1,43 @@
-{"dir":"tim-vicary/mary-queen-of-scots","title":"Mary, Queen of Scots","creator":"Tim Vicary","description":"Maria Stewart, the nee Queen of Scotland, experienced many events in her life. Each of them directly affected lives of her citizens and the whole country. Maria Stuart had been the queen of Scotland since infancy. Being the wife of Francis II, she ruled France for one year. She also claimed the English throne. The daughter of King James and the French princess, Maria, barely born, lost her father. She remained the only heiress of the monarch. The closest relative of Maria James Hamilton became the regent of the country. Later he insisted on the marriage between the young queen and Edward, the son of King Henry VIII of England. Maria Stuart went through many ordeals. She faced political intrigues. She also met her love. You can read her last letter. It tells how this fragile but strong woman coped with everything. The queen wrote this letter to her son for him to learn the truth about his mother.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2927,"uniqueWordsCount":415,"ranks":{"highest":32484,"lowest":11},"levels":{"A1":{"count":242,"readability":74},"A2":{"count":73,"readability":87},"B1":{"count":40,"readability":93},"B2":{"count":33,"readability":97},"C1":{"count":17,"readability":100},"C2":{"count":4,"readability":100}}}}
+{
+	"dir": "tim-vicary/mary-queen-of-scots",
+	"title": "Mary, Queen of Scots",
+	"creator": "Tim Vicary",
+	"description": "Maria Stewart, the nee Queen of Scotland, experienced many events in her life. Each of them directly affected lives of her citizens and the whole country. Maria Stuart had been the queen of Scotland since infancy. Being the wife of Francis II, she ruled France for one year. She also claimed the English throne. The daughter of King James and the French princess, Maria, barely born, lost her father. She remained the only heiress of the monarch. The closest relative of Maria James Hamilton became the regent of the country. Later he insisted on the marriage between the young queen and Edward, the son of King Henry VIII of England. Maria Stuart went through many ordeals. She faced political intrigues. She also met her love. You can read her last letter. It tells how this fragile but strong woman coped with everything. The queen wrote this letter to her son for him to learn the truth about his mother.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2928,
+		"uniqueWordsCount": 450,
+		"ranks": {
+			"highest": 48714,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 260,
+				"readability": 73
+			},
+			"A2": {
+				"count": 68,
+				"readability": 85
+			},
+			"B1": {
+				"count": 53,
+				"readability": 92
+			},
+			"B2": {
+				"count": 38,
+				"readability": 97
+			},
+			"C1": {
+				"count": 17,
+				"readability": 99
+			},
+			"C2": {
+				"count": 7,
+				"readability": 100
+			}
+		}
+	}
+}

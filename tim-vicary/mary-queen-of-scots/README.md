@@ -1,5 +1,5 @@
 
-# Mary, Queen of Scots <kbd>v3.2.1</kbd>
+# Mary, Queen of Scots <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
