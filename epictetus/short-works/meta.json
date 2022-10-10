@@ -1,1 +1,43 @@
-{"dir":"epictetus/short-works","title":"Short Works","creator":"Epictetus","description":"A collection of Epictetus’s short works.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":7695,"uniqueWordsCount":1885,"ranks":{"highest":46931,"lowest":1},"levels":{"A1":{"count":370,"readability":55},"A2":{"count":234,"readability":66},"B1":{"count":349,"readability":79},"B2":{"count":346,"readability":88},"C1":{"count":247,"readability":94},"C2":{"count":211,"readability":98}}}}
+{
+	"dir": "epictetus/short-works",
+	"title": "Short Works",
+	"creator": "Epictetus",
+	"description": "A collection of Epictetus’s short works.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 7651,
+		"uniqueWordsCount": 1961,
+		"ranks": {
+			"highest": 48694,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 392,
+				"readability": 53
+			},
+			"A2": {
+				"count": 232,
+				"readability": 65
+			},
+			"B1": {
+				"count": 359,
+				"readability": 78
+			},
+			"B2": {
+				"count": 353,
+				"readability": 87
+			},
+			"C1": {
+				"count": 262,
+				"readability": 94
+			},
+			"C2": {
+				"count": 228,
+				"readability": 98
+			}
+		}
+	}
+}
