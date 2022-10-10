@@ -1,1 +1,43 @@
-{"dir":"stephen-rabley/marcel-and-the-shakespeare-letters","title":"Marcel and the Shakespeare Letters","creator":"Stephen Rabley","description":"Marcel lives in the most romantic city in the world - Paris. And he is a mouse. He works as a detective. Marcel does not spend all his time in Paris. He often visits an old friend in London. Henry has a small apartment in London where he happily accepts his friend. Marcel loves ancient and cold London, where there are a lot of beautiful buildings. He loves his hometown no less, but the capital of England always makes him happier. The story begins in November, during the holidays. Marcel walks around London, carrying two heavy bags. He came to visit his old friend. The detective examines the house numbers for a while, but quickly finds the right one. Marcel enters a small, cozy apartment. Henry is glad to see his old friend. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1154,"uniqueWordsCount":227,"ranks":{"highest":28338,"lowest":11},"levels":{"A1":{"count":129,"readability":63},"A2":{"count":37,"readability":72},"B1":{"count":19,"readability":84},"B2":{"count":21,"readability":90},"C1":{"count":8,"readability":92},"C2":{"count":8,"readability":100}}}}
+{
+	"dir": "stephen-rabley/marcel-and-the-shakespeare-letters",
+	"title": "Marcel and the Shakespeare Letters",
+	"creator": "Stephen Rabley",
+	"description": "Marcel lives in the most romantic city in the world - Paris. And he is a mouse. He works as a detective. Marcel does not spend all his time in Paris. He often visits an old friend in London. Henry has a small apartment in London where he happily accepts his friend. Marcel loves ancient and cold London, where there are a lot of beautiful buildings. He loves his hometown no less, but the capital of England always makes him happier. The story begins in November, during the holidays. Marcel walks around London, carrying two heavy bags. He came to visit his old friend. The detective examines the house numbers for a while, but quickly finds the right one. Marcel enters a small, cozy apartment. Henry is glad to see his old friend. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1156,
+		"uniqueWordsCount": 233,
+		"ranks": {
+			"highest": 45233,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 134,
+				"readability": 63
+			},
+			"A2": {
+				"count": 34,
+				"readability": 72
+			},
+			"B1": {
+				"count": 21,
+				"readability": 84
+			},
+			"B2": {
+				"count": 19,
+				"readability": 88
+			},
+			"C1": {
+				"count": 11,
+				"readability": 92
+			},
+			"C2": {
+				"count": 8,
+				"readability": 99
+			}
+		}
+	}
+}
