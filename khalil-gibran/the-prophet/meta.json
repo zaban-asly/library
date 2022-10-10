@@ -1,1 +1,43 @@
-{"dir":"khalil-gibran/the-prophet","title":"The Prophet","creator":"Khalil Gibran","description":"A collection of prose poetry on themes such as love, beauty, and religion.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":5218,"uniqueWordsCount":1367,"ranks":{"highest":38607,"lowest":1},"levels":{"A1":{"count":314,"readability":56},"A2":{"count":175,"readability":69},"B1":{"count":261,"readability":82},"B2":{"count":244,"readability":91},"C1":{"count":202,"readability":96},"C2":{"count":125,"readability":99}}}}
+{
+	"dir": "khalil-gibran/the-prophet",
+	"title": "The Prophet",
+	"creator": "Khalil Gibran",
+	"description": "A collection of prose poetry on themes such as love, beauty, and religion.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 5210,
+		"uniqueWordsCount": 1449,
+		"ranks": {
+			"highest": 40090,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 326,
+				"readability": 53
+			},
+			"A2": {
+				"count": 181,
+				"readability": 67
+			},
+			"B1": {
+				"count": 267,
+				"readability": 80
+			},
+			"B2": {
+				"count": 254,
+				"readability": 89
+			},
+			"C1": {
+				"count": 229,
+				"readability": 96
+			},
+			"C2": {
+				"count": 135,
+				"readability": 99
+			}
+		}
+	}
+}
