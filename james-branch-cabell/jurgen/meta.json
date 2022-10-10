@@ -1,1 +1,43 @@
-{"dir":"james-branch-cabell/jurgen","title":"Jurgen","creator":"James Branch Cabell","description":"Jurgen, a pawnbroker and “monstrous clever fellow,” is sent on a witty and parodic magical journey in search of true love.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":42580,"uniqueWordsCount":6048,"ranks":{"highest":50179,"lowest":1},"levels":{"A1":{"count":468,"readability":55},"A2":{"count":459,"readability":66},"B1":{"count":815,"readability":77},"B2":{"count":1159,"readability":87},"C1":{"count":1364,"readability":94},"C2":{"count":1135,"readability":98}}}}
+{
+	"dir": "james-branch-cabell/jurgen",
+	"title": "Jurgen",
+	"creator": "James Branch Cabell",
+	"description": "Jurgen, a pawnbroker and “monstrous clever fellow,” is sent on a witty and parodic magical journey in search of true love.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 42469,
+		"uniqueWordsCount": 6300,
+		"ranks": {
+			"highest": 52104,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 54
+			},
+			"A2": {
+				"count": 460,
+				"readability": 65
+			},
+			"B1": {
+				"count": 826,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1177,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1397,
+				"readability": 93
+			},
+			"C2": {
+				"count": 1231,
+				"readability": 98
+			}
+		}
+	}
+}
