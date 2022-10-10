@@ -1,1 +1,43 @@
-{"dir":"bertrand-russell/the-problems-of-philosophy","title":"The Problems of Philosophy","creator":"Bertrand Russell","description":"A beginner’s guide to problems in various fields of philosophy.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":20219,"uniqueWordsCount":2108,"ranks":{"highest":49313,"lowest":1},"levels":{"A1":{"count":365,"readability":52},"A2":{"count":267,"readability":67},"B1":{"count":371,"readability":80},"B2":{"count":377,"readability":89},"C1":{"count":330,"readability":96},"C2":{"count":261,"readability":99}}}}
+{
+	"dir": "bertrand-russell/the-problems-of-philosophy",
+	"title": "The Problems of Philosophy",
+	"creator": "Bertrand Russell",
+	"description": "A beginner’s guide to problems in various fields of philosophy.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 20150,
+		"uniqueWordsCount": 2209,
+		"ranks": {
+			"highest": 51210,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 382,
+				"readability": 51
+			},
+			"A2": {
+				"count": 269,
+				"readability": 66
+			},
+			"B1": {
+				"count": 389,
+				"readability": 80
+			},
+			"B2": {
+				"count": 391,
+				"readability": 89
+			},
+			"C1": {
+				"count": 339,
+				"readability": 95
+			},
+			"C2": {
+				"count": 284,
+				"readability": 99
+			}
+		}
+	}
+}
