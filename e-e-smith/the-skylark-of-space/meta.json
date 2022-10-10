@@ -1,1 +1,43 @@
-{"dir":"e-e-smith/the-skylark-of-space","title":"The Skylark of Space","creator":"E. E. Smith","description":"A scientist accidentally creates a way to travel to other star systems, while a rival scientist tries to steal all of his work.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":41184,"uniqueWordsCount":5005,"ranks":{"highest":48675,"lowest":1},"levels":{"A1":{"count":462,"readability":54},"A2":{"count":456,"readability":66},"B1":{"count":774,"readability":78},"B2":{"count":1060,"readability":88},"C1":{"count":1046,"readability":95},"C2":{"count":825,"readability":99}}}}
+{
+	"dir": "e-e-smith/the-skylark-of-space",
+	"title": "The Skylark of Space",
+	"creator": "E. E. Smith",
+	"description": "A scientist accidentally creates a way to travel to other star systems, while a rival scientist tries to steal all of his work.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 41098,
+		"uniqueWordsCount": 5237,
+		"ranks": {
+			"highest": 50512,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 489,
+				"readability": 52
+			},
+			"A2": {
+				"count": 459,
+				"readability": 64
+			},
+			"B1": {
+				"count": 784,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1102,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1100,
+				"readability": 95
+			},
+			"C2": {
+				"count": 874,
+				"readability": 99
+			}
+		}
+	}
+}
