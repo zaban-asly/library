@@ -1,1 +1,43 @@
-{"dir":"omar-khayy-m/the-rub-iy-t-of-omar-khayy-m","title":"The Rubáiyát of Omar Khayyám","creator":"Omar Khayyám","description":"Three volumes of lyrical quatrains about the joys of living, the meaning of existence, and what it means to lead a happy life.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3359,"uniqueWordsCount":1584,"ranks":{"highest":49383,"lowest":1},"levels":{"A1":{"count":348,"readability":46},"A2":{"count":201,"readability":57},"B1":{"count":254,"readability":70},"B2":{"count":268,"readability":81},"C1":{"count":241,"readability":91},"C2":{"count":154,"readability":96}}}}
+{
+	"dir": "omar-khayy-m/the-rub-iy-t-of-omar-khayy-m",
+	"title": "The Rubáiyát of Omar Khayyám",
+	"creator": "Omar Khayyám",
+	"description": "Three volumes of lyrical quatrains about the joys of living, the meaning of existence, and what it means to lead a happy life.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3350,
+		"uniqueWordsCount": 1648,
+		"ranks": {
+			"highest": 51281,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 362,
+				"readability": 44
+			},
+			"A2": {
+				"count": 203,
+				"readability": 55
+			},
+			"B1": {
+				"count": 257,
+				"readability": 68
+			},
+			"B2": {
+				"count": 274,
+				"readability": 80
+			},
+			"C1": {
+				"count": 258,
+				"readability": 90
+			},
+			"C2": {
+				"count": 167,
+				"readability": 96
+			}
+		}
+	}
+}
