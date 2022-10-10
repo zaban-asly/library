@@ -1,1 +1,43 @@
-{"dir":"samuel-pepys/the-diary","title":"The Diary","creator":"Samuel Pepys","description":"The diary of a man living in London in the 17th century.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":603204,"uniqueWordsCount":11051,"ranks":{"highest":50277,"lowest":1},"levels":{"A1":{"count":473,"readability":64},"A2":{"count":493,"readability":74},"B1":{"count":951,"readability":84},"B2":{"count":1704,"readability":92},"C1":{"count":2479,"readability":97},"C2":{"count":2732,"readability":99}}}}
+{
+	"dir": "samuel-pepys/the-diary",
+	"title": "The Diary",
+	"creator": "Samuel Pepys",
+	"description": "The diary of a man living in London in the 17th century.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 596402,
+		"uniqueWordsCount": 11537,
+		"ranks": {
+			"highest": 52206,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 62
+			},
+			"A2": {
+				"count": 493,
+				"readability": 73
+			},
+			"B1": {
+				"count": 958,
+				"readability": 83
+			},
+			"B2": {
+				"count": 1719,
+				"readability": 91
+			},
+			"C1": {
+				"count": 2544,
+				"readability": 96
+			},
+			"C2": {
+				"count": 2885,
+				"readability": 99
+			}
+		}
+	}
+}
