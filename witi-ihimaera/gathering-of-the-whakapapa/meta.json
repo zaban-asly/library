@@ -1,1 +1,43 @@
-{"dir":"witi-ihimaera/gathering-of-the-whakapapa","title":"Gathering of the Whakapapa","creator":"Witi Ihimaera","description":"The people of New Zealand have really a long history with lots of bright moments. Maori lived on this land for many centuries. And the heart of the culture of this nation is Whakapapa. She is remembered not only in old books, but also in folk stories, ethnic music and many other things. But in this story there are no books and music. There is only one tired old man who keeps in mind the culture of his people. Once the phone rang in the office. The man picked up the phone - it was his grandfather. He asked his grandson to take a week off at work. The man said that the boss would definitely not approve of this, but the old man said that it was important. The grandson realized that he would have to take a vacation and go to another country. The boss was not happy with such a request, but agreed. A new trip was waiting for the man.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":765,"uniqueWordsCount":331,"ranks":{"highest":32512,"lowest":1},"levels":{"A1":{"count":191,"readability":69},"A2":{"count":64,"readability":84},"B1":{"count":32,"readability":89},"B2":{"count":23,"readability":94},"C1":{"count":9,"readability":98},"C2":{"count":6,"readability":99}}}}
+{
+	"dir": "witi-ihimaera/gathering-of-the-whakapapa",
+	"title": "Gathering of the Whakapapa",
+	"creator": "Witi Ihimaera",
+	"description": "The people of New Zealand have really a long history with lots of bright moments. Maori lived on this land for many centuries. And the heart of the culture of this nation is Whakapapa. She is remembered not only in old books, but also in folk stories, ethnic music and many other things. But in this story there are no books and music. There is only one tired old man who keeps in mind the culture of his people. Once the phone rang in the office. The man picked up the phone - it was his grandfather. He asked his grandson to take a week off at work. The man said that the boss would definitely not approve of this, but the old man said that it was important. The grandson realized that he would have to take a vacation and go to another country. The boss was not happy with such a request, but agreed. A new trip was waiting for the man.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 765,
+		"uniqueWordsCount": 355,
+		"ranks": {
+			"highest": 33752,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 204,
+				"readability": 68
+			},
+			"A2": {
+				"count": 63,
+				"readability": 82
+			},
+			"B1": {
+				"count": 41,
+				"readability": 88
+			},
+			"B2": {
+				"count": 26,
+				"readability": 94
+			},
+			"C1": {
+				"count": 8,
+				"readability": 97
+			},
+			"C2": {
+				"count": 7,
+				"readability": 99
+			}
+		}
+	}
+}
