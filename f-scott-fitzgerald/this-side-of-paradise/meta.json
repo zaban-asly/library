@@ -1,1 +1,43 @@
-{"dir":"f-scott-fitzgerald/this-side-of-paradise","title":"This Side of Paradise","creator":"F. Scott Fitzgerald","description":"A young man comes of age during America’s Jazz Age.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":40835,"uniqueWordsCount":6371,"ranks":{"highest":50180,"lowest":1},"levels":{"A1":{"count":468,"readability":54},"A2":{"count":472,"readability":66},"B1":{"count":840,"readability":76},"B2":{"count":1245,"readability":86},"C1":{"count":1386,"readability":93},"C2":{"count":1241,"readability":98}}}}
+{
+	"dir": "f-scott-fitzgerald/this-side-of-paradise",
+	"title": "This Side of Paradise",
+	"creator": "F. Scott Fitzgerald",
+	"description": "A young man comes of age during America’s Jazz Age.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 40753,
+		"uniqueWordsCount": 6639,
+		"ranks": {
+			"highest": 52105,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 52
+			},
+			"A2": {
+				"count": 472,
+				"readability": 64
+			},
+			"B1": {
+				"count": 855,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1285,
+				"readability": 85
+			},
+			"C1": {
+				"count": 1432,
+				"readability": 92
+			},
+			"C2": {
+				"count": 1292,
+				"readability": 98
+			}
+		}
+	}
+}
