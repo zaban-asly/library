@@ -1,1 +1,43 @@
-{"dir":"frazier-charles/cold-mountain","title":"Cold Mountain","creator":"Frazier Charles","description":"<p>This is a romantic love story about fidelity, friendship and a ridiculous cruelty of war. Ada is a beautiful daughter of a priest. One day she meets a silent and thoughtful Inman. The civil war starts and their affair is suspended. Inman goes to the front. He promises to come back with the victory. The years are passing but the war isn’t stopping. Ada is waiting for her beloved. Is he alive? Does he remember her? The young woman hardly copes with the difficulties of a daily civil life. The memories about Inman, love and expectations give her strength to live. Inman realizes that his beloved Ada is exhausted, her heart is torn. She asks him to come back. Inman leaves the front and starts going home to cold Mountain and becomes a deserter. </p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":14558,"uniqueWordsCount":1542,"ranks":{"highest":40116,"lowest":1},"levels":{"A1":{"count":433,"readability":68},"A2":{"count":330,"readability":81},"B1":{"count":333,"readability":90},"B2":{"count":261,"readability":95},"C1":{"count":99,"readability":99},"C2":{"count":59,"readability":100}}}}
+{
+	"dir": "frazier-charles/cold-mountain",
+	"title": "Cold Mountain",
+	"creator": "Frazier Charles",
+	"description": "<p>This is a romantic love story about fidelity, friendship and a ridiculous cruelty of war. Ada is a beautiful daughter of a priest. One day she meets a silent and thoughtful Inman. The civil war starts and their affair is suspended. Inman goes to the front. He promises to come back with the victory. The years are passing but the war isn’t stopping. Ada is waiting for her beloved. Is he alive? Does he remember her? The young woman hardly copes with the difficulties of a daily civil life. The memories about Inman, love and expectations give her strength to live. Inman realizes that his beloved Ada is exhausted, her heart is torn. She asks him to come back. Inman leaves the front and starts going home to cold Mountain and becomes a deserter. </p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 14553,
+		"uniqueWordsCount": 1687,
+		"ranks": {
+			"highest": 41651,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 460,
+				"readability": 65
+			},
+			"A2": {
+				"count": 339,
+				"readability": 79
+			},
+			"B1": {
+				"count": 388,
+				"readability": 89
+			},
+			"B2": {
+				"count": 280,
+				"readability": 94
+			},
+			"C1": {
+				"count": 121,
+				"readability": 99
+			},
+			"C2": {
+				"count": 67,
+				"readability": 100
+			}
+		}
+	}
+}
