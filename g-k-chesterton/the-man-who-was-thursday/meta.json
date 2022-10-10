@@ -1,1 +1,43 @@
-{"dir":"g-k-chesterton/the-man-who-was-thursday","title":"The Man Who Was Thursday","creator":"G. K. Chesterton","description":"An undercover policeman infiltrates a mysterious Anarchist group.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":28665,"uniqueWordsCount":4556,"ranks":{"highest":48285,"lowest":1},"levels":{"A1":{"count":460,"readability":55},"A2":{"count":457,"readability":67},"B1":{"count":726,"readability":79},"B2":{"count":985,"readability":89},"C1":{"count":977,"readability":96},"C2":{"count":678,"readability":99}}}}
+{
+	"dir": "g-k-chesterton/the-man-who-was-thursday",
+	"title": "The Man Who Was Thursday",
+	"creator": "G. K. Chesterton",
+	"description": "An undercover policeman infiltrates a mysterious Anarchist group.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 28611,
+		"uniqueWordsCount": 4777,
+		"ranks": {
+			"highest": 50104,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 487,
+				"readability": 52
+			},
+			"A2": {
+				"count": 460,
+				"readability": 65
+			},
+			"B1": {
+				"count": 741,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1018,
+				"readability": 88
+			},
+			"C1": {
+				"count": 1029,
+				"readability": 95
+			},
+			"C2": {
+				"count": 734,
+				"readability": 99
+			}
+		}
+	}
+}
