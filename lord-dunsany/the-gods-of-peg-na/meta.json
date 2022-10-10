@@ -1,1 +1,43 @@
-{"dir":"lord-dunsany/the-gods-of-peg-na","title":"The Gods of Pegāna","creator":"Lord Dunsany","description":"A mysterious god creates a cosmic pantheon to rule over its worlds and time.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":6998,"uniqueWordsCount":1140,"ranks":{"highest":40421,"lowest":1},"levels":{"A1":{"count":336,"readability":65},"A2":{"count":185,"readability":77},"B1":{"count":183,"readability":85},"B2":{"count":183,"readability":92},"C1":{"count":156,"readability":96},"C2":{"count":77,"readability":99}}}}
+{
+	"dir": "lord-dunsany/the-gods-of-peg-na",
+	"title": "The Gods of Pegāna",
+	"creator": "Lord Dunsany",
+	"description": "A mysterious god creates a cosmic pantheon to rule over its worlds and time.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 6995,
+		"uniqueWordsCount": 1240,
+		"ranks": {
+			"highest": 41960,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 357,
+				"readability": 63
+			},
+			"A2": {
+				"count": 184,
+				"readability": 74
+			},
+			"B1": {
+				"count": 203,
+				"readability": 83
+			},
+			"B2": {
+				"count": 205,
+				"readability": 91
+			},
+			"C1": {
+				"count": 180,
+				"readability": 96
+			},
+			"C2": {
+				"count": 87,
+				"readability": 99
+			}
+		}
+	}
+}
