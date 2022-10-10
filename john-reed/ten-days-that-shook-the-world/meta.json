@@ -1,1 +1,43 @@
-{"dir":"john-reed/ten-days-that-shook-the-world","title":"Ten Days That Shook the World","creator":"John Reed","description":"Journalist John Reed gives a first-hand account of Russia’s 1917 October Revolution, which lead to the formation of the Soviet Union.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":61968,"uniqueWordsCount":5780,"ranks":{"highest":50312,"lowest":1},"levels":{"A1":{"count":463,"readability":40},"A2":{"count":458,"readability":53},"B1":{"count":813,"readability":67},"B2":{"count":1190,"readability":81},"C1":{"count":1312,"readability":93},"C2":{"count":997,"readability":98}}}}
+{
+	"dir": "john-reed/ten-days-that-shook-the-world",
+	"title": "Ten Days That Shook the World",
+	"creator": "John Reed",
+	"description": "Journalist John Reed gives a first-hand account of Russia’s 1917 October Revolution, which lead to the formation of the Soviet Union.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 61831,
+		"uniqueWordsCount": 5999,
+		"ranks": {
+			"highest": 52241,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 491,
+				"readability": 38
+			},
+			"A2": {
+				"count": 463,
+				"readability": 52
+			},
+			"B1": {
+				"count": 819,
+				"readability": 66
+			},
+			"B2": {
+				"count": 1215,
+				"readability": 81
+			},
+			"C1": {
+				"count": 1367,
+				"readability": 92
+			},
+			"C2": {
+				"count": 1037,
+				"readability": 98
+			}
+		}
+	}
+}
