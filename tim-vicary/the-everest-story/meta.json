@@ -1,1 +1,43 @@
-{"dir":"tim-vicary/the-everest-story","title":"The Everest Story","creator":"Tim Vicary","description":"<p>In this book, you will learn about one of the first accents of Mount Everest. Those heroic men had a very bad equipment – only knitted jackets, forged boots and some ice axes. It was only the beginning of the twentieth century. In spite of such unfavorable conditions, they did something no one had ever done before. Nowadays it is quite difficult to imagine how it was possible to get such an achievement one century ago. And how they did their last step into the obscurity. Not many people dare attempt to climb Mount Everest even with the modern equipment. Only few daredevils manage to reach the top. It remains a mystery how these heroes really conquered Everest first. But in this book, you will find much compelling evidence.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":5042,"uniqueWordsCount":684,"ranks":{"highest":48918,"lowest":1},"levels":{"A1":{"count":312,"readability":59},"A2":{"count":124,"readability":74},"B1":{"count":91,"readability":84},"B2":{"count":66,"readability":90},"C1":{"count":46,"readability":95},"C2":{"count":28,"readability":99}}}}
+{
+	"dir": "tim-vicary/the-everest-story",
+	"title": "The Everest Story",
+	"creator": "Tim Vicary",
+	"description": "<p>In this book, you will learn about one of the first accents of Mount Everest. Those heroic men had a very bad equipment – only knitted jackets, forged boots and some ice axes. It was only the beginning of the twentieth century. In spite of such unfavorable conditions, they did something no one had ever done before. Nowadays it is quite difficult to imagine how it was possible to get such an achievement one century ago. And how they did their last step into the obscurity. Not many people dare attempt to climb Mount Everest even with the modern equipment. Only few daredevils manage to reach the top. It remains a mystery how these heroes really conquered Everest first. But in this book, you will find much compelling evidence.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 5056,
+		"uniqueWordsCount": 762,
+		"ranks": {
+			"highest": 50767,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 336,
+				"readability": 56
+			},
+			"A2": {
+				"count": 132,
+				"readability": 71
+			},
+			"B1": {
+				"count": 110,
+				"readability": 82
+			},
+			"B2": {
+				"count": 76,
+				"readability": 89
+			},
+			"C1": {
+				"count": 56,
+				"readability": 94
+			},
+			"C2": {
+				"count": 31,
+				"readability": 98
+			}
+		}
+	}
+}
