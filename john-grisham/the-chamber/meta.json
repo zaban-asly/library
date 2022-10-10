@@ -1,1 +1,43 @@
-{"dir":"john-grisham/the-chamber","title":"The Chamber","creator":"John Grisham","description":"The scene of action is death row in prison. The main character is waiting for punishment for his actions. He was convicted of murder with extreme harshness. His guilt has already been proven. But this fact does not stop the young lawyer. He is looking for a high-profile case that can give impetus to his career. The young man is very ambitious and is ready to work on the hopeless cause of the murderer. He is ready to fight to prove his innocence and become a real celebrity among lawyers. On the other side, it can ruin his career. Everything depends on the subsequent actions of the lawyer and whether he can realize his plan. The masterful style of narration does not allow you to get distracted from what is happening. The author shows the world of criminals and whether the murderer regres his deed in his last minutes.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":14805,"uniqueWordsCount":1993,"ranks":{"highest":41528,"lowest":1},"levels":{"A1":{"count":443,"readability":58},"A2":{"count":339,"readability":70},"B1":{"count":439,"readability":80},"B2":{"count":380,"readability":92},"C1":{"count":211,"readability":97},"C2":{"count":118,"readability":100}}}}
+{
+	"dir": "john-grisham/the-chamber",
+	"title": "The Chamber",
+	"creator": "John Grisham",
+	"description": "The scene of action is death row in prison. The main character is waiting for punishment for his actions. He was convicted of murder with extreme harshness. His guilt has already been proven. But this fact does not stop the young lawyer. He is looking for a high-profile case that can give impetus to his career. The young man is very ambitious and is ready to work on the hopeless cause of the murderer. He is ready to fight to prove his innocence and become a real celebrity among lawyers. On the other side, it can ruin his career. Everything depends on the subsequent actions of the lawyer and whether he can realize his plan. The masterful style of narration does not allow you to get distracted from what is happening. The author shows the world of criminals and whether the murderer regres his deed in his last minutes.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 14813,
+		"uniqueWordsCount": 2139,
+		"ranks": {
+			"highest": 49188,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 473,
+				"readability": 56
+			},
+			"A2": {
+				"count": 343,
+				"readability": 68
+			},
+			"B1": {
+				"count": 466,
+				"readability": 79
+			},
+			"B2": {
+				"count": 407,
+				"readability": 91
+			},
+			"C1": {
+				"count": 243,
+				"readability": 96
+			},
+			"C2": {
+				"count": 126,
+				"readability": 99
+			}
+		}
+	}
+}
