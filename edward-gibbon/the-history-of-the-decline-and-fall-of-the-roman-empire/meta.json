@@ -1,1 +1,43 @@
-{"dir":"edward-gibbon/the-history-of-the-decline-and-fall-of-the-roman-empire","title":"The History of the Decline and Fall of the Roman Empire","creator":"Edward Gibbon","description":"A narrative history of the Roman Empire from the time of Trajan to the fall of Constantinople.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":737557,"uniqueWordsCount":13463,"ranks":{"highest":50313,"lowest":1},"levels":{"A1":{"count":469,"readability":30},"A2":{"count":489,"readability":42},"B1":{"count":943,"readability":61},"B2":{"count":1743,"readability":78},"C1":{"count":2791,"readability":91},"C2":{"count":3660,"readability":98}}}}
+{
+	"dir": "edward-gibbon/the-history-of-the-decline-and-fall-of-the-roman-empire",
+	"title": "The History of the Decline and Fall of the Roman Empire",
+	"creator": "Edward Gibbon",
+	"description": "A narrative history of the Roman Empire from the time of Trajan to the fall of Constantinople.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 734995,
+		"uniqueWordsCount": 14002,
+		"ranks": {
+			"highest": 52242,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 29
+			},
+			"A2": {
+				"count": 490,
+				"readability": 41
+			},
+			"B1": {
+				"count": 945,
+				"readability": 59
+			},
+			"B2": {
+				"count": 1759,
+				"readability": 77
+			},
+			"C1": {
+				"count": 2834,
+				"readability": 91
+			},
+			"C2": {
+				"count": 3782,
+				"readability": 98
+			}
+		}
+	}
+}
