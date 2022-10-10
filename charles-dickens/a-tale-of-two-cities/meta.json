@@ -1,1 +1,43 @@
-{"dir":"charles-dickens/a-tale-of-two-cities","title":"A Tale of Two Cities","creator":"Charles Dickens","description":"A family is reunited, added to, and then threatened to be torn apart by events arising from the French Revolution.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":65087,"uniqueWordsCount":6576,"ranks":{"highest":48532,"lowest":1},"levels":{"A1":{"count":470,"readability":58},"A2":{"count":479,"readability":70},"B1":{"count":883,"readability":80},"B2":{"count":1408,"readability":90},"C1":{"count":1658,"readability":96},"C2":{"count":1215,"readability":100}}}}
+{
+	"dir": "charles-dickens/a-tale-of-two-cities",
+	"title": "A Tale of Two Cities",
+	"creator": "Charles Dickens",
+	"description": "A family is reunited, added to, and then threatened to be torn apart by events arising from the French Revolution.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 64941,
+		"uniqueWordsCount": 6921,
+		"ranks": {
+			"highest": 50362,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 56
+			},
+			"A2": {
+				"count": 481,
+				"readability": 68
+			},
+			"B1": {
+				"count": 891,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1438,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1740,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1321,
+				"readability": 99
+			}
+		}
+	}
+}
