@@ -1,1 +1,43 @@
-{"dir":"sally-m-stockton/robin-hood","title":"Robin Hood","creator":"Sally M. Stockton","description":"<p>After the cruel sheriff has killed Robert's father and took his lands and property, young Robert decided to live in Sherwood Forest with a couple of his loyal friends. There, in Sherwood Forest, he named himself Robin Hood. John, whose brother was out on a crusade, has become an evil King of England. He considered Robin and his company to be outlaws. Robin and friends have been living in caves and training with bows and arrows in the forests of England. All of them have become excellent archers, but Robin was best of the best. Step by step Robin made new friends who were happy to join his band of outlaws. Robin decided to rob the rich and give their possessions to the poor. All of the King's soldiers were afraid of Robin and his men. However, the sheriff wanted to catch Robin so much, and therefore he rushed to the forest alone, but soon has returned unsuccessful and ashamed. At last the sheriff made an excellent plan to trap Robin Hood.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1801,"uniqueWordsCount":495,"ranks":{"highest":24024,"lowest":11},"levels":{"A1":{"count":240,"readability":55},"A2":{"count":99,"readability":68},"B1":{"count":62,"readability":76},"B2":{"count":54,"readability":82},"C1":{"count":24,"readability":98},"C2":{"count":12,"readability":99}}}}
+{
+	"dir": "sally-m-stockton/robin-hood",
+	"title": "Robin Hood",
+	"creator": "Sally M. Stockton",
+	"description": "<p>After the cruel sheriff has killed Robert's father and took his lands and property, young Robert decided to live in Sherwood Forest with a couple of his loyal friends. There, in Sherwood Forest, he named himself Robin Hood. John, whose brother was out on a crusade, has become an evil King of England. He considered Robin and his company to be outlaws. Robin and friends have been living in caves and training with bows and arrows in the forests of England. All of them have become excellent archers, but Robin was best of the best. Step by step Robin made new friends who were happy to join his band of outlaws. Robin decided to rob the rich and give their possessions to the poor. All of the King's soldiers were afraid of Robin and his men. However, the sheriff wanted to catch Robin so much, and therefore he rushed to the forest alone, but soon has returned unsuccessful and ashamed. At last the sheriff made an excellent plan to trap Robin Hood.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1801,
+		"uniqueWordsCount": 521,
+		"ranks": {
+			"highest": 24889,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 247,
+				"readability": 53
+			},
+			"A2": {
+				"count": 101,
+				"readability": 67
+			},
+			"B1": {
+				"count": 75,
+				"readability": 76
+			},
+			"B2": {
+				"count": 56,
+				"readability": 82
+			},
+			"C1": {
+				"count": 26,
+				"readability": 98
+			},
+			"C2": {
+				"count": 12,
+				"readability": 99
+			}
+		}
+	}
+}
