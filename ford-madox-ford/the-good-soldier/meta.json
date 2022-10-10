@@ -1,1 +1,43 @@
-{"dir":"ford-madox-ford/the-good-soldier","title":"The Good Soldier","creator":"Ford Madox Ford","description":"The friendship between two well-heeled couples is a veneer over darker truths.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":34061,"uniqueWordsCount":4727,"ranks":{"highest":50329,"lowest":1},"levels":{"A1":{"count":467,"readability":60},"A2":{"count":459,"readability":71},"B1":{"count":743,"readability":82},"B2":{"count":1072,"readability":91},"C1":{"count":908,"readability":96},"C2":{"count":712,"readability":99}}}}
+{
+	"dir": "ford-madox-ford/the-good-soldier",
+	"title": "The Good Soldier",
+	"creator": "Ford Madox Ford",
+	"description": "The friendship between two well-heeled couples is a veneer over darker truths.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 33980,
+		"uniqueWordsCount": 4922,
+		"ranks": {
+			"highest": 52258,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 58
+			},
+			"A2": {
+				"count": 462,
+				"readability": 69
+			},
+			"B1": {
+				"count": 766,
+				"readability": 81
+			},
+			"B2": {
+				"count": 1092,
+				"readability": 90
+			},
+			"C1": {
+				"count": 954,
+				"readability": 96
+			},
+			"C2": {
+				"count": 751,
+				"readability": 99
+			}
+		}
+	}
+}
