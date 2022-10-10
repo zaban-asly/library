@@ -1,1 +1,43 @@
-{"dir":"arthur-hailey/the-final-diagnosis","title":"The Final Diagnosis","creator":"Arthur Hailey","description":"The plot of the book takes the reader to a small provincial town called Burlington. Or rather, to the city hospital. It used to be successful long ago. But it has been lacking budget, staff and quality equipment for the last years. The protagonist is a young surgeon named Kent. He is full of ambition. The young man is trying to improve the deplorable situation of the hospital. Kent is looking for investments. He is also negotiating with many skilled workers. And then the reader begins to observe several plot lines at once. A young nurse falls in love with another employee, but this relationship turns dramatic very quickly. At the same time, a new doctor appears in the hospital. He tries to modernize the work process, but faces the discontent of his superiors. And the hospital keeps living its own way of life.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":32719,"uniqueWordsCount":3384,"ranks":{"highest":43239,"lowest":1},"levels":{"A1":{"count":451,"readability":60},"A2":{"count":377,"readability":70},"B1":{"count":569,"readability":80},"B2":{"count":677,"readability":89},"C1":{"count":558,"readability":94},"C2":{"count":419,"readability":98}}}}
+{
+	"dir": "arthur-hailey/the-final-diagnosis",
+	"title": "The Final Diagnosis",
+	"creator": "Arthur Hailey",
+	"description": "The plot of the book takes the reader to a small provincial town called Burlington. Or rather, to the city hospital. It used to be successful long ago. But it has been lacking budget, staff and quality equipment for the last years. The protagonist is a young surgeon named Kent. He is full of ambition. The young man is trying to improve the deplorable situation of the hospital. Kent is looking for investments. He is also negotiating with many skilled workers. And then the reader begins to observe several plot lines at once. A young nurse falls in love with another employee, but this relationship turns dramatic very quickly. At the same time, a new doctor appears in the hospital. He tries to modernize the work process, but faces the discontent of his superiors. And the hospital keeps living its own way of life.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 32795,
+		"uniqueWordsCount": 3609,
+		"ranks": {
+			"highest": 50713,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 479,
+				"readability": 58
+			},
+			"A2": {
+				"count": 388,
+				"readability": 68
+			},
+			"B1": {
+				"count": 598,
+				"readability": 78
+			},
+			"B2": {
+				"count": 704,
+				"readability": 88
+			},
+			"C1": {
+				"count": 591,
+				"readability": 93
+			},
+			"C2": {
+				"count": 446,
+				"readability": 97
+			}
+		}
+	}
+}
