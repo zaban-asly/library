@@ -1,1 +1,43 @@
-{"dir":"john-escott/the-railway-crossing","title":"The Railway Crossing","creator":"John Escott","description":"Dunstan was planning a murder. A man was standing at the train station. There were thick trees around. Trains often passed there; it was very noisy. Dunstan's house was not far away hidden behind the trees. The whole setting was very comfortable. The man himself was very nervous. He could not sleep so he had to use drugs. Some blackmail did not let him live in peace. But it would be over soon. Dunstan was going to kill his offender. This whole story began a few years earlier. The man worked for a big company. He had enough money, although he was not rich. He loved a beautiful girl and wanted to marry her. But Dunstan did not have enough money to pay for the wedding, and he stole it from the company: he changed a few numbers in the forms and became the owner of thousands of pounds. This was the starting point.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1168,"uniqueWordsCount":373,"ranks":{"highest":13086,"lowest":1},"levels":{"A1":{"count":242,"readability":76},"A2":{"count":60,"readability":88},"B1":{"count":31,"readability":93},"B2":{"count":26,"readability":98},"C1":{"count":9,"readability":100},"C2":{"count":5,"readability":100}}}}
+{
+	"dir": "john-escott/the-railway-crossing",
+	"title": "The Railway Crossing",
+	"creator": "John Escott",
+	"description": "Dunstan was planning a murder. A man was standing at the train station. There were thick trees around. Trains often passed there; it was very noisy. Dunstan's house was not far away hidden behind the trees. The whole setting was very comfortable. The man himself was very nervous. He could not sleep so he had to use drugs. Some blackmail did not let him live in peace. But it would be over soon. Dunstan was going to kill his offender. This whole story began a few years earlier. The man worked for a big company. He had enough money, although he was not rich. He loved a beautiful girl and wanted to marry her. But Dunstan did not have enough money to pay for the wedding, and he stole it from the company: he changed a few numbers in the forms and became the owner of thousands of pounds. This was the starting point.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1168,
+		"uniqueWordsCount": 411,
+		"ranks": {
+			"highest": 25853,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 257,
+				"readability": 74
+			},
+			"A2": {
+				"count": 63,
+				"readability": 86
+			},
+			"B1": {
+				"count": 41,
+				"readability": 92
+			},
+			"B2": {
+				"count": 33,
+				"readability": 98
+			},
+			"C1": {
+				"count": 9,
+				"readability": 100
+			},
+			"C2": {
+				"count": 7,
+				"readability": 100
+			}
+		}
+	}
+}
