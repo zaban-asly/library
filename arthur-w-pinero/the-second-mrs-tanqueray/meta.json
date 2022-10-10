@@ -1,1 +1,43 @@
-{"dir":"arthur-w-pinero/the-second-mrs-tanqueray","title":"The Second Mrs. Tanqueray","creator":"Arthur W. Pinero","description":"A gentleman remarries a woman of questionable character and tries to redeem her, but her past revisits the family in unexpected and tragic ways.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":10295,"uniqueWordsCount":2070,"ranks":{"highest":42530,"lowest":1},"levels":{"A1":{"count":437,"readability":67},"A2":{"count":336,"readability":79},"B1":{"count":415,"readability":88},"B2":{"count":394,"readability":94},"C1":{"count":261,"readability":97},"C2":{"count":174,"readability":100}}}}
+{
+	"dir": "arthur-w-pinero/the-second-mrs-tanqueray",
+	"title": "The Second Mrs. Tanqueray",
+	"creator": "Arthur W. Pinero",
+	"description": "A gentleman remarries a woman of questionable character and tries to redeem her, but her past revisits the family in unexpected and tragic ways.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 10281,
+		"uniqueWordsCount": 2171,
+		"ranks": {
+			"highest": 44146,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 461,
+				"readability": 65
+			},
+			"A2": {
+				"count": 337,
+				"readability": 77
+			},
+			"B1": {
+				"count": 442,
+				"readability": 87
+			},
+			"B2": {
+				"count": 407,
+				"readability": 93
+			},
+			"C1": {
+				"count": 268,
+				"readability": 97
+			},
+			"C2": {
+				"count": 197,
+				"readability": 100
+			}
+		}
+	}
+}
