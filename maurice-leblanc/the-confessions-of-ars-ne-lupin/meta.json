@@ -1,1 +1,43 @@
-{"dir":"maurice-leblanc/the-confessions-of-ars-ne-lupin","title":"The Confessions of Arsène Lupin","creator":"Maurice Leblanc","description":"The gentleman-thief relates stories of his outwitting the Parisian detectives.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":31382,"uniqueWordsCount":4267,"ranks":{"highest":43122,"lowest":1},"levels":{"A1":{"count":467,"readability":56},"A2":{"count":454,"readability":69},"B1":{"count":767,"readability":81},"B2":{"count":965,"readability":91},"C1":{"count":899,"readability":97},"C2":{"count":539,"readability":100}}}}
+{
+	"dir": "maurice-leblanc/the-confessions-of-ars-ne-lupin",
+	"title": "The Confessions of Arsène Lupin",
+	"creator": "Maurice Leblanc",
+	"description": "The gentleman-thief relates stories of his outwitting the Parisian detectives.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 31262,
+		"uniqueWordsCount": 4467,
+		"ranks": {
+			"highest": 44756,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 54
+			},
+			"A2": {
+				"count": 459,
+				"readability": 67
+			},
+			"B1": {
+				"count": 788,
+				"readability": 80
+			},
+			"B2": {
+				"count": 992,
+				"readability": 91
+			},
+			"C1": {
+				"count": 954,
+				"readability": 97
+			},
+			"C2": {
+				"count": 582,
+				"readability": 100
+			}
+		}
+	}
+}
