@@ -1,1 +1,43 @@
-{"dir":"edgar-allan-poe/the-pit-and-the-pendulum","title":"The pit and the pendulum","creator":"Edgar Allan Poe","description":"<p>A man is in a room without light. He attempted to figure out his rooms shape, and ended up almost falling down a pit. Later he was drugged by the food the captors have given him. He has ended up strapped to a table with a big pendulum holding a giant blade that was slowly descending. In order to save himself, he took the beef they have allowed him to have as a last meal, and smothered his bindings in their juices, prompting the rats to eat them. He was released just before the blade would have killed him, only the walls were moving towards the centre pit. He would have fallen in but a man had grabbed his arm. That man was an officer in charge of releasing all the prisoners at the end of the Inquisition.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1033,"uniqueWordsCount":318,"ranks":{"highest":24719,"lowest":1},"levels":{"A1":{"count":183,"readability":63},"A2":{"count":50,"readability":76},"B1":{"count":45,"readability":86},"B2":{"count":24,"readability":95},"C1":{"count":8,"readability":97},"C2":{"count":5,"readability":99}}}}
+{
+	"dir": "edgar-allan-poe/the-pit-and-the-pendulum",
+	"title": "The pit and the pendulum",
+	"creator": "Edgar Allan Poe",
+	"description": "<p>A man is in a room without light. He attempted to figure out his rooms shape, and ended up almost falling down a pit. Later he was drugged by the food the captors have given him. He has ended up strapped to a table with a big pendulum holding a giant blade that was slowly descending. In order to save himself, he took the beef they have allowed him to have as a last meal, and smothered his bindings in their juices, prompting the rats to eat them. He was released just before the blade would have killed him, only the walls were moving towards the centre pit. He would have fallen in but a man had grabbed his arm. That man was an officer in charge of releasing all the prisoners at the end of the Inquisition.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1033,
+		"uniqueWordsCount": 346,
+		"ranks": {
+			"highest": 25616,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 193,
+				"readability": 62
+			},
+			"A2": {
+				"count": 54,
+				"readability": 73
+			},
+			"B1": {
+				"count": 47,
+				"readability": 83
+			},
+			"B2": {
+				"count": 33,
+				"readability": 95
+			},
+			"C1": {
+				"count": 9,
+				"readability": 96
+			},
+			"C2": {
+				"count": 7,
+				"readability": 99
+			}
+		}
+	}
+}
