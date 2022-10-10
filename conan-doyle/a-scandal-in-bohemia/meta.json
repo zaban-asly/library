@@ -1,1 +1,43 @@
-{"dir":"conan-doyle/a-scandal-in-bohemia","title":"A Scandal In Bohemia","creator":"Conan Doyle","description":"<font class=\"Apple-style-span\" face=\"'MS Shell Dlg 2', sans-serif\"><span class=\"Apple-style-span\" style=\"font-size: 12px;\">While the Dr. Watson got married and engaged in private medical practice, to Sherlock Holmes for help addressed German aristocrat who conceal their origin from the detective. But Holmes wasn't difficult to immediately expose him. Count Von Kramm's problem was that he was going to marry, and the woman with whom he had a love affair before, blackmailed him. She was charming opera singer and had a photo where they were together with him. The King's agents have tried to searched photo, but couldn't find. All hope of Sherlock Holmes, otherwise the wedding  will be able to fail. To carry out the task will have to be reincarnated as a  groom for penetrate into the house of blackmailer.</span></font>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1012,"uniqueWordsCount":305,"ranks":{"highest":28345,"lowest":1},"levels":{"A1":{"count":206,"readability":74},"A2":{"count":57,"readability":85},"B1":{"count":18,"readability":92},"B2":{"count":15,"readability":98},"C1":{"count":4,"readability":100},"C2":{"count":2,"readability":100}}}}
+{
+	"dir": "conan-doyle/a-scandal-in-bohemia",
+	"title": "A Scandal In Bohemia",
+	"creator": "Conan Doyle",
+	"description": "<font class=\"Apple-style-span\" face=\"'MS Shell Dlg 2', sans-serif\"><span class=\"Apple-style-span\" style=\"font-size: 12px;\">While the Dr. Watson got married and engaged in private medical practice, to Sherlock Holmes for help addressed German aristocrat who conceal their origin from the detective. But Holmes wasn't difficult to immediately expose him. Count Von Kramm's problem was that he was going to marry, and the woman with whom he had a love affair before, blackmailed him. She was charming opera singer and had a photo where they were together with him. The King's agents have tried to searched photo, but couldn't find. All hope of Sherlock Holmes, otherwise the wedding  will be able to fail. To carry out the task will have to be reincarnated as a  groom for penetrate into the house of blackmailer.</span></font>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1011,
+		"uniqueWordsCount": 327,
+		"ranks": {
+			"highest": 29395,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 214,
+				"readability": 72
+			},
+			"A2": {
+				"count": 63,
+				"readability": 84
+			},
+			"B1": {
+				"count": 23,
+				"readability": 92
+			},
+			"B2": {
+				"count": 16,
+				"readability": 98
+			},
+			"C1": {
+				"count": 5,
+				"readability": 99
+			},
+			"C2": {
+				"count": 3,
+				"readability": 100
+			}
+		}
+	}
+}
