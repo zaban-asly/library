@@ -1,1 +1,43 @@
-{"dir":"virginia-woolf/the-voyage-out","title":"The Voyage Out","creator":"Virginia Woolf","description":"A sheltered young woman’s travels dramatically expand her horizons.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":67375,"uniqueWordsCount":6239,"ranks":{"highest":49809,"lowest":1},"levels":{"A1":{"count":469,"readability":60},"A2":{"count":478,"readability":72},"B1":{"count":865,"readability":82},"B2":{"count":1377,"readability":91},"C1":{"count":1527,"readability":97},"C2":{"count":1129,"readability":100}}}}
+{
+	"dir": "virginia-woolf/the-voyage-out",
+	"title": "The Voyage Out",
+	"creator": "Virginia Woolf",
+	"description": "A sheltered young woman’s travels dramatically expand her horizons.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 67186,
+		"uniqueWordsCount": 6543,
+		"ranks": {
+			"highest": 51723,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 59
+			},
+			"A2": {
+				"count": 478,
+				"readability": 71
+			},
+			"B1": {
+				"count": 885,
+				"readability": 81
+			},
+			"B2": {
+				"count": 1402,
+				"readability": 91
+			},
+			"C1": {
+				"count": 1600,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1226,
+				"readability": 100
+			}
+		}
+	}
+}
