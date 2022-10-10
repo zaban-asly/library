@@ -1,1 +1,43 @@
-{"dir":"joseph-jacobs/indian-fairy-tales","title":"Indian Fairy Tales","creator":"Joseph Jacobs","description":"A collection of fairy tales that exhibits India’s rich folk tale tradition.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":32721,"uniqueWordsCount":3741,"ranks":{"highest":48723,"lowest":1},"levels":{"A1":{"count":468,"readability":60},"A2":{"count":445,"readability":71},"B1":{"count":702,"readability":82},"B2":{"count":803,"readability":90},"C1":{"count":673,"readability":96},"C2":{"count":430,"readability":99}}}}
+{
+	"dir": "joseph-jacobs/indian-fairy-tales",
+	"title": "Indian Fairy Tales",
+	"creator": "Joseph Jacobs",
+	"description": "A collection of fairy tales that exhibits India’s rich folk tale tradition.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 32658,
+		"uniqueWordsCount": 3941,
+		"ranks": {
+			"highest": 50563,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 495,
+				"readability": 58
+			},
+			"A2": {
+				"count": 446,
+				"readability": 69
+			},
+			"B1": {
+				"count": 726,
+				"readability": 80
+			},
+			"B2": {
+				"count": 840,
+				"readability": 90
+			},
+			"C1": {
+				"count": 717,
+				"readability": 95
+			},
+			"C2": {
+				"count": 472,
+				"readability": 99
+			}
+		}
+	}
+}
