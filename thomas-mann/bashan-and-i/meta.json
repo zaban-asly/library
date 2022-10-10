@@ -1,1 +1,43 @@
-{"dir":"thomas-mann/bashan-and-i","title":"Bashan and I","creator":"Thomas Mann","description":"A renowned novelist describes the unique relation that links him to his dog.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":18598,"uniqueWordsCount":4405,"ranks":{"highest":49918,"lowest":1},"levels":{"A1":{"count":449,"readability":48},"A2":{"count":409,"readability":60},"B1":{"count":681,"readability":73},"B2":{"count":869,"readability":84},"C1":{"count":907,"readability":92},"C2":{"count":687,"readability":98}}}}
+{
+	"dir": "thomas-mann/bashan-and-i",
+	"title": "Bashan and I",
+	"creator": "Thomas Mann",
+	"description": "A renowned novelist describes the unique relation that links him to his dog.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 18566,
+		"uniqueWordsCount": 4573,
+		"ranks": {
+			"highest": 51836,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 478,
+				"readability": 46
+			},
+			"A2": {
+				"count": 416,
+				"readability": 59
+			},
+			"B1": {
+				"count": 687,
+				"readability": 71
+			},
+			"B2": {
+				"count": 893,
+				"readability": 83
+			},
+			"C1": {
+				"count": 932,
+				"readability": 92
+			},
+			"C2": {
+				"count": 729,
+				"readability": 98
+			}
+		}
+	}
+}
