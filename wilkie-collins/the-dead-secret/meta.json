@@ -1,1 +1,43 @@
-{"dir":"wilkie-collins/the-dead-secret","title":"The Dead Secret","creator":"Wilkie Collins","description":"A maidservant is forced by her dying mistress to conceal a deep family secret, at great personal cost to herself.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":66322,"uniqueWordsCount":5384,"ranks":{"highest":47777,"lowest":1},"levels":{"A1":{"count":465,"readability":62},"A2":{"count":455,"readability":74},"B1":{"count":842,"readability":84},"B2":{"count":1194,"readability":93},"C1":{"count":1269,"readability":98},"C2":{"count":875,"readability":100}}}}
+{
+	"dir": "wilkie-collins/the-dead-secret",
+	"title": "The Dead Secret",
+	"creator": "Wilkie Collins",
+	"description": "A maidservant is forced by her dying mistress to conceal a deep family secret, at great personal cost to herself.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 66217,
+		"uniqueWordsCount": 5717,
+		"ranks": {
+			"highest": 49574,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 493,
+				"readability": 60
+			},
+			"A2": {
+				"count": 457,
+				"readability": 72
+			},
+			"B1": {
+				"count": 860,
+				"readability": 83
+			},
+			"B2": {
+				"count": 1226,
+				"readability": 92
+			},
+			"C1": {
+				"count": 1351,
+				"readability": 97
+			},
+			"C2": {
+				"count": 972,
+				"readability": 100
+			}
+		}
+	}
+}
