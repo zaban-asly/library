@@ -1,1 +1,43 @@
-{"dir":"percy-marks/the-plastic-age","title":"The Plastic Age","creator":"Percy Marks","description":"A student at an upscale liberal arts college navigates challenges, pitfalls, disillusionment, and the possibilities of his undergraduate experience in Jazz Age New England.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":35499,"uniqueWordsCount":4424,"ranks":{"highest":45711,"lowest":1},"levels":{"A1":{"count":461,"readability":55},"A2":{"count":438,"readability":68},"B1":{"count":717,"readability":79},"B2":{"count":912,"readability":87},"C1":{"count":850,"readability":93},"C2":{"count":659,"readability":98}}}}
+{
+	"dir": "percy-marks/the-plastic-age",
+	"title": "The Plastic Age",
+	"creator": "Percy Marks",
+	"description": "A student at an upscale liberal arts college navigates challenges, pitfalls, disillusionment, and the possibilities of his undergraduate experience in Jazz Age New England.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 35456,
+		"uniqueWordsCount": 4657,
+		"ranks": {
+			"highest": 47423,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 489,
+				"readability": 53
+			},
+			"A2": {
+				"count": 439,
+				"readability": 65
+			},
+			"B1": {
+				"count": 751,
+				"readability": 77
+			},
+			"B2": {
+				"count": 941,
+				"readability": 86
+			},
+			"C1": {
+				"count": 907,
+				"readability": 93
+			},
+			"C2": {
+				"count": 694,
+				"readability": 98
+			}
+		}
+	}
+}
