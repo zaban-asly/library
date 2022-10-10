@@ -1,1 +1,43 @@
-{"dir":"w-e-b-du-bois/the-souls-of-black-folk","title":"The Souls of Black Folk","creator":"W. E. B. Du Bois","description":"A seminal collection of essays on the African-American experience.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":37006,"uniqueWordsCount":5812,"ranks":{"highest":49132,"lowest":1},"levels":{"A1":{"count":466,"readability":46},"A2":{"count":465,"readability":59},"B1":{"count":806,"readability":73},"B2":{"count":1148,"readability":86},"C1":{"count":1282,"readability":93},"C2":{"count":1083,"readability":98}}}}
+{
+	"dir": "w-e-b-du-bois/the-souls-of-black-folk",
+	"title": "The Souls of Black Folk",
+	"creator": "W. E. B. Du Bois",
+	"description": "A seminal collection of essays on the African-American experience.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 36971,
+		"uniqueWordsCount": 6077,
+		"ranks": {
+			"highest": 50998,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 44
+			},
+			"A2": {
+				"count": 466,
+				"readability": 57
+			},
+			"B1": {
+				"count": 827,
+				"readability": 71
+			},
+			"B2": {
+				"count": 1166,
+				"readability": 84
+			},
+			"C1": {
+				"count": 1338,
+				"readability": 93
+			},
+			"C2": {
+				"count": 1150,
+				"readability": 98
+			}
+		}
+	}
+}
