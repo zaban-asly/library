@@ -1,1 +1,43 @@
-{"dir":"e-r-eddison/the-worm-ouroboros","title":"The Worm Ouroboros","creator":"E. R. Eddison","description":"The King Gorice of Witchland and the lords of Demonland wage war in the high-fantasy lands of Mercury.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":79037,"uniqueWordsCount":6720,"ranks":{"highest":50032,"lowest":1},"levels":{"A1":{"count":459,"readability":53},"A2":{"count":438,"readability":66},"B1":{"count":739,"readability":77},"B2":{"count":1185,"readability":87},"C1":{"count":1528,"readability":94},"C2":{"count":1380,"readability":98}}}}
+{
+	"dir": "e-r-eddison/the-worm-ouroboros",
+	"title": "The Worm Ouroboros",
+	"creator": "E. R. Eddison",
+	"description": "The King Gorice of Witchland and the lords of Demonland wage war in the high-fantasy lands of Mercury.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 78911,
+		"uniqueWordsCount": 7111,
+		"ranks": {
+			"highest": 51954,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 486,
+				"readability": 51
+			},
+			"A2": {
+				"count": 445,
+				"readability": 64
+			},
+			"B1": {
+				"count": 751,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1214,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1620,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1481,
+				"readability": 98
+			}
+		}
+	}
+}
