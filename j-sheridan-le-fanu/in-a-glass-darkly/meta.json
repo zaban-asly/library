@@ -1,1 +1,43 @@
-{"dir":"j-sheridan-le-fanu/in-a-glass-darkly","title":"In a Glass Darkly","creator":"J. Sheridan Le Fanu","description":"A collection of five of Le Fanu’s short stories, including his most notable work “Carmilla,” presented as cases of the occult detective Dr. Martin Hesselius.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":53772,"uniqueWordsCount":6249,"ranks":{"highest":48390,"lowest":1},"levels":{"A1":{"count":468,"readability":55},"A2":{"count":485,"readability":68},"B1":{"count":887,"readability":80},"B2":{"count":1341,"readability":90},"C1":{"count":1524,"readability":96},"C2":{"count":1125,"readability":99}}}}
+{
+	"dir": "j-sheridan-le-fanu/in-a-glass-darkly",
+	"title": "In a Glass Darkly",
+	"creator": "J. Sheridan Le Fanu",
+	"description": "A collection of five of Le Fanu’s short stories, including his most notable work “Carmilla,” presented as cases of the occult detective Dr. Martin Hesselius.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 53650,
+		"uniqueWordsCount": 6532,
+		"ranks": {
+			"highest": 50214,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 54
+			},
+			"A2": {
+				"count": 487,
+				"readability": 67
+			},
+			"B1": {
+				"count": 892,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1372,
+				"readability": 89
+			},
+			"C1": {
+				"count": 1606,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1195,
+				"readability": 99
+			}
+		}
+	}
+}
