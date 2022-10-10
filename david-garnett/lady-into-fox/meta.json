@@ -1,1 +1,43 @@
-{"dir":"david-garnett/lady-into-fox","title":"Lady Into Fox","creator":"David Garnett","description":"A newly-married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":11014,"uniqueWordsCount":2296,"ranks":{"highest":48055,"lowest":1},"levels":{"A1":{"count":437,"readability":64},"A2":{"count":340,"readability":75},"B1":{"count":450,"readability":83},"B2":{"count":436,"readability":91},"C1":{"count":344,"readability":97},"C2":{"count":204,"readability":100}}}}
+{
+	"dir": "david-garnett/lady-into-fox",
+	"title": "Lady Into Fox",
+	"creator": "David Garnett",
+	"description": "A newly-married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 10979,
+		"uniqueWordsCount": 2442,
+		"ranks": {
+			"highest": 49862,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 463,
+				"readability": 62
+			},
+			"A2": {
+				"count": 353,
+				"readability": 72
+			},
+			"B1": {
+				"count": 472,
+				"readability": 82
+			},
+			"B2": {
+				"count": 464,
+				"readability": 90
+			},
+			"C1": {
+				"count": 370,
+				"readability": 96
+			},
+			"C2": {
+				"count": 222,
+				"readability": 99
+			}
+		}
+	}
+}
