@@ -1,1 +1,43 @@
-{"dir":"john-ruskin/unto-this-last","title":"Unto This Last","creator":"John Ruskin","description":"A philosophical discussion on the nature of wealth and labor.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":15861,"uniqueWordsCount":3175,"ranks":{"highest":50030,"lowest":1},"levels":{"A1":{"count":431,"readability":46},"A2":{"count":344,"readability":59},"B1":{"count":534,"readability":76},"B2":{"count":611,"readability":87},"C1":{"count":603,"readability":94},"C2":{"count":418,"readability":99}}}}
+{
+	"dir": "john-ruskin/unto-this-last",
+	"title": "Unto This Last",
+	"creator": "John Ruskin",
+	"description": "A philosophical discussion on the nature of wealth and labor.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 15789,
+		"uniqueWordsCount": 3322,
+		"ranks": {
+			"highest": 51952,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 449,
+				"readability": 44
+			},
+			"A2": {
+				"count": 354,
+				"readability": 57
+			},
+			"B1": {
+				"count": 539,
+				"readability": 74
+			},
+			"B2": {
+				"count": 626,
+				"readability": 86
+			},
+			"C1": {
+				"count": 626,
+				"readability": 94
+			},
+			"C2": {
+				"count": 459,
+				"readability": 98
+			}
+		}
+	}
+}
