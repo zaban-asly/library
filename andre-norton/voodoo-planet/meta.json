@@ -1,1 +1,43 @@
-{"dir":"andre-norton/voodoo-planet","title":"Voodoo Planet","creator":"Andre Norton","description":"Dane Thorson travels to the safari planet Khatka and encounters an evil witch doctor.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":11913,"uniqueWordsCount":2765,"ranks":{"highest":49486,"lowest":1},"levels":{"A1":{"count":426,"readability":49},"A2":{"count":345,"readability":62},"B1":{"count":484,"readability":73},"B2":{"count":555,"readability":84},"C1":{"count":493,"readability":93},"C2":{"count":313,"readability":99}}}}
+{
+	"dir": "andre-norton/voodoo-planet",
+	"title": "Voodoo Planet",
+	"creator": "Andre Norton",
+	"description": "Dane Thorson travels to the safari planet Khatka and encounters an evil witch doctor.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 11899,
+		"uniqueWordsCount": 2903,
+		"ranks": {
+			"highest": 51391,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 448,
+				"readability": 47
+			},
+			"A2": {
+				"count": 351,
+				"readability": 60
+			},
+			"B1": {
+				"count": 500,
+				"readability": 72
+			},
+			"B2": {
+				"count": 578,
+				"readability": 83
+			},
+			"C1": {
+				"count": 517,
+				"readability": 92
+			},
+			"C2": {
+				"count": 346,
+				"readability": 99
+			}
+		}
+	}
+}
