@@ -1,1 +1,43 @@
-{"dir":"p-g-wodehouse/psmith-in-the-city","title":"Psmith in the City","creator":"P. G. Wodehouse","description":"A young man abandons his dream of playing cricket at Cambridge because of financial trouble and goes to work for a London bank, where he’s joined by an unflappable friend.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":25682,"uniqueWordsCount":4250,"ranks":{"highest":47213,"lowest":1},"levels":{"A1":{"count":459,"readability":53},"A2":{"count":435,"readability":64},"B1":{"count":701,"readability":76},"B2":{"count":928,"readability":88},"C1":{"count":868,"readability":95},"C2":{"count":598,"readability":99}}}}
+{
+	"dir": "p-g-wodehouse/psmith-in-the-city",
+	"title": "Psmith in the City",
+	"creator": "P. G. Wodehouse",
+	"description": "A young man abandons his dream of playing cricket at Cambridge because of financial trouble and goes to work for a London bank, where he’s joined by an unflappable friend.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 25637,
+		"uniqueWordsCount": 4424,
+		"ranks": {
+			"highest": 49469,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 486,
+				"readability": 51
+			},
+			"A2": {
+				"count": 442,
+				"readability": 63
+			},
+			"B1": {
+				"count": 713,
+				"readability": 75
+			},
+			"B2": {
+				"count": 938,
+				"readability": 87
+			},
+			"C1": {
+				"count": 904,
+				"readability": 94
+			},
+			"C2": {
+				"count": 654,
+				"readability": 99
+			}
+		}
+	}
+}
