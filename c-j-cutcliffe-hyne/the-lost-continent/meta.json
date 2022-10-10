@@ -1,1 +1,43 @@
-{"dir":"c-j-cutcliffe-hyne/the-lost-continent","title":"The Lost Continent","creator":"C. J. Cutcliffe Hyne","description":"A swashbuckling adventure on the fabled continent of Atlantis.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":44850,"uniqueWordsCount":5400,"ranks":{"highest":50308,"lowest":1},"levels":{"A1":{"count":460,"readability":56},"A2":{"count":448,"readability":68},"B1":{"count":763,"readability":79},"B2":{"count":1103,"readability":88},"C1":{"count":1227,"readability":95},"C2":{"count":966,"readability":99}}}}
+{
+	"dir": "c-j-cutcliffe-hyne/the-lost-continent",
+	"title": "The Lost Continent",
+	"creator": "C. J. Cutcliffe Hyne",
+	"description": "A swashbuckling adventure on the fabled continent of Atlantis.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 44763,
+		"uniqueWordsCount": 5685,
+		"ranks": {
+			"highest": 52237,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 488,
+				"readability": 53
+			},
+			"A2": {
+				"count": 453,
+				"readability": 66
+			},
+			"B1": {
+				"count": 783,
+				"readability": 77
+			},
+			"B2": {
+				"count": 1135,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1291,
+				"readability": 94
+			},
+			"C2": {
+				"count": 1036,
+				"readability": 99
+			}
+		}
+	}
+}
