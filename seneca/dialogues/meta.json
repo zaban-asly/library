@@ -1,1 +1,43 @@
-{"dir":"seneca/dialogues","title":"Dialogues","creator":"Seneca","description":"Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":103600,"uniqueWordsCount":6970,"ranks":{"highest":50292,"lowest":1},"levels":{"A1":{"count":463,"readability":54},"A2":{"count":459,"readability":66},"B1":{"count":865,"readability":80},"B2":{"count":1379,"readability":91},"C1":{"count":1699,"readability":96},"C2":{"count":1495,"readability":100}}}}
+{
+	"dir": "seneca/dialogues",
+	"title": "Dialogues",
+	"creator": "Seneca",
+	"description": "Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 103206,
+		"uniqueWordsCount": 7360,
+		"ranks": {
+			"highest": 52221,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 489,
+				"readability": 52
+			},
+			"A2": {
+				"count": 461,
+				"readability": 65
+			},
+			"B1": {
+				"count": 868,
+				"readability": 79
+			},
+			"B2": {
+				"count": 1414,
+				"readability": 90
+			},
+			"C1": {
+				"count": 1772,
+				"readability": 96
+			},
+			"C2": {
+				"count": 1636,
+				"readability": 99
+			}
+		}
+	}
+}
