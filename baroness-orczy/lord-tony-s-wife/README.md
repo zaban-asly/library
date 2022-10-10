@@ -1,5 +1,5 @@
 
-# Lord Tony’s Wife <kbd>v3.2.1</kbd>
+# Lord Tony’s Wife <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>
