@@ -1,1 +1,43 @@
-{"dir":"charlotte-perkins-gilman/herland","title":"Herland","creator":"Charlotte Perkins Gilman","description":"Three male explorers trek into a mysterious civilization populated entirely by women.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":25804,"uniqueWordsCount":4179,"ranks":{"highest":49974,"lowest":1},"levels":{"A1":{"count":464,"readability":58},"A2":{"count":416,"readability":69},"B1":{"count":701,"readability":81},"B2":{"count":868,"readability":90},"C1":{"count":818,"readability":96},"C2":{"count":592,"readability":99}}}}
+{
+	"dir": "charlotte-perkins-gilman/herland",
+	"title": "Herland",
+	"creator": "Charlotte Perkins Gilman",
+	"description": "Three male explorers trek into a mysterious civilization populated entirely by women.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 25750,
+		"uniqueWordsCount": 4396,
+		"ranks": {
+			"highest": 51892,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 56
+			},
+			"A2": {
+				"count": 425,
+				"readability": 67
+			},
+			"B1": {
+				"count": 717,
+				"readability": 79
+			},
+			"B2": {
+				"count": 902,
+				"readability": 89
+			},
+			"C1": {
+				"count": 869,
+				"readability": 95
+			},
+			"C2": {
+				"count": 645,
+				"readability": 99
+			}
+		}
+	}
+}
