@@ -1,1 +1,43 @@
-{"dir":"denise-whittaker/maggi","title":"Maggi","creator":"Denise Whittaker","description":"Can you imagine how it is to lose a child? Most of people will not be able to. Most of people don't even want to think about such things, as they are really heartbreaking. Maggie has always been a brave and quick-witted girl. That's what everyone who knew her said. Everything happened during my driving test. I acted in a right way. I checked the mirrors and the belts. The traffic light turned green. Several pedestrians ahead: a woman and two children. The road ahead was thin and not very convenient. Hands on the wheel: for ten hours and two hours, as the instructor taught. I did everything right and recalled. Recently such things happened that it would be better to forget about them. Once and forever. Still it is impossible.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":396,"uniqueWordsCount":239,"ranks":{"highest":18031,"lowest":1},"levels":{"A1":{"count":137,"readability":64},"A2":{"count":36,"readability":76},"B1":{"count":26,"readability":87},"B2":{"count":25,"readability":96},"C1":{"count":8,"readability":98},"C2":{"count":5,"readability":100}}}}
+{
+	"dir": "denise-whittaker/maggi",
+	"title": "Maggi",
+	"creator": "Denise Whittaker",
+	"description": "Can you imagine how it is to lose a child? Most of people will not be able to. Most of people don't even want to think about such things, as they are really heartbreaking. Maggie has always been a brave and quick-witted girl. That's what everyone who knew her said. Everything happened during my driving test. I acted in a right way. I checked the mirrors and the belts. The traffic light turned green. Several pedestrians ahead: a woman and two children. The road ahead was thin and not very convenient. Hands on the wheel: for ten hours and two hours, as the instructor taught. I did everything right and recalled. Recently such things happened that it would be better to forget about them. Once and forever. Still it is impossible.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 401,
+		"uniqueWordsCount": 254,
+		"ranks": {
+			"highest": 44210,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 141,
+				"readability": 61
+			},
+			"A2": {
+				"count": 37,
+				"readability": 73
+			},
+			"B1": {
+				"count": 30,
+				"readability": 85
+			},
+			"B2": {
+				"count": 26,
+				"readability": 94
+			},
+			"C1": {
+				"count": 8,
+				"readability": 96
+			},
+			"C2": {
+				"count": 7,
+				"readability": 98
+			}
+		}
+	}
+}
