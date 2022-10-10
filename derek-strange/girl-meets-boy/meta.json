@@ -1,1 +1,43 @@
-{"dir":"derek-strange/girl-meets-boy","title":"Girl Meets Boy","creator":"Derek Strange","description":"This story began at the very end of July. It was very sunny and warm. Donna was standing on the deck of the boat and looking at the sea. What else was there left to do at eleven in the morning on such a nice day. People around were talking, laughing and examining sea birds. Her family was also nearby. Among the crowd, the girl noticed a very tall and handsome guy. He was wearing a white and a blue shirt. He did not notice the girl who was staring at him so intently. The guy was in the company of his friends and brother. At least, one of the boys was very similar to him. Donna kept watching them. His friends were noisy, but the guy was silent. The next moment he looked at Donna and smiled. It was the beginning of the best part of summer for the girl. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":834,"uniqueWordsCount":219,"ranks":{"highest":43599,"lowest":1},"levels":{"A1":{"count":133,"readability":71},"A2":{"count":35,"readability":86},"B1":{"count":12,"readability":89},"B2":{"count":22,"readability":95},"C1":{"count":6,"readability":96},"C2":{"count":7,"readability":99}}}}
+{
+	"dir": "derek-strange/girl-meets-boy",
+	"title": "Girl Meets Boy",
+	"creator": "Derek Strange",
+	"description": "This story began at the very end of July. It was very sunny and warm. Donna was standing on the deck of the boat and looking at the sea. What else was there left to do at eleven in the morning on such a nice day. People around were talking, laughing and examining sea birds. Her family was also nearby. Among the crowd, the girl noticed a very tall and handsome guy. He was wearing a white and a blue shirt. He did not notice the girl who was staring at him so intently. The guy was in the company of his friends and brother. At least, one of the boys was very similar to him. Donna kept watching them. His friends were noisy, but the guy was silent. The next moment he looked at Donna and smiled. It was the beginning of the best part of summer for the girl. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 840,
+		"uniqueWordsCount": 229,
+		"ranks": {
+			"highest": 45255,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 142,
+				"readability": 70
+			},
+			"A2": {
+				"count": 33,
+				"readability": 85
+			},
+			"B1": {
+				"count": 14,
+				"readability": 88
+			},
+			"B2": {
+				"count": 21,
+				"readability": 94
+			},
+			"C1": {
+				"count": 7,
+				"readability": 95
+			},
+			"C2": {
+				"count": 8,
+				"readability": 99
+			}
+		}
+	}
+}
