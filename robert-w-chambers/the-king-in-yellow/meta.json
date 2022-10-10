@@ -1,1 +1,43 @@
-{"dir":"robert-w-chambers/the-king-in-yellow","title":"The King in Yellow","creator":"Robert W. Chambers","description":"Ten short stories of madness, hauntings, romance, and art.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":34850,"uniqueWordsCount":5267,"ranks":{"highest":49735,"lowest":1},"levels":{"A1":{"count":468,"readability":52},"A2":{"count":470,"readability":65},"B1":{"count":805,"readability":76},"B2":{"count":1152,"readability":87},"C1":{"count":1212,"readability":95},"C2":{"count":830,"readability":99}}}}
+{
+	"dir": "robert-w-chambers/the-king-in-yellow",
+	"title": "The King in Yellow",
+	"creator": "Robert W. Chambers",
+	"description": "Ten short stories of madness, hauntings, romance, and art.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 34819,
+		"uniqueWordsCount": 5486,
+		"ranks": {
+			"highest": 51648,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 494,
+				"readability": 50
+			},
+			"A2": {
+				"count": 473,
+				"readability": 63
+			},
+			"B1": {
+				"count": 822,
+				"readability": 75
+			},
+			"B2": {
+				"count": 1175,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1269,
+				"readability": 94
+			},
+			"C2": {
+				"count": 866,
+				"readability": 99
+			}
+		}
+	}
+}
