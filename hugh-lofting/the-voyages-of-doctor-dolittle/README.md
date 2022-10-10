@@ -1,5 +1,5 @@
 
-# The Voyages of Doctor Dolittle <kbd>v3.2.1</kbd>
+# The Voyages of Doctor Dolittle <kbd>v3.3.1</kbd>
 
 <center>
   <img src="./cover-1024.jpg"/>

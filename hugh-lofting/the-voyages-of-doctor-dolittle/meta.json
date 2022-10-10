@@ -1,1 +1,43 @@
-{"dir":"hugh-lofting/the-voyages-of-doctor-dolittle","title":"The Voyages of Doctor Dolittle","creator":"Hugh Lofting","description":"A young boy begins his apprenticeship with Doctor Dolittle, accompanying him on a series of adventures in search of a floating island and a missing naturalist.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":35822,"uniqueWordsCount":3643,"ranks":{"highest":49870,"lowest":1},"levels":{"A1":{"count":464,"readability":64},"A2":{"count":422,"readability":76},"B1":{"count":647,"readability":85},"B2":{"count":807,"readability":92},"C1":{"count":667,"readability":97},"C2":{"count":418,"readability":99}}}}
+{
+	"dir": "hugh-lofting/the-voyages-of-doctor-dolittle",
+	"title": "The Voyages of Doctor Dolittle",
+	"creator": "Hugh Lofting",
+	"description": "A young boy begins his apprenticeship with Doctor Dolittle, accompanying him on a series of adventures in search of a floating island and a missing naturalist.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 35777,
+		"uniqueWordsCount": 3867,
+		"ranks": {
+			"highest": 51785,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 490,
+				"readability": 62
+			},
+			"A2": {
+				"count": 429,
+				"readability": 74
+			},
+			"B1": {
+				"count": 667,
+				"readability": 84
+			},
+			"B2": {
+				"count": 848,
+				"readability": 91
+			},
+			"C1": {
+				"count": 737,
+				"readability": 96
+			},
+			"C2": {
+				"count": 462,
+				"readability": 99
+			}
+		}
+	}
+}
