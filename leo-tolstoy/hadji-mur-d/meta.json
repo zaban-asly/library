@@ -1,1 +1,43 @@
-{"dir":"leo-tolstoy/hadji-mur-d","title":"Hadji Murád","creator":"Leo Tolstoy","description":"The legendary warrior Hadji Murád struggles to free his family against the backdrop of Russian imperialism in Chechnya and Dagestan.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":23298,"uniqueWordsCount":3625,"ranks":{"highest":49881,"lowest":1},"levels":{"A1":{"count":464,"readability":56},"A2":{"count":434,"readability":68},"B1":{"count":661,"readability":78},"B2":{"count":811,"readability":87},"C1":{"count":716,"readability":96},"C2":{"count":384,"readability":99}}}}
+{
+	"dir": "leo-tolstoy/hadji-mur-d",
+	"title": "Hadji Murád",
+	"creator": "Leo Tolstoy",
+	"description": "The legendary warrior Hadji Murád struggles to free his family against the backdrop of Russian imperialism in Chechnya and Dagestan.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 23214,
+		"uniqueWordsCount": 3824,
+		"ranks": {
+			"highest": 51799,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 53
+			},
+			"A2": {
+				"count": 439,
+				"readability": 66
+			},
+			"B1": {
+				"count": 689,
+				"readability": 77
+			},
+			"B2": {
+				"count": 844,
+				"readability": 87
+			},
+			"C1": {
+				"count": 763,
+				"readability": 95
+			},
+			"C2": {
+				"count": 418,
+				"readability": 99
+			}
+		}
+	}
+}
