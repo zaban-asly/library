@@ -1,1 +1,43 @@
-{"dir":"michael-dean/the-new-york-cafe","title":"The New York Cafe","creator":"Michael Dean","description":"'The New York Cafe' is a book written for English learners by Michael Dean. Everything happens in New York in the year 2030. What kind of future is it? There are new technologies, flying cars, high incredible buildings. People even make trips to Mars. But this future is not so great. There are also many poor and hungry people in the world. One day somebody will want to change everything. This person will have a wish to help humanity. But how will this person help? By what methods? There are good and bad ways. One day an e-mail comes to New York Cafe. It says, 'I want to help people and make them happy!' But this is not what everyone wants. The police and the president are very interested in this cafe now. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":756,"uniqueWordsCount":163,"ranks":{"highest":13805,"lowest":11},"levels":{"A1":{"count":104,"readability":66},"A2":{"count":17,"readability":75},"B1":{"count":13,"readability":79},"B2":{"count":21,"readability":93},"C1":{"count":5,"readability":99},"C2":{"count":3,"readability":100}}}}
+{
+	"dir": "michael-dean/the-new-york-cafe",
+	"title": "The New York Cafe",
+	"creator": "Michael Dean",
+	"description": "'The New York Cafe' is a book written for English learners by Michael Dean. Everything happens in New York in the year 2030. What kind of future is it? There are new technologies, flying cars, high incredible buildings. People even make trips to Mars. But this future is not so great. There are also many poor and hungry people in the world. One day somebody will want to change everything. This person will have a wish to help humanity. But how will this person help? By what methods? There are good and bad ways. One day an e-mail comes to New York Cafe. It says, 'I want to help people and make them happy!' But this is not what everyone wants. The police and the president are very interested in this cafe now. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 772,
+		"uniqueWordsCount": 169,
+		"ranks": {
+			"highest": 26324,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 105,
+				"readability": 59
+			},
+			"A2": {
+				"count": 18,
+				"readability": 66
+			},
+			"B1": {
+				"count": 14,
+				"readability": 72
+			},
+			"B2": {
+				"count": 20,
+				"readability": 85
+			},
+			"C1": {
+				"count": 7,
+				"readability": 97
+			},
+			"C2": {
+				"count": 4,
+				"readability": 100
+			}
+		}
+	}
+}
