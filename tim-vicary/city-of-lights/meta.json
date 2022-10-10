@@ -1,1 +1,43 @@
-{"dir":"tim-vicary/city-of-lights","title":"City of Lights","creator":"Tim Vicary","description":"A young pilot Cathy Fox has lost her job. She is said to be seriously ill. But Cathy tells a completely different story. Last year she flew a space-plane called 'Space Bird One'. Two other girls accompanied her. Helen was another astronaut and Mary was a journalist. The trip was very important and it was broadcast all over the world. The flight was going well until the girls saw a strange object. Mary wanted to discuss it on the TV, but the other girls did not let her. As the space-plane tried to move away from the object, the motors suddenly broke down. The plane went out of the Earth's orbit at the risk of never coming back. Fortunately, the pilots found a way out. What the girls saw on the dark side of the Moon changed their lives forever.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":3299,"uniqueWordsCount":629,"ranks":{"highest":29709,"lowest":1},"levels":{"A1":{"count":310,"readability":65},"A2":{"count":104,"readability":77},"B1":{"count":84,"readability":84},"B2":{"count":63,"readability":92},"C1":{"count":42,"readability":98},"C2":{"count":17,"readability":100}}}}
+{
+	"dir": "tim-vicary/city-of-lights",
+	"title": "City of Lights",
+	"creator": "Tim Vicary",
+	"description": "A young pilot Cathy Fox has lost her job. She is said to be seriously ill. But Cathy tells a completely different story. Last year she flew a space-plane called 'Space Bird One'. Two other girls accompanied her. Helen was another astronaut and Mary was a journalist. The trip was very important and it was broadcast all over the world. The flight was going well until the girls saw a strange object. Mary wanted to discuss it on the TV, but the other girls did not let her. As the space-plane tried to move away from the object, the motors suddenly broke down. The plane went out of the Earth's orbit at the risk of never coming back. Fortunately, the pilots found a way out. What the girls saw on the dark side of the Moon changed their lives forever.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 3342,
+		"uniqueWordsCount": 680,
+		"ranks": {
+			"highest": 30822,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 322,
+				"readability": 62
+			},
+			"A2": {
+				"count": 105,
+				"readability": 74
+			},
+			"B1": {
+				"count": 103,
+				"readability": 83
+			},
+			"B2": {
+				"count": 70,
+				"readability": 91
+			},
+			"C1": {
+				"count": 45,
+				"readability": 96
+			},
+			"C2": {
+				"count": 22,
+				"readability": 99
+			}
+		}
+	}
+}
