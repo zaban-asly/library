@@ -1,1 +1,43 @@
-{"dir":"katharine-susannah-prichard/the-black-opal","title":"The Black Opal","creator":"Katharine Susannah Prichard","description":"A tightly-knit community of opal miners in New South Wales is rocked by the departure of one of their most-beloved young people.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":46753,"uniqueWordsCount":4745,"ranks":{"highest":49208,"lowest":1},"levels":{"A1":{"count":461,"readability":60},"A2":{"count":443,"readability":73},"B1":{"count":723,"readability":83},"B2":{"count":988,"readability":91},"C1":{"count":1027,"readability":97},"C2":{"count":752,"readability":99}}}}
+{
+	"dir": "katharine-susannah-prichard/the-black-opal",
+	"title": "The Black Opal",
+	"creator": "Katharine Susannah Prichard",
+	"description": "A tightly-knit community of opal miners in New South Wales is rocked by the departure of one of their most-beloved young people.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 46680,
+		"uniqueWordsCount": 4980,
+		"ranks": {
+			"highest": 51087,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 489,
+				"readability": 58
+			},
+			"A2": {
+				"count": 449,
+				"readability": 71
+			},
+			"B1": {
+				"count": 744,
+				"readability": 82
+			},
+			"B2": {
+				"count": 1027,
+				"readability": 90
+			},
+			"C1": {
+				"count": 1076,
+				"readability": 96
+			},
+			"C2": {
+				"count": 799,
+				"readability": 99
+			}
+		}
+	}
+}
