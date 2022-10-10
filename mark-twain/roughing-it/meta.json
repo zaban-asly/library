@@ -1,1 +1,43 @@
-{"dir":"mark-twain/roughing-it","title":"Roughing It","creator":"Mark Twain","description":"Mark Twain’s semiautobiographical account of his travel across the United States.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":83365,"uniqueWordsCount":8584,"ranks":{"highest":50223,"lowest":1},"levels":{"A1":{"count":469,"readability":50},"A2":{"count":484,"readability":62},"B1":{"count":954,"readability":75},"B2":{"count":1640,"readability":86},"C1":{"count":2165,"readability":94},"C2":{"count":1896,"readability":99}}}}
+{
+	"dir": "mark-twain/roughing-it",
+	"title": "Roughing It",
+	"creator": "Mark Twain",
+	"description": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 83180,
+		"uniqueWordsCount": 8981,
+		"ranks": {
+			"highest": 52148,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 48
+			},
+			"A2": {
+				"count": 485,
+				"readability": 60
+			},
+			"B1": {
+				"count": 959,
+				"readability": 74
+			},
+			"B2": {
+				"count": 1655,
+				"readability": 85
+			},
+			"C1": {
+				"count": 2249,
+				"readability": 93
+			},
+			"C2": {
+				"count": 2021,
+				"readability": 98
+			}
+		}
+	}
+}
