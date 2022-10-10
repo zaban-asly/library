@@ -1,1 +1,43 @@
-{"dir":"george-eliot/middlemarch","title":"Middlemarch","creator":"George Eliot","description":"In the neighborhood of a rural English town in the 1830s, several men and women struggle with love, marriage and fortune.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":146785,"uniqueWordsCount":9793,"ranks":{"highest":50208,"lowest":1},"levels":{"A1":{"count":470,"readability":58},"A2":{"count":488,"readability":69},"B1":{"count":943,"readability":80},"B2":{"count":1689,"readability":89},"C1":{"count":2374,"readability":95},"C2":{"count":2408,"readability":99}}}}
+{
+	"dir": "george-eliot/middlemarch",
+	"title": "Middlemarch",
+	"creator": "George Eliot",
+	"description": "In the neighborhood of a rural English town in the 1830s, several men and women struggle with love, marriage and fortune.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 146342,
+		"uniqueWordsCount": 10241,
+		"ranks": {
+			"highest": 52133,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 56
+			},
+			"A2": {
+				"count": 488,
+				"readability": 68
+			},
+			"B1": {
+				"count": 950,
+				"readability": 78
+			},
+			"B2": {
+				"count": 1706,
+				"readability": 88
+			},
+			"C1": {
+				"count": 2455,
+				"readability": 95
+			},
+			"C2": {
+				"count": 2555,
+				"readability": 99
+			}
+		}
+	}
+}
