@@ -1,1 +1,43 @@
-{"dir":"dorothy-l-sayers/whose-body","title":"Whose Body?","creator":"Dorothy L. Sayers","description":"An aristocratic detective unravels the mystery of a body deposited in a bathtub in 1920s England.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":29278,"uniqueWordsCount":4490,"ranks":{"highest":49781,"lowest":1},"levels":{"A1":{"count":464,"readability":58},"A2":{"count":452,"readability":69},"B1":{"count":732,"readability":79},"B2":{"count":965,"readability":88},"C1":{"count":928,"readability":95},"C2":{"count":589,"readability":99}}}}
+{
+	"dir": "dorothy-l-sayers/whose-body",
+	"title": "Whose Body?",
+	"creator": "Dorothy L. Sayers",
+	"description": "An aristocratic detective unravels the mystery of a body deposited in a bathtub in 1920s England.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 29224,
+		"uniqueWordsCount": 4667,
+		"ranks": {
+			"highest": 51695,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 492,
+				"readability": 57
+			},
+			"A2": {
+				"count": 458,
+				"readability": 68
+			},
+			"B1": {
+				"count": 749,
+				"readability": 78
+			},
+			"B2": {
+				"count": 976,
+				"readability": 87
+			},
+			"C1": {
+				"count": 969,
+				"readability": 95
+			},
+			"C2": {
+				"count": 622,
+				"readability": 99
+			}
+		}
+	}
+}
