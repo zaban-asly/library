@@ -1,1 +1,43 @@
-{"dir":"j-m-synge/the-playboy-of-the-western-world","title":"The Playboy of the Western World","creator":"J. M. Synge","description":"A young man in the west coast of Ireland is lionized after he claims to have killed his father.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":9199,"uniqueWordsCount":1932,"ranks":{"highest":47403,"lowest":1},"levels":{"A1":{"count":399,"readability":57},"A2":{"count":253,"readability":67},"B1":{"count":332,"readability":80},"B2":{"count":334,"readability":87},"C1":{"count":316,"readability":93},"C2":{"count":192,"readability":99}}}}
+{
+	"dir": "j-m-synge/the-playboy-of-the-western-world",
+	"title": "The Playboy of the Western World",
+	"creator": "J. M. Synge",
+	"description": "A young man in the west coast of Ireland is lionized after he claims to have killed his father.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 9194,
+		"uniqueWordsCount": 2028,
+		"ranks": {
+			"highest": 49186,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 413,
+				"readability": 54
+			},
+			"A2": {
+				"count": 263,
+				"readability": 66
+			},
+			"B1": {
+				"count": 340,
+				"readability": 78
+			},
+			"B2": {
+				"count": 353,
+				"readability": 87
+			},
+			"C1": {
+				"count": 335,
+				"readability": 93
+			},
+			"C2": {
+				"count": 210,
+				"readability": 98
+			}
+		}
+	}
+}
