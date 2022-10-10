@@ -1,1 +1,43 @@
-{"dir":"edgar-rice-burroughs/the-warlord-of-mars","title":"The Warlord of Mars","creator":"Edgar Rice Burroughs","description":"John Carter, an Earth-man transported to Mars, must rescue his beloved princess from imprisonment in the Martian Temple of the Sun.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":26606,"uniqueWordsCount":3962,"ranks":{"highest":45967,"lowest":1},"levels":{"A1":{"count":449,"readability":50},"A2":{"count":400,"readability":65},"B1":{"count":666,"readability":78},"B2":{"count":839,"readability":88},"C1":{"count":855,"readability":95},"C2":{"count":590,"readability":100}}}}
+{
+	"dir": "edgar-rice-burroughs/the-warlord-of-mars",
+	"title": "The Warlord of Mars",
+	"creator": "Edgar Rice Burroughs",
+	"description": "John Carter, an Earth-man transported to Mars, must rescue his beloved princess from imprisonment in the Martian Temple of the Sun.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 26590,
+		"uniqueWordsCount": 4151,
+		"ranks": {
+			"highest": 47688,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 477,
+				"readability": 49
+			},
+			"A2": {
+				"count": 403,
+				"readability": 62
+			},
+			"B1": {
+				"count": 676,
+				"readability": 76
+			},
+			"B2": {
+				"count": 866,
+				"readability": 87
+			},
+			"C1": {
+				"count": 905,
+				"readability": 94
+			},
+			"C2": {
+				"count": 629,
+				"readability": 99
+			}
+		}
+	}
+}
