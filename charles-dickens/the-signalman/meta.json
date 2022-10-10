@@ -1,1 +1,43 @@
-{"dir":"charles-dickens/the-signalman","title":"The Signalman","creator":"Charles Dickens","description":"<p>The railway signalman told me that his haunts by ghost. After each appearance of ghost a tragic event on the railway occurs. The signalman works in the booth that is located next to the entrance into the tunnel, it where he controls the movement of trains. When there is any danger, his colleagues signalmen alert him via telegraph and siren. Three times he gets ghostly signals of danger when his bell rings in such a way that only he can hear it. During each alert ghost appears, and then a horrible accident happens.</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":912,"uniqueWordsCount":321,"ranks":{"highest":22868,"lowest":1},"levels":{"A1":{"count":180,"readability":69},"A2":{"count":60,"readability":82},"B1":{"count":44,"readability":91},"B2":{"count":26,"readability":96},"C1":{"count":8,"readability":99},"C2":{"count":1,"readability":99}}}}
+{
+	"dir": "charles-dickens/the-signalman",
+	"title": "The Signalman",
+	"creator": "Charles Dickens",
+	"description": "<p>The railway signalman told me that his haunts by ghost. After each appearance of ghost a tragic event on the railway occurs. The signalman works in the booth that is located next to the entrance into the tunnel, it where he controls the movement of trains. When there is any danger, his colleagues signalmen alert him via telegraph and siren. Three times he gets ghostly signals of danger when his bell rings in such a way that only he can hear it. During each alert ghost appears, and then a horrible accident happens.</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 912,
+		"uniqueWordsCount": 341,
+		"ranks": {
+			"highest": 24195,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 196,
+				"readability": 68
+			},
+			"A2": {
+				"count": 58,
+				"readability": 81
+			},
+			"B1": {
+				"count": 48,
+				"readability": 91
+			},
+			"B2": {
+				"count": 26,
+				"readability": 95
+			},
+			"C1": {
+				"count": 10,
+				"readability": 99
+			},
+			"C2": {
+				"count": 1,
+				"readability": 99
+			}
+		}
+	}
+}
