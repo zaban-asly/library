@@ -1,1 +1,43 @@
-{"dir":"solomon-northup/twelve-years-a-slave","title":"Twelve Years a Slave","creator":"Solomon Northup","description":"The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":39353,"uniqueWordsCount":5194,"ranks":{"highest":50212,"lowest":1},"levels":{"A1":{"count":468,"readability":49},"A2":{"count":466,"readability":62},"B1":{"count":809,"readability":75},"B2":{"count":1218,"readability":88},"C1":{"count":1158,"readability":95},"C2":{"count":797,"readability":99}}}}
+{
+	"dir": "solomon-northup/twelve-years-a-slave",
+	"title": "Twelve Years a Slave",
+	"creator": "Solomon Northup",
+	"description": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 39233,
+		"uniqueWordsCount": 5444,
+		"ranks": {
+			"highest": 52137,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 496,
+				"readability": 47
+			},
+			"A2": {
+				"count": 467,
+				"readability": 60
+			},
+			"B1": {
+				"count": 823,
+				"readability": 74
+			},
+			"B2": {
+				"count": 1239,
+				"readability": 86
+			},
+			"C1": {
+				"count": 1240,
+				"readability": 94
+			},
+			"C2": {
+				"count": 862,
+				"readability": 99
+			}
+		}
+	}
+}
