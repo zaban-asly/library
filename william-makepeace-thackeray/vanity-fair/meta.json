@@ -1,1 +1,43 @@
-{"dir":"william-makepeace-thackeray/vanity-fair","title":"Vanity Fair","creator":"William Makepeace Thackeray","description":"A domestic satire set in England before the backdrop of the Napoleonic Wars.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":147498,"uniqueWordsCount":9416,"ranks":{"highest":50094,"lowest":1},"levels":{"A1":{"count":469,"readability":54},"A2":{"count":495,"readability":66},"B1":{"count":959,"readability":77},"B2":{"count":1687,"readability":87},"C1":{"count":2300,"readability":95},"C2":{"count":2300,"readability":99}}}}
+{
+	"dir": "william-makepeace-thackeray/vanity-fair",
+	"title": "Vanity Fair",
+	"creator": "William Makepeace Thackeray",
+	"description": "A domestic satire set in England before the backdrop of the Napoleonic Wars.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 147217,
+		"uniqueWordsCount": 9839,
+		"ranks": {
+			"highest": 52017,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 497,
+				"readability": 53
+			},
+			"A2": {
+				"count": 495,
+				"readability": 64
+			},
+			"B1": {
+				"count": 965,
+				"readability": 76
+			},
+			"B2": {
+				"count": 1704,
+				"readability": 87
+			},
+			"C1": {
+				"count": 2390,
+				"readability": 95
+			},
+			"C2": {
+				"count": 2419,
+				"readability": 99
+			}
+		}
+	}
+}
