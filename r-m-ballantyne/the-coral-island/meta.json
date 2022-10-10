@@ -1,1 +1,43 @@
-{"dir":"r-m-ballantyne/the-coral-island","title":"The Coral Island","creator":"R. M. Ballantyne","description":"Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":47837,"uniqueWordsCount":4749,"ranks":{"highest":49608,"lowest":1},"levels":{"A1":{"count":459,"readability":55},"A2":{"count":447,"readability":68},"B1":{"count":791,"readability":82},"B2":{"count":1069,"readability":91},"C1":{"count":1073,"readability":97},"C2":{"count":683,"readability":100}}}}
+{
+	"dir": "r-m-ballantyne/the-coral-island",
+	"title": "The Coral Island",
+	"creator": "R. M. Ballantyne",
+	"description": "Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 47706,
+		"uniqueWordsCount": 4976,
+		"ranks": {
+			"highest": 51517,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 488,
+				"readability": 52
+			},
+			"A2": {
+				"count": 454,
+				"readability": 66
+			},
+			"B1": {
+				"count": 810,
+				"readability": 80
+			},
+			"B2": {
+				"count": 1097,
+				"readability": 90
+			},
+			"C1": {
+				"count": 1132,
+				"readability": 97
+			},
+			"C2": {
+				"count": 732,
+				"readability": 100
+			}
+		}
+	}
+}
