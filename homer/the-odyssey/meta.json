@@ -1,1 +1,43 @@
-{"dir":"homer/the-odyssey","title":"The Odyssey","creator":"Homer","description":"An epic poem following a Greek hero trying to return home after the Trojan war.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":60112,"uniqueWordsCount":4317,"ranks":{"highest":44824,"lowest":1},"levels":{"A1":{"count":446,"readability":51},"A2":{"count":392,"readability":62},"B1":{"count":638,"readability":75},"B2":{"count":910,"readability":88},"C1":{"count":931,"readability":95},"C2":{"count":705,"readability":99}}}}
+{
+	"dir": "homer/the-odyssey",
+	"title": "The Odyssey",
+	"creator": "Homer",
+	"description": "An epic poem following a Greek hero trying to return home after the Trojan war.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 60099,
+		"uniqueWordsCount": 4612,
+		"ranks": {
+			"highest": 46516,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 472,
+				"readability": 49
+			},
+			"A2": {
+				"count": 395,
+				"readability": 60
+			},
+			"B1": {
+				"count": 657,
+				"readability": 72
+			},
+			"B2": {
+				"count": 941,
+				"readability": 87
+			},
+			"C1": {
+				"count": 1005,
+				"readability": 94
+			},
+			"C2": {
+				"count": 797,
+				"readability": 99
+			}
+		}
+	}
+}
