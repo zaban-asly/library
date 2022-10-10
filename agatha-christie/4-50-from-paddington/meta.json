@@ -1,1 +1,43 @@
-{"dir":"agatha-christie/4-50-from-paddington","title":"4:50 from Paddington","creator":"Agatha Christie","description":"<p>Miss Marple is a fragile and a kind woman with a very sharp mind. When her friend Mrs Elspeth McGillicuddy came to her and told her a terrifying story, they had to call the police. Elspeth was travelling by train and when she suddenly woke up at midnight, she unexpectedly saw a horrible scene – a man was strangling a woman in the train that was passing by. Witnesses started to call for help, but a conductor didn't believe her and just thought that crazy woman had a nightmare. Nobody really believed in this story at the police either, because there are weren't any reports about a the crime at the train. As soon as Mrs McGillicuddy finished her story, Miss Marple had already had some ideas about this crime. And while Elspeth was still crying and complaining that nobody believed her, Miss Marple was already considering how the criminal got rid of the corpse. </p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":11824,"uniqueWordsCount":1477,"ranks":{"highest":41136,"lowest":1},"levels":{"A1":{"count":423,"readability":68},"A2":{"count":287,"readability":79},"B1":{"count":294,"readability":88},"B2":{"count":255,"readability":95},"C1":{"count":123,"readability":98},"C2":{"count":73,"readability":100}}}}
+{
+	"dir": "agatha-christie/4-50-from-paddington",
+	"title": "4:50 from Paddington",
+	"creator": "Agatha Christie",
+	"description": "<p>Miss Marple is a fragile and a kind woman with a very sharp mind. When her friend Mrs Elspeth McGillicuddy came to her and told her a terrifying story, they had to call the police. Elspeth was travelling by train and when she suddenly woke up at midnight, she unexpectedly saw a horrible scene – a man was strangling a woman in the train that was passing by. Witnesses started to call for help, but a conductor didn't believe her and just thought that crazy woman had a nightmare. Nobody really believed in this story at the police either, because there are weren't any reports about a the crime at the train. As soon as Mrs McGillicuddy finished her story, Miss Marple had already had some ideas about this crime. And while Elspeth was still crying and complaining that nobody believed her, Miss Marple was already considering how the criminal got rid of the corpse. </p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 11810,
+		"uniqueWordsCount": 1582,
+		"ranks": {
+			"highest": 42707,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 449,
+				"readability": 66
+			},
+			"A2": {
+				"count": 295,
+				"readability": 78
+			},
+			"B1": {
+				"count": 324,
+				"readability": 87
+			},
+			"B2": {
+				"count": 271,
+				"readability": 95
+			},
+			"C1": {
+				"count": 136,
+				"readability": 98
+			},
+			"C2": {
+				"count": 81,
+				"readability": 100
+			}
+		}
+	}
+}
