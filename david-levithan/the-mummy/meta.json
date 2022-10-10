@@ -1,1 +1,43 @@
-{"dir":"david-levithan/the-mummy","title":"The Mummy","creator":"David Levithan","description":"<p>Dramatic events of this story took place three thousand years ago in city of Thebes. All this had happened when a pharaoh Sati had been murdered. His woman has betrayed him with his High Priest of the Dead named Imhotep. The pharaoh had caught the lovers, so Anck-su-namun was afraid that he could kill them both. So she decided to kill him first, so she has knifed him with Imhotep's help. When they heard Sati's guards were coming, Anck-su-namun pushed the knife into her own stomach and said to Imhotep to bring her back to life later. She knew that he could do it. Woman was dying with thought that her man would do everything to see her again. Who knows how much strong he tried to revive her but it wasn't enough…</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":2888,"uniqueWordsCount":372,"ranks":{"highest":46819,"lowest":11},"levels":{"A1":{"count":220,"readability":68},"A2":{"count":59,"readability":80},"B1":{"count":36,"readability":85},"B2":{"count":21,"readability":89},"C1":{"count":14,"readability":95},"C2":{"count":12,"readability":97}}}}
+{
+	"dir": "david-levithan/the-mummy",
+	"title": "The Mummy",
+	"creator": "David Levithan",
+	"description": "<p>Dramatic events of this story took place three thousand years ago in city of Thebes. All this had happened when a pharaoh Sati had been murdered. His woman has betrayed him with his High Priest of the Dead named Imhotep. The pharaoh had caught the lovers, so Anck-su-namun was afraid that he could kill them both. So she decided to kill him first, so she has knifed him with Imhotep's help. When they heard Sati's guards were coming, Anck-su-namun pushed the knife into her own stomach and said to Imhotep to bring her back to life later. She knew that he could do it. Woman was dying with thought that her man would do everything to see her again. Who knows how much strong he tried to revive her but it wasn't enough…</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 2888,
+		"uniqueWordsCount": 413,
+		"ranks": {
+			"highest": 48580,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 240,
+				"readability": 67
+			},
+			"A2": {
+				"count": 60,
+				"readability": 78
+			},
+			"B1": {
+				"count": 48,
+				"readability": 85
+			},
+			"B2": {
+				"count": 24,
+				"readability": 89
+			},
+			"C1": {
+				"count": 18,
+				"readability": 95
+			},
+			"C2": {
+				"count": 12,
+				"readability": 97
+			}
+		}
+	}
+}
