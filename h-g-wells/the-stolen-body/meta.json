@@ -1,1 +1,43 @@
-{"dir":"h-g-wells/the-stolen-body","title":"The Stolen Body","creator":"H. G. Wells","description":"Mr. Bessel has been involved in psychic research for many years. He was especially interested in the idea of manifesting an image and thoughts at a distance to others. In 1896, he carried out the first experiments with his companion Mr. Vincent. The researchers had to be miles apart to make the experiment accurate. Mr. Bessel had to hypnotize himself and mentally transmit his image to his companion, who at that time was trying to see the 'living ghost'. The first attempts were unsuccessful. But one night Mr. Bessel managed to make his spirit leave the body. One evil entity took advantage of this situation. It took possession of the body. Mr. Bessel finds himself in the company of disembodied souls. ","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":1573,"uniqueWordsCount":556,"ranks":{"highest":42337,"lowest":1},"levels":{"A1":{"count":272,"readability":67},"A2":{"count":107,"readability":80},"B1":{"count":75,"readability":87},"B2":{"count":65,"readability":93},"C1":{"count":22,"readability":96},"C2":{"count":11,"readability":100}}}}
+{
+	"dir": "h-g-wells/the-stolen-body",
+	"title": "The Stolen Body",
+	"creator": "H. G. Wells",
+	"description": "Mr. Bessel has been involved in psychic research for many years. He was especially interested in the idea of manifesting an image and thoughts at a distance to others. In 1896, he carried out the first experiments with his companion Mr. Vincent. The researchers had to be miles apart to make the experiment accurate. Mr. Bessel had to hypnotize himself and mentally transmit his image to his companion, who at that time was trying to see the 'living ghost'. The first attempts were unsuccessful. But one night Mr. Bessel managed to make his spirit leave the body. One evil entity took advantage of this situation. It took possession of the body. Mr. Bessel finds himself in the company of disembodied souls. ",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 1576,
+		"uniqueWordsCount": 594,
+		"ranks": {
+			"highest": 43951,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 289,
+				"readability": 64
+			},
+			"A2": {
+				"count": 108,
+				"readability": 78
+			},
+			"B1": {
+				"count": 88,
+				"readability": 86
+			},
+			"B2": {
+				"count": 67,
+				"readability": 92
+			},
+			"C1": {
+				"count": 25,
+				"readability": 95
+			},
+			"C2": {
+				"count": 12,
+				"readability": 100
+			}
+		}
+	}
+}
