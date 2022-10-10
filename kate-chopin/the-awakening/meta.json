@@ -1,1 +1,43 @@
-{"dir":"kate-chopin/the-awakening","title":"The Awakening","creator":"Kate Chopin","description":"A woman’s dawning realisation of her situation leads to a struggle for independence.","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":23702,"uniqueWordsCount":4059,"ranks":{"highest":45670,"lowest":1},"levels":{"A1":{"count":456,"readability":57},"A2":{"count":423,"readability":68},"B1":{"count":703,"readability":80},"B2":{"count":868,"readability":89},"C1":{"count":813,"readability":96},"C2":{"count":575,"readability":99}}}}
+{
+	"dir": "kate-chopin/the-awakening",
+	"title": "The Awakening",
+	"creator": "Kate Chopin",
+	"description": "A woman’s dawning realisation of her situation leads to a struggle for independence.",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 23663,
+		"uniqueWordsCount": 4246,
+		"ranks": {
+			"highest": 47382,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 484,
+				"readability": 55
+			},
+			"A2": {
+				"count": 425,
+				"readability": 67
+			},
+			"B1": {
+				"count": 721,
+				"readability": 79
+			},
+			"B2": {
+				"count": 907,
+				"readability": 89
+			},
+			"C1": {
+				"count": 849,
+				"readability": 95
+			},
+			"C2": {
+				"count": 617,
+				"readability": 99
+			}
+		}
+	}
+}
