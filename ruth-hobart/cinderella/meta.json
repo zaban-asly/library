@@ -1,1 +1,43 @@
-{"dir":"ruth-hobart/cinderella","title":"Cinderella","creator":"Ruth Hobart","description":"<p>A widowed man who had a daughter decided to get married again. He wed a woman with two daughters of her own and left to her all homemaking duties, including his only daughter's education. However, his new wife didn't take kindly to the girl and turned out to be a mean stepmother. The girl had to sleep in the attic and do the dirtiest work around the house. Sometimes she got so exhausted that she had not enough energy to walk upstairs to her sleeping place and made her bed by the fireplace where ash and cinder covered her face. Shouts from every corner of the house ‘Cinderella do this, Cinderella do that’ would never end, as her stepsisters lived in relative luxury, while she basically had to serve all three other women and suffer their mockery. But soon the situation would change. A grand ball was announced to take place at the king's palace, and all young ladies of the realm were invited...</p>","version":"v3.2.1","createdAt":"2022-10-04","updatedAt":"2022-10-04","analysis":{"wordsCount":439,"uniqueWordsCount":151,"ranks":{"highest":28285,"lowest":11},"levels":{"A1":{"count":85,"readability":57},"A2":{"count":19,"readability":68},"B1":{"count":20,"readability":80},"B2":{"count":14,"readability":88},"C1":{"count":6,"readability":90},"C2":{"count":4,"readability":100}}}}
+{
+	"dir": "ruth-hobart/cinderella",
+	"title": "Cinderella",
+	"creator": "Ruth Hobart",
+	"description": "<p>A widowed man who had a daughter decided to get married again. He wed a woman with two daughters of her own and left to her all homemaking duties, including his only daughter's education. However, his new wife didn't take kindly to the girl and turned out to be a mean stepmother. The girl had to sleep in the attic and do the dirtiest work around the house. Sometimes she got so exhausted that she had not enough energy to walk upstairs to her sleeping place and made her bed by the fireplace where ash and cinder covered her face. Shouts from every corner of the house ‘Cinderella do this, Cinderella do that’ would never end, as her stepsisters lived in relative luxury, while she basically had to serve all three other women and suffer their mockery. But soon the situation would change. A grand ball was announced to take place at the king's palace, and all young ladies of the realm were invited...</p>",
+	"version": "v3.3.1",
+	"createdAt": "2022-10-04",
+	"updatedAt": "2022-10-10",
+	"analysis": {
+		"wordsCount": 439,
+		"uniqueWordsCount": 151,
+		"ranks": {
+			"highest": 29335,
+			"lowest": 1
+		},
+		"levels": {
+			"A1": {
+				"count": 82,
+				"readability": 56
+			},
+			"A2": {
+				"count": 18,
+				"readability": 67
+			},
+			"B1": {
+				"count": 22,
+				"readability": 80
+			},
+			"B2": {
+				"count": 14,
+				"readability": 87
+			},
+			"C1": {
+				"count": 7,
+				"readability": 90
+			},
+			"C2": {
+				"count": 5,
+				"readability": 100
+			}
+		}
+	}
+}
